@@ -1,0 +1,202 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,GT_Sanity,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,Expressing in degree for 0.9759 radian which is correct?,0.9759 রেডিয়ানকে ডিগ্রিতে প্রকাশ কর।,54^{\circ}{55}'{56}'',55^{\circ}{56}'{57}'',55^{\circ}{54}'{53.35}'',53^{\circ}{54}'{55.82}'',c,N,2021Rajshahi,54^{\circ}{55}'{56}'',55^{\circ}{56}'{57}'',55^{\circ}{54}'{53.35}'',53^{\circ}{54}'{55.82}'',গ,c,N,2021Rajshahi,1,0.926543245,0,0,,"Expressing in degrees, which is the correct answer for 0.9759 radians?
+(a) 54°55'56''
+(b) 55°56'57''
+(c) 55°54'53.35''
+(d) 53°54'55.82''",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To express 0.9759 radians in degrees, we need to use the conversion factor that 1 radian equals approximately 57.2958 degrees. The conversion is done by multiplying the radian value by this conversion factor.
+
+So, the calculation is:
+
+0.9759 radians × 57.2958 degrees/radian = degrees
+
+
+Let's calculate this:
+
+The conversion results in approximately 55.91497122 degrees. Now, to express this in degrees, minutes, and seconds, we need to follow these steps:
+
+The whole number part is the degrees. So, we have 55 degrees.
+To find the minutes, take the decimal part and multiply it by 60 (since 1 degree = 60 minutes).
+The whole number part of this new value is the minutes.
+Again, take the decimal part and multiply by 60 to find the seconds.
+Let's do these calculations. ​​
+
+From the calculation, we get approximately 54 minutes and 53.90 seconds. Thus, the correct expression for 0.9759 radians in degrees, minutes, and seconds is:
+
+{{""Answer"": ""c""}}","0.9759 রেডিয়ানকে ডিগ্রিতে প্রকাশ করতে, আমাদের এই রূপান্তর উপাদানটি ব্যবহার করতে হবে যে 1 রেডিয়ান প্রায় 57.2958 ডিগ্রি সমান। রূপান্তরটি রেডিয়ান মানটি এই রূপান্তর উপাদান দ্বারা গুণ করে করা হয়।
+
+তাহলে, গণনা হল:
+
+0.9759 রেডিয়ান × 57.2958 ডিগ্রি/রেডিয়ান = ডিগ্রি
+
+আসুন এই গণনা করি:
+
+রূপান্তরটি প্রায় 55.91497122 ডিগ্রিতে হয়েছে। এখন, এটিকে ডিগ্রি, মিনিট এবং সেকেন্ডে প্রকাশ করার জন্য, আমাদের এই ধাপগুলি অনুসরণ করতে হবে:
+
+পূর্ণ সংখ্যার অংশটি হল ডিগ্রি। সুতরাং, আমাদের কাছে 55 ডিগ্রি আছে।
+মিনিটগুলি খুঁজতে হলে, দশমিক অংশটি নিয়ে 60 দ্বারা গুণ করুন (যেহেতু 1 ডিগ্রি = 60 মিনিট)।
+এই নতুন মানের পূর্ণ সংখ্যার অংশটি হল মিনিটগুলি।
+আবার, দশমিক অংশটি নিয়ে 60 দ্বারা গুণ করে সেকেন্ড খুঁজুন।
+আসুন এই গণনাগুলি করি। ​​
+
+গণনা থেকে, আমরা প্রায় 54 মিনিট এবং 53.90 সেকেন্ড পাই। সুতরাং, 0.9759 রেডিয়ানকে ডিগ্রি, মিনিট এবং সেকেন্ডে প্রকাশের জন্য সঠিক অভিব্যক্তি হল:
+
+{{""Answer"": ""c""}}"
+1,What is the angle (degree) between the hour hand at time 6:15 am?,6 : 15 am এ ঘন্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি?,262.5,97.5,-97.5,-262.5,b,N,2021Rajshahi,262.5,97.5,-97.5,-262.5,খ,b,N,2021Rajshahi,1,0.934255502,0,0,,What is the angle (in degrees) between the hour hand at 6:15 am?,Procedural and Application,"{""Answer"": ""Procedural and Application""}","Sure, let's find the angle between the hour hand and the minute hand at 6:15 AM without using mathematical notation:
+
+The minute hand at 15 minutes is at the 3 on the clock, which is one-fourth of the way around the clock since there are 60 minutes in an hour. A full circle is 360 degrees, so the minute hand is at 360 degrees * 1/4 = 90 degrees from the top of the clock.
+
+The hour hand at 6:15 AM is one-fourth of the way from 6 to 7. Each hour represents one-twelfth of the clock's circle, and 360 degrees * 1/12 = 30 degrees per hour, so the hour hand is at 6 hours * 30 degrees/hour + 1/4 * 30 degrees = 180 degrees + 7.5 degrees = 187.5 degrees from the top of the clock.
+
+The angle between the hands is the difference between these two angles. Calculating this gives us 187.5 degrees - 90 degrees = 97.5 degrees.
+
+So, the angle between the hour hand and the minute hand at 6:15 AM is 97.5 degrees.
+
+{{""Answer"": ""b""}}","সকাল 6:15 টায় ঘণ্টার কাঁটা এবং মিনিটের কাঁটার মধ্যে কোণ খুঁজে বের করার জন্য, গাণিতিক নোটেশন ব্যবহার না করে আমরা এভাবে বলতে পারি:
+
+মিনিটের কাঁটা 15 মিনিটে ঘড়ির 3 নম্বরে থাকে, যা ঘড়ির চারপাশে এক-চতুর্থাংশ পথ। এক ঘন্টায় 60 মিনিট থাকে, তাই মিনিটের কাঁটা ঘড়ির শীর্ষ থেকে 360 ডিগ্রি * 1/4 = 90 ডিগ্রিতে অবস্থান করে।
+
+সকাল 6:15 টায় ঘণ্টার কাঁটা 6 থেকে 7 এর মধ্যে এক-চতুর্থাংশ পথে থাকে। প্রতি ঘন্টা ঘড়ির বৃত্তের এক-দ্বাদশাংশ প্রতিনিধিত্ব করে, এবং 360 ডিগ্রি * 1/12 = 30 ডিগ্রি প্রতি ঘন্টা, তাই ঘণ্টার কাঁটা 6 ঘন্টা * 30 ডিগ্রি/ঘন্টা + 1/4 * 30 ডিগ্রি = 180 ডিগ্রি + 7.5 ডিগ্রি = 187.5 ডিগ্রিতে ঘড়ির শীর্ষ থেকে অবস্থান করে।
+
+কাঁটাগুলির মধ্যে কোণ হল এই দুই কোণের পার্থক্য। এই হিসাব করে আমরা পাই 187.5 ডিগ্রি - 90 ডিগ্রি = 97.5 ডিগ্রি।
+
+তাহলে, সকাল 6:15 টায় ঘণ্টার কাঁটা এবং মিনিটের কাঁটার মধ্যে কোণ হল 97.5 ডিগ্রি।
+
+{{""Answer"": ""b""}}"
+2,The radius of the earth is 6440 km. The arc on the surface of the earth joining Dinajpur to Rangpur subtends and angle 3^{\circ} at the centre of the earth. Find the distance between Dinajpur and Rangpur.,পৃথিবীর ব্যাসার্ধ 6440 কিলোমিটার। দিনাজপুর ও রংপুর পৃথিবীর কেন্দ্রে 3\degree কোণ উৎপন্ন করলে দিনাজপুর ও রংপুরের দূরত্ব কত কিলোমিটার?,307.2,317.2,327.2,337.2,d,N,2021Rajshahi,307.2,317.2,327.2,337.2,ঘ,d,N,2021Rajshahi,1,0.968662576,0,0,,The radius of the Earth is 6440 km. The arc on the surface of the Earth joining Dinajpur to Rangpur subtends an angle of 3 degrees at the center of the Earth. Find the distance between Dinajpur and Rangpur.,Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the distance between Dinajpur and Rangpur, given that the arc subtends an angle of 3 degrees at the center of the Earth, and the Earth's radius is 6440 km, we use the formula for the length of an arc:
+
+Arc length = radius × angle in radians
+
+First, we need to convert the angle from degrees to radians. The conversion is done by multiplying the degree value by π/180.
+
+Given:
+
+Radius of the Earth, r = 6440 km
+Angle subtended at the center, θ = 3 degrees
+Convert angle to radians:
+θ in radians = 3 × π/180
+
+Then calculate the arc length:
+Arc length = 6440 × θ in radians
+
+Let's perform this calculation.
+
+The distance between Dinajpur and Rangpur, calculated based on an arc that subtends a 3-degree angle at the center of the Earth with a radius of 6440 km, is approximately 337.2 km.
+
+So, among the provided options, the correct distance is 337.2 km, which is {{""Answer"": ""d""}}","দিনাজপুর এবং রংপুরের মধ্যে দূরত্ব খুঁজে বের করতে, দেওয়া আছে যে একটি বক্ররেখা পৃথিবীর কেন্দ্রে 3 ডিগ্রি কোণ সৃষ্টি করে, এবং পৃথিবীর ব্যাসার্ধ হল 6440 কিমি, আমরা বক্ররেখার দৈর্ঘ্যের জন্য সূত্র ব্যবহার করব:
+
+বক্ররেখার দৈর্ঘ্য = ব্যাসার্ধ × কোণ রেডিয়ানে
+
+প্রথমে, আমাদের কোণটি ডিগ্রি থেকে রেডিয়ানে রূপান্তর করতে হবে। রূপান্তরটি ডিগ্রি মান দ্বারা π/180 গুণ করে করা হয়।
+
+দেওয়া:
+
+পৃথিবীর ব্যাসার্ধ, r = 6440 কিমি
+কেন্দ্রে সৃষ্ট কোণ, θ = 3 ডিগ্রি
+কোণটি রেডিয়ানে রূপান্তর করুন:
+θ রেডিয়ানে = 3 × π/180
+
+তারপর বক্ররেখার দৈর্ঘ্য গণনা করুন:
+বক্ররেখার দৈর্ঘ্য = 6440 × θ রেডিয়ানে
+
+আসুন এই গণনা করি।
+
+দিনাজপুর এবং রংপুরের মধ্যে দূরত্ব, যা পৃথিবীর কেন্দ্রে 3 ডিগ্রি কোণে একটি বক্ররেখা দ্বারা গণনা করা হয়েছে এবং ব্যাসার্ধ 6440 কিমি, প্রায় 337.2 কিমি।
+
+তাহলে, প্রদত্ত বিকল্পগুলির মধ্যে, সঠিক দূরত্ব হল 337.2 কিমি, যা হল {{""Answer"": ""d""}}"
+3,"If \theta = \frac{5\pi}{2} then - 
+ i. tan\left ( \theta - \frac{\pi}{3} \right ) = \frac{1}{\sqrt{3}}
+ ii. sec\left ( \theta + \frac{\pi}{6} \right ) = - 2
+ iii. sin\left ( \theta - \frac{\pi}{4} \right ) = - \frac{1}{\sqrt{2}}
+ Which one of the following is correct?","\theta = \frac{5\pi}{2} হলে-
+ i. tan\left ( \theta - \frac{\pi}{3} \right ) = \frac{1}{\sqrt{3}}
+ ii. sec\left ( \theta + \frac{\pi}{6} \right ) = - 2
+ iii. sin\left ( \theta - \frac{\pi}{4} \right ) = - \frac{1}{\sqrt{2}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",a,N,2021Rajshahi,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",ক,a,N,2021Rajshahi,1,0.972118466,0,0,,"If \theta = \frac{5\pi}{2} then - 
+ i. tan\left ( \theta - \frac{\pi}{3} \right ) = \frac{1}{\sqrt{3}}
+ ii. sec\left ( \theta + \frac{\pi}{6} \right ) = - 2
+ iii. sin\left ( \theta - \frac{\pi}{4} \right ) = - \frac{1}{\sqrt{2}}
+ Which one of the following is correct?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's evaluate each statement separately by first determining the value of each angle and then finding the trigonometric function's value at that angle:
+
+1. For \( \tan\left( \theta - \frac{\pi}{3} \right) \):
+    - Given \( \theta = \frac{5\pi}{2} \), calculate \( \theta - \frac{\pi}{3} = \frac{5\pi}{2} - \frac{\pi}{3} \).
+    - Find the equivalent angle in the standard circle (0 to \( 2\pi \)) and calculate \( \tan \) of that angle.
+
+2. For \( \sec\left( \theta + \frac{\pi}{6} \right) \):
+    - Given \( \theta = \frac{5\pi}{2} \), calculate \( \theta + \frac{\pi}{6} = \frac{5\pi}{2} + \frac{\pi}{6} \).
+    - Find the equivalent angle in the standard circle (0 to \( 2\pi \)) and calculate \( \sec \) of that angle.
+
+3. **For \( \sin\left( \theta - \frac{\pi}{4} \right) \)**:
+    - Given \( \theta = \frac{5\pi}{2} \), calculate \( \theta - \frac{\pi}{4} = \frac{5\pi}{2} - \frac{\pi}{4} \).
+    - Find the equivalent angle in the standard circle (0 to \( 2\pi \)) and calculate \( \sin \) of that angle.
+
+Let's compute these values.
+
+After calculating the trigonometric functions, we get:
+
+1. \( \tan\left( \theta - \frac{\pi}{3} \right) \) is approximately 0.577, which is \( \frac{1}{\sqrt{3}} \). So, statement i is correct.
+2. \( \sec\left( \theta + \frac{\pi}{6} \right) \) is approximately -2, which matches the given value in statement ii. So, statement ii is correct.
+3. \( \sin\left( \theta - \frac{\pi}{4} \right) \) is approximately 0.707, which is \( \frac{1}{\sqrt{2}} \), but this value is positive, not negative as stated in iii. So, statement iii is incorrect.
+
+Hence, the correct answer is {{""Answer"": ""a""}}","আমরা প্রতিটি নির্দিষ্টভাবে মূল্যায়ন করি একে একে, প্রথমে প্রতিটি কোণের মান নির্ধারণ করে তারপর সেই কোণে ট্রাইগোনোমেট্রিক ফাংশনের মান নির্ধারণ করি:
+
+1. প্রথম বিবৃতিতে, আমরা \( \theta = \frac{5\pi}{2} \) প্রদান করা আছে। আমরা \( \tan\left( \theta - \frac{\pi}{3} \right) \) ক্যালকুলেট করতে হবে:
+   - \( \theta - \frac{\pi}{3} = \frac{5\pi}{2} - \frac{\pi}{3} \) ক্যালকুলেট করুন।
+   - স্ট্যান্ডার্ড সার্কেলে (0 থেকে \( 2\pi \) পর্যন্ত) সমীকরণ কোণে এবং সেই কোণের ট্যানজেন্ট (\( \tan \)) ক্যালকুলেট করুন।
+   - ফলাফল প্রায় 0.577, যা \( \frac{1}{\sqrt{3}} \)। তাই, বিবৃতি i সঠিক।
+
+2. দ্বিতীয় বিবৃতিতে, আমরা \( \theta = \frac{5\pi}{2} \) প্রদান করা আছে। আমরা \( \sec\left( \theta + \frac{\pi}{6} \right) \) ক্যালকুলেট করতে হবে:
+   - \( \theta + \frac{\pi}{6} = \frac{5\pi}{2} + \frac{\pi}{6} \) ক্যালকুলেট করুন।
+   - স্ট্যান্ডার্ড সার্কেলে (0 থেকে \( 2\pi \) পর্যন্ত) সমীকরণ কোণে এবং সেই কোণের সেকেন্ট (\( \sec \)) ক্যালকুলেট করুন।
+   - ফলাফল প্রায় -2, যা বিবৃতিতে ii প্রদান করা মানের সাথে মেলে। তাই, বিবৃতি ii সঠিক।
+
+3. তৃতীয় বিবৃতিতে, আমরা \( \theta = \frac{5\pi}{2} \) প্রদান করা আছে। আমরা \( \sin\left( \theta - \frac{\pi}{4} \) ক্যালকুলেট করতে হবে:
+   - \( \theta - \frac{\pi}{4} = \frac{5\pi}{2} - \frac{\pi}{4} \) ক্যালকুলেট করুন।
+   - স্ট্যান্ডার্ড সার্কেলে (0 থেকে \( 2\pi \ )) সমীকরণ কোণে এবং সেই কোণের সাইন (\( \sin \)) ক্যালকুলেট করুন।
+   - ফলাফল প্রায় 0.707, যা \( \frac{1}{\sqrt{2}} \ ), কিন্তু এই মান ইতিবাচক উল্লিখিত নয়, যেটি বিবৃতি iii অসঠিক।
+
+সুতরাং, সঠিক উত্তর হল {{""""Answer"""": """"a""""}}।"
+4,If cot\left ( \frac{n\pi}{4} + \theta \right ) = 1 and \theta = - \frac{\pi}{2} then what is the value of n?,যদি cot\left ( \frac{n\pi}{4} + \theta \right ) = 1 এবং \theta = - \frac{\pi}{2} তবে n এর মান কত?,1,2,3,4,c,N,2021Rajshahi,1,2,3,4,গ,c,N,2021Rajshahi,1,0.952550746,0,0,,"ParsingError{""Fixed"": ""If cot(\frac{n\pi}{4} + \theta) = 1 and \theta = - \frac{\pi}{2}, what is the value of n?""}",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the value of \( n \) given that \( \cot\left( \frac{n\pi}{4} + \theta \right) = 1 \) and \( \theta = -\frac{\pi}{2} \), let's substitute the given value of \( \theta \) into the equation:
+
+\[ \cot\left( \frac{n\pi}{4} - \frac{\pi}{2} \right) = 1 \]
+
+The cotangent of an angle is equal to 1 at angles where the tangent is also 1. The tangent of an angle is equal to 1 at \( \frac{\pi}{4} \), \( \frac{5\pi}{4} \), and so on, where the angle is an odd multiple of \( \frac{\pi}{4} \).
+
+Therefore, we need to solve for \( n \) in the equation:
+
+\[ \frac{n\pi}{4} - \frac{\pi}{2} = \frac{\pi}{4}, \frac{5\pi}{4}, \frac{9\pi}{4}, \ldots \]
+
+Let's solve for \( n \) using the first possible value where the tangent (and thus cotangent) is 1, i.e., \( \frac{\pi}{4} \). 
+
+Rearranging the equation:
+
+\[ \frac{n\pi}{4} = \frac{\pi}{2} + \frac{\pi}{4} \]
+
+\[ \frac{n\pi}{4} = \frac{3\pi}{4} \]
+
+Now, solving for \( n \): 
+
+\[ n = \frac{3\pi}{4} \times \frac{4}{\pi} = 3 \]
+
+So, the value of \( n \) is 3 thus,  the correct option is {{""Answer"": ""c""}}","\(n\)-এর মান নির্ধারণ করতে, যেহেতু \( \cot(n\pi/4 + \theta) = 1 \) এবং \( \theta = -\pi/2 \) এর দেওয়া আছে, আমরা এই সমীকরণে দেওয়া মৌলক মান প্রতিস্থাপন করতে পারি:
+
+\[ \cot(n\pi/4 - \pi/2) = 1 \]
+
+যে কোন কোণের cotangent এর মান তাদের tangent এর সাথে সমান, যেহেতু ট্যাঞ্জেন্টের মান 1 এই ধরনের কোণে, যেগুলি হল \( \pi/4 \), \(5\pi/4\), ইত্যাদি, যেখানে কোণটি বিষম গুণিতক হয় \( \pi/4 \)।
+
+অতএব, আমাদের সমীকরণে ""n"" এর জন্য সমাধান করতে হবে:
+
+\[ (n\pi/4) - (\pi/2) = \pi/4, 5\pi/4, 9\pi/4, \ldots \]
+
+আসুন প্রথম সম্ভাব্য মানে সমাধান করি, যেখানে ট্যাঞ্জেন্ট (এবং সম্পূর্ণ সাম্প্রতিক অংশ কোণের cotangent) সমান, অর্থাৎ \( \pi/4 \)।
+
+সমীকরণ পুনর্বিন্যাস করা:
+
+\[ (n\pi/4) = (\pi/2) + (\pi/4) \]
+
+\[ (n\pi/4) = (3\pi/4) \]
+
+এখন, ""n"" এর জন্য সমাধান করি:
+
+\[ n = (3\pi/4) \times (4/\pi) = 3 \]
+
+তাহলে, ""n"" এর মান হলো 3, এবং সঠিক উত্তরটি {{""Answer"": ""c""}}।"

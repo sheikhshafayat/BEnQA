@@ -1,0 +1,667 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+"A spring is expanded 10cm by appling 500N force on the spring. If a body of 20kg mass is hung at the lower end of the spring, then what is the potential energy of the spring?",একটি স্প্রিং-এ 500 N বল প্রয়োগ করায় স্প্রিংটি 10 cm প্রসারিত হয়। স্প্রিংটিতে 20 kg ভরের একটি বোঝা খাড়া নিচের দিকে ঝুলিয়ে দেওয়া হলে স্প্রিংটির স্থিতি শক্তি কত?,0.04J,1.90J,3.80J,98J,0.04 J,1.90 J,3.80 J,98 J,c
+Which one is the angular velocity of the national memorial due to rotation of the earth on its own axis?,পৃথিবীর নিজ অক্ষের ঘূর্ণনের জন্য জাতীয় স্মৃতিসৌধের কৌণিক বেগ কত?,7.27 \times 10^{5} rads^{-1},0.2618 rads^{-1},1.818 \times 10^{-4} rads^{-1},7.27 \times 10^{-5} rads^{-1},7.27\times 10^{5}rads^{-1},0.2618 rads^{-1},1.818\times 10^{-4}rads^{-1},7.27\times 10^{-5}rads^{-1},d
+"The maximum velocity and maximum acceleration of a particle at simple harmonic motion are 15 cms^{-1} and 30cms^{-2} respectively.
+  
+ What is the time period of the particle of the above stem?","সরল ছন্দিত গতিতে দোলনরত একটি কণার সর্বোচ্চ ত্বরণের মান যথাক্রমে 15 cms^{-1} ও 30 cms^{-2}।
+উদ্দীপকের কণাটির পর্যায়কাল কত?",0.785s,1.57s,3.14s,6.28s,0.785 s,1.57 s,3.14 s,6.28 s,c
+"The maximum velocity and maximum acceleration of a particle at simple harmonic motion are 15 cms^{-1} and 30cms^{-2} respectively.
+ 
+ Oscillating particle of the above stem-
+ i. the amplitude is 7.5 cm 
+ ii. kinetic energy at maxium amplitude is zero 
+ iii. potential energy at equilibrium is highest
+ Which one is correct?","সরল ছন্দিত গতিতে দোলনরত একটি কণার সর্বোচ্চ ত্বরণের মান যথাক্রমে 15 cms^{-1} ও 30 cms^{-2}।
+উদ্দীপকের দোলনরত কণার-
+i. বিস্তার 7.5 cm
+ii. সর্বোচ্চ বিস্তারে গতিশক্তি শূণ্য
+iii. সাম্যাবস্থানে বিভবশক্তি সর্বোচ্চ
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Vector \frac{\hat{i} - \hat{j} + \hat{k}}{\sqrt{3}} is s-,\frac{\hat{i}-\hat{j}+\hat{k}}{\sqrt{3}} ভেক্টর একটি-,null vector,co-linear vector,coplaner vector,unit vector,নাল ভেক্টর,সমরেখ ভেক্টর,সমতলীয় ভেক্টর,একক ভেক্টর,d
+"Nm is th e unit of - 
+ i. angular momentum 
+ ii. Work done 
+ iii. Moment of force
+ Which one is correct?","Nm একক হয়-
+i. কৌণিক ভরবেগের
+ii. কাজের
+iii. বলের ভ্রামকের
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+When two diagonals of a parallelogram are indicated by the vectors \vec{A} and \vec{B} Then Vhich one will be the area of the parallelogram?,\vec{A} ও \vec{B} ভেক্টর দ্বারা একটি সামান্তরিকের কর্ণদ্বয় নির্দিষ্ট হলে সামান্তরিকের ক্ষেত্রফল কোনটি হবে?,\vec{A} . \vec{B},\frac{1}{2} |\vec{A} \times \vec{B}|,\frac{1}{2} |\vec{A} . \vec{B}|,|\vec{A} \times \vec{B}|,\vec{A}.\vec{B},\frac{1}{2}\left | \vec{A}\times \vec{B} \right |,\frac{1}{2}\left | \vec{A}. \vec{B} \right |,\left | \vec{A}\times \vec{B} \right |,b
+If angle between the two vectors \vec{P} and \vec{Q} is 120\degree then th e resultant of them-,\vec{P} ও \vec{Q} দুটি ভেক্টর রাশির মধ্যবর্তী কোণ 120^{\circ} হলে তাদের লব্ধির মান-,P + Q,\sqrt{P^{2} + Q^{2} + PQ},P - Q,\sqrt{P^{2} + Q^{2} - PQ},P + Q,\sqrt{P^{2}+Q^{2}+PQ},P - Q,\sqrt{P^{2}+Q^{2}-PQ},d
+Which one of the following equation is correct?,নিচের কোন সমীকরণটি সঠিক?,\vec{tau} = \vec{F} \times \vec{r},\vec{tau} = \vec{P} \times \vec{r},\vec{tau} = \vec{r} \times \vec{F},\vec{tau} = \vec{r} \times \vec{P},\vec{\tau}=\vec{F}\times \vec{r},\vec{\tau}=\vec{P}\times \vec{r},\vec{\tau}=\vec{r}\times \vec{F},\vec{\tau}=\vec{r}\times \vec{P},c
+If the mass and velocityof bullet of a gun are doubled then how many time will the kinetic energy be-,একটি বন্দুকের গুলির ভর ও বেগ যদি দ্বিগুণ করা হয় তাহলে গতিশক্তি কত গুণ হবে?,2 times,4 times,8 times,16 times,2 গুণ,4 গুণ,8 গুণ,16 গুণ,c
+Which one is the radius of gyration of a circular disc with respect to the tangent that is perpendicular on the surface?,গোলাকার চাকতির পৃষ্ঠের অভিলম্বভাবে গমনকারী স্পর্শকের সাপেক্ষে চক্রগতির ব্যাসার্ধ কোনটি?,\frac{1}{2} r,\sqrt{\frac{2}{3}} r,\sqrt{\frac{3}{2}} r,\sqrt{\frac{2}{5}} r,\frac{1}{2}r,\sqrt{\frac{2}{3}}r,\sqrt{\frac{3}{2}}r,\sqrt{\frac{2}{5}}r,c
+Which one is the equation of light of an artificial satellite-,একটি কৃত্রিম উপগ্রহের কক্ষপথের উচ্চতার সমীকরণ-,h = \left ( \frac{GMT^{2}}{4\pi^{2}} \right )^{\frac{1}{3}} - R,h = \left ( \frac{GMT^{2}}{4\pi^{2}} \right )^{3} - R,h = \left ( \frac{4\pi^{2}}{GMT^{2}} \right )^{\frac{1}{3}} - R,h = \left ( \frac{4\pi^{2}}{GMT^{2}} \right )^{3} - R,h=\left ( \frac{GMT^{2}}{4\pi^{2}} \right )^{\frac{1}{3}}-R,h=\left ( \frac{GMT^{2}}{4\pi^{2}} \right )^{3}-R,h=\left ( \frac{4\pi^{2}}{GMT^{2}} \right )^{\frac{1}{3}}-R,h=\left ( \frac{4\pi^{2}}{GMT^{2}} \right )^{3}-R,a
+For which ejection velocity of a body will be rotated around the earth and be a satellite as like the moon?,একটি বস্তুর উৎক্ষেপণ বেগ কত হলে বস্তুটি পৃথিবীর চারিদিকে চাঁদের মতো উপগ্রহে পরিণত হবে?,11.25 kms^{-1},7.88 kms^{-1},5.7 kms^{-1},3.24 kms^{-1},11.2 kms^{-1},7.88 kms^{-1},5.7 kms^{-1},3.24 kms^{-1},b
+What indicates the slope of the strain vs stress graph?,বিকৃতি বনাম পীড়ন লেখচিত্রের ঢাল কী নির্দেশ করে?,Modulus of elasticity,Poisson's ratio,Toral work done,Potential energy per unit volume,স্থিতিস্থাপক গুণাঙ্ক,পয়সনের অনুপাত,মোট কৃতকাজ,একক আয়তনে বিভবশক্তি,a
+After how much time a particle of simple harmonic motion becomes the sme phase?,সরল ছন্দিত স্পন্দনরত কণা কত সময় পর পর একই দশাপ্রাপ্ত হয়?,\frac{2\pi}{\omega},2\pi\omega,\frac{\pi}{\omega},\frac{\omega}{2\pi},\frac{2\pi}{\omega },2\pi\omega,\frac{\pi}{\omega },\frac{\omega }{2\pi},a
+"When a person descents at \frac{g}{2} accerleration, the time period of pendulum in his hand will be what then the time period of the pendulum at stationary state?",কোনো ব্যক্তি \frac{g}{2} ত্বরণে নিচে নামলে তার হাতে অবস্থিত দোলকের দোলনকাল স্থির অবস্থার দোলনকালের তুলনায়-,increase,decrease,unchange,infinite,বাড়বে,কমবে,একই থাকবে,অসীম হবে,a
+If a spring is cut into two equal pieces then spring constant of each piece will be -[spring constant K],একটি স্প্রিংকে কেটে সমান দুইভাগে ভাগ করা হলে প্রতি টুকরার স্প্রিং ধ্রুবক কত? [স্প্রিং ধ্রুবক k],\frac{k}{2},2k,\frac{k}{4},4k,\frac{k}{2},2k,\frac{k}{4},4k,b
+"If water vapour is increased in air then -
+ i. air pressure will increase
+ ii. Density of air will decrease
+ iii. Pressure of water vapour will increase
+ Which one of the following is correct?","বায়ুতে জলীয় বাষ্পের পরিমাণ বেড়ে গেলে-
+i. বায়ুর চাপ বাড়ে
+ii. বায়ুর ঘনত্ব কমে
+iii. জলীয় বাষ্পের চাপ বাড়ে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Root mean square velocity of a gas and its absolute temperature-,গ্যাস অণুর মূল গড় বর্গবেগ পরম তাপমাত্রায়-,proportional,inversely proportional,Proportional to square root,inversely proportional to square root,সমানুপাতিক,ব্যস্তানুপাতিক,বর্গমূলের সমানুপাতিক,বর্গমূলের ব্যাস্তানুপাতিক,c
+Which one the following statement is correct?,নিচের বক্তব্যগুলোর মধ্যে কোনটি সঠিক?,Saturated vapour obeys Boyle's and Charles'law.,Unsturated vapour can be created only in enclosed place.,Evaporation will be fast if air's relative humidity is high.,Saturated vapour pressure at dew point is equal to unsaturated vapour pressure at air temperature.,সম্পৃক্ত বাষ্প বয়েল ও চার্লসের সূত্র মেনে চলে,অসম্পৃক্ত বাষ্প শুধুমাত্র আবদ্ধ স্থানে তৈরি করা হয়,আপেক্ষিক আর্দ্রতা বেশি থাকলে বাষ্পায়ন দ্রুত হয়,শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ ও বায়ুর তাপমাত্রায় অসম্পৃক্ত বাষ্পচাপ পরস্পর সমান,d
+If \frac{1}{2} \hat{i} + \frac{1}{2}\hat{j} + m\hat{k} is a unit vector then what will be value of m,\frac{1}{2}\hat{i}+\frac{1}{2}\hat{j}+m\hat{k} একটি একক ভেক্টর হলে m এর মান কত?,\frac{1}{\sqrt{2}},\frac{1}{2},\frac{1}{4},1,\frac{1}{\sqrt{2}},\frac{1}{2},\frac{1}{4},1,a
+At what angle \vec{A} = 2\vec{i} + 2\sqrt{3}\vec{j} is effective with y-axis?,\vec{A}=2\hat{i}+2\sqrt{3}\hat{j} ভেক্টরটি y-অক্ষের সাথে কত কোণে ক্রিয়াশীল?,0\degree,30\degree,60\degree,90\degree,0^{\circ},30^{\circ},60^{\circ},90^{\circ},b
+"If the curl of vector be zero then the vector -
+ i. solenoidal
+ ii. Conserved 
+ iii. Irrotational 
+ Which one of the following is correct?","কোনো ভেক্টরের কার্ল শূণ্য হলে ভেক্টরটি-
+i. সলিনয়ডাল
+ii. সংরক্ষণশীল
+iii. অঘূর্ণনশীল
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"Due to the application of force \vec{F} = (2\vec{i} + 3\vec{j} - 4\vec{k}) N a particle displaced from (3,2-1) to (4,5,1) What will be work done in this case?","একটি বস্তুর উপর \vec{F}=(2\hat{i}+3\hat{5}-4\hat{k})N বল প্রয়োগের ফলে সেটি (3, 2, - 1) বিন্দু হতে (4, 5, 1) বিন্দুতে স্থানান্তরিত হয়। এক্ষেত্রে কৃতকাজ কত হবে?",3J,4J,2J,0,3 জুল,4 জুল,2 জুল,0,a
+"The radius vector a particle is \vec{r}, linear momentum \vec{P}, angular momentum \vec{I}. Applied force \vec{F}, and effective torque is \vec{\tau}, then \vec{\tau} and \vec{L} represented respective by which one?","কোনো কণার ব্যাসার্ধ ভেক্টর, \vec{r}, রৈখিক ভরবেগ \vec{P}, কৌণিক ভরবেগ \vec{L}, প্রযুক্ত বল \vec{F} এবং ক্রিয়াশীল টর্ক \vec{\tau } হলে ও \vec{\tau } ও \vec{L} যথাক্রমে নিচের কোনটির সমান?","\vec{r} \times \vec{F}, \vec{r} \times \vec{P}","\vec{r} \times \vec{P}, \vec{r} \times \vec{F}","\vec{F} \times \vec{r}, \vec{r} \times \vec{P}","\vec{r} \times \vec{P}, \vec{F} \times \vec{r}","\vec{r}\times \vec{F}, \vec{r}\times \vec{P}","\vec{r}\times \vec{P}, \vec{r}\times \vec{F}","\vec{F}\times \vec{r}, \vec{r}\times \vec{P}","\vec{r}\times \vec{P}, \vec{F}\times \vec{r}",a
+According to work -energy theorem the work done will be equal to change of which quantity?,কাজ িশক্তি উপপাদ্য অনুসারে কৃতকাজ নিচের কোন রাশিটির পরিবর্তনের সমান?,Momentum,Potential Energy,Temperature,Kinetic Energy,ভরবেগ,বিভব শক্তি,তাপমাত্রা,গতিশক্তি,d
+What is the angle between action and reaction?,ক্রিয়া-প্রতিক্রিয়ার মধ্যবর্তী কোণ কত?,0\degree,45\degree,90\degree,180\degree,0^{\circ},45^{\circ},90^{\circ},180^{\circ},d
+If the kinetic energy is increased by 300% then the momentum of the particle will be increased by -,কোনো বস্তুর গতিশক্তি 300% বৃদ্ধি করলে এর ভরবেগ বৃদ্ধি পাবে-,100%,200%,300%,400%,100%,200%,300%,400%,a
+If the ration of kinetic energy of two bodies of masses m and 3m is 2:1 then the ratio of their linear momentum will what?,m ও 3m ভরের দুটি বস্তুর গতিশক্তির অনুপাত 2 : 1 হলে তাদের রৈখিক ভরবেগের অনুপাত কত?,2 : 3,1 : \sqrt{3},\sqrt{2} : \sqrt{3},\sqrt{3} : \sqrt{2},2:3,1:\sqrt{3},\sqrt{2}:\sqrt{3},\sqrt{3}:\sqrt{2},c
+"The cause of change of acceleration due to gravity 'g'-
+ i. diurnal motion
+ ii. Shape of the earth 
+ iii.height and depth 
+ Which one of the following is correct?","অভিকর্ষজ ত্বরণ g এর পরিবর্তনের কারণ-
+i. আহ্নিক গতি
+ii. পৃথিবীর আকার
+iii. ইচ্চতা ও গভীরতা
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+If the distance of the earth from the sun is decreased then the number of days in a year will be -,সূর্য হতে পৃথিবীর দূরত্ব কমে গেলে বছরে দিনে সংখ্যা-,decrease,increase,unchange,infinite,কমবে,বাড়বে,একই থাকবে,অসীম হবে,a
+"The value of gravitational potential -
+ i. maximum at infinite 
+ maximum value is zero 
+ iii. Negative 
+ Which one is correct?","মহাকর্ষীয় বিভনের মান-
+i. সর্বোচ্চ হয় অসীমে
+ii. সর্বোচ্চ পরিমাণ শূন্য
+iii. ঋণাত্মক
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is called the applied stress to do rigidity strain?,কোনো বস্তুর আকার বিকৃতির জন্য যে পীড়ন প্রয়োগ করা হয় তাকে কী বলে?,Longitudinal stress,Shearing stress,Volume stress,Breaking stress,দৈর্ঘ্য পীড়ন,কৃন্তন পীড়ন,আয়তন পীড়ন,অসহ পীড়ন,b
+What is the relation between bulk modulus(K) and compressibility © of an object?,কোনো বস্তুর আয়তন গুণাঙ্ক (K) এবং সংনম্যতার (C) মধ্যে সম্পর্ক কোনটি?,c = \frac{1}{K},c = \frac{3}{2} KT,c = \sqrt{\frac{3KT}{m}},\frac{c}{K} = 1,C=\frac{1}{K},C=\frac{3}{2}KT,C=\sqrt{\frac{3KT}{m}},\frac{C}{K}=1,a
+Which one is the example of conservation force?,নিচের কোনটি সংরক্ষণশীল বলের উদাহরণ?,Frictional force,Viscous force,Gravitational force,Impulsive force,ঘর্ষণ বল,সান্দ্রবল,অভিকষীয় বল,ঘাত বল,c
+The work done by centripetal force is-,কেন্দ্রমুখী বল দ্বারা কৃত কাজ-,infinity,positive,zero,negative,অসীম,ধনাত্মক,শূন্য,ঋণাত্মক,c
+If a man stands with a load of 40 kg. what is the amount of work he does in 2 minutes?,একজন লোক 40 kg ভরের একটি বোঝা মাথায় নিয়ে 2 মিনিট দাঁড়িয়ে থাকলে তার কাজের পরিমাণ কত?,0J,80J,392J,4800J,0 J,80 J,392 J,4800 J,a
+The cscape velocity in the earth depends on-,পৃথিবীতে মুক্তিবেগ নির্ভর করে-,mass of the object,radius of the earth,radius of the object,distance between the earth and object,বস্তুর ভরের উপর,পৃথিবীর ব্যাসার্ধের উপর,বস্তুর ব্যাসার্ধের উপর,পৃথিবীর ও বস্তুর দূরত্বের উপর,b
+"If the mass and radius of a planet are half of the mass and radius of the earth respectively, then the value of g on the surface of that planet with respect to the value of g on the earth surface is-",একটি গ্রহের ভর ও ব্যাসার্ধ যথাক্রমে পৃথিবীর ভর ও ব্যাসার্ধের অর্ধেক হলে ঐ গ্রহের পৃষ্ঠে g-এর মান পৃথিবী পৃষ্ঠের g-এর মানের-,equal,half,twice,four times,সমান,অর্ধেক,দ্বিগুণ,চারগুণ,c
+At what latitude is the value of the acceleration due to gravity lowest?,কত অক্ষাংশে অভিকর্ষজ ত্বরণের মান সবচেয়ে কম?,0\degree,30\degree,45\degree,90\degree,0^{\circ},30^{\circ},45^{\circ},90^{\circ},a
+What is called the ratio of the shearing stress to the shearing strain within elastic limit?,স্থিতিস্থাপক সীমার মধ্যে কৃন্তন পীড়ন ও কৃন্তন বিকৃতির অনুপাতকে কী বলে?,Young's modulus,Modulus of rigidity,Compressibility,Bulk modulus,ইয়ং-এর গুণাঙ্ক,দৃঢ়তার গুণাঙ্ক,সংনম্যতা,আয়তন গুণাঙ্ক,b
+For a simple pendulum at equllibrium position-,একটি সরল দোলকের সাম্যাবস্থানে-,both velocity and acceleration will be maximum,"velocity minimum, acceleration maximum",both velocity and acceleration will be minimum,velocity maximum acceleration minimum,বেগ ও ত্বরণ উভয় সর্বোচ্চ,"বেগ সর্বনিম্ন, ত্বরণ সর্বোচ্চ",বেগ ও ত্বরণ উভয় সর্বনিম্ন,"বেগ সর্বোচ্চ, ত্বরণ সর্বনিম্ন",d
+"If the equation of motion of a particle excuting simple harmonic oscillation is x = 0.1 sin \left ( 6\pi t + \frac{\pi}{3} \right ) m, then for its- 
+ i. time period=3s
+ ii. The maximum velocity= 1.88 ms^{-1}
+ iii. Initial phase= 60\degree
+ Which one is correct?","সরলদোল গতিসম্পন্ন কোনো কণার গতির সমীকরণ, x=0.1 sin \left ( 6\pi t+\frac{\pi}{3} \right )m হলে এর-
+i. পর্যায়কাল 3s
+ii. সর্বোচ্চ বেগ 1.88 ms
+iii. আদি দশা 60^{\circ}
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If an object is allowed to fall from a height of 35 m, where will be its kinetic energy twice of its potential energy?",35 m উচ্চতা হতে একটি বস্তুকে বিনা বাধায় পড়তে দিলে ভূমি হতে কত উচ্চতায় এর গতিশক্তি বিভশক্তির দ্বিগুণ হবে?,11.67 m,15m,20 m,23.33 m,11.67 m,15 m,20 m,23.3 m,a
+The moment of inertia of a thin circular disc with respect to any diameter will be-,একটি পাতলা বৃত্তাকার চাকতির যেকোনো ব্যাসের সাপেক্ষে জড়তার ভ্রামক হবে-,\frac{1}{4} Mr^{2},\frac{1}{2} Mr^{2},\frac{3}{2} Mr^{2},\frac{2}{3} Mr^{2},\frac{1}{4}Mr^{2},\frac{1}{2}Mr^{2},\frac{3}{2}Mr^{2},\frac{2}{3}Mr^{2},a
+The average kinetic energy of a molecule for ideal gas at temperature T is-,T তাপমাত্রায় আদর্শ গ্যাসের ক্ষেত্রে একটি অণুর গড় গতিশক্তি-,\frac{3}{2} RT,\frac{3}{2} KT,\frac{1}{3} RT,\frac{1}{3} KT,\frac{3}{2}RT,\frac{3}{2}KT,\frac{1}{3}RT,\frac{1}{3}KT,b
+The root mean square velocity of a gas at absolute temperature is,কোনো গ্যাসের অণুগুলোর মূল গড় বর্গবেগ পরম তাপমাত্রার-,proportional,inversely proportional,proportional to the square root,inversely proportional to the square root,সমানুপাতিক,ব্যস্তানুপাতিক,বর্গমূলের সমানুপাতিক,বর্গমূলের ব্যস্তানুপাতিক,c
+What is called the mass of water vapour present in unit volume of air?,বায়ুুর প্রতি একক আয়তনে উপস্থিত জলীয় বাষ্পের ভরকে ঐ স্থানের কী বলে?,Air pressure,Relative humidity,Dew point,Absolute humidity,বাষ্পচাপ,আপেক্ষিক আর্দ্রতা,শিশিরাঙ্ক,পরম আর্দ্রতা,d
+"The safe maximum velocit of the car on the turn of the road depends on- 
+ i. radius of curvature of curved path c
+ ii. Mass of car 
+ iii. Angle of banking 
+ Which one is correct?","রাস্তার বাঁকে গাড়ির নিরাপদ সর্বোচ্চ বেগ নির্ভর করে-
+i. বাঁকের ব্যাসার্ধের উপর
+ii. গাড়ির ভরের ‍উপর
+iii. ব্যাংকিং কোণের উপর
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"Vector \vec{A} = \vec{i} + \vec{j} + \vec{k} is a-
+ i. unit vector
+ ii. Proper vector 
+ iii. Position vector 
+ Which one is correct?","\vec{A}=\hat{i}+\hat{j}+\hat{k} ভেক্টরটি একটি-
+i. একক ভেক্টর
+ii. সঠিক ভেক্টর
+iii. অবস্থান ভেক্টর
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+Which one is the unit of angular momentum?,কৌণিক ভরবেগের একক কোনটি?,kgm^{2}s^{-2},kgms^{-2},kgms^{-1},kgm^{2}s^{-1},kgm^{2}s^{-2},kgms^{-2},kgms^{-1},kgm^{2}s^{-1},d
+What fundamental force causes radioactive disruption of uranium thorium?,"ইউরোনিয়াম, থোরিয়াম এসব মৌলিক পদার্থের তেজস্ক্রিয় ভাঙ্গন ঘটে কোন বলের কারণে?",Gravitational force,Electromagnetic force,Weak nuclear force,Strong nuclear force,মহাকর্ষ বল,তড়িৎ চৌম্বক বল,দুর্বল নিউক্লিয় বল,সবল নিউক্লিয় বল,c
+Real gas obeys boyle's law-,বাস্তব গ্যাস বয়েলের সূত্র মেনে চলে-,at high temperature,at room temperature,at low temperature,at 0\degree C temperature,উচ্চ তাপমাত্রায়,কাক্ষ তাপমাত্রায়,নিম্ন তাপমাত্রায়,0 তাপমাত্রায়,a
+For which one of the following word done will be negatinve?,নিচের কোন মানের জন্য কাজ ঋণাত্মক হবে?,90\degree < \theta \leq 180\degree,0\degree \leq < 90\degree,90\degree > \theta \leq 180\degree,0\degree \leq < 90\degree,90^{\circ}<\theta \leq 180^{\circ},0\leq \theta <90^{\circ},90^{\circ}>\theta \leq 180^{\circ},0\geq \theta ^{\circ}<90^{\circ},a
+If A = \vec{A} = \hat{i} + \hat{j} + \hat{k} and \vec{B} = 2\hat{i} + 2\hat{j} + 2\hat{k} then what is the perpendicular projection of \vec{A} through \vec{B}?,"যদি \vec{A}=\hat{i}+\hat{j}+\hat{k} এবং \vec{B}=2\hat{i}+2\hat{j}+2\hat{k} হয়, তবে \vec{B} বরাবর \vec{A} এর লম্ব অভিক্ষেপ কত?",1/\sqrt{3},\sqrt{3},2\sqrt{3},2/\sqrt{3},1/\sqrt{3},\sqrt{3},2\sqrt{3},2/\sqrt{3},b
+If the velocity of a moving particle is double the what is its kineticc energy?,গতিশীল বস্তুর বেগ দ্বিগুণ হলে গতিশক্তি হবে-,Half,Euqal,double,Four times,অর্ধেক,সমান,দ্বিগুণ,চারগুণ,d
+When displacement repeats of a simple harmonic oscillating particle? L,সরলছন্দিত কণার সরণ পুনরাবৃত্তি হয় কখন?,after \frac{2\pi}{\omega} time,after \frac{\pi}{\omega} time,after \frac{\omega}{2\pi} time,after \frac{\omega}{\pi} time,\frac{2\pi}{\omega } সময় পর,\frac{\pi}{\omega } সময় পর,\frac{\omega}{2\pi} সময় পর,\frac{\omega}{\pi} সময় পর,a
+Which one is scalar quantity?,নিচের কোনটি স্কেলার রাশি?,Gravitational mass,Workdone,Torque,Angular momentum,অভিকর্ষীয় ভর,কাজ,টর্ক,কৌণিক ভরবেগ,b
+What will be the workdone by gravitational force if a particle of mass 5 kg is pulled 5m horizontally?,5 kg ভরের বস্তুকে টেনে অনুভূমিক বরাবর 5 m সরালে অভিকর্ষীয় বল দ্বারা কাজের মান কত হবে?,0J,5J,25J,24.5J,0 J,5 J,25 J,245 J,a
+If initial and final point of a vector is same the vector is-,"একটি ভেক্টরের আদি বিন্দু ও শেষ বিন্দু একই হলে, একে বলা হয়-",unit vector,reciprocal vector,null vector,position vector,একক ভেক্টর,বিপ্রতীপ ভেক্টর,নাল ভেক্টর,অবস্থান ভেক্টর,c
+If temperature of a gas contained in a cylinder is increased from 30\degree C to 100\degree C. What percentage of pressure will increase?,একটি সিলিন্ডারে আবদ্ধ গ্যাসের তাপমাত্রা 30^{\circ}C থেকে 100^{\circ}C এ উন্নীত হলে চাপ কত শতাংশ পাবে?,19.01,23.1,28.02,70.01,19.01,23.1,28.02,70.01,b
+A bucket with some water in it is revolving in vertical circular path of radius r. What should be the angular velocity so that water will not come out from the bucket?,"একটি বালতিতে কিছু পরিমাণ পানি নিয়ে r ব্যাসার্ধের বৃত্তপথে উল্লম্ব তলে ঘুরানো হচ্ছে, ঘূর্ণনের কৌণিক গতি কত হলে বালতির পানি বাইরে বের হবে না?",\sqrt{r/g},\sqrt{g/r},\sqrt{rg},rg,\sqrt{r/g},\sqrt{g/r},\sqrt{rg},rg,b
+The velocity of maximum number of gas particles in closed container is called-,কোনেো পাত্রে আবদ্ধ গ্যাস অণুগুলির সর্বাধিক সংখ্যক অণুর বেগকে বলে-,average velocity,root mean square velocity,mean square veloctiy,most probable velocity,গড় বেগ,মূল গড় বর্গবেগ,গড় বর্গবেগ,সর্বাধিক সম্ভাব্য বেগ,d
+If \vec{A} = 5\hat{i} then its reciprocal vector is -,\vec{A}=5\hat{i} হলে এর বিপ্রতীপ ভেক্টর নিচের কোনটি?,- 5\hat{i},\frac{1}{5} \hat{i},5 \frac{1}{\hat{i}},\frac{1}{5\hat{i}},-5\hat{i},\frac{1}{5}i,5\frac{1}{\hat{j}},\frac{1}{5\hat{i}},b
+Which of the following has more kinetic energy?,নিচের কোন বস্তুর গতিশক্তি বেশি?,"Mass m, velocity 2V","Mass 2M, Velocity 3V","Mass M, velocigy 4V","Mass 3M, velocity 2V","ভর M, বেগ 2V","ভর 2M, বেগ 3V","ভর M, বেগ 4V","ভর 3M, বেগ 2V",b
+"If one of the perpendicular component of a vector of magnitude 10 is 8 unit, then what is the other component?",10 একক মানের একটি ভেক্টর দুটি লম্ব উপাংশে বিভক্ত করায় একটির মান 8 একক হলে অপরটির মান কত?,2 unit,4 unit,6 unit,8 unit,2 একক,4 একক,6 একক,8 একক,c
+"What is the equivalent value of 1 horse power? 
+ i. 746 Joule/Sec
+ ii. 550 ft-Ib/Sec
+ iii. 17710 ft-Poundal /Sec
+ Which one is correct?","এক অশ্ব-ক্ষমতার সমতুল্য মান হলো-
+i. 746 joule/sec
+ii. 550 ft-/b/sec
+iii. 17710 ft-poundal/sec
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i,ii,i ও ii,"i, ii ও iii",d
+Three equal forces are acting on a point and create balance then what will be the ratio of angles among the force?,তিনটি সমমানের বল একটি বিন্দুতে ক্রিয়া করে সাম্যাবস্থার সৃষ্টি করলে তাদের অন্তর্ভুক্ত কোণের অনুপাত কত?,60\degree : 60\degree : 240\degree,90\degree : 90\degree : 180\degree,120\degree : 120\degree : 120\degree,150\degree : 150\degree : 60\degree,60^{\circ}:60^{\circ}:240^{\circ},90^{\circ}:90^{\circ}:180^{\circ},120^{\circ}:120^{\circ}:120^{\circ},150^{\circ}:150^{\circ}:60^{\circ},c
+"For gas, what is indicated by the quantity PV' -",PV' রাশিটি গ্যাসের ক্ষেত্রে নির্দেশ করে-,energy,power,momentum,inertia,শক্তি,ক্ষমতা,ভরবেগ,জড়তা,a
+Moment of inertia of a wheel is 5kgm-2 What will be angular velocity to produce angular kinetic energy 10J?,একটি চাকার জড়তার ভ্রামক 5 kgm^{2} চাকাটিতে 10^{5} J ঘূর্ণন গতিশক্তিতে ঘুরতে কত কৌণিক বেগের প্রয়োজন হবে?,20 rad/sec,89.44 rad/sec,141.42 rad/sec,200 rad/sec,20 rad/sec,89.44 rad/sec,141.42 rad/sec,200 rad/sec,d
+What is the unit of impulse of force?,‘বলের ঘাত’ এর একক কী?,N-kg,N-m,N-sec,N-sec-1,N-kg,N-m,N-sec,N-sec^{-1},c
+Which motion is the motion of need of watch?,ঘড়ির কাঁটার গতিকোন গতির উদাহরণ?,Periodic motion,Harmonic motion,Linear motion,Relative motion,পর্যাবৃত্ত গতি,স্পন্দন গতি,সরলরৈখিক গতি,আপেক্ষিক গতি,a
+If the initial and the end point of any vector is same the vector is called-,কোনেো ভেক্টরের পাদবিন্দু ও শীর্ষবিন্দু একই হলে সে ভেক্টরকে বলে০,colliner vector,unit vector,null vector,position vector,সমরেখ ভেক্টর,একক ভেক্টর,নাল ভেক্টর,অবস্থান ভেক্টর,c
+Which is the dimensional equation of angular momentum?,কৌণিক ভরবেগের মাাত্রা সমীকরণ কোনটি?,MLT^{-1},ML^{2}T,ML^{2}T^{-1},ML^{2}T^{-2},MLT^{-1},ML^{2}T,ML^{2}T^{-1},ML^{2}T^{-2},c
+How much work will have to do to raise a rod of length 1.5m and mass 2kg from horizontal position to veritcal position?,2 kg ভরের 1.5 m লম্বা একটি রডকে শায়িত অবস্থা হতে খাড়া করতে কী পরিমাণ কাজ করতে হবে?,0J,14.7J,29.4J,44.1J,0 J,14.7 J,29.4 J,44.1 J,b
+"The equation of displacement of a particle executing simple harmonic motion is x=A cos\omega t.
+ i. starts from one end
+ ii. At time t = \frac{T}{4}, at equilibrium position 
+ iii. At time t = \frac{T}{2}, at the opposite position of initial point
+ Which one is correct?","সরল ছন্দিত গতিতে গতিশীল কোনো কণার সরণের সমীকরণ x = A cos \omega t, এক্ষেত্রে কণাটি-
+i. এক প্রান্ত হতে যাত্রা শুরু করেছে
+ii. t=\frac{T}{4} সময়ে সাম্যাবস্থানে থাকবে
+iii. t=\frac{T}{2} সময়ে কণাটির যাত্রা, শুরু বিন্দুর বিপরীত পাশে অবস্থান করে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Two moving particles of mass 1kg and 9 kg have same kinetic energy. What is the ratio of their momentum?,1 kg ও 9 kg ভরের দুটি বস্তু সমান গতিশক্তিতে গতিশীল। এদের ভরবেগের অনুপাত কত?,1 : 3,\sqrt{3} : 1,3 : 1,1 : 9,1 : 3,\sqrt{3}:1,3 : 1,1 : 9,a
+If a machine applies a constant force F on a body and create a constant velocity v on it then what is the power of the machine?,কোনো যন্ত্র কর্তৃক F ধ্রুব বল প্রয়োগে কোনো বস্তু v ধ্রুব বেগে গতিশীল হলে যন্ত্রের ক্ষমতা কত?,P = Fv^{2},P = Fv,P = F^{2}v,P = \frac{F}{v},P = Fv^{2},P = Fv,P = F^{2}v,P=\frac{F}{v},b
+Which one is the absolute zero temperature?,পরম শূন্য তাপমাত্রা কোনটি?,273\degree C,0\degree C,- 273\degree C,- 373\degree C,273^{\circ}C,0^{\circ}C,-273^{\circ}C,-373^{\circ}C,c
+Find the angle of inclination with the vertical plane for a cyclist moving around a circular path of radius 500m with a velocity of 5ms^{-1}.,একজন সাইকেল আরোহী 500 m ব্যাসার্ধের বৃত্তাকার পথে 5 বেগে ঘুরতে গেলে উলম্ব তলের সাথে কত কোণে আনত থাকবে?,0.27\degree,0.28\degree,0.29\degree,0.30\degree,0.27^{\circ},0.28^{\circ},0.29^{\circ},0.30^{\circ},c
+"If \vec{P} and \vec{Q} are two parallel vectors in three dimensional space then-
+ i. \vec{P} . \vec{Q} = 0
+ ii. \vec{P} \times \vec{Q} = 0
+ Iii. \frac{P_{x}}{Q_{x}} = \frac{P_{x}}{Q_{x}} = \frac{P_{x}}{Q_{x}}
+ Which one is correct?","ত্রিমাত্রিক স্থানে \vec{P} ও \vec{Q} দুটি সমান্তরাল ভেক্টর হলে-
+i. \vec{P}. \vec{Q} = 0 
+ii. \vec{P}\times \vec{Q}=0
+iii. \frac{P_{x}}{Q_{x}}=\frac{P_{y}}{Q_{y}}=\frac{P_{z}}{Q_{z}}
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the initial place if a particle of simple harmonic oscillation starts from the highest position of its displacement?,সরল ছন্দিত স্পন্দন সম্পন্ন কোনো কণার সরণের সর্বোচ্চ অবস্থান হতে যাত্রা শুরু হলে আদি দশা কত?,\pi,\frac{\pi}{2},\frac{\pi}{4},0,\pi,\frac{\pi}{2},\frac{\pi}{4},0,b
+The saturated vapour pressure and unsaturated vapour pressure at a place is respectively f and F. Which one is true?,কোনো স্থানের অসম্পৃক্ত বাষ্পচাপ f এবং সম্পৃক্ত বাষ্পচাপ F হলে কোনটি সঠিক?,f<F,f>F,f \leq F,f \geq F,f < F,f > F,f \leq  F,f \geq  F,a
+A thin uniform rod of length I and mass M rotate about an axis through its centre and perpendicular to its length. What is the moment of inertia?,M ভরের ও l দৈর্ঘ্যের সরু সুষম দণ্ডের মধ্যবিন্দু দিয়ে দৈর্ঘ্যের অভিলম্বভাবে গমনকারী অক্ষের সাপেক্ষে জড়তার ভ্রামক কত?,\frac{Ml^{2}}{12},\frac{Ml^{2}}{3},\frac{Ml^{2}}{2},Ml^{2},\frac{Ml^{2}}{l2},\frac{Ml^{2}}{3},\frac{Ml^{2}}{2},Ml^{2},a
+"It can be said about wate vapour pressure-
+ i. saturated vapour pressure gives maximum pressure 
+ ii. Unsaturated vpour pressure obeys Boyle's Law
+ iii. Air density increases when water vapour pressure decrease
+ Which one is correct?","কোনো স্থানেের জলীয় বাষ্পচাপ সম্পর্কে বলা যায়-
+i. সম্পৃক্ত জলীয় বাষ্প সর্বাধিক চাপ দেয়
+ii. অসম্পৃক্ত জলীয় বাষ্প বয়েলের সূত্র মেনে চলে
+iii. বায়ুতে জলীয় বাষ্প কমলে বায়ুর ঘনত্ব বৃদ্ধি পায়
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the average kinetic energy of an oxygen (O_{2}) molecule?,অক্সিজেন (O_{2}) গ্যাসের প্রতি অণুর গড় গতিশক্তি কত?,\frac{3}{2} RT,\frac{3}{2} KT,\frac{5}{2} RT,\frac{5}{2} KT,\frac{3}{2}RT,\frac{3}{2}KT,\frac{5}{2}RT,\frac{5}{2}KT,d
+"The radius of the turning of a road is 50 cm. The width of the road is 5m and its outer edge is elevated to 0.25m than that of inner edge. 
+ What is the actual banking angle of the road?","একটি রাস্তার বাকের ব্যাসার্ধ 50m। রাস্তার প্রস্থ 5m এবং বাহিরের প্রান্ত ভিতরের প্রান্ত অপেক্ষা 0.25m উঁচু।
+রাাস্তাটির প্রকৃতি ব্যাংকিং কোণ কত?",1.86\degree,2.86\degree,3.86\degree,5.86\degree,1.86^{\circ},2.86^{\circ},3.86^{\circ},5.86^{\circ},b
+Which one is the example of temporary order of succession?,কালিক পর্যায়ক্রমের উদাহরণ কোনটি?,Mark on the scale,Stripe shape on the shirt,otion of the wire of the guitar,Atoms in crystal in solid material,স্কেলের উপর দাগ,শার্টের ডোরাকাটা দাগ,টারের তারের গতি,কঠিন পদার্থের কেলাসের মধ্যে অণু,c
+In which condition the pendulum clock slowly?,নিচের কোন কারণে দোলক ঘড়ি স্লো চলবে?,"For constant g, for increases L then T will be increase","For constant g, for decrease L then T will be decrease","For constant L, for increase g, the T will be increase","For constant L, for increase g then T will be decrease",g কে স্থির রেখে L বাড়ালে T বাড়বে বলে,g কে স্থির রেখে L কমালে T কমবে বলে,L কে স্থির রেখে g বাড়ালে T বাড়বে বলে,L কে স্থির রেখে G বাড়ালে T কমবে বলে,a
+What is the time period of a simplw harmonic particle's When it's maximum velocity is 6ms^{-1} and displacement is 30-,একটি সরলছন্দিত গতিসম্পন্ন কণার সর্বোচ্চ বেগ 6 ms^{-1} এবং কণাটির বিস্তার 30 cm হলে কণাটির পর্যায় কত?,0.07s,0.31s,7.85s,31.41s,0.07 s,0.31 s,7.85 g,31.41 s,b
+Which one is correct for water vapour?,জলীয় বাষ্পের ক্ষেত্রে কোনটি সঠিক?,Weather at any place does not depend on the amount of water vapour,Water vapour does not create fog,Density of the water vapour is greater than the density of dry air,Water vapour is lighter compare to dry air,জলীয় বাষ্পের পরিমাণের উপর কোনো স্থানের আবহাওয়া নির্ভর করে না,কুয়াশা সৃষি।টর জন্য জলীয় বাষ্প দায়ী নয়,জলীয় বাষ্পের ঘনত্ব শুষ্ক বায়ুর ঘনত্বের চেয়ে বেশি,জলীয় বাষ্পের শুষ্ক বায়ু অপেক্ষা হালকা,d
+What do you mean by dew poin?,শিশিরাঙ্ক বলতে বোঝায়-,Heat,*** emperature,Amount of dew,relative humidity,তাপ,তাপমাত্রা,শিশিরের পরিমাণ,আপেক্ষিক আর্দ্রতা,b
+What is called the vector when the initial point and end point meets each other of the vector indicate line?,ভেক্টর নির্দেশক রেখাংশটির আদি বিন্দু ও শেষবিন্দু যদি মিশে যায় তাহলে তাকে কী ভেক্টর বলে?,Independent,Similar,Equal,Null,স্বাধীন,সদৃশ,সমান,শূন্য,d
+"Experess position vector-
+ i. \vec{r} = x\hat{i} + y\hat{j}
+ Ii. \triangle \vec{r} = (x_{2}\hat{i} + y_{2}\hat{j}) - (x_{1}\hat{i} + y_{1}\hat{j})
+ Iii. \vec{r} = x\hat{i} + y\hat{j} + z\hat{k}
+ Which one is correct?","অবস্থান ভেক্টর ক্ষেত্রে ব্যবহৃত হয়-
+i. \vec{r} = x\hat{i} + y\hat{j}
+Ii. \triangle \vec{r} = (x_{2}\hat{i} + y_{2}\hat{j}) - (x_{1}\hat{i} + y_{1}\hat{j})
+Iii. \vec{r} = x\hat{i} + y\hat{j} + z\hat{k}
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"The magnitude of two vectors are equal. In which condition, the resultant vector is \sqrt{3} times to one vector?",দুইটি ভেক্টরের মান সমান । নিচের কোন অবস্থানে এদের লব্ধি একটি ভেক্টরের মানের \sqrt{3} গুণ হবে?,0\degree,45\degree,60\degree,90\degree,0^{\circ},45^{\circ},60^{\circ},90^{\circ},c
+The magnitude of two vector \vec{P} and \vec{Q} is equal but act oppositely. What is the angle between the resultant vector \vec{R} and \vec{P}?,\vec{P} ও \vec{Q} দুটি সমমানের ভেক্টর পরস্পর বিপরীত দিকে ক্রিয়া করছে। ভেক্টর দুটির লব্ধি \vec{R} ও \vec{P} এর মধ্যবর্তী কোণ কোনটি?,90\degree,60\degree,45\degree,0\degree,90\degree,60\degree,45\degree,0\degree,d
+Which one is the unit of torque?,টর্কের একক কোনটি?,N^{-1}m,Nm^{-2},Nm,Nm^{-1},N^{-1}m,Nm^{-2},Nm,Nm^{-1},c
+The mass of an electric wheel is 10 kg and its radius of gyration about an axis is 2m. To produce an acceleration of 3 rad s^{-2}. What amount of torque is required to apply on it?,একটি বৈদ্যুতিক পাখার ভর 10 kg এবং কোনো অক্ষ সাপেক্ষে চক্রগতির ব্যাসার্ধ পাখাটিতে 3 rad s^{-2} কৌণিক ত্বরণ সৃষ্টি করতে কত মানে টর্ক প্রয়োগ করতে হবে?,40 Nm,20 Nm,30 Nm,120 Nm,40 Nm,20 Nm,30 Nm,120Nm,d
+Which one is the example of static inertia?,স্থিতি জড়তার উদাহরণ কোনটি?,Pull on horse's car,Hit on diry cloths,pull on big boat's gume,Fires through from rifle,ঘোড়ার গাড়ি টানা,লময় পোশাকে আঘাত করা,বড় নৌকার গুণ টানা,বন্দুক থেকে গুলি ছোঁড়া,b
+"Give slope in the banking of the road- 
+ i. vehicles movement safely more
+ ii. Got centripetal force 
+ iii. Cycle dirver moves inclinds to the banking
+ Which one is correct?","রাস্তা্তার বাঁকে ঢঅল দিলে-
+i. যানবাহন চলাচাল অধিকতর নিরাপদ হয়
+ii. কেন্দ্রমুখী বল পাওয়া যায়
+iii. সাইকেল আরোহী বক্রপথের কেন্দ্রের দিকে হেলে থাকে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one is the unit of work in CGS system?,CGS পদ্ধতিতে কাজের একক কোনটি?,Loule,Ft-Poundal,Erg,N.m,Joule,Ft-Poudal,Erg,N.m,c
+Determine the work done of the particle when \vec{F} = (5\hat{i} + 3\hat{j} - 3\hat{k} force on it and displacement occur \vec{r} = (4\hat{i} - 3\hat{j} + 3\hat{k})m.,"একটি কণাার উপর \vec{F} = (5\hat{i} + 3\hat{j} - 3\hat{k}) N, বল প্রয়োগ করার ফলে যদি কণাটির সরণ \vec{r} = (4\hat{i} - 3\hat{j} - 3\hat{k}) m হয় তাহলে এক্ষেত্রে কৃতকাজের মান নির্ণয় কর।",20 J,9 J,2 J,1 J,20 J,9 J,2 J,1 J,c
+Which one is scalar quantity?,কোনটি স্কেলার রাশি?,Gradient,Divergence,Curl,Displacement,গ্রাডিয়েন্ট,ভাইভারজেন্স,কার্ল,সরণ,b
+A force of 4N is acting on abody for 1 sec. What is the change in momentum?,4 N বল একটি বস্তুর উপর 1 sec ব্যাপী ক্রিয়া করলে ভরবেগের পরিবর্তন কত?,2 kgms^{-1},4 kgms^{-1},8 kgms^{-1},16 kgms^{-1},2 kgms^{-1},4 kgms^{-1},8 kgms^{-1},16 kgms^{-1},b
+Radius of the earth is 'R' and the acceleration due to gravity on the earth's surface is 'g'. Find the aceleration due to gravity at a height of 'h' From the earth's surface?,পৃথিবীর ব্যাসার্ধ 'R' এবং পৃথিবীতে অভিকর্ষজ ত্বরণ 'g' পৃথিবী পৃষ্ঠ হতে 'h' উচ্চতায় অভিকর্ষজ ত্বরণ কত?,g(R-h)/R,gR^{2}/(R + h)^{2},gR(R+h),g(R - h)^{2}/R^{2},g(R - h)/R,gR^{2}/(R + h)^{2},gR/(R + h),g(R - h)^{2}/R^{2},b
+Which one of the following is equivalent to zero phase?,নিচের কোনটি শূন্য দশার সমতুল্য?,\pi/2,\pi,3\pi/2,2\pi,\pi/2,\pi,3\pi/2,2\pi,d
+In case of gases 'PV' represents-,PV' রাশিটি গ্যাসের ক্ষেত্রে নির্দেশ করে-,power,momentum,work,inertia,ক্ষমতা,ভরবেগ,কাজ,জড়তা,c
+"\vec{A} = \vec{i}, \vec{B} = 2\vec{i} + \vec{k}, what is the angle between A and B?","\vec{A}=\hat{i},\vec{B}=2\hat{i}+\hat{k}, \vec{A} ও \vec{B} ভেক্টরের মধ্যবর্তী কোণ-",25.12\degree,26.57\degree,90.67\degree,180.25\degree,25.12^{\circ},26.57^{\circ},90.67^{\circ},180.25^{\circ},b
+What is the another name of torque?,টর্কের অপর নাম কী?,Friction force,Moment of inertia,Rotational force,Centripetal force,ঘর্ষণ বল,জড়তার ভ্রামক,ঘূর্ণন বল,কেন্দ্রমুখী বল,c
+At N.T.P the density of hydrogen is 0.09 kgm^{-3}. determine the root mean square velocity of nitrogen molecules.,N.T.P. তে হাইড্রোজেনের ঘণত্ব 0.09 kgm^{-3} অনুগুলোর মূলগড় বর্গবেগ নির্ণয় করো।,1.84 kms^{-1},2.84 kms^{-1},3.38 kms^{-1},4.00 kms^{-1},1.84 kms^{-1},2.84 kms^{-1},3.38 kms^{-1},4.00 kms^{-1},a
+What is the relation between the 'root mean square velocity' and 'absolute temperatute'?,গড় বর্গবেগের বর্গমূল ও পরম তাপমাত্রার মধ্য সম্পর্ক হলো-,C_{rms} \propto T,C_{rms} \propto \sqrt{T},C_{rms} \propto \frac{1}{T},C_{rms} \propto \frac{1}{\sqrt{T}},C_{rms}\infty T,C_{rms}\infty \sqrt{T},C_{rms}\infty \frac{1}{T},C_{rms}\infty \frac{1}{\sqrt{T}},b
+\hat{j} \times (\hat{j} \times \hat{k}) = ?,\hat{J}\times (\hat{j}\times \vec{k}) = কত?,- \hat{k},0,\hat{k},\hat{i},-\hat{k},0,\hat{k},\hat{i},a
+"Impulse of force is-
+ i. Product of a force and the duration of action of the force 
+ ii. Change of momentum 
+ iii. Rate of change of momentum 
+ Which one is correct?","বলেের ঘাত হচ্ছে-
+i. বল ও বলের ক্রিয়া কালের গুণফল
+ii. ভরবেগের পরিবর্তন
+iii. ভরবেগের পরিবর্তনের হার
+নিচের কোনটি সঠিক",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+What kind of energy will be stored when a spring is expanded?,স্প্রিংকে প্রসারিত করলে এর মধ্যে কোন ধরনের শক্তি সঞ্চিত হয়?,Potential energy,Kinetic energy,Chemical energy,Heat energy,বিভবশক্তি,গতিশক্তি,রাসায়নিক শক্তি,তাপশক্তি,a
+The time period of a planet is 'T' and its average distance from the sun is 'r' Which one is current according to the Keplar's third law?,গ্রহের পর্যায়কাল T এবং সূর্য হতে গ্রহের গড় দূরত্ব r হলে কেপলারের তৃতীয় সূত্রানুসারে-,T \propto r,T \propto r^{2},T^{2} \propto r,T^{2} \propto r^{3},T\infty r,T\infty r^{2},T^{2}\infty r,T^{2}\infty r^{3},d
+What is meant by similar and opposite vectors of having not same magnitude?,সমজাতীয় অসমমানের এবং বিপরীতমুখী ভেক্টরকে কী বলে?,Opposite vector,Reciprocal vector,Unlike Vector,Like Vector,বিপরীত ভেক্টর,বিপ্রতীপ ভেক্টর,বিসদৃশ ভেক্টর,সদৃশ ভেক্টর,c
+What is the relation among the torque (\tau) moment of inertia (I) and angular acceleration (\alpha)?,"টর্ক (\tau), জড়তার ভ্রামক (I) এবং কৌণিক ত্বরণের (\alpha ) মধ্যে সম্পর্ক কী?",\tau = \frac{1}{\alpha},\tau = \sqrt{I\alpha},\tau = I^{2}\alpha,\tau = I\alpha,\tau=\frac{1}{\alpha },\tau=\sqrt{I\alpha },\tau= I^{2}\alpha,\tau= I\alpha,d
+Work done by the centripetal force of a body rotating in the circular orbit is-,বৃত্তাকার পথে ঘূর্ণনরত কোনো বস্তুর উপর কেন্দ্রমুখী বল দ্বারা কৃতকাজ হলো-,negative,zero,positive,infinity,ঋণাত্মক,শূণ্য,ধনাত্মক,অসীম,b
+In which of the following condition a gas behave like can ideal gas?,নিম্নলিখিত কোন ক্ষেত্রে একটি গ্যাস আদর্শ গ্যাসের ন্যায় আচরণ করে?,At low pressure and high temperature,At low pressure and low temperature,At high presure and low temperature,At high pressure and high temperature,নিম্নচাপ ও উচ্চ তাপমাত্রায়,নিম্নচাপ ও নিম্ন তাপমাত্রায়,উচ্চচাপ ও নিম্ন তাপমাত্রায়,উচ্চচাপ ও উচ্চ তাপমাত্রায়,a
+"Scalar product of vectors obey the-
+ i. commutative law 
+ ii. Distributed law 
+ iii. Associative lasw 
+ Which one is correct?","ভেক্টরের স্কেলার গুণন মেনে চলে-
+i. বিনিময় সূত্র
+ii. বণ্টন সূত্র
+iii. সংযোগ সূত্র
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one is the dimensional equation of the angular momentum?,কৌণিক ভরবেগের মাত্রা সমীকরণ কোনটি?,[M^{2}L^{2}T^{-1}],[M^{-2}LT^{-1}],[ML^{-2}T],[ML^{2}T^{-1}],[M^{2}L^{2}T^{-1}],[M^{-2}LT^{-1}],[ML^{-2}T],[ML^{2}T^{-1}],d
+the perpendicular unit vector on the plane of \hat{i} and \hat{j} is -,\hat{i} এবং \hat{j} যে তলে অবস্থিত সে তলের লম্বদিকে একক ভেক্টর হলো-,\pm (\hat{i} \times \hat{j}),\pm (\hat{j} \times \hat{k}),\pm (\hat{k} \times \hat{i}),\pm (\hat{i} \times \hat{k}),\pm (\hat{i}\times \hat{j}),\pm (\hat{j}\times \hat{k}),\pm (\hat{k}\times \hat{i}),\pm (\hat{i}\times \hat{k}),a
+"If the velocity of a moving body is two-thirds, what times will be th e kinetic energy?",গতিশীল বস্তুর বেগ দুই-তৃতীয়াংশ বলে গতিশক্তি কতগুণ হবে?,\frac{1}{9},\frac{2}{9},\frac{4}{9},\frac{16}{9},\frac{1}{9},\frac{2}{9},\frac{4}{9},\frac{16}{9},c
+"What is the ration of the depth and height, While the value of acceleration due to gravity will be equal for both",ভূপৃষ্ঠ হতে যে গভীরতায় ও উচ্চতায় অভিকর্ষজ ত্বরণের মান সমান হবে সেই গভীরতা ও উচ্চতার অনুপাত হবে প্রায়-,1 : 1,1 : 2,2 : 1,3 : 1,1: 1,1 : 2,2 : 1,3 : 1,c
+Which process follows the equation PV= constant?,"PV = ধ্রুবক, সমীকরণটি নিচের কোন প্রক্রিয়াকে সমর্থন করে?",Isothermal,Isochoric,Isobaric,Adiabatic,সমোষ্ণ,সমআয়তন,সমচাপ,রুদ্ধতাপীয়,a
+At 27\degree C temperature what is the kinetic energy of 32g oxygen gas? (R = 8.314 Jmol^{-1}K^{-1}),27^{\circ} তাপমাত্রায় 32 g অক্সিজেন গ্যাসের গতিশক্তি ক? ( R = 8.314 Jmol^{-1}K^{-1}),3741.3J,374J,37.4J,734J,3741.3 J,374 J,37.4 J,734 J,a
+Gravitational constant G=?,মহাকর্ষীয় ধ্রুবক G = ?,66.7 \times 10^{-12} Nmkg^{-2},6.67 \times 10^{-11} Nm^{-2}kg^{-2},0.667 \times 10^{-10} Nm^{2}kg^{-2},0.0667 \times 10^{-9} Nm^{-2}kg^{2},66.7\times 10^{-12}Nm kg^{-2},6.67\times 10^{-11}Nm^{-2} kg^{-2},0.667\times 10^{-10}Nm^{2} kg^{-2},0.0667\times 10^{-9}Nm^{2} kg^{-2},c
+The graphical representation between kinetic energyu (E_{K}) and momentum (P) of a particle is,কোনো একটিি বস্তুকণার গতিশক্তি (E_{k}) ও ভরবেগ (P) এর মধ্যকার লেখচিত্র একটি-,parabola,rectangular hyperbola,stright line,ellipse,পরাবৃত্ত,আয়তাকার অধিবৃত্ত,সরলরেখা,উপবৃত্ত,a
+"If \vec{V} = x^{2}\hat{i} - 2z\hat{j} + y\hat{k}, then div \vec{V} = ?","\vec{V}=x^{2}\hat{i}-2z\hat{j}+y\hat{k} হলে, div\vec{V}= ?",2x,3\hat{i},2x\hat{i},x\hat{i},2x,3\hat{i},2x\hat{i},x\hat{i},a
+"If the time period is double, the how much time the length of the simple pendulum is to be increased?",পর্যায়কাল দ্বিগুণ করলে সরলদোলকের দৈর্ঘ্য কতগুণ বৃদ্ধি করতে হবে?,4,2,\frac{1}{2},\frac{1}{4},4,2,\frac{1}{2},\frac{1}{4},a
+What is the acceleration of simple harmonic motion?,সরলদোলন গতিসম্পন্ন কোনো কণার ত্বরণ কত হবে?,a = \omega x^{2},a = - \omega^{2}x,a = - \omega x,a = \omega^{2}x,a=\omega x^{2},a=-\omega^{2} x,a=-\omega x,a=\omega^{2} x,b
+"In case of simple harmonic motion \frac{1}{2} KA^{2} represents-
+ i. maximum potential energy
+ ii. Maximum kinetic energy
+ iii. Total energy
+ Which one is correct?","সরলদোলকের গতির ক্ষেত্রে \frac{1}{2}kA^{2} নির্দেশ করে-
+i. সর্বোচ্চ স্থিতিশক্তি
+ii. সর্বোচ্চ গতিশক্তি
+iii. মোট শক্তি
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+The equation of ideal gas for \frac{3}{2} mol is-,\frac{3}{2} মোল গ্যাসের জন্য আদর্শ গ্যাস সমীকরণ হবে কোনটি?,3PV = 2RT,2PV = \frac{1}{3} RT,2PV = 3RT,\frac{PV}{RT} = \frac{2}{3},3PV = 2RT,2PV = \frac{1}{3} RT,2PV = 3RT,\frac{PV}{RT}=\frac{2}{3},c
+The molar volume of all gases at STP is,S.T.P তে সকল গ্যাসের মোলার আয়তন-,22.4L,22.9L,28.4L,22.8L,22.4 L,22.9 L,28.4 L,22.8 L,a
+"Relative humidity is expressed as-
+ i. R = \frac{F}{f}
+ ii. R = \frac{f}{F}
+ iii. R = \frac{f}{F} \times 100%
+ Which one is correct?","আপেক্ষিক আর্দ্রতা প্রকাশ করা হয়-
+i. R = \frac{F}{f}
+ii. R = \frac{f}{F}
+iii. R = \frac{f}{F}\times 100%
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Law of pressure at abosolute temperature scale is-,পরম সেকলে চাপের সূত্র হলো-,P \propto T,P \propto T^{2},P \propto \frac{1}{T},P \propto \sqrt{T},P\infty T,P\infty T^{2},P\infty \frac{1}{2},P\infty \sqrt{T},a
+"One atmospheric pressure is equal to -
+ i. 1.013 \times 10^{5}Nm^{-2}
+ Ii. 1.013 \times 15^{5}Pa
+ Iii. 760 mmHg
+ Which one is correct?","একটি বায়ুমন্ডলীয় চাপ সমান-
+i. 1.013\times 10^{5}Nm^{-2}
+ii. 1.013\times 10^{5}Pa
+iiii. 760 mmHg
+নিচের কোনটি সঠিক ?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Perpendicular unit vector on the plane in which \hat{i} and \hat{j} are located-,"\hat{i} এবং \hat{j} যে তলে অবস্থিত সেই তলের উপর লম্ব, একক ভেক্টর হলো-",(\hat{j} \times \hat{k}),(\hat{i} \times \hat{j}),(\hat{k} \times \hat{i}),(\hat{i} \times \hay{k}),(\hat{j}\times \hat{k}),(\hat{i}\times \hat{j}),(k\times i),(i\times k),b
+The condition of safe turning of a car is-,একটি গাড়ীর নিরাপদে বাঁক নেওয়ার শর্ত হলো-,v \leq (\mu rg)^{\frac{1}{2}},v \leq \mu rg,v > \mu rg,v > (\mu rg)^{\frac{1}{2}},v\leq (\mu rg)^{\frac{1}{2}},v\leq \mu rg,v>\mu rg,v>(\mu rg)^{\frac{1}{2}},a
+What is the unit of angular momentum ?,কৌণিক ভরবেগের একক কোনটি?,kgm^{2}s^{-2},kgms^{-2},kgms^{-1},mgm^{2}s^{-1},kgm^{2}s^{-2},kgms^{-2},kgms^{-1},kgm^{2}s^{-1},d
+Which particles are responsible for strong nuclear force?,সকল নিউক্লিয় বলের জন্য কোন কণা দায়ী?,Graviton,Neutrino,Meson,Electron,গ্রাভিটন,নিউট্রিনো,মেসন,ইলেকট্রন,c
+"Equation of moment of force-
+ i. \vec{\tau} = \vec{r} \times \vec{F}
+ Ii. \vec{\tau} = 1 \vec{a}
+ Iii. \vec{\tau} = \frac{d\vec{L}}{dt}
+ Which of the following is true?","বলের ভ্রামকের সমীকরণ-
+i. \vec{\tau }=\vec{r}\times \vec{F}
+ii. \vec{\tau }=I\vec{\alpha }
+iii. \vec{\tau }=\frac{d\vec{L}}{dt}
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+The amount of work will be zero if the angle between the applied force and displacement is-,কাজের মান শূন্য হবে যদি প্রযুক্ত বল ও সরণের মধ্যবর্তী কোণ-,90\degree,180\degree,0\degree,360\degree,90^{\circ},180^{\circ},0^{\circ},360^{\circ},a
+Relation between kinetic energy and momentum is-,গতিশক্তি ও ভরবেগের মধ্যে সম্পর্ক কোনটি?,K = \frac{2P}{m},k = \frac{P}{2m},K = \frac{2P^{2}}{m},K = \frac{P^{2}}{2m},K = \frac{2P}{m},K = \frac{P}{2m},K = \frac{2P^{2}}{2m},K = \frac{P^{2}}{2m},d
+Time period of a particle having simple harmonic motion is 10 seconds. Which equation expresses the relation between acceleration 'a; and displacement 'x'?,সরল ছন্দিত স্পন্দনশীল একটি কণার দোলনকাল 10 s। কোন সমীকরণটি এর ত্বরণ 'a' এবং সরণ 'x' এর সম্পর্ক প্রকাশ করে?,a = - (10\pi)x,a = - (20\pi)x,a = - \left ( \frac{2p}{10} \right ) x,a = - (20\pi)^{2}x,a = -(10\pi)x,a = -(20\pi)x,a = -\left ( \frac{2\pi}{10} \right )^{2}x,a = -(20 \pi)^{2}x,c
+The maximum velocity of a particle having simple harmonic motion is 0.03ms^{-1}. If the amplitude of the particlse is 0.006m. Then what is the angular frequency of the particle?,একটি সরল ছন্দিত গতিসম্পন্ন কণার সর্বোচ্চ বেগ 0.03 ms^{-1}। কণাটির বিস্তার 0.006 হলে কৌণিক কম্পাঙ্ক কত?,3rad s^{-1},10 rad s^{-1},5 rad s^{-1},7 rad s^{-1},3 rad s^{-1},10 rad s^{-1},5 rad s^{-1},7 rad s^{-1},c
+The direction of which quantity is not fixed?,নিচের কোনটির দিক নির্দিষ্ট নয়?,Equal vector,Opposite vector,Parallel vector,Null vector,সমান ভেক্টর,বিপরীত ভেক্টর,সমান্তরাল ভেক্টর,ভেক্টর,d
+1 kg watt hour is equal to,1 kg-watt ঘন্টা সমান-,1000 J,3600 J,600 J,600000 J,1000 J,3600 J,600 J,J,d
+"T amount of tension is applied to a spring which force constant is K. As a result the length is increased by x. In this condition, the stored potential energy within the string will be-",K বল ধ্রুবকের একটি স্প্রিং এ T পরিমাণ টান প্রয়োগ করা হলো। ফলে দৈর্ঘ্য বৃদ্ধি হয় x পরিমাণ। এ অবস্থায় স্প্রিংটিতে সঞ্চিত বিভবশক্তি হবে-,\frac{2T^{2}}{k},\frac{T^{2}}{2k},\frac{T^{2}}{2x},\frac{2k}{T^{2}},\frac{2T^{2}}{k},\frac{T^{2}}{2k},\frac{T^{2}}{2x},\frac{2k}{T^{2}},b
+"If the temperature is increased at constant volume, then-",আয়তন স্থির রেখে গ্যাসের তাপমাত্রা বৃদ্ধি করা হলে-,the pressure will be decreased,the pressure will be in increased,the pressure will constant,none of above,চাপ হ্রাস পাবে,বৃদ্ধি পাবে,চাপ ধ্রুব থাকবে,কোনোটিই নয়,b
+What is the value of a null vector?,একটি নাল ভেক্টরের মান কত হবে?,1,-1,\pm 1,0,1,-1,\pm 1,0,d
+If |\vec{A} + \vec{B}| = |\vec{A} - \vec{B}| then the angle between them will be?,|\vec{A} + \vec{B}| = |\vec{A} - \vec{B}| হলে \vec{A} ও \vec{B}  এর মধ্যবর্তী কোন হবে-,0\degree,30\degree,90\degree,180\degree,0\degree,30\degree,90\degree,180\degree,c
+The unit of angular momentum-,কৌণিক ভরবেগের একক কোনটি?,kgms^{2}s^{-2},kgm^{2}s^{-1},kgm^{2}s^{-3},kgms^{-1},kgms^{2}s^{-2},kgm^{2}s^{-1},kgm^{2}s^{-3},kgms^{-1},b
+The moment of inertial of a wheel is 5 \times 10^{-3} kgm^{2} and it is revolving 20 times per second. If the wheel is stopped in 20 sec then the angular acceleration will be-,একটি চাকার জড়তার ভ্রামক 5 \times 10^{-3} kgm^{2} এবং এটি প্রতি সেকেন্ডে 20 বার আবর্তন করছে। চাকাটিতে 20 সেকেন্ডে থামানো হলে ইহার কৌণিক ত্বরণ হবে-,\pi rads^{-2},2\pi rads^{-2},4\pi rads^{-2},8\pi rads^{-2},\pi rads^{-2},2\pi rads^{-2},4\pi rads^{-2},8\pi rads^{-2},b
+Banking angle is measured with respect to which?,ব্যাংকিং কোণ পরিমাপ করা হয় কোনটির সাপেক্ষে?,With respect to horizontal direction,With respect to vertical direction,With respect to the outward direction from the centre of circle,With respect to the direction towards the centre of circle,অনুভূমিক দিকের সাপেক্ষে,উলম্ব দিকের সাপেক্ষে,বৃত্তের কেন্দ্র হতে বাইরের দিকে সাপেক্ষে,বৃত্তের কেন্দ্রের দিকের সাপেক্ষে,a
+Which is the dimension of potential?,বিভবশক্তির মাত্রা কোনটি?,ML^{2}T^{-2},ML^{2}T^{-1},MLT^{-2},ML^{2}T^{-2},ML^{2}T^{-2},ML^{2}T^{-1},MLT^{-2},ML^{2}T^{-2},a
+If the mass and velocity are increased by three times then how much times will increase in kinetic enrgy?,ভর এবং বেগ উভয়কে বৃদ্ধি করে যথাক্রমে তিনগুণ করা হলে গতিশক্তির বৃদ্ধির পরিমাণ কতগুণ হবে?,7,21,18,8,27,21,18,8,a
+A motor of 2.5kw is used to lift water at a average heihgt of 6.30m from an well. If the efficiency of this motor is 85% then how many kilogram of water can be lifted per minute?,85% দক্ষতাসম্পন্ন 2.5 kW ক্ষমতার একটি মোটরচালিত পাম্প দ্বারা একটি কূপ হতে গড়ে 6.30m উচ্চতায় পানি উঠানো হয় প্রতি মিনিটে মোটরটি কত কিলোগ্রাম পানি উঠাতে পারবে?,2075,2065,2045,2025,2075,65,2045,2025,b
+Phase means-,দশা বলতে বুঝায়-,Velocity,acceleration,position,all,বেগ,ত্বরণ,অবস্থান,সবগুলো,d
+The relation between acceleration and displcement of simple harmonic motion is-,সরলছন্দিত স্পন্দন গতির ত্বরণ ও সরণের সম্পর্কটি হলো-,in same direciton,in opposite direction,at rest,inverse proportional,সমমুখী,বিপরীতমুখী,স্থির,ব্যস্তানুপাতিক,b
+The state of an object with simple harmonic motion at t= 0 is called-,i = 0 সময়ে সরলদোলন গতিসম্পন্ন কোনো বস্তুর দশাকে বলা হয়-,angular phase,linear phase,initial phase,instantaneous phase,কৌণিক দশা,রৈখিক দশা,দশা,তাৎক্ষণিক দশা,c
+"An objdect with 0.01 kg has achieved simple harmonic motion along the straight line. Its time period is 2sec amplitude is 0.1m and displacement is 0.02m. 
+ 
+ What is the value of force constant?","0.01 kg ভরের একটি বস্তুকণা সরলরেখা বরাবর সরল দোলন গতি অর্জন করে। এর দোলনকাল  2 sec বিস্তার 0.1 m এবং সরণ 0.02m.
+
+বল ধ্রুবকের মান কত?",0.0314 Nm^{-1},0.09865 Nm^{-1},0.02465 Nm^{-1},0.3944 Nm^{-1},0.0314 Nm^{-1},0.09865 Nm^{-1},0.02465 Nm^{-1},0.3944 Nm^{-1},b
+"An objdect with 0.01 kg has achieved simple harmonic motion along the straight line. Its time period is 2sec amplitude is 0.1m and displacement is 0.02m. 
+ 
+ During the motion as mentioned in the stem, how much times the kinetic energy with respect to the potential energy will be?","0.01 kg ভরের একটি বস্তুকণা সরলরেখা বরাবর সরল দোলন গতি অর্জন করে। এর দোলনকাল  2 sec বিস্তার 0.1 m এবং সরণ 0.02m.
+
+
+উদ্দীপকে উল্লিখিত সরণকালে গতিশক্তি বিভবশক্তির কতগুণ?",0.42,2.4,4.2,24,0.42,2.4,4.2,24,d
+What do you mean by dew point?,শিশিরাঙ্ক বলতে বুঝা যায়-,Heat,Temperature,Relative humidity,Absolute humidity,তাপ,তাপমাত্রা,আপেক্ষিক আর্দ্রতা,পরম আর্দ্রতা,b
+"The pressure by gas depends on it's -
+ i. density 
+ ii. Atomic velocity 
+ iii. Nature
+ Which one is correct?","গ্যাস কর্তৃক প্রদত্ত চাপ নির্ভর করে গ্যাসের-
+i. ঘনত্বের উপর
+ii. আণবিক বেগের উপর
+iii. প্রকৃতিক উপর
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If a gas is heated at 30\degree C at constant pressure, then the volume will be three times, What is the final temperature of the gas?",30^{\circ}C তাপমাত্রায় একটি গ্যাসকে স্থির চাপে উত্তপ্ত করা হলে আয়তন তিনগুণ হয়। গ্যাসটির চূড়ান্ত তাপমাত্রা কত হবে?,\text{+ 909\degree C},\text{+ 636\degree C},\text{+ 276\degree C},\text{- 170\degree C},+ 909\degree C,+ 636\degree C,+ 276\degree C,- 170\degree C,b
+If the relative humidit is low-,বায়ুর আপেক্ষিক আর্দ্রতা কম হলে-,vapourization will be slow,there is a possibilit of rain,**apourization will be fast,the day will be painful,বাষ্পায়ন ধীর গতিতে হবে,বৃষ্টি হওয়ার সম্ভবনা আছে,বাষ্পায়ন দ্রুত গতিতে হবে,দিনটি কষ্টদায়ক হবে,c
+Which one of the following is the example of fundamental unit?,নিম্ন্নের কোনটি মৌলিক এককের উদাহরণ?,Unit of displacement,Unit of velocity,Unit of acceleration,Unit of force,সরণের একক,বেগের একক,ত্বরণের একক,বলের একক,a
+If the scalar product of two vectors is 18 and vector product of these two vectors is 6. What is the angle between there two vectors?,দুটি ভেক্টর রাশির স্কেলার গুণফল \sqrt{18} এবং ভেক্টর গুণফল \sqrt{6}। ভেক্টরদ্বয়ের মধ্যবর্তী কোণ হবে-,120\degree,90\degree,60\degree,30\degree,120^{\circ},90^{\circ},60^{\circ},30^{\circ},d
+If the radius of the earth is R3 at which height the value of g will behalf of the value on the earth surface,R পৃথিবীর ব্যাসার্ধ হলে ভূ-পৃষ্ঠ হতে কত উচ্চতায় g এর মান ভূ-পৃষ্ঠে মানের অর্ধেক হবে,0.207 R,0.414 R,2 R,4R,0.207 R,0.414 R,2R,4R,b
+"Impulse of force is-
+ i. aproduct of a force and the duration of action of the force 
+ ii. The change of mementum 
+ iii. The rate of changes of omentum 
+ Which one is correct?","বলের ঘাত হচ্ছে-
+i. বল ও বলের ক্রিয়াকালে গুণফল
+ii. ভরবেগের পরিবর্তন
+iii. ভরবেগের পরিবর্তনের হার
+নিচের কোনটি সঠিক",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+At the equator gravitational the acceleration due to gravity is g' then-,নিচের রেখায় অভিকর্ষীয় ত্বরণের মান g' হলে-,g' = 1 + \omega^{2}R,g' = 1 - \omega^{2}R,g' = g - \omega^{2}R,g' = g + \omega^{2}R,{g}'=1+\omega ^{2}R,{g}'=1-\omega ^{2}R,{g}'=g-\omega ^{2}R,{g}'=g+\omega ^{2}R,c
+If|\vec{R}| = |\vec{A}| + |\vec{B}| = 0 then \vec{A} and \vec{B} are-,#ERROR!,unequal and opposite,Unequal and same directional,equal and same directional,equal and opposite,মূল ভেক্টর দুটি অসমান ও বিপরীতমুখী,মূল ভেক্টর দুটি অসমান ও সমমুখী,মূল ভেক্টর দুটি সমান ও সমমুখী,মূল ভেক্টর দুটি সমান ও বিপরীতমুখী,d
+Work done by the centripetal force is-,কেন্দ্রমুখী বল দ্বারা কৃত কাজ-,infinity,positive,zero,negative,অসীম,ধনাত্মক,শূন্য,ঋণাত্মক,c
+The radius of the earth is R and acceleration due to gravity on earth due to gravity at a height of h from the earth surface.,পৃথিবীর ব্যাসার্ধ 'R' এবং পৃথিবীতে অভিকর্ষজ ত্বরণ 'g'। পৃথিবীপৃষ্ঠ হতে 'h' উচ্চতায় অভিকর্ষজ ত্বরণ কত?,g(R-h)/R,gR^{2}/(R + h)^{2},gR/(R+h),g(R - h)^{2}/R^{2},g(R-h)/R,gR^{2}/(R+h)^{2},gR/(R+h),g(R-h)^{2}/R^{2},b
+Which on is perpendicular to \vec{A} = 3\vec{i} + 6\vec{j}?,\vec{A}=3\hat{i}+6\hat{j} এর উপর লম্ব কোনটি?,3\vec{i} - 6\vec{j},3\vec{i},8\vec{k},6\vec{j},3\hat{i}-6\hat{j},3\hat{i},8\hat{k},6\hat{j},c
+At N.T.P the density of hydrogen is 0.09 kgm^{-3}. determine the root mean square velocity of molecules.,N.T.P. তে হাইড্রোজেনের ঘণত্ব 0.09 অনুগুলোর মূল গড় বর্গবেগ নির্ণয় করো।,1.84 kms^{-1},2.84 kms^{-1},3.38 kms^{-1},4.00 kms^{-1},1.84 kms^{-1},2.84 kms^{-1},3.38 kms^{-1},4.00 kms^{-1},a
+The maximum angular amplitude of a simple pendulum is-,সরল দোলকের ক্ষেত্রে সর্বোচ্চ কৌণিক বিস্তার হবে-,1\degree,4\degree,30\degree,40\degree,r^{\circ},4^{\circ},30^{\circ},40^{\circ},b
+"If the mass of the earth is M and the radius is R, the ratio of G/g on the earth surface is-",পৃথিবীর ভর M এবং ব্যাসার্ধ R হলে পৃথিবী পৃষ্ঠে G/g এর অনুপাত হবে-,\frac{R^{2}}{M},\frac{M}{R^{2}},\frac{R}{M},\frac{M}{R},\frac{R^{2}}{M},\frac{M}{R^{2}},\frac{R}{M},\frac{M}{R},a
+What kind of energy will be stored when a spring is expanded?,স্প্রিংকে প্রসারিত করলে এর মধ্যে কোন ধরনের শক্তি সঞ্চিত হয়?,Potential energy,Kinetic energy,Chemial energy,Chemical energy,বিভবশক্তি,গতিশক্তি,রাসায়নিক শক্তি,তাপশক্তি,a
+In case of second pendulum which one is correct?,সেকেন্ড দোলকের ক্ষেত্রে কোনটি সঠিক?,g = 4\pi^{2} (1 + r),g = \frac{(1 + r)}{4\pi^{2}},g = \frac{4\pi^{2}}{(1 + r)},g = \pi^{2} (1 + r),g=4\pi^{2}(l+r),g=\frac{(l+r)}{4\pi^{2}},g=\frac{4\pi^{2}}{(l+r)},g=\pi^{2}(l+r),d
+The total energy of a molecule of 6 degree of freedom is,6 স্বাধীনতা মাত্রা সম্পন্ন কোনো অণুর মোট শক্তি হবে-,\frac{1}{2} KT,KT,3KT,6 KT,\frac{1}{2} KT,KT,3 KT,6 KT,c
+Work done on a body by a frictional force is,ঘর্ষণ বল দ্বারা বস্তুর উপর কৃতকাজ-,positive,negative,zero,force * retardation,ধনাত্মক,ঋণাত্মক,শূণ্য,বল \times মন্দন,b
+The relative humidity in a particular place is 80%. Saturated vapour pressure at dew point is 10.52 mmH gP. What is the saturated vapour pressure at the air temperature,কোনো স্থা্থানের আপেক্ষিক আর্দ্রতা 80% শিশিরাঙ্কে সম্পৃক্ত বাষ্পচাপ 10.52 mm পারদ চাপ। বায়ুর তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ কত?,13.15 mm HgP,17.60 mm HgP,18.416 mm HgP,76.04 mm HgP,13.5mm Hgp,17.60mm Hgp,18.416 mm Hgp,76.04mm Hgp,a
+"A force of 20N is applied along the length of a steel wire of length 2m and area of cross-section 1mm^{2}. [Y=2 \times 11^{11} Nm^{-2}]
+ 
+ What is the increase in length?","2m দৈর্ঘ্য ও 1mm^{2} প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট একটি ইস্পাতের তারের প্রান্তে 20N বল প্রয়োগ করা হলো। [Y=2\times 10^{11}Nm^{-2}]
+প্রস্থচ্ছেদের ক্ষেত্রফল 2 ও বল দ্বিগুণ হলে দৈর্ঘ্য বৃদ্ধি পূর্বের কতগুণ হবে?",2 \times 10^{-4} m,1.99m,5 \times 10^{34} m,2 \times 10^{4} m,1 গুণ,2 গুণ,3 গুণ,4 গুণ,a
+"A force of 20N is applied along the length of a steel wire of length 2m and area of cross-section 1mm^{2}. [Y=2 \times 11^{11} Nm^{-2}]
+ 
+ How times the length will be increased if the area of cross-section is 2mm^{2} and the force is twice?","2m দৈর্ঘ্য ও 1mm^{2} প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট একটি ইস্পাতের তারের প্রান্তে 20N বল প্রয়োগ করা হলো। [Y=2\times 10^{11}Nm^{-2}]
+প্রস্থচ্ছেদের ক্ষেত্রফল 2 ও বল দ্বিগুণ হলে দৈর্ঘ্য বৃদ্ধি পূর্বের কতগুণ হবে?",1 time,2 times,3 times,4 times,1 গুণ,2 গুণ,3 গুণ,4 গুণ,a
+If kinetic energy of an objdect is doubled then its velocity will be_ of initial velocity.,একটি বস্তুর গতিশক্তি দ্বিগুণ হলে এর বেগ হবে আদিবেগের-,100%,141%,200%,400%,100%,141%,200%,400%,b
+power in case of rotational motion,আবর্ত ঘূর্ণন গতির ক্ষেত্রে ক্ষমতা-,torque \times tme,torque \times angular displacement,torque \times angular velocity,torque \times angular acceleration,টর্ক \times সময়,টর্ক \times  কৌণিক সরণ,টর্ক \times  কৌণিক বেগ,টর্ক \times  কৌণিক ত্বরণ,c
+"The unit of torque-
+ i. Nm 
+ ii. dyne-cm
+ iii. Ft-poundal 
+ Which one is correct?","টর্কের একক-
+i. Nm
+ii. dync-cm
+iii. ft-poundal
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Force constant of two springs are 200 Nm^{-1} amd 300 Nm -1. What will be the force constant if the two springs will be connected in series?,দুটি স্প্রিং এর ভল ধ্রুবক 200 Nm^{-1} ও 300 Nm^{-1} হলে শ্রেণি সমবায়ে তাদের বল ধ্রুবক কত হবে?,100 Nm^{-1},120 Nm^{-1},250 Nm^{-1},500Nm^{-1},100 Nm^{-1},120 Nm^{-1},250 Nm^{-1},500 Nm^{-1},b
+Which one is not valid for poisson's Ratio?,পয়সনেের অনুপাতের ক্ষেত্রে কোনটি খাটে না?,-0.6,-0.1,0.1,0.6,-0.6,-0.1,0.1,0.6,d
+"How much additional velocity is to be added to a satellite orbiting in a circular path near earth's surface, so that it will go beyond the attraction of the earth?",ভূ-পৃষ্ঠের কাছাকাছি বৃত্তাকার পথে পরিভ্রমণরত কোনো উপগ্রহকে অতিরিক্ত কত বেগ দিলে সেটি পৃথিবীর আকর্ষণ ছাড়িয়ে চলে যাবে?,10.8 kms^{-1},9.2 kms^{-1},7.8 kms^{-1},3.2 kms^{-1},10.8 kms^{-1},9.2 kms^{-1},7.8 kms^{-1},3.25 kms^{-1},d
+A vector field is found from a scalar field by which of the following?,নিচের কোনটির মাধ্যমে স্কেলার ক্ষেত্র থেকে ভেক্টর ক্ষেত্র পাওয়া যায়?,Gradient,Divergence,Curl,Triple product,গ্র্যাডিয়েন্ট,ডাইভারজেন্স,কার্ল,ত্রিগুণন,a
+A particle shows simple harmonic Motion has displacement 5 cm and acceleration 80 cms^{-2}. It's time period-,একটি সরলদোল গতিসম্পন্ন কণার সরণ 5 cm এবং এর ত্বরণ 80 cms^{-2} হলে এর পর্যাকাল-,\frac{\pi}{4},\frac{\pi}{2},\pi,2\pi,\frac{\pi}{4},\frac{\pi}{2},\pi,2\pi,b
+If the leas count of a spherometer is 0.01 mm which of the following thickness can be measured accurately?,"স্ফেরোোমিটারের লঘিষ্ঠ ধ্রুবকের মান 0.01 mm হলে, নিচের কোন বেধটি নির্ভুলভাবে মাপা যাবে?",0.005mm,0.001 mm,0.02 mm,0.002 mm,0.005 mm,0.001 mm,0.02 mm,0.002 mm,c
+The cross product between thse radius vector and froce is-,ব্যাসার্ধ ভেক্টর ও বলের ভেক্টর গুণফল হচ্ছে-,work,moment of inertia,torque *angular velocity,angular mementum,কাজ,জড়তার ভ্রামক,টর্ক,কৌণিক ভরবেগ,c
+"If resultanat force on an object becomes zero-
+ i. moves with constant velocity
+ ii. Moves with constant acceleration 
+ iii. Kinetic energy does not change
+ Which one is correct?","কোনো বস্তুর উপর লব্ধি বল শূন্য হলে-
+i. সমবেগে চলে
+ii. সমত্বরণে চলে
+iii. গতিশক্তি পরিবর্তন হয় না
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+What is the degree of freedom of N_{2} gas,N_{2} গ্যাসের স্বাধীনতার মাত্রা কত?,3,5,6,9,3,5,6,9,b
+Who explained first the laws of gases by using kinetic theory?,গ্যাসের গতিতত্ত্বের সাহায্যে গ্যাসের সূত্রাবলি সর্বপ্রথম ব্যাখ্যা করেন কে?,Clausius,Maxwell,Bernoulli,Boltzmann,ক্লসিয়াস,ম্যাক্সওয়েল,বানৌলি,বোল্টজম্যান,c
+Escape velocity depends on which of the following-,মুক্তিবেগ নিচের কোনটির উপর নির্ভর করে?,planet's radius,distance travelled by the object,time taken,objects mass,গ্রহের ব্যাসার্ধ,বস্তুর অতিক্রান্ত দূরত্ব,অতিবাহিত সময়,বস্তুর ভর,a
+"by keeping mass constant, if the radius of earth is doubled, the weight of an object will be-",ভর ধ্রুব রেখে পৃথিবীর ব্যাসার্ধ দ্বিগুণ করা হলে কোনো বস্তুর ওজন হবে-,one-fourth,halves,doubled,four times,এক-চতুর্থাংশ,অর্ধেক,দ্বিগুণ,চারগুণ,a
+Example of a scalar quantity is -,স্কেলার রাশির উদাহরণ-,work,force,torque,angular momentum,কাজ,বল,টর্ক,কৌণিক ভরবেগ,a
+The magnitude of the resultant of two vectors will be maximum when angle between them is-,দুুটি ভেক্টর লব্ধির মান সর্বোচ্চ হবে যখন এদের মধ্যবর্তী কোন-,0\degree,45\degree,60\degree,180\degree,0^{\circ},45^{\circ},60^{\circ},180^{\circ},a
+Mass and radius of a wheel is 2.5kg and 2m respectively. The torque needed to produce 10rads^{-2} of angular acceleration to the wheel is-,একটি চাাকার ভর এবং ব্যাসার্ধ যথাক্রমে 2.5 kg এবং 2 m; চাকাটিতে 10 rads^{-2} কৌণিক ত্বরণ সৃষ্টি করতে প্রয়োজনীয় টর্ক-,10Nm,25Nm,50Nm,100Nm,10 Nm,25 Nm,50 Nm,100 Nm,d
+"A mango of 200 gm falls down from a branch of height 15m on the mud below and produces a hole of 10cm depth. [g= 9.8ms^{-2}] 
+ 
+ What is the average resisting force of mud?","15m উঁচু একটি গাছের ডাল হতে 200g ভরের একটি আম নিচের কাদা মাটিতে পড়ে 10 cm গর্তের সৃষ্টি করে। [g = 9.8 ms^{-2}]
+কাদা মাটির গড় প্রতিরোধ বল কত?",29.40N,292.04N,294.00N,295.96N,29.40 N,292.04 N,294.00 N,295.96 N,d
+"A mango of 200 gm falls down from a branch of height 15m on the mud below and produces a hole of 10cm depth. [g= 9.8ms^{-2}] 
+ 
+ At what height from the earth the potential energy of the mango will be twice its kinetic energy?","15m উঁচু একটি গাছের ডাল হতে 200g ভরের একটি আম নিচের কাদা মাটিতে পড়ে 10 cm গর্তের সৃষ্টি করে। [g = 9.8 ms^{-2}]
+ভূমি হতে কত উচ্চতায় আমটির বিভবশক্তি এর গতিশক্তি দ্বিগুণ হবে?",5m,8m,10m,12m,5 m,8 m,10 m,12 m,c
+What is called a pendulum which takes 0.5 second to make maximum displacement from the equilibrium?,যে দোলক সাম্যাবস্থান হতে সর্বাধিক সরণে যেতে 0.5 সেকেন্ড সময় নেয় তাকে কী বলে?,Simple pendulum,Compound pendulum,Second pendulum,Keter's pendulum,সরল দোলক,জটিল দোলক,সেকেন্ড দোলক,কেটার দোলক,c
+"Unit for a energy is - 
+ i. joule
+ ii. Kgm^{2}s^{-2}
+ iii. Electron-volt
+ Which one is correct?","শক্তির একক-
+i. জুল
+ii. kgm^{2}s^{-2}
+iii. ইলেকট্রন ভোল্ট
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What are the thermodynamical variables in case of gas,গ্যাসের ক্ষেত্রে তাপগতীয় চলরাশি কী কী?,"Volume, Mass and Density","Volume, Temperature and Density","Volume, Mass and Temperature","Volume, Temperature and pressure","আয়তন, ভর ও ঘনত্ব","আয়তন, তাপমাত্রা ও ঘনত্ব","আয়তন, ভর ও তাপমাত্রা","আয়তন, তাপমাত্রা ও চাপ",d
+The magnitude of vector 3\hat{i} - 4\hat{j} + 12\hat{k},3\hat{i}-4\hat{j}+12\hat{k} ভেক্টরটি মান-,9 unit,13 unit,18 unit,36 unit,9 একক,13 একক,18 একক,36 একক,b
+"If mass of a particle oscillating in simple harmonic motion is m and frequency is \omega, then force constant will be-",একটি সরল দোলগতি সম্পন্ন বস্তুকণার ভর m এবং কম্পাঙ্ক \omega হলে বল ধ্রুবকটি হবে-,\sqrt{\frac{m}{\omega}},m\omega,m\omega^{2},\sqrt{\frac{\omega}{m}},\sqrt{\frac{m}{\omega }},m\omega,m\omega^{2},\sqrt{\frac{\omega }{m}},c
+"If water vpour decreases in air, then",বায়ুুতে জলীয় বাষ্পের পরিমাণ কমে গেলে-,air density decrease,air density increases,water vapour pressure increases,relative humidity increases,বায়ুর ঘনত্ব কমে,বায়ুর ঘনত্ব বাড়ে,জলীয় বাষ্পচাপ বাড়ে,আপেক্ষিক আর্দ্রতা বাড়ে,b
+\vec{A} = 3\hat{i} + 2\hat{j} + \hat{k}; \vec{B} = 6\hat{i} - m\hat{j} + 4\hat{k} for what value of m; the two vectors will be perpendicular to each other?,"\vec{A}=3\hat{i}+2\hat{j}+\hat{k}; \vec{B}=6\hat{i}+m\hat{j}+4\hat{k}, m এর মানর কত হলে ভেক্টরদ্বয় লম্ব হবে?",9,11,12,13,9,11,12,13,b
+"When pressure of a gas at constant volume and 0\degree C temperature is doubled, its final temperature will be-",স্থির আয়তনে 0^{\circ}C তাপমাত্রায় কোনো গ্যাসের চাপ দ্বিগুণ করলে এর চূড়ান্ত তাপমাত্রা হবে-,27\degree C,273\degree C,300\degree C,546\degree C,27^{\circ}C,273^{\circ}C,300^{\circ}C,546^{\circ}C,b
+In which case of the following a gas behaves like an ideal gas?,নিম্নলিখিত কোন ক্ষেত্রে একটি গ্যাস আদর্শ গ্যাসের ন্যায় আচরণ করে?,Low pressure and high temperature,High pressure and low temperature,Low pressure and low temperature,High pressure and high temperature,নিম্নচাপ ও উচ্চ তাপমাত্রায়,উচ্চ চাপ ও নিম্ন তাপমাত্রায়,নিম্নচাপ ও নিম্ন তাপমাত্রায়,উচ্চ চাপ ও উচ্চ তাপমাত্রায়,a
+Which is the dimension for angular momentum?,কৌণিক ভরবেগের মাত্রার কোনটি?,ML^{2}T^{-1},ML^{-2}T^{-2},ML^{-1}T^{-1},ML^{-1}T^{-2},ML^{2}T^{-1},ML^{-2}T^{-2},ML^{-1}T^{-1},ML^{-1}T^{-2},a
+An object of m mass remain active in simple harmonic motion. What will be the angular frequency?,m ভরের একটি বস্তু সরল ছন্দিত স্পন্দনে গতিশীল আছে। এর কৌণিক কম্পাঙ্ক হবে-,\omega = 2\pi \sqrt{\frac{m}{k}},\omega = 2\pi \sqrt{\frac{k}{m}},\omega = \sqrt{\frac{m}{k}},\omega = \sqrt{\frac{k}{m}},\omega =2\pi\sqrt{\frac{m}{k}},\omega =2\pi\sqrt{\frac{k}{m}},\omega =\sqrt{\frac{m}{k}},\omega =\sqrt{\frac{k}{m}},d
+"Radius of the earth is R, the distance of apoint from rhe centre of earth is r and gravitaional acceleration 'g'. What is the relation between 'g' & 'r'? 
+ i. g \propto r, when r < R
+ ii. g \propto \frac{1}{2^{2}}, when r > R
+ iii. g \propto \frac{1}{r^{2}}, when r = R
+ Which one is correct?","পৃথিবীর ব্যাসার্ধ R, পৃথিবীর কেন্দ্র থেকে কোনো বিন্দুর দূরত্ব r এবং অভিকর্ষজ ত্বরণ g এর মধ্যে সম্পর্ক-
+i. g\infty r, যখন r < R হয়
+ii. g\infty \frac{1}{r^{2}}, যখন r > R হয়
+iii. g\infty \frac{1}{r}, যখন r > R হয়
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+Which one of the ratio of Poisson value?,পয়সনের অনুপাতের মান কোনটি?,- \frac{1}{2} \leq \sigma \leq 1,- 1 \leq \sigma \leq \frac{1}{2},\frac{1}{2} \leq \sigma \leq 2,1 \leq \sigma \leq 2,-\frac{1}{2}\leq \sigma \leq 1,-1\leq \sigma \leq \frac{1}{2},\frac{1}{2}\leq \sigma \leq 1,1\leq \sigma \leq 2,b
+"If gravitational acceleration at h height from the surface of earth is , any object will lose its weigh-",পৃথিবীর পৃষ্ঠ হতে h উচ্চতায় অভিকর্ষীয় ত্বরণ \frac{g}{4} হলে কোনো বস্তু সেখানে তার ওজন হারাবে-,25%,75%,85%,90%,25%,75%,85%,90%,b
+An object of 7 kg mass is involved in elastic collission with a static object. After time collision the object moves at one fourth of initial speed. What is the mass of the static object?,7 kg ভরের একটি বস্তু একটি স্থির বস্তুর সাথে স্থিতিস্থাপক সংঘর্ষে লিপ্ত হলো। সংঘর্ষের পর বস্তু একই দিকে আদি বেগের এক-চতুর্থাংশ বেগ নিয়ে চলতে থাকে। স্থির বস্তুর ভর কত?,2.2 kg,4.2 kg,8.2 kg,14.2 kg,2.2 kg,4.2 kg,8.2 kg,14.2 kg,b
+"If a water bubble from any lower part of a lake comes to the upper part, the diameter of the bubble becomes three times, the temperatur and densityof the lake water is same, What is the depth of the lake? [air pressur 105 pa]",কোনো হ্রদের তলদেশ থেকে পানির উপরিতলে আসায় একটি বুদবুদের ব্যাস তিনগুণ হয়। হ্রদের পানির সর্বত্র তাপমাত্রা ও ঘনত্ব সমান হলে হ্রদের গভীরতা কত? [বায়ুর চাপ = 10^{5} Nm^{-2}],265.3m,81.63m,20.4m,9.33m,265.3 m,81.63 m,20.4 m,9.33 m,a
+"If the resultant of external torque on an object is zero-
+ i. static objdect will remain static 
+ ii. Rotational object will stop
+ iii. Rotational object will be rotating with uniform angular velocity
+ Which answer is correct below?","কোনো বস্তুর উপর বাহ্যিক টর্কের লব্ধি শূণ্য হলে-
+i. স্থির বস্তু স্থির থাকে
+ii. ঘূর্ণায়মান বস্তু থেমে যাবে
+iii. ঘূর্ণায়মান বস্তু সমকৌণিক বেগে ঘুরতে থাকবে
+নিচের কোনটি সঠিক",i & ii,i & iii,ii & iii,"i, ii & iii",i,ii,i ও ii,i ও iii,d
+1 rps= ?,1 rps = ?,\frac{\pi}{2} rad s^{-1},\pi rad s^{-1},2\pi rad s^{-1},4\pi rad s^{-1},\frac{\pi}{2}rad s^{-1}},\pi rad s^{-1},2\pi rad s^{-1},4\pi rad s^{-1},c
+How much time a day will a second pendulum lose its length is incresed by 1%,একটি সেকেন্ড দোলকের দৈর্ঘ্য 1% বৃদ্ধি করলে উক্ত দোলকটি দিনে কত সেকেন্ড সময় হারাবে?,129.8,258.5,327.5,429.8,129.8 s,258.5 s,327.5 s,429.8 s,d
+What is the kinetic energy of a two molecular gas?,দ্বিপরমাণুক গ্যাসের গতিশক্তির পরিমাণ কত?,\frac{1}{2}KT,\frac{3}{2}KT,\frac{7}{2}KT,\frac{5}{2}KT,\frac{1}{2}KT,\frac{3}{2}KT,\frac{7}{2}KT,\frac{5}{2}KT,d
+The relation between rms 'C' and pressure 'P' is-,মূল গড় বর্গবেগ c এবং চাপ P এর মধ্যে সম্পর্ক হল-,C = \sqrt{\frac{3P}{\rho}},C = \sqrt{\frac{3\rho}{P}},C = \sqrt{\frac{P}{3\rho}},C = \sqrt{\frac{\rho}{3P}},c=\sqrt{\frac{3P}{\rho}},c=\sqrt{\frac{3\rho}{P}},c=\sqrt{\frac{P}{3\rho}},c=\sqrt{\frac{\rho}{3P}},a
+"The temperature of wet bulb of a wet and dry bulb hygrometer is equal to the temperature of any place, then what will be the value of relative humidity of that place?",কোনো স্থানে আর্দ্র ও শুষ্ক বাল্ব হাইগ্রোমিটারের সিক্ত বাল্বের তাপমাত্রা ঐ স্থানের বায়ুর তাপমাত্রার সমান হলে আপেক্ষিক আর্দ্রতার মান হবে-,0%,30%,70%,100%,0%,30%,70%,100%,d
+"\hat{i}, \hat{j}, \hat{k} direct three unit vectors.
+  
+ \hat{i} . (\hat{k} \times \hat{j} = how much?","\hat{i}, \hat{j}, \hat{k} তিনটি একক ভেক্টর নির্দেশ করে।
+\hat{i}.(\hat{k}\times \hat{j}) = কত?",1,-1,0,k,1,-1,0,\hat{k},b
+"\hat{i}, \hat{j}, \hat{k} direct three unit vectors.
+ 
+ If the above mentioned three vectors direct three sides of a traingle in the same direction what will be the middle angle of any two vectors?",উক্ত ভেক্টর তিনটি যদি একটি ত্রিভুজের তিনবাহু একই ক্রমে নির্দেশ করে তাহলে যে কোনো দুইটি ভেক্টরের মধ্যবর্তী কোণ কত?,30\degree,60\degree,90\degree,120\degree,30^{\circ},60^{\circ},90^{\circ},120^{\circ},d
+Which force is responsible for the atomic structure and chemical reaction of matter?,বস্তুর আণবিক গঠন ও রাসায়নিক বিক্রিয়ার জন্য দায়ী কোন বল?,Gravitaional force,Electromagnetic force,Strong nuclear force,Weak nuclear force,মহাকর্ষ বল,তাড়িতচৌম্বক বল,সবল নিউক্লিয় বল,দুর্বল নিউক্লিয় বল,b
+"In the case of null vector- 
+ i. no specific direction for null vector 
+ ii. There is acceleration in null vector 
+ iii. Initial and finish point remmain in the same point
+ Which is correce answer of the bellow?","শূন্য ভেক্টরের ক্ষেত্রে-
+i. শূন্য ভেক্টরের সুনির্দিষ্ট দিক নেই
+ii. শূন্য ভেক্টরের ক্ষেত্রে ত্বরণ থাকে
+iii. শূন্য ভেক্টরের আদিবিন্দু ও শেষ বিন্দু একই বিন্দুতে থাকে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+"The length of a brick is 0.48m, width is 0.24 m and height is 0.12 m and mass is 2.5 kg. What amount of work will have to be done to keep the length of the brick in vertical position from horizontal position?","একটি ইটের দৈর্ঘ্য 0.48 m, প্রস্থ 0.24 m এবং উচ্চতা 0.12 m। এর ভর 2.5 kg ইটের দৈর্ঘ্যকে অনুভূমিক অবস্থান হতে উলম্ব অবস্থানে রাখতে কী পরিমাণ কাজ করতে হবে?",5.88J,4.41J,3.456J,1.764J,5.88 J,4.41 J,3.456 J,1.764 J,b
+"If the effective length of a second pendulum isincreased by 1%, what percentage of its time period will increase?","একটি সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য 1% বৃদ্ধি করলে, এর দোলনকাল শতকরা কত বৃদ্ধি পাবে?",0.20%,0.50%,1%,5%,0.20%,0.50%,1%,5%,b
+The equation of ideal gas for \frac{3}{2} mol is-,\frac{3}{2} মোল গ্যাসের জন্য আদর্শ গ্যাসের সমীকরণ হলো-,3PV= 2RT,2PV = \frac{1}{3} RT,2PV= 3RT,\frac{PV}{RT} = \frac{2}{3},3PV = 2RT,2PV = \frac{1}{3}RT,2PV = 3RT,\frac{PV}{RT}=\frac{2}{3},c
+The molar volume of all gases at STP is-,STP তে সকল গ্যাসের মোলার আয়তন-,22.4L,22.9L,28.4L,22.8L,22.4 L,22.9 L,28.4 L,22.8 L,a
+What is the momentum of a body of mass M and kinetic energy E?,M ভরের একটি বস্তুর গতিশক্তি E হলে এর ভরবেগ কত?,M\sqrt{2E},(\sqrt{2m})E,\sqrt{2ME},\sqrt{\frac{1}{2} ME},M\sqrt{2E},(\sqrt{2m})E,\sqrt{2ME},\sqrt{\frac{1}{2}ME},c
+If the effective length of a simple pendulum is made half then the time period of that pendulum in the centre of earth is,একটি সরলদোোলকের কার্যকর দৈর্ঘ্য অর্ধেক করে পৃথিবীর কেন্দ্রে নিয়ে গেলে এর দোলনকাল-,zero,\frac{1}{\sqrt{2}} times,unchanged,infinity,শূন্য হবে,\frac{1}{\sqrt{2}} হবে,অপরিবর্তীত থাকবে,অসীম হবে,d
+"To extend 2 cm a spring constant 100Nm^{-1}, applied force is-",100 Nm^{-1} স্প্রিং দ্রুবকসম্পন্ন একটি স্প্রিংকে 2cm প্রসারিত করতে দৈর্ঘ্য বরাবর প্রযুক্ত বল হবে-,- 1N,0.02N,2N,200N,- 1 N,0.02 N,2 N,200 N,c
+Which is correct for saturated vapour?,সম্পৃক্ত বাষ্পের ক্ষেত্রে কোনটি সঠিক?,Follow the Boyle's law,Follow the Charle's law,Does not follow Boyle's and Charle's law,It should not produce in closed container,বয়েল এর সূত্র মেনে চলে,চার্লসের সূত্র মেনে চলে,বয়েল এবং চার্লসের সূত্র মানে নাি,একটি বদ্ধ স্থানে তৈরি করা যায় না,c
+Law of pressur of absolute temperature scale is,পরম তাপমাত্রা স্কেলে চাপের সূত্র হলো-,P \propto T,P \propto T^{2},P \propto \frac{1}{T},P \propto \sqrt{T},P\infty T,P\infty T^{2},P\infty \frac{1}{T},P\infty \sqrt{T},a
+"How many times the final temperature of the initial remperature of a gas, the root mean square velocity of the gas is double",চূড়ান্ত তাপমাত্রা আদি তাপমাত্রার কত গুণ হলে কোনো নির্দিষ্ট গ্যাসের মূলগড় বর্গবেগ দ্বিগুণ হবে?,2 times,3 times,4 times,9 times,2 গুণ,3 গুণ,4 গুণ,9 গুণ,c
+The scalar product of two vector of magnitude 4 units and 5 units are acting on a point with an angle of 60\degree -,4 একক ও 5 একক মানের দুটি ভেক্ট কোনো বিন্দুতে 60^{\circ} কোণে ক্রিয়াশীল হলে স্কেলার গুণফল হবে,0 unit,1 unit,10 unit,100 unit,0 একক,1 একক,10 একক,100 একক,c
+What is the lowest resultant value of \vec{P} and \vec{Q}?,\vec{P} ও \vec{Q} এর লব্ধির সর্বনিম্ন মান কোনটি?,|\vec{P}| + |\vec{Q}|,|\vec{P}| \times |\vec{Q}|,|\vec{P}| . |\vec{Q}|,|\vec{P}| - |\vec{Q}|,\left | \vec{P} \right |+\left | \vec{Q} \right |,\vec{P}\times \vec{Q},\vec{P} . \vec{Q},\left | \vec{P} \right |-\left | \vec{Q} \right |,d
+"In the case of a rotating body, the angle between the acting force and the position vector is 
+ i. \theta = 180\degree , then the rotational force is maximum 
+ ii. \theta = 0\degree , then the rotaitonal force is minimum 
+ iii. \theta = 90\degree, the the rotational force is maximum 
+ Which one is correct?","ঘূর্ণনরত বস্তুর ক্ষেত্রে, প্রযুক্ত বল ও অবস্থান ভেক্টরের মধ্যবর্তী কোণ \theta  হলে-
+i. \theta = 180^{\circ} হলে ঘূর্ণনবল সর্বোচ্চ হবে
+ii. \theta = 0^{\circ} হলে ঘূর্ণবল সর্বনিম্ন হবে
+iii. \theta = 90^{\circ} হলে ঘূর্ণনবল সর্বোচ্চ হবে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"\vec{P} = 2 \hat{i} + \hat{j} + \hat{k} and \vec{Q} = \hat{i} + 2\hat{j} - 2\hat{k}
+ 
+ What is the magnitud of the resultant vector?","\vec{P}=2\hat{i}+\hat{j}+\hat{k} এবং \vec{Q}=\hat{i}+2\hat{j}-2\hat{k}
+ভেক্টরদ্বয়ের লব্ধির মান কত?",\sqrt{19},6,9,19,\sqrt{19},6,9,19,a
+What is the angle between the acting force and displacement for a maximum work?,সর্বোচ্চ কাজের জন্য প্রযুক্ত বল ও সরণের মধ্যবর্তী কোণ-,0\degree,30\degree,60\degree,90\degree,0^{\circ},30^{\circ},60^{\circ},90^{\circ},a
+Displacement of two vibrating particles are x = A cos\omega\tau and x = A sin\omega\tau respectively . What is the phase difference between them?,"দুুটি স্পন্দনরত কণার সরণ যথাক্রমে x = A cos\omega t এবং  হলে, এদের মধ্যকার দশা পার্থক্য কত?",\frac{p}{4},\frac{p}{2},\pi,2\pi,\frac{\pi}{4},\frac{\pi}{2},\pi,2\pi,b
+How many division of fundamental force?,মৌলিক বলকে কয়ভাগে ভাগ করা যায়?,2,3,4,9,2,3,4,9,c
+"For the explain of the properties of conservation force-
+ i. force only depends on the position 
+ ii. Only depends on the initial position and at any position
+ iii. The work done can be fully recovered
+ which one is correct?","সংরক্ষণশীল বলের বৈশিষ্ট্য প্রকাশের ক্ষেত্রে-
+i. বল শুধু অবস্থানের উপর নির্ভরশীল
+ii. শুধু বস্তুর আদি ও যেকোনো অবস্থানের উপর নির্ভর করে
+iii. কৃতকাজ সম্পূর্ণরূপে পুনরুদ্ধার করা যায়
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is called when the weight act at the special point through to the centre of the earth at any position of the object?,বস্তুকে যেভাবেই রাখা হোক না কেন তার ওজন যে বিশেষ বিন্দুর মধ্য দিয়ে পৃথিবীর কেন্দ্রের দিকে ক্রিয়া করে তাকে কী বলে?,Center of gravity,Acceleration due to gravity,Grvitational force,Gravitational field intensity,অভিকর্ষ কেন্দ্র,অভিকর্ষ ত্বরণ,মহাকর্ষ বল,মহাকর্ষ ক্ষেত্র প্রাবল্য,a
+What is the escape velocity of the planet is mass of the planet is 2 kg and radius is 7 \times 10^{7} m?,"যদি কোনো গ্রহের ভর 2\times 10^{27}kg ও ব্যাসার্ধ 7\times 10^{7}m হয় তবে ঐ গ্রহের মুক্তিবেগ কত? 
+[G=6.673\times 10^{-11}Nm^{2}Kg^{-2}]",30.8 kms^{-1},43.66 kms^{-1},61.7 kms^{-1},5.17 \times 10^{6} kms^{-1},30.8 kms^{-1},43.66 Kms^{-1},61.7 Kms^{-1},5.17\times 10^{6}kms^{-1},c
+"Which types of work done by the help ot the gravitational law? 
+ i. Natural gas extraction 
+ ii. Extraction of various minerals
+ iii. Extraction of energy gernerated by underground heat
+ Which one is correct?","মহাকর্ষ সূত্র ব্যবহার করে যে সমস্ত কাজ করা সম্ভব-
+i. প্রাকৃতিক গ্যাস উত্তোলন
+ii. বিভিন্ন খনিজ পদার্থ উত্তোলন
+iii. ভূ-গর্ভস্থ তাপঘটিত শক্তি উত্তোলন
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one is correct for the dimention of gravitational field intensity?,মহাকর্ষ ক্ষেত্র প্রাবল্যের মাত্রার ক্ষেত্রে কোনটি সঠিক?,[LT^{-1}],[LT^{-2}],[MLT^{-1}],[MLT^{-2}],[LT^{-1}],[LT^{-2}],[MLT^{-1}],[MLT^{-2}],b
+What is called when change of the shape of the object by applied force?,বল প্রয়োগে যদি কোনো বস্তুর আকারের পরিবর্তন হয় তাকে কী বলে?,Shape stress,Shape strain,Volume stress,Volume strain,আকার পীড়ন,আকার বিকৃতি,আয়তন পীড়ন,আয়তন বিকৃতি,b
+What we found by the differentiation with respect to time of differentiational equation of simple harmonic motion's object?,সময়ের সাপেক্ষে অন্তকলন করে সরল ছন্দিত গতি-সম্পন্ন বস্তুর অন্তরক সমীকরণ থেকে কী পাওয়া যায়?,Frequency,Time period,Velocity,Acceleration,কম্পাঙ্ক,পর্যায়কাল,বেগ,ত্বরণ,c
+Which one correct in mean free path?,গড় মুক্তপথের ক্ষেত্রে কোনটি সঠিক?,Mean free path is inversely proportional to temperature,Mean free path is inversely proportional to pressure,Mean free path is proportional to density,Mean free path is proportional to atom number,গড় মুক্তপথ তাপমাত্রার ব্যস্তানুপাতিক,গড় মুক্তপথ চাপের ব্যস্তানুপাতিক,গড় মুক্তপথ ঘনত্বের সমানুপাতিক,গড় মুক্তপথ অণুর সংখ্যার সমানুপাতিক,b
+Which law follows by the equation of PV= K?,PV = K সমীকরণ মেনে চলে কোন সূত্র?,Gas pressure law,Charles' law,Boyle's law,Avogadro's law,গ্যাসের চাপীয় সূত্র,চার্লসের সূত্র,বয়েলের সূত্র,অ্যাভোগ্যাড্রোর সূত্র,c
+What is called when a body travels distance in definite direction?,একটি বস্তু নির্দিষ্ট দিকে যে দূরত্ব অতিক্রম করে তাকে কী বলে?,Positional vector,Displacement vector,Unit vector,Null vector,অবস্থান ভেক্টর,সরণ ভেক্টর,একক ভেক্টর,নাল ভেক্টর,b
+"For addition \vec{A} and \vec{B}, the simple rules of vectors-
+ i. they are place prarllel in the new position 
+ ii. A line draw from tail point of vector \vec{A} to the head point of vector \vec{B} when head point of vector \vec{A} is place to the tail point of vector \vec{B}
+ iii. A line draw from head point of \vec{B} to the tail point of vector \vec{A} when tail point of vector \vec{B} is place the head of vector \vec{A}. 
+ Which one is correct?","\vec{A} ও \vec{B} এর যোগ করার ক্ষেত্রে ভেক্টর সাধারণ নিয়মের ক্ষেত্রে-
+i. নতুন অবস্থানে তাদেরকে সমান্তরালভাবে স্থানান্তর করা হয়
+ii. \vec{B} এর আদি বিন্দুকে \vec{A} এর শীর্ষ বিন্দুতে স্থাপন করে \vec{A} এর আদি বিন্দু থেকে \vec{B} এর শীর্ষ বিন্দুতে সরলরেখা টানা হয়
+iii. \vec{B} এর আদি বিন্দুকে \vec{A} এর শীর্ষ বিন্দুতে স্থাপন করে \vec{B} এর শীর্ষ বিন্দু থেকে \vec{A} এর আদি বিন্দুতে সরলরেখা টানা হয়
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the values of m for the condition of vectors are perpendicular to each other if the vector's are \vec{A} = 2\hat{i} + 3\hat{j} and \vec{B} = m\hat{i} - 2\hat{j}?,\vec{A}=2\hat{i}+3\hat{j} এবং \vec{B}=m\hat{i}-2\hat{j} এর মান কত হলে ভেক্টরদ্বয় পরস্পর লম্ব?,-3,-3/2,3/2,3,-3,- 3/2,3/2,3,d
+"What is called if \varphi (x,y,z) stay in the scalar differentiation?","যদি \varphi (x, y, z) একটি ব্যবকলনীয় স্কেলার ক্ষেত্র হয় তবে তাকে কী বলে?",Operator,Curl,Gradient,Divergence,অপারেটর,কার্ল,গ্র্যাডিয়েন্ট,ডাইভারজেন্স,c
+Which force act in radioactive decay?,তােজস্ক্রিয় ক্ষয়ের বেলায় কোন বল ক্রিয়াশীল?,Gravitational force,Electromotive force,Strong nuclear force,Weak nuclear force,মহাকর্ষ বল,তড়িৎ চৌম্বক বল,শক্তিশালী নিউক্লীয় বল,দুর্বল নিউক্লীয় বল,d
+How much tension feels in thread if the length of the thread is 0.5 m and it's moving in circular path 90 times in a minute when a stone of 0.1 kg tied to the thread?,0.1 kg ভরের একটি পাথর খণ্ডকে 0.5 m লম্বা একটি সুতার একপ্রান্তে বেঁধে বৃত্তাকার পথে প্রতি মিনিটে 90 বার ঘুরালে সুতার টান কত হবে?,0.471 N,0.21 N,4.44 N,41.79 N,0.471 N,0.21 N,4.44 N,41.79 N,c
+What is called the multiplication between distance length of the axis and applied force on the object with respect to any axis?,কোনো অক্ষ সাপেক্ষে বস্তুতে প্রযুক্ত বলের মান এবং অক্ষের লম্ব দূরত্বের গুণফলকে কী বলে?,Moment of inertia,Torque,Radius of gyration,Liner momentum,জড়তার ভ্রামক,টর্ক,চক্রগতির ব্যাসার্ধ,রৈখিক ভরবেগ,b
+What is gain of a object to it's position?,কোনো বস্তু তার অবস্থানের কারণে কী অর্জন করে থাকে?,Potential energy,Kinetic energy,Work,Power,বিভব শক্তি,গতিশক্তি,কাজ,ক্ষমতা,a
+What is the kinetic energy of an object of mass 100 kg when it's momentum is 200 kgms^{-1},100 kg ভরের একটি বস্তুর ভরবেগ 200 kgms^{-1} হলে এর গতিশক্তি কত হবে?,8 \times 10^{6}J,4 \times 10^{4}J,400J,200J,8\times 10^{6}J,4\times 10^{4}J,400 J,200 J,d
+"If kinetic energy = K mass = m and momentum= P, then which relation is correct?","যদি গতিশক্তি = K, ভর = m ও ভরবেগ = P হয়, তবে কোন সম্পর্কটি সঠিক",K = \frac{2P^{2}}{m},K = \frac{2P}{m},K = \frac{P}{2m},K = \frac{P^{2}}{2m},K = \frac{2P^{2}}{m},K = \frac{2P}{m},K = \frac{P}{2m},K = \frac{P^{2}}{2m},d
+Frequency of second pendulum-,সেকেন্ড দোলকের কম্পাঙ্ক-,0.5Hz,1 Hz,2Hz,4 Hz,0.5 Hz,1 Hz,2 Hz,4 Hz,a
+"Characteristics of equal vectors-
+ i. same quantity
+ ii. Equal magnitude
+ iii. Direction is same
+ which one is correct?","সমান ভেক্টরের বৈশিষ্ট্য-
+i. সমজাতীয় রাশি
+ii. মান সমান
+iii. দিক একই দিকে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"Angle of banking depends on-
+ i. velocity of the body 
+ ii. Mass of the body 
+ iii. Radius of curved road
+ Which one is correct?","ব্যাংকিং কোণ নির্ভর করে-
+i. বস্তুর বেগের উপর
+ii. বস্তুর ভরবেগের উপর
+iii. রাস্তার বাঁকের ব্যাসার্ধের উপর
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+\vec{A} = 5\hat{i} - 5\hat{j} + 3\hat{k}; \vec{B} = 15\hat{i} - m\hat{j} + 9\hat{k} what is the value of m so that \vec{A} \parallel \vec{B} ?,\vec{A} = 5\hat{i} - 5\hat{j} + 3\hat{k}; \vec{B} = 15\hat{i} + m\hat{j} + 9\hat{k}; m এর মান কত হলে হবে?,15,-15,16,-16,15,-15,16,-16,b
+The length of a second pendulum is -,একটি সেকেন্ড দোলকে দৈর্ঘ্য-,L = \frac{\pi}{g^{2}},L = \frac{\pi^{2}}{g},L = \frac{g^{2}}{\pi},L = \frac{g}{\pi^{2}},L=\frac{\pi}{g^{2}},L=\frac{\pi^{2}}{g},L=\frac{g^{2}}{\pi},L=\frac{g}{\pi^{2}},d
+A force \vec{F} = (2\hat{i} + 3\hat{j} - \hat{k} N acts on a particle and displacement of the particle \vec{r} = (\hat{i} + \hat{j} + \hat{k})m. What is the angle between \vec{F} and \vec{r}?,একটি কণার উপর \vec{F}=(2\hat{i}+3\hat{j}-\hat{k})N বল প্রয়োগ করায় কণাটির \vec{r}=(\hat{i}+\hat{j}+\hat{k})m সরণ ঘটে। \vec{F} ও \vec{r} এর মধ্যবর্তী কোণ কত?,48.19\degree,51.88\degree,81.84\degree,84.53\degree,48.19^{\circ},51.88^{\circ},81.84^{\circ},84.53^{\circ},b
+Dimension of torque?,টর্কের মাত্রা হলো-,MLT^{-2},ML^{2}T^{-1},ML^{2}T^{-2},ML^{2}T^{-3},MLT^{-2},ML^{2}T^{-1},ML^{2}T^{-2},ML^{2}T^{-3},c
+"If force \vec{F} and displacement \vec{r} are vector quantities, what quantity will produce by scallar product of them?",বল \vec{F} ও \vec{r} সরণ উভয়ই ভেক্টর রাশি হলে এদের স্কেলার গুণফলে কী রাশি ‍উৎপন্ন হবে?,Power,Energy,Work,Torque,ক্ষমতা,শক্তি,কাজ,টর্ক,c
+Which one is the dimension of angular momentum?,কৌণিক ভরবেগের মাত্রা কোনটি?,MLT^{-2},ML^{2}T^{-1},MLT^{-1},ML^{2}T^{-2},MLT^{-2},ML^{2}T^{-1},MLT^{-1},ML^{2}T^{-2},b
+A body of mass 200 gm falls from 10m height. What will be the kinetie energy before touching the ground?,200 gm ভরের একটি বস্তু 10 m উপর থেকে পড়লে ভূমি স্পর্শ করার পূর্ব মুহূর্তে এর গতিশক্তি কত?,19.6J,39.2J,78.4J,98J,19.6 J,39.2 J,78.4 J,98 J,a
+The magnitude of \vec{A} \times \vec{B}|^{2} + |\vec{A} . \vec{B}|^{2} -,|\vec{A} \times \vec{B}|^{2} + |\vec{A} . \vec{B}|^{2} এর মান-,|\vec{A}|^{2} + |\vec{B}|^{2},|\vec{A}|^{2} . |\vec{B}|^{2},|\vec{A} + \vec{B}|^{2},|\vec{A} - \vec{B}|^{2},|\vec{A}|^{2} + |\vec{B}|^{2},|\vec{A}|^{2} . |\vec{B}|^{2},|\vec{A} + \vec{B}|^{2},|\vec{A} - \vec{B}|^{2},b
+Work done by centripetal force-,কেন্দ্রমুখী বল দ্বারা কৃত কাজ-,infinity,negative,zero,positive,অসীম,ঋণাত্মক,শূন্য,ধনাত্মক,c
+Which one is the unit of universal gas constant R?,সর্বজনীন গ্যাস ধ্রুবক R  এর একক কোনটি?,JK mol^{-1},JK^{-1} mol,J mol K,J mol^{-1} K^{-1},JK mol^{-1},JK^{-1} mol,J mol K,J mol^{-1} K^{-1},d
+"At 27\degree C Helium gas contains in a cylinder. The velocity of two molecules of the gass are 9ms^{-1} and 10ms^{-1}
+ What is the average kinetic energy of Helium molecules?","একটি সিলিন্ডারে 27^{\circ}C তাপমাত্রায় হিলিয়াম গ্যাস আছে। গ্যাসের দুটি অণুর বেগ যথাক্রমে 9 ms^{-1} ও 10 ms^{-1}।
+হিলিয়াম অণুর গড় গতিশক্তি কত?",6232.5 J,3739.5J,6.21 \times 10^{-21} J,10.35 \times 10^{-21} J,6232.5 J,3739.5 J,6.21\times 10^{-21}J,10.35\times 10^{-21}J,c
+What is the root mean square velocity of the two molecules?,"একটি সিলিন্ডারে 27^{\circ}C তাপমাত্রায় হিলিয়াম গ্যাস আছে। গ্যাসের দুটি অণুর বেগ যথাক্রমে 9 ms^{-1} ও 10 ms^{-1}।
+অণুদ্বয়ের গড় বর্গবেগ কত?",9.5ms^{-1},9.51 ms^{-1},90.5 m^{2}s^{-2},181 m^{2} s^{-2},9.5 ms^{-1},9.51 ms^{-1},90.5 m^{2}s^{-1},181 m^{2}s^{-2},b
+"If a pendulum watch is brought to the peak of a hill, the watch-
+ i. will gain time
+ ii. Will loss time 
+ iii. Will move slowly 
+ Which one is correct?","দোলক ঘড়িকে পাহাড়রে চূড়ায় নিয়ে গেলে ঘড়িটি-
+i. সময় লাভ করবে
+ii. সময় হারাবে
+iii. ধীরে চলবে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i,ii,i ও iii,ii ও iii,d
+Which one of the following process is supported by the equation PV= Constant?,"PV = ধ্রুবক, সমীকরণটি নিচের কোন প্রক্রিয়াকে সমর্থন করে?",Isothermal,Isochoric,Isobaric,Adiabatic,সমোঞ্চ,সম আয়তন,সম চাপ,রুদ্ধতাপীয়,a
+8 \frac{d^{2}x}{dt^{2}} + 200x = 0; What is the angular frequency of simple harmonic motion expressed by this equation?,8\frac{d^{2}x}{dt^{2}}+200x = 0 সমীকরণ দ্বারা বর্ণিত সরলছন্দিত গতির কৌণিক কম্পাংক কত?,5 rad s^{-1},8 rad s^{-1},25 rad s^{-1},200 rad s^{-1},5 rads^{-1},8 rads^{-1},25 rads^{-1},200 rads^{-1},a
+"For which condition of the following, the work done is considered as positive?",নিচের কোন শর্তের জন্য কৃতকাজ ধনাত্মক বলে বিবেচিত হবে? (বল ও সরণের মধ্যবর্তী কোণ),0\degree < \theta < 90\degree,0\degree \leq < 90\degree,90\degree < \theta \leq 180\degree,90\degree \leq \theta \leq 180\degree,0\degree < \theta < 90\degree,0\degree \leq < 90\degree,90\degree < \theta \leq 180\degree,90\degree \leq \theta \leq 180\degree,b
+"For a light and heavy object-
+ i. momentum of both may be equal 
+ ii. Kinetic energy of both may be equal 
+ iii. If the kinetic energy is same, the momentum of light object will be more
+ Which one is correct?","একটি হালকা ও ভারী বস্তুর ক্ষেত্রে
+i. উভয়ের ভরবেগ সমান হতে পারে
+ii. উভয়ের গতিশক্তি সমান হলে, হালকা বস্তুর ভরবেগ হবে
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+At 30\degree temperature a gas is heated at constant pressure to three time in volume. What is the final temperature of the gas?,30^{\circ}C তাপমাত্রায় একটি গ্যাসকে স্থিরচাপে উত্তপ্ত করে আয়তন তিনগুণ করা হলো। গ্যাসটির চূড়ান্ত তাপমাত্রা কত?,90\degree C,300\degree C,436\degree C,636\degree C,90^{\circ}C,300^{\circ}C,436^{\circ}C,636^{\circ}C,d
+If the temperature of ** is reduced to dew point then vapourzation-,বায়ুর তাপমাত্রা শিশিরাঙ্কে উপনীত হলে বাষ্পায়ন-,will be fast,will be slow,will not at all,will be same,দ্রুত হবে,ধীরে ধীরে হবে,বে না,একই থাকবে,c
+"* the simple harmonic motion is the projection of uniform circular motion then-
+ i. the amplitude of simple harmonic motion is equal to the radius at the uniform circular motion
+ ii. time period of both motions will be same
+ iii. Angular frequency at simple harmonic motion is equal to the angular velocity of uniform circular motion
+ Which one is correct?","যদি সরলদোল গতি সুষম বৃত্তাকার গতির অভিক্ষপ হয় তবে-
+i. সরলদোল গতির বিস্তার সুষম বৃত্তাকার গতির ব্যাসার্ধের সমান
+ii. উভয় গতির পর্যায়কাল একই হবে
+iii. সরলদোল গতির কৌণিক কম্পাংক সুষম বৃত্তাকার গতির কৌণিক বেগের সমান
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one is correct for second pendulum?,সেকেন্ড দোলকের ক্ষেত্রে কোনটি সঠিক?,L \propto g,L \propto \frac{1}{g},L \propto T,L \propto \frac{1}{T},L \propto g,L \propto \frac{1}{g},L \propto T,L \propto \frac{1}{T},a
+If the displacement of two oscillatory particles are respectively x= A sin\omega t and X= Acos\omega t then the phase difference between them will be-,দুটি স্পন্দনরত কণার সরণ যথাক্রমে x=Asin\omega t এবং x=Acos\omega t হলে এদের মধ্যকার দশা পার্থক্য কত?,0,\frac{p}{2},\pi,2\pi,0,\frac{\pi}{2},\pi,2\pi,b
+Which quantity is applicable for law of pressure of gass?,গ্যাসের চাপীয় সূত্রটিতে নিচের কোন রাশিটির মান স্থির থাকে?,Temperature,Heat,Pressure,Volume,তাপমাত্রা,তাপ,চাপ,আয়তন,d
+Which of the following vectors having same initial point and final point?,নিচের কোন ভেক্টরের পাদবিন্দু ও শীর্ষবিন্দু একই?,Equal vector,Null vector,Collinear vector,Unit vector,সমান ভেক্টর,ভেক্টর,সমরেখ ভেক্টর,একক ভেক্টর,b
+Which one is the dimension of angular acceleration?,কৌণিক ত্বরণের মাত্রা কোনটি?,[M\degree L\degree T^{-1}],[M\degree LT^{-1}],[M\degree L\degree T^{-2}],[M^{-1} LT^{-2}],[M\degree L\degree T^{-1}],[M\degree LT^{-1}],[M\degree L\degree T^{-2}],[M^{-1} LT^{-2}],c
+Which one is the non-conservation forec?,কোনটি অসংরক্ষণশীল বল?,Force of perfect spring,Electric force,Magnetic force,Friction force,আদর্শ স্প্রিং-এর বল,তড়িৎ বল,চৌম্বক বল,র্ষণ বল,d
+"A bullet struck a block on a non-frictional plane and remained inside. In this case conserved quantites will be-
+ i. momentum 
+ ii. Kinetic energy 
+ iii. Relative velocity
+ Which one is correct?","একটি বুলেট ঘর্ষণহীন সমতলে অবস্থিত ব্লকে আঘাত করে এর ভেতরে রয়ে গেল। এক্ষেত্রে সংরক্ষিত হবে-
+i. ভরবেগ
+ii. গতিশক্তি
+iii. আপেক্ষিক বেগ
+নিচের কোনটি সঠিক?",i,ii,i and ii,"i, ii and iii",i,ii,i ও ii,"i, ii ও iii",a
+"Which force is responsible to radioactive decay of basic substances like uranium, Thorium etc?","ইউরোনিয়াম, থোরিয়াম ইত্যাদি মৌলিক পদার্থের তেজস্ক্রিয় ভাঙন ঘটে কেনা বলের কারণে?",Radioactive force,Electromagnetic force,*** eak nuclear force,Strong nuclear force,তেজস্ক্রিয় বল,তড়িত চৌম্বক বল,নিউক্লিয় বল,সবল নিউক্লিয় বল,c
+"10 N force acts on an object of mass 2kg. The object is at rest. After 4s the force was stopped. (Here friction force is neglected) 
+ 
+ If the force is stopped, the object-","10N বল 2kg ভরের স্থির বস্তুর উপর ক্রিয়া করে এবং 4s পর বলের ক্রিয়া বন্ধ হয়ে গেল। (এখানে ঘর্ষণ বল উপে
+বলের ক্রিয়া বন্ধ হয়ে গেলে বস্তুটি-",Will move with uniform acceleration,will move with uniform velocity,will move with decreased velocity,will move with zero veloctiy,সুষম ত্বরণের চলে,সুষম বেগে চলে,বেগ হ্রাসপ্রাপ্ত হয়,বেগ শূণ্য হয়,b
+Vector \vec{P} acts along positve X axis. Another vector \vec{Q} acts is such a way that the magniude of \vec{P} \times \vec{Q} becones zero. Then vector \vec{Q} will be-,ভেক্টর \vec{P} ধনাত্মক X-অক্ষ বরাবর অবস্থিত। অন্য একটি ভেক্টর \vec{Q} এমনভাবে অবস্থিত যেন \vec{P}\times \vec{Q} এর মান শূন্য হয়। তাহলে \vec{Q} হতে পারে-,\hat{j},- 2\hat{j},4\hat{k},(\hat{j} \times \hay{k}),\hat{j},-2\hat{i},4\hat{k},(\hat{j}+\hat{k}),b
+If the kinetic energy of an object is 1J then what is the value of momentum?,2kg ভরের একটি বস্তুর গতিশক্তি 1 J হলে এর ভরবেগ কত?,2 kgms^{-1},2.53 kgms^{-1},3kgms^{-1},4kgms^{-1},2 kgms^{-1},2.53 kgms^{-1},3 kgms^{-1},4 kgms^{-1},a
+"If \vec{A} = 9\hat{i} and \vec{B} = \frac{1}{9} \hat{i} then two vector are-
+ i. like vector
+ ii. Opposite vector 
+ iii. Perpendicular to each other
+ Which one is correct?","\vec{A} = 9\hat{i} ও \vec{B} = \frac{1}{9} \hat{i} ভেক্টরদ্বয়-
+i. সদৃশ ভেক্টর
+ii. বিপ্রতীপ ভেক্টর
+iii. পরস্পর লম্ব",ii,i & ii,ii & iii,"i, ii & iii",ii,i ও ii,ii ও iii,"i, ii ও iii",b
+What is the mass of water vapour present in unit volume of air?,বায়ুর প্রতি একক আয়তনে উপস্থিত জলঅয় বাষ্পের ভরকে কী বলে?,Relative humidity,Humidity,Absolute humadity,Dew point,আপেক্ষিক আর্দ্রতা,আর্দ্রতা,নরম আর্দ্রতা,শিশিরাঙ্ক,c

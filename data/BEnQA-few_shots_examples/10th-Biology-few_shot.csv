@@ -1,0 +1,76 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,Which is included of monera kingdom?,কোনটি মনেরা রাজ্যের অন্তর্গত?,Bacteria,Amoeba,Yeast,Maize,a,N,2022Jashore,1,ব্যাকটেরিয়া,অ্যামিবা,ইস্ট,ভুট্টা,ক,a,N,2022Jashore,0.8145935398,0,0,,Which organisms are included in the monera kingdom?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The Monera kingdom typically includes bacteria. So, the correct answer is {{""Answer'"": ""a""}}.","মনেরা জাতি সাধারণভাবে ব্যাকটেরিয়া সম্মিলিত থাকে। অতএব, সঠিক উত্তর হল {{""Answer'"": ""a""}}।
+"
+1,Which is applied branch of Biology?,জীববিজ্ঞানের ফলিত শাখা কোনটি?,Embryology,Ecology,Genetic Engineering,Biogeography,c,N,2022Jashore,1,ভ্রূণবিদ্যা,বাস্তুবিদ্যা,জিন প্রযুক্তি,জীবভূগোল,গ,c,N,2022Jashore,0.9876611597,0,0,,Which branch of Biology is considered applied?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's go through each option:
+
+1. Embryology: Embryology is a branch of biology that focuses on the study of the development of embryos and fetuses. While it contributes to our understanding of various biological processes, it is primarily a field of scientific research and not an applied branch in the sense of directly applying biological knowledge for practical purposes.
+
+2. Ecology: Ecology is a branch of biology that deals with the study of interactions between organisms and their environments. While it provides critical insights into ecosystems and environmental conservation, it is more focused on understanding natural systems rather than direct application.
+
+3. Genetic Engineering: Genetic engineering is an applied branch of biology. It involves the manipulation of an organism's genes or genetic material to achieve specific goals, such as developing genetically modified organisms (GMOs) or producing therapeutic proteins through biotechnology. This field directly applies biological knowledge for practical purposes.
+
+4. Biogeography: Biogeography is a branch of biology that explores the geographical distribution of species and ecosystems. While it helps us understand the distribution patterns of organisms, it is more of a scientific field for research and analysis rather than an applied branch.
+
+Based on this analysis, the correct option is {{'Answer': 'c'}} as it represents an applied branch of Biology that involves practical applications of biological knowledge.","আপনার ব্যাখ্যান দ্বারা প্রতিটি অপশন নিরীক্ষণ করা হলো:
+
+1. ভ্রূণবিদ্যা: ভ্রূণবিদ্যা হলো জীবজন্যত্বের উপর প্রসারিত হওয়া জীবন্ত ভিত্তিক এবং ভ্রূণ এবং গর্ভস্তিতের উন্নতির অধ্যয়নের প্রতিষ্ঠান। যদিও এটা বিভিন্ন জীবজন্য প্রক্রিয়াগুলির সম্মর্থন করে, তা প্রাথমিকভাবে এটি প্রায়োজনীয় উদ্দেশ্যে জীববৈজ্ঞানিক জগতের একটি শাখা এবং সরাসরি বৈজ্ঞানিক জ্ঞান প্রযোগ করার দিকে নয়।
+
+2. বাস্তুবিদ্যা: বাস্তুবিদ্যা হলো জীবের সাথে তাদের পরিবেশের সংলগ্ন অবস্থানের অধ্যয়নের জন্যে বিশেষভাবে প্রকাশ্য জীববৈজ্ঞানের একটি শাখা। যদিও এটি বাণিজ্যিক সংরক্ষণে জীবপ্রণালী সম্মর্থন প্রদান করে, এটি প্রাথমিকভাবে প্রাকৃতিক সিস্টেম বুঝতে তোলে সরাসরি প্রযোগে বেশি কেন্দ্রিত।
+
+3. জিন প্রযুক্তি: জিন প্রযুক্তি হলো জীববৈজ্ঞানের একটি প্রয়োগ শাখা। এটি জীবজন্য জ্ঞান প্রায়োজনীয় উদ্দেশ্যে জীবের জীন বা জীনেটিক উপাদানের পরিবর্তন করতে শক্তি দেয়, যেমন জেনেটিক পরিবর্তনশীল জীব সজীব করা বা বায়োটেকনোলজি দ্বারা থেরাপিউটিক প্রোটিন উৎপন্ন করা। এই শাখা প্রায়োজনীয় উদ্দেশ্যে জীববৈজ্ঞানিক জ্ঞান সরাসরি প্রযোগ করে।
+
+4. জীবভূগোল: জীবভূগোল হলো জীববৈজ্ঞানের একটি শাখা যা জীবপ্রজাতি এবং প্রজাতিগুলির ভৌগোলিক বিতর্কনার অধ্যয়ন করে। এটি জীবপ্রজাতির বিতর্কনা প্যাটার্ন বোঝাতে সাহায্য করে, তবে এটি সাধারণভাবে গবেষণা এবং বিশ্লেষণের জন্যে একটি বৈজ্ঞানিক শাখা হলো, সরাসরি একটি প্রয়োগ শাখা নয়। 
+
+এই বিশ্লেষণের আলোকে, সঠিক উত্তর হলো {{'Answer': 'c'}}, কারণ এটি প্রায়োজনীয় উদ্দেশ্যে জীবজ্ঞান জ্ঞানের সরাসরি প্রয়োগ শাখা দেখায়।"
+2,What is the amount of plasma in blood?,রক্তে রক্তরসের পরিমাণ কত?,45%,55%,65%,75%,b,N,2022Jashore,1,45.00%,55.00%,65.00%,75.00%,খ,b,N,2022Jashore,0.9979614238,0,0,,What is the percentage of plasma in blood?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's analyze the composition of blood and the percentage of plasma within it:
+
+1. Blood Composition: Blood is composed of various components, including red blood cells (erythrocytes), white blood cells (leukocytes), platelets (thrombocytes), and plasma.
+
+2. Plasma: Plasma is the liquid component of blood and makes up the largest portion of blood by volume. It is a pale yellow fluid that contains water, electrolytes, proteins, hormones, waste products, and other dissolved substances.
+
+3. Percentage of Plasma: The percentage of plasma in blood varies depending on the individual, but on average, it makes up about 55% of the total blood volume.
+
+4. Other Blood Components: The remaining 45% of blood consists of the formed elements, which include red blood cells, white blood cells, and platelets.
+
+Based on this analysis, the correct answer is {{""Answer"": ""b""}}, as it represents the approximate percentage of plasma in blood.","রক্তের মেঘলা এবং এটের অংশগুলির সমস্যার পার্সেন্টেজ নিরীক্ষণ করা যাক:
+
+রক্তের সংরচনা: রক্ত বিভিন্ন উপাদানে সংরচিত, যেমন লোহিত রক্তকোষ (ইরিথ্রোসাইট), সাদা রক্তকোষ (লিউকোসাইট), প্লেটলেট (থ্রোম্বোসাইট) এবং প্লাজমা।
+
+প্লাজমা: প্লাজমা রক্তের তরল অংশ এবং গতির সাথে রক্তের সর্বোচ্চ অংশটি তৈরি করে। এটি একটি হালকা হলুদ পানি যুক্ত তরল, ইলেকট্রোলাইট, প্রোটিন, হরমোন, অবশিষ্ট পণ্য এবং অন্যান্য দ্রব্য দ্রব্যমান করে।
+
+প্লাজমা এর শতকরণ: রক্তে প্লাজমা এর শতকরণটি ব্যক্ত ব্যক্তি উপর নির্ভর করে, তবে গড়ে গড়ে, এটি মোট রক্তের মোট দ্বারা প্রাপ্ত মাত্রা সম্পর্কে সেখানে অবস্থান করে।
+
+অন্যান্য রক্ত অংশ: রক্তের অবশিষ্ট 45% তৈরি হয়, যা গঠিত উপাদানগুলি তারা রক্তকোষ, সাদা রক্তকোষ এবং প্লেটলেট অবশিষ্ট সামগ্রিক রক্ত মাত্রা।
+
+এই বিশ্লেষণের আলোকে, সঠিক উত্তর হলো {{""Answer"": ""b""}}, কারণ এটি রক্তে প্লাজমা এর প্রায় শতকরণ প্রতিষ্ঠান।"
+3,Which one controls the activities of the muscle of stomach?,কোনটি পাকস্থলীর পেশির কার্যক্রম নিয়ন্ত্রণ করে?,Brain,Spinal cord,Cranial nerve,Autonomic nerve,d,N,2022Jashore,1,মস্তিষ্ক,সুষুম্নাকাণ্ড,করোটিক স্নায়ু,স্বয়ংক্রিয় স্নায়ু,ঘ,d,N,2022Jashore,0.9535634989,0,0,,Which one controls the activities of the muscles in the stomach?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The activities of the muscles in the stomach are primarily controlled by the Autonomic Nervous System (ANS). The ANS is responsible for regulating involuntary bodily functions, including the contractions of the stomach muscles. It operates without conscious control and ensures that processes like digestion occur without us having to think about them.
+
+So, the correct answer is {{""Answer"": ""d""}}","পেটের মাংসপেশীর কাজকর্ম প্রাথমিকভাবে স্বয়ংচলিত স্বয়ংচলিত তন্তুমাধ্যমে (আওটোনোমিক নারভাস সিস্টেম, ANS) নিয়ন্ত্রিত হয়। ANS স্বয়ংচলিত শারীরিক কাজকর্ম নিয়ন্ত্রণ করতে দায়ক এবং পেটের মাংসপেশীর সংকোচনগুলির ক্রিয়াকলাপগুলি নিয়ন্ত্রণ করতে দায়ক। এটি চেতনা নিয়ন্ত্রণ ছাড়াই কাজ করে এবং পাচন ইত্যাদি প্রক্রিয়াগুলি আমরা তাদের সম্পর্কে চিন্তা না করে ঘটে যান নিশ্চিত করে।
+
+সুতরাং, সঠিক উত্তর হলো {{""Answer"": ""d""}}।"
+201,"Due to HIV start decreasing-
+i. red blood cell
+ii. white blood cell
+iii. antibody
+Which one is correct?","HIV এর কারণে কমতে থাকে-
+ i. লোহিত রক্তকণিকা
+ ii. শ্বেত রক্তকণিকা
+ iii. এন্টিবডি
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",c,N,2021Sylhet,1,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",গ,c,N,2021Sylhet,0.9397550471,0,0,,"Due to HIV start decreasing-
+i. red blood cell
+ii. white blood cell
+iii. antibody
+Which one is correct?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","HIV (Human Immunodeficiency Virus) primarily affects the immune system. As the infection progresses, it tends to decrease the number of white blood cells (specifically CD4 T cells), which are a crucial component of the immune system. 
+
+As the number of white blood cells decreases, the production of antibodies by the immune system can also be impaired because white blood cells play a central role in antibody production. 
+
+Red blood cells, on the other hand, are not typically affected directly by HIV infection.
+
+So, the correct option is {{""Answer"": ""c""}} - HIV can lead to a decrease in white blood cells and antibodies.","HIV (মানব ইমিউনোডেফিশেন্সি ভাইরাস) প্রাথমিকভাবে ইমিউন সিস্টেমে প্রভাব ডাকে। সংক্রমণ বৃদ্ধি পেতে, এটি প্রধানতঃ শ্বেত রক্ত কোষের (স্পেসিফিকলি CD4 টি সেল) সংখ্যা হ্রাস করে, যা ইমিউন সিস্টেমের একটি গুরুত্বপূর্ণ ঘাতক।
+
+শ্বেত রক্ত কোষের সংখ্যা হ্রাস পেলে, ইমিউন সিস্টেম দ্বারা প্রতিকৃতি এন্টিবডি তৈরি করা সমস্যা হতে পারে, কারণ শ্বেত রক্ত কোষের অধিপতনে ইমিউন সিস্টেমের একটি গুরুত্বপূর্ণ ভূমিকা রয়েছে।
+
+অপরদিকে, লোহিত রক্ত কোষগুলি সাধারণভাবে HIV সংক্রমণের সরাসরি প্রভাবিত হয় না।
+
+তাহলে, সঠিক উত্তর হল {{""Answer"": ""c""}} - HIV সাধারণভাবে সাদা রক্ত কোষ এবং এন্টিবডি সংখ্যা হ্রাস করতে পারে।
+"

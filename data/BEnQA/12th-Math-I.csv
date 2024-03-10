@@ -1,0 +1,1062 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+What is the value of \int_{0}^{1} \frac{sin^{-1}p}{\sqrt{1-p^{2}}}dp ?,\int_{0}^{1} \frac{sin^{-1}p}{\sqrt{1-p^{2}}}dp এর মান কত?,\frac{\pi}{2},\frac{\pi^{2}}{2},\frac{\pi^{2}}{4},\frac{\pi^{2}}{8},\frac{\pi}{2},\frac{\pi^{2}}{2},\frac{\pi^{2}}{4},\frac{\pi^{2}}{8},d
+"The equation of a curve is y = 3x (x - 2).
+ 
+ Which one of the following is the equation of tangent at origin?","y = 3x (x - 2) একটি বক্ররেখার সমীকরণ।
+ 
+ মূলবিন্দুতে স্পর্শকের সমীকরণ কোনটি?",y + 6x = 0,y - 6x = 0,x + 6y = 0,x - 6y = 0,y + 6x = 0,y - 6x = 0,x + 6y = 0,x - 6y = 0,a
+What is the value of \int e^{x} \left ( \frac{1}{x} - \frac{1}{x^{2}} \right ) dx ?,\int e^{x} \left ( \frac{1}{x} - \frac{1}{x^{2}} \right ) dx এর মান কত?,- \frac{e^x}{x} + c,- \frac{e^x}{x^2} + c,\frac{e^x}{x} + c,\frac{e^x}{x^2} + c,- \frac{e^x}{x} + c,- \frac{e^x}{x^2} + c,\frac{e^x}{x} + c,\frac{e^x}{x^2} + c,c
+The value of \int_{1}{\sqrt{3}} \frac{x}{1 + x^2} dx is-,\int_{1}{\sqrt{3}} \frac{x}{1 + x^2} dx এর মান-,ln2,ln\frac{1}{2},\frac{1}{2}ln\frac{1}{2},\frac{1}{2}ln2,ln2,ln\frac{1}{2},\frac{1}{2}ln\frac{1}{2},\frac{1}{2}ln2,d
+"If f(x) = 2x then-
+ i. \int \frac{dx}{f(x)} = \frac{1}{2} lnx + c
+ ii. \int e^{f(x)}dx = \frac{1}{2} e^{2x} + c
+ iii. \int_{0}^{1} f(x) dx = 1
+ Which one is correct?","f(x) = 2x হলে-
+ i. \int \frac{dx}{f(x)} = \frac{1}{2} lnx + c
+ ii. \int e^{f(x)}dx = \frac{1}{2} e^{2x} + c
+ iii. \int_{0}^{1} f(x) dx = 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+Which one is the perpendicular distance between the lines 4x - 3y + 8 = 0 and 8x - 6y + 4 = 0?,4x - 3y + 8 = 0 এবং 8x - 6y + 4 = 0ন রেখাদ্বয়ের মধ্যবর্তী লম্ব দূরত্ব নিম্নের কোনটি?,\frac{2}{5},\frac{4}{5},\frac{6}{5},\frac{3}{5},\frac{2}{5},\frac{4}{5},\frac{6}{5},\frac{3}{5},c
+"The order of the matrix A, B and C are 4 \times 3, 3 \times 4 and 7 \times 4 respectively. Then what is the order of matrix (B + A^{T}).C^{T}?","A, B এবং C ম্যাট্রিক্সগুলোর মাত্রা যথাক্রমে 4 \times 3, 3 \times 4 এবং 7 \times 4 হলে (B + A^{T}).C^{T} ম্যাট্রিক্সের মাত্রা কত?",3 \times 4,3 \times 7,3 \times 3,4 \times 4,3 \times 4,3 \times 7,3 \times 3,4 \times 4,b
+"\begin{vmatrix} -2 & 0 & 1 \\ -1 & -3 & 0 \\ 2 & 1 & 3 \end{vmatrix} what is the value of the cofactor of (2, 2)th entry of the determinant?","\begin{vmatrix} -2 & 0 & 1 \\ -1 & -3 & 0 \\ 2 & 1 & 3 \end{vmatrix} নির্ণায়কের (2, 2) তম সহগুণক কোনটি?",8,\text{-8},4,\text{-4},8,\text{-8},4,\text{-4},b
+"A = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 3 \end{bmatrix}
+ 
+ Matrix A is-
+ i. square matrix
+ ii. diagonal matrix
+ iii. idempotent matrx
+ Which one is correct?","A = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 3 \end{bmatrix}
+ 
+ A ম্যাট্রিক্সটি হলো-
+ i. বর্গ ম্যাট্রিক্স
+ ii. কর্ণ ম্যাট্রিক্স
+ iii. সমঘাতি ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"A = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 3 \end{bmatrix}
+ 
+ What is the value of |A|?","A = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 3 \end{bmatrix}
+ 
+ |A| এর মান কত?",0,3,9,27,0,3,9,27,d
+Which one of the following is non-singular matrix?,নিচের কোনটি অব্যতিক্রমী ম্যাট্রিক্স?,\begin{bmatrix} 3 & 6 \\ 2 & 4 \end{bmatrix},\begin{bmatrix} 4 & 1 \\ 8 & 2 \end{bmatrix},\begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix},\begin{bmatrix} 4 & 10 \\ 2 & 5 \end{bmatrix},\begin{bmatrix} 3 & 6 \\ 2 & 4 \end{bmatrix},\begin{bmatrix} 4 & 1 \\ 8 & 2 \end{bmatrix},\begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix},\begin{bmatrix} 4 & 10 \\ 2 & 5 \end{bmatrix},c
+"Which one of the following is the equation of a straight line which passing through the point (2, - 3) and perpendicular to the straight line whose slope is - \frac{1}{2}?","\frac{1}{2} ঢালবিশিষ্ট সরলরেখার উপর লম্ব এবং (2, -3) বিন্দুগামী সরলরেখার সমীকরণ-",2x + y - 7 = 0,2x - y - 7 = 0,2x - y + 7 = 0,2x - y - 1 = 0,2x + y - 7 = 0,2x - y - 7 = 0,2x - y + 7 = 0,2x - y - 1 = 0,b
+"A = \begin{bmatrix} 1 & 3& 5 \\ 2 & 4 & 6 \\ 4 & 6 & 8 \end{bmatrix}, B = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}
+ 
+ According to the information-
+ i. |A| = 0
+ ii. order of AB = 3 \times 1
+ iii. BA is determined
+ Which one is correct?","A = \begin{bmatrix} 1 & 3& 5 \\ 2 & 4 & 6 \\ 4 & 6 & 8 \end{bmatrix}, B = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}
+ 
+ তথ্যের আলোকে-
+ i. |A| = 0
+ ii. AB এর ক্রম 3 \times 1
+ iii. BA নির্ণয়যোগ্য
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"A = \begin{bmatrix} 1 & 3& 5 \\ 2 & 4 & 6 \\ 4 & 6 & 8 \end{bmatrix}, B = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}
+ 
+ Matrix AB is-","A = \begin{bmatrix} 1 & 3& 5 \\ 2 & 4 & 6 \\ 4 & 6 & 8 \end{bmatrix}, B = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}
+ 
+ AB ম্যাট্রিক্সটি হবে-",\begin{bmatrix} 28 \\ 22 \\ 40 \end{bmatrix},\begin{bmatrix} 22 \\ 28 \\ 40 \end{bmatrix},\begin{bmatrix} 22 & 28 & 40 \end{bmatrix},\begin{bmatrix} 28 & 22 & 40 \end{bmatrix},\begin{bmatrix} 28 \\ 22 \\ 40 \end{bmatrix},\begin{bmatrix} 22 \\ 28 \\ 40 \end{bmatrix},\begin{bmatrix} 22 & 28 & 40 \end{bmatrix},\begin{bmatrix} 28 & 22 & 40 \end{bmatrix},b
+What is the angle between the straight lines x - y = 0 and x + y = 0?,x - y = 0 এবং x + y = 0 রেখাদ্বয়ের অন্তর্গত কোণ কত?,30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,d
+Which one is the Cartesian equation of r = 3cos\theta?,r = 3cos\theta এর কার্তেসীয় সমীকরণ কোনটি?,x^{2} + y^{2} - 3x = 0,x^{2} + y^{2} + 3x = 0,x^{2} + y^{2} - 3y = 0,x^{2} + y^{2} + 3y = 0,x^{2} + y^{2} - 3x = 0,x^{2} + y^{2} + 3x = 0,x^{2} + y^{2} - 3y = 0,x^{2} + y^{2} + 3y = 0,a
+"Straight line 2x - 3y - 1 = 0, then-
+ i. slope = \frac{2}{3}
+ ii. intersect the x-axis at the point \left ( \frac{1}{2}, 0 \right )
+ iii. parallel equation 3x + 2y + 7 = 0
+ Which one is correct?","2x - 3y - 1 = 0 সরলরেখার-
+ i. ঢাল = \frac{2}{3}
+ ii. x-অক্ষকে \left ( \frac{1}{2}, 0 \right ) বিন্দুতে ছেদ করে
+ iii. সমান্তরাল রেখার সমীকরণ 3x + 2y + 7 = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"Which one of the following is the polar co-ordinates of (-1, -1)?","(-1, -1) বিন্দুর পোলার স্থানাঙ্ক কোনটি?","\left ( \sqrt{2}, 3\frac{\pi}{4} \right )","\left ( \sqrt{2}, 5\frac{\pi}{4} \right )","\left ( 2, 3\frac{\pi}{4} \right )","\left ( 2, 5\frac{\pi}{4} \right )","\left ( \sqrt{2}, 3\frac{\pi}{4} \right )","\left ( \sqrt{2}, 5\frac{\pi}{4} \right )","\left ( 2, 3\frac{\pi}{4} \right )","\left ( 2, 5\frac{\pi}{4} \right )",b
+"If cos2A = \frac{3}{5}, then what is the value of sinA?","cos2A = \frac{3}{5} হলে, sinA এর মান কত?",\pm \frac{1}{\sqrt{10}},\pm \frac{1}{\sqrt{5}},\pm \sqrt{\frac{3}{5}},\frac{2}{\sqrt{5}},\pm \frac{1}{\sqrt{10}},\pm \frac{1}{\sqrt{5}},\pm \sqrt{\frac{3}{5}},\frac{2}{\sqrt{5}},b
+What is the value of \lim_{x \to 0} \frac{tan bx}{sin ax}?,\lim_{x \to 0} \frac{tan bx}{sin ax} এর মান কত?,\frac{a}{b},ab,\frac{b}{a},ab^{2},\frac{a}{b},ab,\frac{b}{a},ab^{2},c
+What is the derivative of sec^{-1} \left ( \frac{1 + x^{2}}{1 - x^{2}} \right )?,sec^{-1} \left ( \frac{1 + x^{2}}{1 - x^{2}} \right ) এর অন্তরক সহগ কত?,\frac{1}{(x \sqrt{x^{2} - 1}),\frac{- 2}{(\sqrt{1 - x^{2}})},\frac{1}{(1 + x^{2})},\frac{2}{(1 + x^{2})},\frac{1}{(x \sqrt{x^{2} - 1}),\frac{- 2}{(\sqrt{1 - x^{2}})},\frac{1}{(1 + x^{2})},\frac{2}{(1 + x^{2})},d
+What is the n^{th} derivative of cos(ax + b)?,cos(ax + b) এর n-তম অন্তরক সহগ কত?,(-1)^{n} a^{n} sin \left ( \frac{n\pi}{2} + ax + b \right ),a^{n} sin \left ( \frac{n\pi}{2} + ax + b \right ),cos \left ( \frac{n\pi}{2} + ax + b \right ),a^{n} cos \left ( \frac{n\pi}{2} + ax + b \right ),(-1)^{n} a^{n} sin \left ( \frac{n\pi}{2} + ax + b \right ),a^{n} sin \left ( \frac{n\pi}{2} + ax + b \right ),cos \left ( \frac{n\pi}{2} + ax + b \right ),a^{n} cos \left ( \frac{n\pi}{2} + ax + b \right ),d
+"If A = \begin{bmatrix} 2 & -3 \\ 1 & 6 \end{bmatrix}, then
+ i. A is a skew symmetric matrix
+ ii. |A| = 15
+ iii. A is not an involuntory matrix
+ Which one is correct?","A = \begin{bmatrix} 2 & -3 \\ 1 & 6 \end{bmatrix} হয়, তবে-
+ i. A একটি বিপ্রতিসম ম্যাট্রিক্স
+ ii. |A| = 15
+ iii. A একটি অভেদঘাতি ম্যাট্রিক্স নয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",c
+Which is the inverse matrix of \begin{bmatrix} 4 & 3 \\ 3 & 2 \end{bmatrix} ?,\begin{bmatrix} 4 & 3 \\ 3 & 2 \end{bmatrix} ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্স কোনটি?,\begin{bmatrix} 2 & -3 \\ -3 & 4 \end{bmatrix},\begin{bmatrix} 2 & 3 \\ -3 & 4 \end{bmatrix},\begin{bmatrix} -2 & 3 \\ 3 & -4 \end{bmatrix},\begin{bmatrix} -4 & 3 \\ 3 & -2 \end{bmatrix},\begin{bmatrix} 2 & -3 \\ -3 & 4 \end{bmatrix},\begin{bmatrix} 2 & 3 \\ -3 & 4 \end{bmatrix},\begin{bmatrix} -2 & 3 \\ 3 & -4 \end{bmatrix},\begin{bmatrix} -4 & 3 \\ 3 & -2 \end{bmatrix},c
+"If \begin{bmatrix} m-2 & 6 \\ 2 & m-3 \end{bmatrix} is singular matrix, m = ?","যদি \begin{bmatrix} m-2 & 6 \\ 2 & m-3 \end{bmatrix} একটি ব্যতিক্রমী ম্যাট্রিক্স হয়, তবে m = ?","\text{- 2, - 3}","1, - 6","6, - 1","2, - 3","\text{- 2, - 3}","1, - 6","6, - 1","2, - 3",c
+"What is the (3, 2)^{th} cofactor of the determinant \begin{vmatrix} 1 & 2 & 3 \\ 2 & 3 & 4 \\ 1 & 5 & 7 \end{vmatrix}?","\begin{vmatrix} 1 & 2 & 3 \\ 2 & 3 & 4 \\ 1 & 5 & 7 \end{vmatrix} নির্ণায়কের (3, 2) তম সহগুণক কোনটি?",2,3,4,5,2,3,4,5,a
+"x + y + 4 = 0 and x - y - 2 = 0 are two straight lines.
+ 
+ What is the point of intersection of the lines?","x + y + 4 = 0 এবং x - y - 2 = 0 দুইটি সরলরেখার সমীকরণ।
+ 
+ রেখা দুইটির ছেদ বিন্দুর স্থানাঙ্ক কোনটি?","(3, 1)","(1, 3)","(-3, -1)","(-1, -3)","(3, 1)","(1, 3)","(-3, -1)","(-1, -3)",d
+"x + y + 4 = 0 and x - y - 2 = 0 are two straight lines.
+ 
+ What is the area of the triangle formed with x-axis and the given lines?","x + y + 4 = 0 এবং x - y - 2 = 0 দুইটি সরলরেখার সমীকরণ।
+ 
+ x-অক্ষের সাথে রেখা দুইটি যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল কত?",9 sq. unit,6 sq. unit,4 sq. unit,3 sq. unit,9 বর্গ একক,6 বর্গ একক,4 বর্গ একক,3 বর্গ একক,a
+"A straight line pass through (-5, 10) and makes an angle tan^{-1}\frac{3}{4} with the positive direction of x-axis. The equation of the straight line is-","(-5, 10) বিন্দুগামী সরলরেখা x-অক্ষের ধনাত্মক দিকের সাথে tan^{-1}\frac{3}{4} কোণ উৎপন্ন করে। সরলরেখার সমীকরণ-",4x + 3y - 10 = 0,3x - 4y - 55 = 0,3x + 4y + 55 = 0,4x + 3y + 30 = 0,4x + 3y - 10 = 0,3x - 4y - 55 = 0,3x + 4y + 55 = 0,4x + 3y + 30 = 0,b
+"If A(-1, 0) is a point on the curve y = x^{3} - 3x^{2} - x + 3, then-
+ i. slope at A is 8
+ ii. equation of the tangent at A is 8x - y + 8 = 0
+ iii. equation of the normal at A is x - 8y - 1 = 0
+ Which one is correct?","A(-1, 0) বিন্দুটি y = x^{3} - 3x^{2} - x + 3 বক্ররেখার উপর হলে-
+ i. A বিন্দুর ঢাল = 8
+ ii. A বিন্দুতে স্পর্শকের সমীকরণ 8x - y + 8 = 0
+ iii. A বিন্দুতে অভিলম্বের সমীকরণ x - 8y - 1 = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+\int \frac{x}{sqrt{1 - x^{2}}} dx = ?,\int \frac{x}{sqrt{1 - x^{2}}} dx = কত?,\frac{x^{2}}{2} + C,- \sqrt{1 - x^{2}} + C,\sqrt{1 - x^{2}} + C,\sqrt{1 + x} + C,\frac{x^{2}}{2} + C,- \sqrt{1 - x^{2}} + C,\sqrt{1 - x^{2}} + C,\sqrt{1 + x} + C,b
+\int e^{x} \left ( \frac{1}{x} + lnx \right ) dx = ?,\int e^{x} \left ( \frac{1}{x} + lnx \right ) dx = কত?,e^{x} lnx + C,e^{x} + lnx + C,e^{x} \frac{1}{x} + C,e^{x} + \frac{1}{x} + C,e^{x} lnx + C,e^{x} + lnx + C,e^{x} \frac{1}{x} + C,e^{x} + \frac{1}{x} + C,a
+\int_{0}^{ln2} \frac{e^{x}}{1 + e^{x}} dx = ?,\int_{0}^{ln2} \frac{e^{x}}{1 + e^{x}} dx = কত?,ln \frac{2}{3},2,ln \frac{3}{2},3,ln \frac{2}{3},2,ln \frac{3}{2},3,c
+\int_{0}^{\frac{\pi}{2}} cos^{2} x dx = ?,\int_{0}^{\frac{\pi}{2}} cos^{2} x dx = কত?,1,\text{- 1},\frac{\pi}{2},\frac{\pi}{4},1,\text{- 1},\frac{\pi}{2},\frac{\pi}{4},d
+"If f(x) = 5, then \lim_{x \to 0} \frac{f(x + h) - f(x)}{h} = ?","f(x) = 5 হলে, \lim_{x \to 0} \frac{f(x + h) - f(x)}{h} = ?",\text{- 1},0,1,\infty,\text{- 1},0,1,\infty,b
+What is the slope of the line perpendicular to the line 4x - 3y - 51 = 0?,4x - 3y - 51 = 0 সরলরেখার উপর লম্ব রেখার ঢাল কত?,\frac{4}{3},- \frac{4}{3},\frac{3}{4},- \frac{3}{4},\frac{4}{3},- \frac{4}{3},\frac{3}{4},- \frac{3}{4},d
+"If A(3, -2), B(4, 6) and C(5, 7) are the vertices of a triangle, then-
+ i. centroid \left ( 4, \frac{11}{3} \right )
+ ii. the midpoint of BC is \left ( \frac{9}{2}, \frac{13}{2} \right )
+ iii. the equation of AB is 8x - y - 26 = 0 
+ Which one is correct?","A(3, -2), B(4, 6) এবং C(5, 7) কোনো ত্রিভুজের শীর্ষবিন্দু হলে-
+ i. ভারকেন্দ্র \left ( 4, \frac{11}{3} \right )
+ ii. BC এর মধ্যবিন্দু \left ( \frac{9}{2}, \frac{13}{2} \right )
+ iii. AB এর সমীকরণ 8x - y - 26 = 0 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+The circle x^{2} + y^{2} - 4x - 10y + 4 = 0 touches at-,x^{2} + y^{2} - 4x - 10y + 4 = 0 বৃত্তটি স্পর্শ করে-,x-axis,y-axis,both axis,origin,x-অক্ষকে,y-অক্ষকে,উভয় অক্ষকে,মূলবিন্দুকে,a
+The line x + y = 4 touches the circle x^{2} + y^{2} - 12x - 8y + 34 = 0. Which is the point of contact?,x + y = 4 রেখাটি x^{2} + y^{2} - 12x - 8y + 34 = 0 বৃত্তকে স্পর্শ করে। স্পর্শ বিন্দুর স্থানাঙ্ক কোনটি?,"(1, 3)","(3, 1)","(3, 2)","(2, 5)","(1, 3)","(3, 1)","(3, 2)","(2, 5)",b
+"Which is the tangent of the circle x^{2} + y^{2} = 20 at the point (2, 4)?","x^{2} + y^{2} = 20 বৃত্তের (2, 4) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",x + 2y + 10 = 0,x + 2y = 10,2x + y - 10 = 0,2x - y - 10 = 0,x + 2y + 10 = 0,x + 2y = 10,2x + y - 10 = 0,2x - y - 10 = 0,b
+"If A is a square matrix and A^{2} = I, then A is called-","যদি A একটি বর্গ ম্যাট্রিক্স এবং A^{2} = I হয়, তবে A কে বলে-",Nilpotent matrix,Involuntory matrix,Null matrix,Skew-symmetric matrix,শূন্যঘাতি ম্যাট্রিক্স,অভেদঘাতি ম্যাট্রিক্স,শূন্য ম্যাট্রিক্স,বিপ্রতিসম ম্যাট্রিক্স,b
+"Which one is the co-factor of (1, 2)^{th} entry of the determinant \begin{vmatrix} 1 & -2 & 3 \\ 0 & 1 & -2 \\ -1 & 0 & 2 \end{vmatrix}?","\begin{vmatrix} 1 & -2 & 3 \\ 0 & 1 & -2 \\ -1 & 0 & 2 \end{vmatrix} নির্ণায়কটির (1, 2) তম ভুক্তির সহগুণক কোনটি?",4,2,\text{- 2},\text{- 4},4,2,\text{- 2},\text{- 4},b
+"If (-1, \sqrt{3}) is the cartesian coordinate of a point, then which one is the polar coordinate of the point?","কোনো বিন্দুর কার্তেসীয় স্থানাঙ্ক (-1, \sqrt{3}) হলে, বিন্দুটির পোলার স্থানাঙ্ক কোনটি?","\left ( 2, \frac{2\pi}{3} \right )","\left ( 2, - \frac{\pi}{3} \right )","\left ( 2, \frac{\pi}{3} \right )","\left ( 4, \frac{2\pi}{3} \right )","\left ( 2, \frac{2\pi}{3} \right )","\left ( 2, - \frac{\pi}{3} \right )","\left ( 2, \frac{\pi}{3} \right )","\left ( 4, \frac{2\pi}{3} \right )",a
+"If the sides of any triangle are a, b, c and area is \Delta, then sinA = ?","যেকোনো ত্রিভুজের বাহু a, b, c এবং এর ক্ষেত্রফল \Delta হলে, sinA = কত?",\frac{2\Delta}{ca},\frac{2\Delta}{bc},\frac{2\Delta}{ab},\frac{2\Delta}{abc},\frac{2\Delta}{ca},\frac{2\Delta}{bc},\frac{2\Delta}{ab},\frac{2\Delta}{abc},b
+"In \Delta ABC, cosA = sinB - cosC, then which one is the value of \angle A?","\Delta ABC এ cosA = sinB - cosC হলে, \angle A এর মান কোনটি?",\frac{\pi}{4},\frac{\pi}{3},\frac{\pi}{6},\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{3},\frac{\pi}{6},\frac{\pi}{2},d
+"The straight line 3x - 4y - 12 = 0 intersect the x and y axis at the point A and B.
+ 
+ Which one is the coordinate of point B?","3x - 4y - 12 = 0 সরলরেখাটি x ও y অক্ষকে যথাক্রমে A ও B বিন্দুতে ছেদ করে?
+ 
+ B বিন্দুর স্থানাঙ্ক কত?","(4, 0)","(0, 3)","(0, -3)","(0, 4)","(4, 0)","(0, 3)","(0, -3)","(0, 4)",c
+"The straight line 3x - 4y - 12 = 0 intersect the x and y axis at the point A and B.
+ 
+ Which straight line is perpendicular to the given stem straight line and passes through the point (1, 2)?","3x - 4y - 12 = 0 সরলরেখাটি x ও y অক্ষকে যথাক্রমে A ও B বিন্দুতে ছেদ করে?
+ 
+ উদ্দীপকের সরলরেখার উপর লম্ব এবং (1, 2) বিন্দুগামী সরলরেখার সমীকরণ কোনটি?",4x + 3y - 10 = 0,4x + 3y - 12 = 0,3x - 4y + 12 = 0,4x - 3y - 10 = 0,4x + 3y - 10 = 0,4x + 3y - 12 = 0,3x - 4y + 12 = 0,4x - 3y - 10 = 0,a
+Centre of the circle r^{2} + 2r sin\theta = 3 is-,r^{2} + 2r sin\theta = 3 বৃত্তটির কেন্দ্র-,"(1, 0)","(-1, 0)","(0, 1)","(0, -1)","(1, 0)","(-1, 0)","(0, 1)","(0, -1)",d
+"If y = sin^{2}x^{2}, then which one is the value of \frac{dy}{dx}?",y = sin^{2}x^{2} হলে \frac{dy}{dx} এর মান কত?,2sinx^{2},2xsinx^{2},2xsin2x^{2},2x^{2}sin2x^{2},2sinx^{2},2xsinx^{2},2xsin2x^{2},2x^{2}sin2x^{2},c
+"If y = (x + 1) tan^{-1}x - x, then \frac{dy}{dx} = ?",y = (x + 1) tan^{-1}x - x হলে \frac{dy}{dx} = ?,2tan^{-1}x,2xtan^{-1}x,xtan^{-1}x,\frac{2x}{1 + x^{2}},2tan^{-1}x,2xtan^{-1}x,xtan^{-1}x,\frac{2x}{1 + x^{2}},b
+"Which one is the tangent of the equation which is drawn on the circle x^{2} + y^{2} = 25 at the point (4, 3)?","x^{2} + y^{2} = 25 বৃত্তের (4, 3) বিন্দুতে অঙ্কিত স্পর্শকের সমীকরণ কোনটি?",3x + 4y - 25 = 0,3x + 4y + 25 = 0,4x + 3y - 25 = 0,4x + 3y + 25 = 0,3x + 4y - 25 = 0,3x + 4y + 25 = 0,4x + 3y - 25 = 0,4x + 3y + 25 = 0,c
+"When the function f(x) will be increasing at the point x = a, then-",x = a বিন্দুতে f(x) ফাংশন ক্রমবর্ধমান হবে যদি-,f'(a) = 0,f'(a) < 0,f'(a) \neq 0,f'(a) > 0,f'(a) = 0,f'(a) < 0,f'(a) \neq 0,f'(a) > 0,d
+"If the order of the matrices A, B and C are respectively 4 \times 3, 3 \times 4 and 7 \times 4, then what is the order of (B + A^{T}).C^{T}?","A, B ও C ম্যাট্রিক্সগুলোর মাত্রা যথাক্রমে 4 \times 3, 3 \times 4 and 7 \times 4 হলে, (B + A^{T}).C^{T} মাট্রিক্সের মাত্রা কত?",3 \times 4,4 \times 3,3 \times 7,4 \times 7,3 \times 4,4 \times 3,3 \times 7,4 \times 7,c
+Which one is the maximum value of f(x) = x(2a - x)?,f(x) = x(2a - x) এর সর্বোচ্চ মান কোনটি?,a,2a,a^{2},2a^{2},a,2a,a^{2},2a^{2},c
+Which one is the length of intercept from x axis by the circle x^{2}+ y^{2} - 2x + 6y - 6 = 0?,x^{2}+ y^{2} - 2x + 6y - 6 = 0 বৃত্তটি দ্বারা x-অক্ষের খন্ডিত অংশের দৈর্ঘ্য কত একক?,2\sqrt{2},2\sqrt{7},2\sqrt{10},2\sqrt{15},2\sqrt{2},2\sqrt{7},2\sqrt{10},2\sqrt{15},b
+Which one is the value of \int_{0}^{1} \frac{e^{5x} + e^{3x}}{e^{x} + e^{-x}} dx?,\int_{0}^{1} \frac{e^{5x} + e^{3x}}{e^{x} + e^{-x}} dx এর মান কোনটি?,4(e^{4} - 1},\frac{1}{5}(e^{5} - 1),5(e^{5} - 1),\frac{1}{4}(e^{4} - 1),4(e^{4} - 1},\frac{1}{5}(e^{5} - 1),5(e^{5} - 1),\frac{1}{4}(e^{4} - 1),d
+"cos2A =
+ i. - 2sin^{2}A + 1
+ ii. 2cos^{2}A - 1
+ iii. \frac{1 - tan^{2}A}{sec^{2}A}
+ Which one is correct?","cos2A =
+ i. - 2sin^{2}A + 1
+ ii. 2cos^{2}A - 1
+ iii. \frac{1 - tan^{2}A}{sec^{2}A}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+"\begin{bmatrix} 2 & - 4 \\ - 4 & -8 \end{bmatrix} is a-
+ i. square matrix
+ ii. singular matrix
+ iii. symmetric matrix
+ Which one is correct?","\begin{bmatrix} 2 & - 4 \\ - 4 & -8 \end{bmatrix} একটি-
+ i. বর্গ ম্যাট্রিক্স
+ ii. ব্যতিক্রমী ম্যাট্রিক্স
+ iii. প্রতিসম ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+Which one is the perpendicular distance between the two straight lines y - x = 4 and y = x in unit?,y - x = 4 এবং y = x সরলরেখাদ্বয়ের মধ্যবর্তী লম্ব দূরত্ব কত একক?,4,2,4\sqrt{2},2\sqrt{2},4,2,4\sqrt{2},2\sqrt{2},d
+What is the value of 2sin^{2}15\degree?,2sin^{2}15\degree এর মান কত?,\frac{2 - \sqrt{3}}{2},\frac{\sqrt{3} + 1}{2},\frac{\sqrt{3} - 1}{2},\frac{2 + \sqrt{3}}{2},\frac{2 - \sqrt{3}}{2},\frac{\sqrt{3} + 1}{2},\frac{\sqrt{3} - 1}{2},\frac{2 + \sqrt{3}}{2},a
+Which one is the area of the triangle formed by the straight line x + y - 4 = 0 with the axis in square unit?,x + y - 4 = 0 সরলরেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ তৈরি করে তার ক্ষেত্রফল কত বর্গ একক?,4,8,16,32,4,8,16,32,b
+"If f(x) = \sqrt{x} -
+ i. f'(x) = \frac{1}{2\sqrt{x}}
+ ii. \int_{0}^{1} f(x) dx = \frac{2}{3}
+ iii. \int \frac{sec^{2}x}{f(tanx)} dx =\frac{1}{2} \sqrt{tanx} + c
+ Which one is correct?","f(x) = \sqrt{x} হলে-
+ i. f'(x) = \frac{1}{2\sqrt{x}}
+ ii. \int_{0}^{1} f(x) dx = \frac{2}{3}
+ iii. \int \frac{sec^{2}x}{f(tanx)} dx =\frac{1}{2} \sqrt{tanx} + c
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+The value of \int_{0}^{\frac{\pi}{2}} sin^{8}\theta cos\theta d\theta is-,\int_{0}^{\frac{\pi}{2}} sin^{8}\theta cos\theta d\theta এর মান-,\frac{1}{9},\frac{1}{8},\frac{1}{7},0,\frac{1}{9},\frac{1}{8},\frac{1}{7},0,a
+\int e^{10x} \left\[ 10 lnx + \frac{1}{x} \right\] dx = ?,\int e^{10x} \left\[ 10 lnx + \frac{1}{x} \right\] dx = কত?,e^{10x} ln |x| + C,e^{10x} . 10 ln|x| + C,10e^{x} ln|x| + C,\frac{1}{10} e^{10x} ln|x| + C,e^{10x} ln |x| + C,e^{10x} . 10 ln|x| + C,10e^{x} ln|x| + C,\frac{1}{10} e^{10x} ln|x| + C,a
+\int 10^{5x} dx = ?,\int 10^{5x} dx = কত?,\frac{10^{5x}}{ln10} + C,\frac{10^{5x}}{5ln 10} + C,5.10^{5x} ln10 + C,10^{5x} ln 10 + C,\frac{10^{5x}}{ln10} + c,\frac{10^{5x}}{5ln 10} + c,5.10^{5x} ln10 + c,10^{5x} ln 10 + c,b
+\int x^{-9} dx = ?,\int x^{-9} dx = কত?,- 9x^{-8} + C,- 9x^{-10} + C,- \frac{1}{10}x^{-10} + C,- \frac{x^{-8}}{8} + C,- 9x^{-8} + C,- 9x^{-10} + C,- \frac{1}{10}x^{-10} + C,- \frac{x^{-8}}{8} + C,d
+"If y = \frac{2}{3x}, then y_{3} = ?","y = \frac{2}{3x} হলে, y_{3} = কত?",- \frac{4}{x^{4}},\frac{4}{x^{4}},4x^{4},- 4x^{4},- \frac{4}{x^{4}},\frac{4}{x^{4}},4x^{4},- 4x^{4},a
+\int \frac{1}{\sqrt{18 - 2x^{2}}} dx = ?,\int \frac{1}{\sqrt{18 - 2x^{2}}} dx = কত?,\frac{1}{\sqrt{2}} sin^{-1} \frac{x}{3} + C,\frac{1}{3\sqrt{2}}tan^{-1}\frac{x}{3} + C,\frac{1}{6\sqrt{2}} ln \left | \frac{3 + x}{3 - x} \right | + C,\frac{1}{6\sqrt{2}} ln \left | \frac{x - 3}{x + 3} \right | + C,\frac{1}{\sqrt{2}} sin^{-1} \frac{x}{3} + C,\frac{1}{3\sqrt{2}}tan^{-1}\frac{x}{3} + C,\frac{1}{6\sqrt{2}} ln \left | \frac{3 + x}{3 - x} \right | + C,\frac{1}{6\sqrt{2}} ln \left | \frac{x - 3}{x + 3} \right | + C,a
+"If A = \begin{bmatrix} 8 & -5 \\ 7 & 2 \end{bmatrix}, then adj A = ?","A = \begin{bmatrix} 8 & -5 \\ 7 & 2 \end{bmatrix} হলে, adj A = কোনটি?",\begin{bmatrix} 2 & 5 \\ -7 & -8 \end{bmatrix},\begin{bmatrix} -2 & 5 \\ -7 & 8 \end{bmatrix},\begin{bmatrix} 8 &7 \\ -5 & 2 \end{bmatrix},\begin{bmatrix} 2 & 5 \\ -7 & 8 \end{bmatrix},\begin{bmatrix} 2 & 5 \\ -7 & -8 \end{bmatrix},\begin{bmatrix} -2 & 5 \\ -7 & 8 \end{bmatrix},\begin{bmatrix} 8 &7 \\ -5 & 2 \end{bmatrix},\begin{bmatrix} 2 & 5 \\ -7 & 8 \end{bmatrix},d
+"\begin{bmatrix} 2 & 3 & 5 \\ 5 & 0 & 1 \\ 2 & 0 & 4 \end{bmatrix} what is the (1, 2)^{th} cofactor of the determinant?","\begin{bmatrix} 2 & 3 & 5 \\ 5 & 0 & 1 \\ 2 & 0 & 4 \end{bmatrix} নির্ণায়কটির (1, 2) তম ভুক্তির সহগুণক কোনটি?",\text{- 18},\text{- 12},12,18,\text{- 18},\text{- 12},12,18,a
+"If A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} and \begin{bmatrix} 7 \\ 8 \\ 9 \end{bmatrix}, then what is the order of AB?","A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}, \begin{bmatrix} 7 \\ 8 \\ 9 \end{bmatrix} হলে, AB এর ক্রম কত?",2 \times 1,1 \times 2,3 \times 1,2 \times 3,2 \times 1,1 \times 2,3 \times 1,2 \times 3,a
+\lim_{x \to 0} \frac{e^{2x} - 1}{2x} = ?,\lim_{x \to 0} \frac{e^{2x} - 1}{2x} = কত?,\text{- 1},0,1,\frac{1}{2},\text{- 1},0,1,\frac{1}{2},c
+"If A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & -6 \\ 2 & 4 & 6 \end{bmatrix}, then Det(A) = ?","A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & -6 \\ 2 & 4 & 6 \end{bmatrix} হলে, Det(A) এর মান কত?",\text{- 48},0,48,60,\text{- 48},0,48,60,b
+"If y = \sqrt{sec2x}, then \frac{dy}{dx} = ?","y = \sqrt{sec2x} হলে, \frac{dy}{dx} কোনটি?",y tan2x,2tan2x,\frac{tan2x}{2},ycot2x,y tan2x,2tan2x,\frac{tan2x}{2},ycot2x,a
+"What is the polar co-ordinate of (-4, 4\sqrt{3})?","(-4, 4\sqrt{3}) বিন্দুর পোলার স্থানাঙ্ক কোনটি?","\left ( 4\sqrt{2}, \frac{\pi}{3} \right )","\left ( 4\sqrt{2}, - \frac{\pi}{3} \right )","\left ( 8, \frac{2\pi}{3} \right )","\left ( 8, \frac{4\pi}{3} \right )","\left ( 4\sqrt{2}, \frac{\pi}{3} \right )","\left ( 4\sqrt{2}, - \frac{\pi}{3} \right )","\left ( 8, \frac{2\pi}{3} \right )","\left ( 8, \frac{4\pi}{3} \right )",c
+What is the slope of 4x - 8y + 23 = ?,4x - 8y + 23 = 0 রেখার ঢাল কত?,- \frac{1}{2},\frac{1}{2},\text{-2},2,- \frac{1}{2},\frac{1}{2},\text{-2},2,b
+What is the equation of straight line which passes through origin and perpendicular on 3x - 4y + 5 = ?,3x - 4y + 5 = 0 রেখার উপর লম্ব এবং মূল বিন্দুগামী সরলরেখার সমীকরণ কোনটি?,4x - 3y = 0,4x + 3y = 0,3x + 4y = 0,3x - 4y = 0,4x - 3y = 0,4x + 3y = 0,3x + 4y = 0,3x - 4y = 0,b
+Which is the equation of straight line which passes through origin and makes 60\degree angle with the positive side of x-axis?,যে সরলরেখা x অক্ষের ধনাত্মক দিকের সাথে 60\degree কোণ উৎপন্ন করে এবং মূলবিন্দু দিয়ে যায় তার সমীকরণ কোনটি?,x = \sqrt{3}y,y = \sqrt{3}x,y + \sqrt{3}x = 0,\sqrt{3}y + x = 0,x = \sqrt{3}y,y = \sqrt{3}x,y + \sqrt{3}x = 0,\sqrt{3}y + x = 0,b
+What is the angle created by the straight line 3x + \sqrt{3}y - 10 = 0 and the +ve side of x-axis?,3x + \sqrt{3}y - 10 = 0 রেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?,\frac{\pi}{3},\frac{2\pi}{3},\frac{\pi}{6},\frac{5\pi}{6},\frac{\pi}{3},\frac{2\pi}{3},\frac{\pi}{6},\frac{5\pi}{6},b
+"What is the length of the tangent on the circle 2x^{2} + 2y^{2} = 18 from the point (3, 1)?","(3, 1) বিন্দু হতে 2x^{2} + 2y^{2} = 18 বৃত্তে অঙ্কিত স্পর্শকের দৈর্ঘ্য কত একক?",1,\sqrt{2},\sqrt{19},\sqrt{38},1,\sqrt{2},\sqrt{19},\sqrt{38},a
+"The circle with centre (8, -10), touches x-axis. What is the diameter of that circle?","(8, -10) বিন্দুতে কেন্দ্রবিশিষ্ট বৃত্ত x-অক্ষকে স্পর্শ করলে বৃত্তের ব্যাস কত একক?",8,10,16,20,8,10,16,20,d
+What is the intersecting part on y-axis by the circle x^{2} + y^{2} - 10x - 13y + 20 = 0?,x^{2} + y^{2} - 10x - 13y + 20 = 0 বৃত্ত দ্বারা y-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য কত একক?,2\sqrt{5},6\sqrt{5},8,4\sqrt{14},2\sqrt{5},6\sqrt{5},8,4\sqrt{14},c
+"The circle x^{2} + y^{2} - 12x + 8y + c = 0, touches x-axis.
+ 
+ What is the value of c?","x^{2} + y^{2} - 12x + 8y + c = 0 বৃত্তটি x-অক্ষকে স্পর্শ করে।
+ 
+ c এর মান কত?",\text{- 6},4,16,36,\text{- 6},4,16,36,d
+"The circle x^{2} + y^{2} - 12x + 8y + c = 0, touches x-axis.
+ 
+ What is the co-ordinate of touching point?","x^{2} + y^{2} - 12x + 8y + c = 0 বৃত্তটি x-অক্ষকে স্পর্শ করে।
+ 
+ স্পর্শ বিন্দুর স্থানাঙ্ক কত?","(0, -4)","(0, 4)","(6, 0)","(-6, 0)","(0, -4)","(0, 4)","(6, 0)","(-6, 0)",c
+\frac{sin(45\degree + A) + sin(45\degree - A)}{cos(45\degree - A) - cos(45\degree + A)} = ?,\frac{sin(45\degree + A) + sin(45\degree - A)}{cos(45\degree - A) - cos(45\degree + A)} = কত?,cotA,\text{- 1},1,tanA,cotA,\text{- 1},1,tanA,a
+"If A + B = \frac{\pi}{2}, then cos^{2}A - cos^{2}B = ?","A + B = \frac{\pi}{2} হলে, cos^{2}A - cos^{2}B = কত?",sin (A - B),sin (B - A),cos (A - B),0,sin (A - B),sin (B - A),cos (A - B),0,b
+"In case of trigonometric function-
+ i. cos4A = \frac{1 - tan^{2}2A}{1 + tan^{2}2A}
+ ii. sin6A = 2sin3A cos3A
+ iii. tan8\alpha = \frac{2tan4\alpha}{1 - tan^{2}4\alpha}
+ Which one is correct?","ত্রিকোণমিতিক ফাংশনের ক্ষেত্রে-
+ i. cos4A = \frac{1 - tan^{2}2A}{1 + tan^{2}2A}
+ ii. sin6A = 2sin3A cos3A
+ iii. tan8\alpha = \frac{2tan4\alpha}{1 - tan^{2}4\alpha}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+The derivative of lnax with respect to x is-,x-এর সাপেক্ষে ln ax এর অন্তরজ-,\frac{a}{x},\frac{x}{a},\frac{1}{x},\frac{1}{ax},\frac{a}{x},\frac{x}{a},\frac{1}{x},\frac{1}{ax},c
+The derivative of tan^{-1}3x with respect to x is-,x এর সাপেক্ষে tan^{-1}3x এর অন্তরজ-,\frac{1}{1 + 3x^{2}},\frac{3}{1 + 3x^{2}},\frac{1}{1 + 9x^{2}},\frac{3}{1 + 9x^{2}},\frac{1}{1 + 3x^{2}},\frac{3}{1 + 3x^{2}},\frac{1}{1 + 9x^{2}},\frac{3}{1 + 9x^{2}},d
+"If y = e^{-\frac{3}{2}x}, then the value of \frac{dy}{dx} is-",y = e^{-\frac{3}{2}x} হলে \frac{dy}{dx} = কত?,- \frac{3}{2} e^{- \frac{3x}{2}},\frac{3}{2} e^{- \frac{3x}{2}},\frac{2}{3} e^{- \frac{3x}{2}},- \frac{2}{3} e^{- \frac{3x}{2}},- \frac{3}{2} e^{- \frac{3x}{2}},\frac{3}{2} e^{- \frac{3x}{2}},\frac{2}{3} e^{- \frac{3x}{2}},- \frac{2}{3} e^{- \frac{3x}{2}},a
+\int 7^{x}dx is euqal to-,\int 7^{x}dx সমান-,7^{x} ln 7 + c,\frac{7^{x}}{ln 7} + c,\frac{7^{x + 1}}{x + 1} + c,x7^{x-1} + c,7^{x} ln 7 + c,\frac{7^{x}}{ln 7} + c,\frac{7^{x + 1}}{x + 1} + c,x7^{x-1} + c,b
+\int sin x\degree is equal to-,\int sin x\degree = কত?,- cos x\degree + c,cosx\degree + c,- \frac{180\degree}{\pi} cos \frac{\pi x}{180} + c,\frac{180\degree}{\pi} cos \frac{\pi x}{180} + c,- cos x\degree + c,cosx\degree + c,- \frac{180\degree}{\pi} cos \frac{\pi x}{180} + c,\frac{180\degree}{\pi} cos \frac{\pi x}{180} + c,c
+The value of \int_{0}^{\frac{\pi}{2}} \frac{sin x}{5 - cos x}dx is-,\int_{0}^{\frac{\pi}{2}} \frac{sin x}{5 - cos x}dx এর মান-,ln 20,- ln 20,ln5 - ln4,ln4 - ln5,ln 20,- ln 20,ln5 - ln4,ln4 - ln5,c
+"The area of the region bounded by y = x^{2}, x-axis, x = 0 and x = 3 is-","y = x^{2}, x-অক্ষে x = 0 এবং x = 3 দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল-",3,6,8,9,3,6,8,9,d
+\int \frac{dx}{\sqrt[3]{x}} is equal to-,\int \frac{dx}{\sqrt[3]{x}} সমান-,- \frac{1}{3} x^{\frac{4}{3}} + c,\frac{3}{2} x^{\frac{2}{3}} + c,\frac{3}{2} x^{-\frac{3}{2}} + c,\frac{2}{3} x^{-\frac{2}{3}} + c,- \frac{1}{3} x^{\frac{4}{3}} + c,\frac{3}{2} x^{\frac{2}{3}} + c,\frac{3}{2} x^{-\frac{3}{2}} + c,\frac{2}{3} x^{-\frac{2}{3}} + c,b
+\int \frac{dx}{\sqrt{9 - x^{2}}} is equal to-,\int \frac{dx}{\sqrt{9 - x^{2}}} সমান-,sin^{-1}\frac{x}{3} + c,cos^{-1} \frac{x}{3} + c,sin^{-1}\frac{3}{x} + c,cos^{-1} \frac{3}{x} + c,sin^{-1}\frac{x}{3} + c,cos^{-1} \frac{x}{3} + c,sin^{-1}\frac{3}{x} + c,cos^{-1} \frac{3}{x} + c,a
+The value of \int_{0}^{\frac{\pi}{2}} cos xdx is -,\int_{0}^{\frac{\pi}{2}} cos xdx এর মান-,\text{- 1},0,1,\frac{\pi}{2},\text{- 1},0,1,\frac{\pi}{2},c
+"If P = \begin{pmatrix} 1 & -2 \\ 3 & 0 \end{pmatrix}, then the value of P^{2} - 2I is-",P = \begin{pmatrix} 1 & -2 \\ 3 & 0 \end{pmatrix} হলে P^{2} - 2I এর মান-,\begin{pmatrix} 1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} -1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} 1 & -4 \\ 0 & 9 \end{pmatrix},\begin{pmatrix} 0 & -4 \\ 0 & 8 \end{pmatrix},\begin{pmatrix} 1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} -1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} 1 & -4 \\ 0 & 9 \end{pmatrix},\begin{pmatrix} 0 & -4 \\ 0 & 8 \end{pmatrix},b
+"If A = |a_{ij}|_{3 \times 2} and B = |b_{ij}|_{2 \times 4}, the size of the matrix AB is -","A = |a_{ij}|_{3 \times 2} এবং B = |b_{ij}|_{2 \times 4} হলে, AB ম্যাট্রিক্সটির আকার-",3 \times 2,2 \times 4,4 \times 3,3 \times 4,3 \times 2,2 \times 4,4 \times 3,3 \times 4,d
+"C = \begin{pmatrix} 1 & 3 \\ 2 & 4 \end{pmatrix}
+ 
+ For the matrix C-
+ i. (2, 2)th minor is 1
+ ii. |C| = 2
+ iii. 3C = \begin{pmatrix} 3 & 9 \\ 6 & 12 \end{pmatrix}
+ Which one is correct?","C = \begin{pmatrix} 1 & 3 \\ 2 & 4 \end{pmatrix}
+ 
+ C এর ক্ষেতে-
+ i. (2, 2)তম অনুরাশি 1
+ ii. |C| = 2
+ iii. 3C = \begin{pmatrix} 3 & 9 \\ 6 & 12 \end{pmatrix}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+"C = \begin{pmatrix} 1 & 3 \\ 2 & 4 \end{pmatrix}
+ 
+ C^{-1} is equal to-","C = \begin{pmatrix} 1 & 3 \\ 2 & 4 \end{pmatrix}
+ 
+ C^{-1}এর সমান-",\begin{pmatrix} -2 & \frac{3}{2} \\ 1 & - \frac{1}{2} \end{pmatrix},\begin{pmatrix} 2 & -3 \\ -1 & 1 \end{pmatrix},\frac{1}{2} \begin{pmatrix} 4 & -3 \\ -2 & 1 \end{pmatrix},- \frac{1}{2} \begin{pmatrix} 4 & 3 \\ 2 & 1 \end{pmatrix},\begin{pmatrix} -2 & \frac{3}{2} \\ 1 & - \frac{1}{2} \end{pmatrix},\begin{pmatrix} 2 & -3 \\ -1 & 1 \end{pmatrix},\frac{1}{2} \begin{pmatrix} 4 & -3 \\ -2 & 1 \end{pmatrix},- \frac{1}{2} \begin{pmatrix} 4 & 3 \\ 2 & 1 \end{pmatrix},a
+"If the value of (3, 2)th minor of the determinant \begin{vmatrix} 2 & 5 & 4 \\ y & 6 & x \\ -3 & 7 & -1 \end{vmatrix} is 2, then the relation between x and y is-","\begin{vmatrix} 2 & 5 & 4 \\ y & 6 & x \\ -3 & 7 & -1 \end{vmatrix} নির্ণায়কের (3, 2) তম অনুরাশির মান 2 হলে x ও y এর মধ্যে সম্পর্কটি-",2x + 5y = 2,3x + y =2,x - 2y = 2,x - 2y = 1,2x + 5y = 2,3x + y =2,x - 2y = 2,x - 2y = 1,d
+"If the matrix \begin{pmatrix} k & 1 \\ 2 & 4 \end{pmatrix} is singular, the value of k is-","\begin{pmatrix} k & 1 \\ 2 & 4 \end{pmatrix} ম্যাট্রিক্সটি ব্যতিক্রমী হলে, k এর মান-",\text{-2},- \frac{1}{2},\frac{1}{2},2,\text{-2},- \frac{1}{2},\frac{1}{2},2,c
+"3x - 4y + k = 0 is straight line.
+ i. Its slope is \frac{3}{4}
+ ii. It intercepts the length \frac{k}{4} units from the y-axis
+ iii. It intersects the x-axis at (3, 0)
+ Which one is correct?","3x - 4y + k = 0 একটি সরলরেখা।
+ i. উহার ঢাল = \frac{3}{4}
+ ii. উহা y অক্ষ থেকে \frac{k}{4} একক দৈর্ঘ্য ছেদ করে
+ iii. উহা x অক্ষকে (3, 0) বিন্দুতে ছেদ করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"The perpendicular distance of \sqrt{x}x - y + 8 = 0 from the point (\sqrt{3}, 1) is-","(\sqrt{3}, 1) বিন্দু হতে \sqrt{x}x - y + 8 = 0 রেখার লম্ব দূরত্ব-",2,5,8,5\sqrt{2},2,5,8,5\sqrt{2},b
+"The polar coodinate of (-1, \sqrt{3}) is-","(-1, \sqrt{3}) বিন্দুটির পোলার স্থানাঙ্ক-","(2, -60\degree)","(2, 30\degree)","(2, 120\degree)","(2, 240\degree)","(2, -60\degree)","(2, 30\degree)","(2, 120\degree)","(2, 240\degree)",c
+"If a straight line with slope \frac{3}{2} is perpendicular to \lambda x + 3y - 7 = 0, the value of \lambda is-",\frac{3}{2} ঢালবিশিষ্ট সরলরেখাটি \lambda x + 3y - 7 = 0 সরলরেখার উপর লম্ব হলে \lambda এর মান-,2,3,\frac{9}{2},\frac{9}{4},2,3,\frac{9}{2},\frac{9}{4},a
+The length of intercepts from the x and y axes by the straight line px + qy = pq are respecitvely-,px + qy = pq সরলরেখাটির x ও y অক্ষদ্বয় হতে যথাক্রমে যে যে অংশ খন্ডন করে তাদের দৈর্ঘ্য-,"p, q","q, p","\frac{1}{p}, \frac{1}{q}","\frac{1}{q}, \frac{1}{p}","p, q","q, p","\frac{1}{p}, \frac{1}{q}","\frac{1}{q}, \frac{1}{p}",b
+The value of lim_{x \to 0} \frac{tan^{-1}4x}{x} is-,lim_{x \to 0} \frac{tan^{-1}4x}{x} এর মান-,0,\frac{1}{4},1,4,0,\frac{1}{4},1,4,d
+"If f(x) = ln(x), then-
+ i. \frac{d}{dx} f(x) = \frac{1}{x}
+ ii. \int f(x) dx = x ln x - x + c
+ iii. \int_{1}^{2} f(x) dx = ln2
+ Which one is correct?","f(x) = ln(x) হলে-
+ i. \frac{d}{dx} f(x) = \frac{1}{x}
+ ii. \int f(x) dx = x ln x - x + c
+ iii. \int_{1}^{2} f(x) dx = ln2
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"If f(x) = - x^{2} - 2x + 5 then-
+ i. f(x) is a decreasing function for x < - 1
+ ii. the minimum value of f(x) is 6
+ iii. f''(0) = - 2
+ Which one is correct?","f(x) = - x^{2} - 2x + 5 হলে-
+ i. x < - 1 এর জন্য f(x) একটি ক্রমহ্রাসমান ফাংশন
+ ii. f(x) এর ক্ষুদ্রতম মান 6
+ iii. f''(0) = - 2
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",c
+What is the area in sq. unit enclosed by first quadrant of the circle x^{2} + y^{2} = 36?,x^{2} + y^{2} = 36 বৃত্ত দ্বারা প্রথম চতুর্ভাগে আবদ্ধ ক্ষেত্রে ক্ষেত্রফল কত বর্গ একক?,36\pi,24\pi,12\pi,9\pi,36\pi,24\pi,12\pi,9\pi,d
+"In the determinant, \begin{vmatrix} 3 & -4 & 2 \\ -1 & 5 & 6 \\ 7 & -8 & 4 \end{vmatrix} what is the co-factor of (1, 2)th entry?","\begin{vmatrix} 3 & -4 & 2 \\ -1 & 5 & 6 \\ 7 & -8 & 4 \end{vmatrix} নির্ণায়কটির (1, 2) তম ভুক্তির সহগুণক কত?",\text{-184},\text{-46},46,184,\text{-184},\text{-46},46,184,c
+What is the value of k when two lines kx + y + 5 = 0 and 2x - 3y + 1 = 0 are parallel to each other?,kx + y + 5 = 0 এবং 2x - 3y + 1 = 0 রেখাদ্বয় পরস্পর সমান্তরাল হলে k এর মান কত?,\frac{3}{2},\frac{2}{3},- \frac{2}{3},- \frac{3}{2},\frac{3}{2},\frac{2}{3},- \frac{2}{3},- \frac{3}{2},c
+"If A = \begin{bmatrix} 0 & -3 & 2 \\ 3 & 0 & 4 \\ -2 & -4 & 0 \end{bmatrix} then A is a-
+ i. skew-symmetric matrix
+ ii. singular matrix
+ iii. diagonal matrix
+ Which one is correct?","A = \begin{bmatrix} 0 & -3 & 2 \\ 3 & 0 & 4 \\ -2 & -4 & 0 \end{bmatrix} হলে A একটি-
+ i. বিপ্রতিসম ম্যাট্রিক্স
+ ii. ব্যতিক্রমী ম্যাট্রিক্স
+ iii. কর্ণ ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"If f(x) = sin2x, g(x) = sin^{2}x then-
+ i. g'(x) = f(x)
+ ii. \lim_{x \to 0} \frac{f(x)}{g(x)} = 0
+ iii. \int_{0}^{\frac{\pi}{2}}
+ Which one is correct?","f(x) = sin2x, g(x) = sin^{2}x হলে-
+ i. g'(x) = f(x)
+ ii. \lim_{x \to 0} \frac{f(x)}{g(x)} = 0
+ iii. \int_{0}^{\frac{\pi}{2}}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",c
+What is the perpendicular distance between two straight lines 3x - 4y + 1 = 0 and 6x - 8y + 10 = 0?,3x - 4y + 1 = 0 এবং 6x - 8y + 10 = 0ন সরলরেখাদ্বয়ের মধ্যবর্তী লম্ব দূরত্ব কত?,\frac{5}{4},\frac{4}{5},\frac{6}{5},\frac{5}{6},\frac{5}{4},\frac{4}{5},\frac{6}{5},\frac{5}{6},b
+"If \int \frac{dx}{1 - cosx} = f(x) + c
+ What is the value of f(x)?",\int \frac{dx}{1 - cosx} = f(x) + c হলে f(x) এর মান কোনটি?,-cot \frac{x}{2},- 2cot\frac{x}{2},2cot\frac{x}{2},cot{x}{2},-cot \frac{x}{2},- 2cot\frac{x}{2},2cot\frac{x}{2},cot{x}{2},a
+What is the value of \int \frac{dx}{2 - 3x}?,\int \frac{dx}{2 - 3x} এর মান কোনটি?,- \frac{ln(2 - 3x)}{3} + c,\frac{ln(2 - 3x)}{3} + c,- ln(2 - 3x) + c,ln(2 - 3x) + c,- \frac{ln(2 - 3x)}{3} + c,\frac{ln(2 - 3x)}{3} + c,- ln(2 - 3x) + c,ln(2 - 3x) + c,a
+"Which one of the following is the equation of straight line passing through the point (3, -4) and is parallel to x-axis?","(3, -4) বিন্দুগামী এবং x-অক্ষের সমান্তরাল সরলরেখার সমীকরণ কোনটি?",y - 3 = 0,y + 3 = 0,y - 4 = 0,y + 4 = 1,y - 3 = 0,y + 3 = 0,y - 4 = 0,y + 4 = 1,d
+"If order of matrices A, B, C are 5 \times 3, 3 \times 5 and 4 \times 5, then what is the order of C(A + B^{T})?","A, B, C ম্যাট্রিক্সগুলোর আকার যথাক্রমে 5 \times 3, 3 \times 5 এবং 4 \times 5 হলে C(A + B^{T}) এর আকার কত?",4 \times 3,3 \times 4,5 \times 5,5 \times 3,4 \times 3,3 \times 4,5 \times 5,5 \times 3,a
+If y = sinx then y_{n} = ?,y = sinx হলে y_{n} = ?,cos \left ( \frac{n\pi}{2} + x \right ),cos \left ( \frac{n\pi}{2} - x \right ),sin \left ( \frac{n\pi}{2} + x \right ),sin \left ( \frac{n\pi}{2} - x \right ),cos \left ( \frac{n\pi}{2} + x \right ),cos \left ( \frac{n\pi}{2} - x \right ),sin \left ( \frac{n\pi}{2} + x \right ),sin \left ( \frac{n\pi}{2} - x \right ),c
+What is the value of \int_{0}^{\frac{\pi}{2}} sec^{2}\frac{x}{2}dx?,\int_{0}^{\frac{\pi}{2}} sec^{2}\frac{x}{2}dx এর মান কত?,\text{-2},- \frac{1}{2},\frac{1}{2},2,\text{-2},- \frac{1}{2},\frac{1}{2},2,d
+What is the value of \lim_{x \to 0} \frac{tan^{-1}2x}{3x}?,\lim_{x \to 0} \frac{tan^{-1}2x}{3x} এর মান কত?,- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},c
+"Which is the polar co-ordinates of the point \left ( \frac{-3\sqrt{2}}{2}, \frac{3\sqrt{2}}{2} \right ) ?","\left ( \frac{-3\sqrt{2}}{2}, \frac{3\sqrt{2}}{2} \right ) বিন্দুটির পোলার স্থানাঙ্ক কোনটি?","\left ( 3, \frac{7\pi}{4} \right )","\left ( 3, \frac{5\pi}{4} \right )","\left ( 3, \frac{3\pi}{4} \right )","\left ( 3, \frac{\pi}{4} \right )","\left ( 3, \frac{7\pi}{4} \right )","\left ( 3, \frac{5\pi}{4} \right )","\left ( 3, \frac{3\pi}{4} \right )","\left ( 3, \frac{\pi}{4} \right )",c
+"If f(\theta} = cos2\theta then-
+ i. \int f(\theta) d\theta = \frac{sin2\theta}{2} + c
+ ii. \int \sqrt{1 - f(\theta)} d\theta = - \sqrt{2} cos\theta + c
+ iii. \int \sqrt{1 + f(\theta) d\theta = \sqrt{2} sin\theta + c
+ Which one is correct?","f(\theta} = cos2\theta হলে-
+ i. \int f(\theta) d\theta = \frac{sin2\theta}{2} + c
+ ii. \int \sqrt{1 - f(\theta)} d\theta = - \sqrt{2} cos\theta + c
+ iii. \int \sqrt{1 + f(\theta) d\theta = \sqrt{2} sin\theta + c
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+Which one is the inverse matrix of \begin{bmatrix} 2 & -1 \\ 5 & -3 \end{bmatrix}?,\begin{bmatrix} 2 & -1 \\ 5 & -3 \end{bmatrix} এর বিপরীত ম্যাট্রিক্স কোনটি?,\begin{bmatrix} 3 & -1 \\ 5 & -2 \end{bmatrix},\begin{bmatrix} -3 & 1 \\ -5 & 2 \end{bmatrix},\begin{bmatrix} -3 & 5 \\ -1 & 2 \end{bmatrix},\begin{bmatrix} 3 & 1 \\ -5 & -2 \end{bmatrix},\begin{bmatrix} 3 & -1 \\ 5 & -2 \end{bmatrix},\begin{bmatrix} -3 & 1 \\ -5 & 2 \end{bmatrix},\begin{bmatrix} -3 & 5 \\ -1 & 2 \end{bmatrix},\begin{bmatrix} 3 & 1 \\ -5 & -2 \end{bmatrix},a
+What is the slope of the perpendicular line of 2y - 3x + 1 = 0?,2y - 3x + 1 = 0 এর লম্ব রেখার ঢাল কত?,- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},b
+At which condition will be function y = f(x) at the point x = a be increasing?,y = f(x) ফাংশনটি x = a বিন্দুতে ক্রমবর্ধমান হবে?,\frac{dy}{dx} < 0,\frac{dy}{dx} > 0,\frac{dy}{dx} = 0,\frac{d^{2}y}{dx^{2}} = 0,\frac{dy}{dx} < 0,\frac{dy}{dx} > 0,\frac{dy}{dx} = 0,\frac{d^{2}y}{dx^{2}} = 0,b
+\frac{d}{dx} (5^{x}) = ?,\frac{d}{dx} (5^{x}) = কত?,5^{x}ln5,5^{x},5^{x-1}x,5^{x}lnx,5^{x}ln5,5^{x},5^{x-1}x,5^{x}lnx,a
+For what value of k will the matrix \begin{bmatrix} k & -2 \\ 2 & k-4 \end{bmatrix} be singular?,k এর কোন মানের জন্য \begin{bmatrix} k & -2 \\ 2 & k-4 \end{bmatrix} ম্যাট্রিক্সটি ব্যতিক্রমী হবে?,\text{-4},\text{-2},2,4,\text{-4},\text{-2},2,4,c
+"If \int_{1}^{5} \frac{dx}{2x - 1} = lnP, then what is the value of P?",যদি \int_{1}^{5} \frac{dx}{2x - 1} = lnP হয় তবে P এর মান কত?,3,9,10,81,3,9,10,81,a
+"The straight line 3y - 2x + 6 = 0-
+ i. intersects the y axis at (0, 2).
+ ii. intercepts 3 units from the x-axis
+ iii. forms the triangle of area 3 sq. units with the coordinate axes.
+ Which one is correct?","3y - 2x + 6 = 0 রেখাটি-
+ i. y অক্ষকে (0, 2) বিন্দুতে ছেদ করে
+ ii. x অক্ষ হতে 3 একক অংশ খণ্ডন করে
+ iii. অক্ষদ্বয়ের সাথে 3 বর্গ একক ক্ষেত্রফলবিশিষ্ট ত্রিভুজ গঠন করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",c
+"What is the co-factor of the (3, 1)th entry of \begin{vmatrix} 1 & -1 & 2 \\ 2 & -2 & 1 \\ -3 & 4 & -5 \end{vmatrix} ?","\begin{vmatrix} 1 & -1 & 2 \\ 2 & -2 & 1 \\ -3 & 4 & -5 \end{vmatrix} এ (3, 1) তম ভুক্তির সহগুণক কত?",\text{-9},\text{-3},3,9,\text{-9},\text{-3},3,9,c
+"f(x) = tanx and g(x) = sec^{2}x.
+ 
+ \int f(x) dx = ?","f(x) = tanx এবং g(x) = sec^{2}x.
+ 
+ \int f(x) dx = কত?",- ln cosx + c,- ln secx + c,ln cosx + c,ln sinx + c,- ln cosx + c,- ln secx + c,ln cosx + c,ln sinx + c,a
+"f(x) = tanx and g(x) = sec^{2}x.
+ 
+ \int_{0}^{\frac{\pi}{4}} e^{x} {f(x) + g(x)} dx = ?","f(x) = tanx এবং g(x) = sec^{2}x.
+ 
+ \int_{0}^{\frac{\pi}{4}} e^{x} {f(x) + g(x)} dx = কত?",0,e^{\frac{\pi}{4}},1,e^{\frac{\pi}{4}} - 1,0,e^{\frac{\pi}{4}},1,e^{\frac{\pi}{4}} - 1,b
+What is the area bounded by the straight lines x = 3 and y = \pm x in sq. units?,x = 3 এবং y = \pm x সরলরেখাগুলো দ্বারা আবদ্ধ ক্ষেত্রে ক্ষেত্রফল কত বর্গ একক?,3,\frac{9}{2},6,9,3,\frac{9}{2},6,9,d
+"If B is a matrix of order 2 \times 2 and |B|= 5, then what are the value of |3B|?",B একটি 2 \times 2 আকারের ম্যাট্রিক্স এবং |B|= 5 হলে |3B| এর মান কত?,5,15,20,45,5,15,20,45,d
+"If f(x) = cosx, then-
+ i. f'(2t) = - sin2t
+ ii. \int f \left ( \frac{\pi}{2} - x \right ) dx = - cosx + c
+ iii. \int_{0}^{\frac{\pi}{4}} f(x)dx = \frac{1}{2}
+ Which one is correct?","f(x) = cosx হলে-
+ i. f'(2t) = - sin2t
+ ii. \int f \left ( \frac{\pi}{2} - x \right ) dx = - cosx + c
+ iii. \int_{0}^{\frac{\pi}{4}} f(x)dx = \frac{1}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",c
+What is the acute angle between the straight lines y = 2x + 3 and 3x - y + 5 = 0?,y = 2x + 3 এবং 3x - y + 5 = 0ন রেখাদ্বয়ের মধ্যবর্তী সূক্ষ্মকোণ কত?,tan^{-1} \left ( - \frac{1}{7} \right ),tan^{-1} \left ( \frac{1}{7} \right ),- tan^{-1} \left ( \frac{1}{7} \right ),tan^{-1} (7),tan^{-1} \left ( - \frac{1}{7} \right ),tan^{-1} \left ( \frac{1}{7} \right ),- tan^{-1} \left ( \frac{1}{7} \right ),tan^{-1} (7),b
+What is the abscissa of the point at which the tangent to the curve y = x lnx is parallel to the x-axis?,y = x lnx বক্ররেখার যে বিন্দুতে স্পর্শক x অক্ষের সমান্তরাল তার ভুজ কত?,e,- e,\frac{1}{e},- \frac{1}{e},e,- e,\frac{1}{e},- \frac{1}{e},c
+Which one of the following is the value of lim \lim_{x \to 0} \frac{x}{sinx\degree} ?,\lim_{x \to 0} \frac{x}{sinx\degree} এর মান নিচের কোনটি?,0,\frac{180}{\pi},\frac{\pi}{180},1,0,\frac{180}{\pi},\frac{\pi}{180},1,b
+"If \int \frac{4x^{x}}{1 + x^{8}} dx = f(x) + c, then what is the value of f(x)?",\int \frac{4x^{x}}{1 + x^{8}} dx = f(x) + c হলে f(x) এর মান কত?,\frac{1}{1 + x^{2}},sin^{-1} x^{3},tan^{-1}x^{4},tan^{-1}x^{3},\frac{1}{1 + x^{2}},sin^{-1} x^{3},tan^{-1}x^{4},tan^{-1}x^{3},c
+"What is the polar coordinates of the part (-\sqrt{3}, -1)?","(-\sqrt{3}, -1) বিন্দুর পোলার স্থানাঙ্ক কত?","\left ( 2, \frac{7\pi}{6} \right )","\left ( 2, \frac{\pi}{6} \right )","\left ( 4, \frac{\pi}{4} \right )","\left ( 4, \frac{7\pi}{6} \right )","\left ( 2, \frac{7\pi}{6} \right )","\left ( 2, \frac{\pi}{6} \right )","\left ( 4, \frac{\pi}{4} \right )","\left ( 4, \frac{7\pi}{6} \right )",a
+"If p = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 4 & 0 \\ 0 & 0 & 5 \end{bmatrix}, then what is the value of |p|?",p = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 4 & 0 \\ 0 & 0 & 5 \end{bmatrix} হলে |p| এর মান কত?,12,20,60,120,12,20,60,120,c
+What is the slope of the line y = 2x + 3?,y = 2x + 3 রেখাটির ঢাল কত?,2,\text{-2},\frac{1}{2},- \frac{1}{2},2,\text{-2},\frac{1}{2},- \frac{1}{2},a
+"If P = \begin{pmatrix} 1 & -1 \\ 0 & 3 \end{pmatrix}, then the value of P^{2} - 2I is-",P = \begin{pmatrix} 1 & -1 \\ 0 & 3 \end{pmatrix} হলে P^{2} - 2I এর মান হয়-,\begin{pmatrix} 1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} -1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} 1 & -4 \\ 0 & 9 \end{pmatrix},\begin{pmatrix} 0 & -4 \\ 0 & 8 \end{pmatrix},\begin{pmatrix} 1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} -1 & -4 \\ 0 & 7 \end{pmatrix},\begin{pmatrix} 1 & -4 \\ 0 & 9 \end{pmatrix},\begin{pmatrix} 0 & -4 \\ 0 & 8 \end{pmatrix},b
+\int \frac{f'(x)}{\sqrt{f(x)}} dx = ?,\int \frac{f'(x)}{\sqrt{f(x)}} dx = কত?,lnf(x) + c,2\sqrt{f(x)} + c,f'(x) + c,f(x) + c,lnf(x) + c,2\sqrt{f(x)} + c,f'(x) + c,f(x) + c,b
+"If A = \begin{pmatrix} 2 & 3 \\ 4 & 5 \end{pmatrix} and B = \begin{pmatrix} 2 & 3 & 1 \\ 4 & 5 & 1 \end{pmatrix}, then-
+ i. A - B = \begin{pmatrix} 0 & 0 & -1 \\ 0 & 0 & -1 \end{pmatrix}
+ ii. The order of A^{T}B is 2 \times 3
+ iii. AB is determinable
+ Which one is correct?","A = \begin{pmatrix} 2 & 3 \\ 4 & 5 \end{pmatrix} ও B = \begin{pmatrix} 2 & 3 & 1 \\ 4 & 5 & 1 \end{pmatrix} হলে-
+ i. A - B = \begin{pmatrix} 0 & 0 & -1 \\ 0 & 0 & -1 \end{pmatrix}
+ ii. A^{T}B এর মাত্রা 2 \times 3
+ iii. AB নির্ণয়যোগ্য
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",c
+\lim_{x \to \infty} \frac{2x + 1}{5x^{2} - 6} = ?,\lim_{x \to \infty} \frac{2x + 1}{5x^{2} - 6} = কত?,\frac{1}{5},\frac{2}{5},- \frac{1}{6},0,\frac{1}{5},\frac{2}{5},- \frac{1}{6},0,d
+"2x + 5y + 1 = 0 and - kx + 10y - 3 = 0 are the equations of two straight lines.
+ 
+ If the straight lines are perpendicular to each other, then what is the value of k?","2x + 5y + 1 = 0 এবং - kx + 10y - 3 = 0 দুইটি সরলরেখার সমীকরণ।
+ 
+ রেখাদ্বয় পরস্পর লম্ব হলে k এর মান কত?",\text{-4},\text{-3},21,25,\text{-4},\text{-3},21,25,d
+"2x + 5y + 1 = 0 and - kx + 10y - 3 = 0 are the equations of two straight lines.
+ 
+ Which is the equation passing through the point (1, 0) and parallel to the first straight line?","2x + 5y + 1 = 0 এবং - kx + 10y - 3 = 0 দুইটি সরলরেখার সমীকরণ।
+ 
+ (1, 0) বিন্দুগামী প্রথম রেখার সমান্তরাল রেখার সমীকরণ কোনটি?",2x + 5y - 2 = 0,2x + 5y + 2 = 0,5x - 2y - 5 = 0,5x - 2y + 5 = 0,2x + 5y - 2 = 0,2x + 5y + 2 = 0,5x - 2y - 5 = 0,5x - 2y + 5 = 0,a
+What is the value of \frac{d^{7}}{dx^{7}} (5x^{6})?,\frac{d^{7}}{dx^{7}} (5x^{6}) এর মান কত?,61,71,0,30,6!,7!,0,30,c
+Which one is correct for increasing function?,ক্রমবর্ধমান ফাংশনের ক্ষেত্রে নিচের কোনটি সঠিক?,\frac{dy}{dx} \geq 0,\frac{dy}{dx} > 0,\frac{dy}{dx} = 0,\frac{dy}{dx} \leq 0,\frac{dy}{dx} \geq 0,\frac{dy}{dx} > 0,\frac{dy}{dx} = 0,\frac{dy}{dx} \leq 0,b
+"M = \begin{bmatrix} 1 & 3 \\ 0 & -1 \end{bmatrix}
+ 
+ The matrix M is-","M = \begin{bmatrix} 1 & 3 \\ 0 & -1 \end{bmatrix} হলে-
+ 
+ M ম্যাট্রিক্সটি-",symmetric,nilpoint,idempotent,involutory,প্রতিসম,শূন্যঘাতি,সমঘাতি,অভেদঘাতি,d
+"M = \begin{bmatrix} 1 & 3 \\ 0 & -1 \end{bmatrix}
+ 
+ Which one is the M^{-1}?","M = \begin{bmatrix} 1 & 3 \\ 0 & -1 \end{bmatrix} হলে-
+ 
+ M^{-1} কোনটি?",\begin{bmatrix} 1 & 0 \\ 3 & -1 \end{bmatrix},\begin{bmatrix} - 1 & 0 \\ - 3 & 1 \end{bmatrix},\begin{bmatrix} - 1 & 3 \\ 0 & 1 \end{bmatrix},\begin{bmatrix} 1 & 3 \\ 0 & -1 \end{bmatrix},\begin{bmatrix} 1 & 0 \\ 3 & -1 \end{bmatrix},\begin{bmatrix} - 1 & 0 \\ - 3 & 1 \end{bmatrix},\begin{bmatrix} - 1 & 3 \\ 0 & 1 \end{bmatrix},\begin{bmatrix} 1 & 3 \\ 0 & -1 \end{bmatrix},d
+"Which one is the area of enclosed by the curve y = 4x^{2} and x = 1, x = 2?","y = 4x^{2} বক্ররেখা এবং x = 1, x = 2 সরলরেখা দ্বারা আবদ্ধ ক্ষেত্রে ক্ষেত্রফল কোনটি?",\frac{24}{2} sq. units,\frac{32}{3} sq. units,32 sq. units,\frac{28}{3} sq. units,\frac{24}{2} বর্গ একক,\frac{32}{3} বর্গ একক,32 বর্গ একক,\frac{28}{3} বর্গ একক,d
+"If F(x) = cosecx, then-
+ i. \int F(x) dx = ln |cosec x + cot x| + c
+ ii. \int F(x) dx = ln \left | tan\frac{x}{2} \right | + c
+ iii. \int F(x) dx = -ln |cosec x + cot x| + c
+ Which one is correct?","F(x) = cosecx হলে-
+ i. \int F(x) dx = ln |cosec x + cot x| + c
+ ii. \int F(x) dx = ln \left | tan\frac{x}{2} \right | + c
+ iii. \int F(x) dx = -ln |cosec x + cot x| + c
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",c
+Which one is the area of the triangle formed by the straight line \frac{x}{5} + \frac{x}{6} = 1 and the axes of the co-ordinates?,\frac{x}{5} + \frac{x}{6} = 1 রেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল কত?,5 sq. units,6 sq. units,15 sq. units,30 sq. units,5 বর্গ একক,6 বর্গ একক,15 বর্গ একক,30 বর্গ একক,c
+Which one is the value of \frac{d}{dx} (a^{10})?,\frac{d}{dx} (a^{10}) এর মান কোনটি?,0,a^{10},10a^{9},a^{10}lna,0,a^{10},10a^{9},a^{10}lna,a
+Which one is the value of \int_{0}^{e} lnx dx?,\int_{0}^{e} lnx dx এর মান কোনটি?,e,e + 1,e - 1,1,e,e + 1,e - 1,1,d
+"\begin{bmatrix} -6 & 0 & 0 \\ 0 & -6 & 0 \\ 0 & 0 & -6 \end{bmatrix} is a-
+ i. square matrix
+ ii. identity matrix
+ iii. scalar matrix
+ Which one is correct?","\begin{bmatrix} -6 & 0 & 0 \\ 0 & -6 & 0 \\ 0 & 0 & -6 \end{bmatrix} ম্যাট্রিক্সটি একটি-
+ i. বর্গ ম্যাট্রিক্স
+ ii. অভেদক ম্যাট্রিক্স
+ iii. স্কেলার ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+"The distance of a particle is s = 5t^{3} - 9t^{2} + 3t - 2.
+ What is the velocity after 4 sec?","কোনো একটি বস্তুর অতিক্রান্ত দূরত্ব s = 5t^{3} - 9t^{2} + 3t - 2 হলে, 4 সেকেন্ড পর বেগ কত হবে?",71,171,243,343,71,171,243,343,b
+\frac{d}{dx} (cos7x\degree) = What?,\frac{d}{dx} (cos7x\degree) = কত?,sin7x\degree,- 7 sin7x\degree,- \frac{7\pi}{180} sin 7x\degree,\frac{7\pi}{180} sin 7x\degree,sin7x\degree,- 7 sin7x\degree,- \frac{7\pi}{180} sin 7x\degree,\frac{7\pi}{180} sin 7x\degree,c
+"For the straight lines x - 3y + 5 = 0 and 2x - 6y + 9 = 0.
+ i. straight lines are parallel
+ ii. slope of 2nd equation is \frac{1}{3}
+ iii. distance between them is \frac{1}{\sqrt{10}}
+ Which one is correct?","x - 3y + 5 = 0 এবং 2x - 6y + 9 = 0 রেখাদ্বয়ের ক্ষেত্রে-
+ i রেখাদ্বয় পরস্পর সমান্তরাল
+ ii. দ্বিতীয় রেখাটির ঢাল \frac{1}{3}
+ iii. এদের মধ্যবর্তী \frac{1}{\sqrt{10}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+What is the value of x if \frac{x}{lnx} is minimum?,x এর মান কত হলে \frac{x}{lnx} এর মান ক্ষুদ্রতম হবে?,\frac{1}{e},e + 1,- \frac{1}{e},- e,\frac{1}{e},e + 1,- \frac{1}{e},- e,b
+Which one is the value of a if the matrix \begin{bmatrix} a-3 & -1 \\ -8 & a + 4 \end{bmatrix} is singular?,"\begin{bmatrix} a-3 & -1 \\ -8 & a + 4 \end{bmatrix} ম্যাট্রিক্সটি ব্যতিক্রমী হলে, a এর মান কোনটি?",0,3,"4, -5","5, -4",0,3,"4, -5","5, -4",c
+Which one is the adjoint matrix of A = \begin{bmatrix} 2 & 4 \\ 3 & 5 \end{bmatrix}?,"A = \begin{bmatrix} 2 & 4 \\ 3 & 5 \end{bmatrix} হলে, A এর অ্যাডজয়েন্ট ম্যাট্রিক্স কোনটি?",\begin{bmatrix} 5 & -3 \\ -4 & 2 \end{bmatrix},\begin{bmatrix} 5 & -4 \\ -3 & 2 \end{bmatrix},\begin{bmatrix} 2 & 3 \\ 4 & 5 \end{bmatrix},\begin{bmatrix} -5 & 4 \\ 2 & -3 \end{bmatrix},\begin{bmatrix} 5 & -3 \\ -4 & 2 \end{bmatrix},\begin{bmatrix} 5 & -4 \\ -3 & 2 \end{bmatrix},\begin{bmatrix} 2 & 3 \\ 4 & 5 \end{bmatrix},\begin{bmatrix} -5 & 4 \\ 2 & -3 \end{bmatrix},b
+\int_{0}^{\pi} \frac{sin x}{1 + cos^{2}x} dx = What?,\int_{0}^{\pi} \frac{sin x}{1 + cos^{2}x} dx = কত?,\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{6},\frac{2\pi}{3},\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{6},\frac{2\pi}{3},a
+Which one is the value of \int \frac{x^{2}}{x^{2} - 4} dx?,\int \frac{x^{2}}{x^{2} - 4} dx এর মান কত?,ln \left | \frac{x - 2}{x + 2} \right | + c,\frac{1}{x} ln \left | \frac{x - 2}{x + 2} \right | + c,x - ln \left | \frac{x - 2}{x + 2} \right | + c,x + ln \left | \frac{x - 2}{x + 2} \right | + c,ln \left | \frac{x - 2}{x + 2} \right | + c,\frac{1}{x} ln \left | \frac{x - 2}{x + 2} \right | + c,x - ln \left | \frac{x - 2}{x + 2} \right | + c,x + ln \left | \frac{x - 2}{x + 2} \right | + c,d
+"Which one is the polar co-ordinates of the point (-3, 3)?","(-3, 3) বিন্দুর পোলার স্থানাঙ্ক কোনটি?","\left ( 3\sqrt{2}, \frac{-\pi}{4} \right )","\left ( 3\sqrt{2}, \frac{3\pi}{4} \right )","\left ( 3\sqrt{2}, \frac{\pi}{4} \right )","\left ( 3\sqrt{2}, \frac{5\pi}{4} \right )","\left ( 3\sqrt{2}, \frac{-\pi}{4} \right )","\left ( 3\sqrt{2}, \frac{3\pi}{4} \right )","\left ( 3\sqrt{2}, \frac{\pi}{4} \right )","\left ( 3\sqrt{2}, \frac{5\pi}{4} \right )",b
+Which one is the angle between the straight lines 4x - 3y + 12 = 0 and 3x + 4y - 9 = 0?,4x - 3y + 12 = 0 এবং 3x + 4y - 9 = 0ন রেখা দুটির মধ্যবর্তী কোণ কোনটি?,45\degree,60\degree,90\degree,120\degree,45\degree,60\degree,90\degree,120\degree,c
+"If y = ln(lnx), the \frac{dy}{dx} = What?","y = ln(lnx) হলে, \frac{dy}{dx} = ?",\frac{1}{x},\frac{1}{ln(x)},\frac{ln(x)}{x},\frac{1}{xln(x)},\frac{1}{x},\frac{1}{ln(x)},\frac{ln(x)}{x},\frac{1}{xln(x)},d
+What is the value of a if the straight lines 2x + 3y = 7 and 3ax - 5by + 15 = 0 represent the same straight line?,2x + 3y = 7 এবং 3ax - 5by + 15 = 0 সমীকরণ দুটি একই সরলরেখা প্রকাশ করলে ধ্রুবক a এর মান কত?,\frac{10}{7},- \frac{10}{7},\frac{5}{7},- \frac{5}{7},\frac{10}{7},- \frac{10}{7},\frac{5}{7},- \frac{5}{7},b
+"What is the slope of the curve y = x^{2} - xy at the point \left ( \frac{1}{2}, \frac{1}{6} \right )?","y = x^{2} - xy বক্ররেখার \left ( \frac{1}{2}, \frac{1}{6} \right ) বিন্দুতে স্পর্শকের ঢাল কত?",\frac{1}{6},\frac{1}{2},\frac{5}{9},1,\frac{1}{6},\frac{1}{2},\frac{5}{9},1,c
+\lim_{\theta \to 0} \frac{tan^{-1} \frac{\theta}{2}}{\theta} = What?,\lim_{\theta \to 0} \frac{tan^{-1} \frac{\theta}{2}}{\theta} এর মান কত?,0,\frac{1}{2},1,2,0,\frac{1}{2},1,2,b
+"3x - 4y + 8 = 0 is a straight line.
+ 
+ What is the perpendicular distance from the origin to the give straight line?","3x - 4y + 8 = 0 একটি সরলরেখা।
+ 
+ মূলবিন্দু থেকে রেখাটির লম্ব দূরত্ব কত?",\frac{8}{25},\frac{8}{5},\frac{25}{8},8,\frac{8}{25},\frac{8}{5},\frac{25}{8},8,b
+"Which one of the following is the equation of a straight line which passes through the point (3, - 4) and parallel to y-axis?","(3, - 4) বিন্দুগামী এবং y-অক্ষের সমান্তরাল সরলরেখার সমীকরণ কোনটি?",x - 3 = 0,x + 3 = 0,y - 4 = 0,y + 4 = 0,x - 3 = 0,x + 3 = 0,y - 4 = 0,y + 4 = 0,a
+What is the value of \frac{d}{dx}(cosec^{-1}x)?,\frac{d}{dx}(cosec^{-1}x) এর মান কোনটি?,\frac{1}{x\sqrt{x^{2} - 1}},\frac{- 1}{x\sqrt{x^{2} - 1}},\frac{1}{x\sqrt{1 - x^{2}}},\frac{- 1}{x\sqrt{1 - x^{2}}},\frac{1}{x\sqrt{x^{2} - 1}},\frac{- 1}{x\sqrt{x^{2} - 1}},\frac{1}{x\sqrt{1 - x^{2}}},\frac{- 1}{x\sqrt{1 - x^{2}}},b
+"\begin{vmatrix} 3 & -2 & 5 \\ 4 & 0 & 6 \\ -1 & 7 & 10 \end{vmatrix} What is the cofactor of (2, 3)th element of the determinant?","\begin{vmatrix} 3 & -2 & 5 \\ 4 & 0 & 6 \\ -1 & 7 & 10 \end{vmatrix} নির্ণায়কের (2, 3) তম ভুক্তির সহগুণক কত?",114,19,\text{- 19},\text{- 114},114,19,\text{- 19},\text{- 114},c
+"What is the polar coordinate of the point (- 3\sqrt{3}, 3)?","(- 3\sqrt{3}, 3) বিন্দুর পোলার স্থানাঙ্ক কোনটি?","\left ( 6, \frac{11\pi}{6} \right )","\left ( 6, \frac{5\pi}{6} \right )","\left ( 6, \frac{5\pi}{3} \right )","\left ( 6, \frac{2\pi}{3} \right )","\left ( 6, \frac{11\pi}{6} \right )","\left ( 6, \frac{5\pi}{6} \right )","\left ( 6, \frac{5\pi}{3} \right )","\left ( 6, \frac{2\pi}{3} \right )",b
+"If f(x) = tan^{-1}\left ( \frac{2x}{1 - x^{2}} \right ) and g(x) = sin^{-1}(sin\sqrt{x}), then-
+ i. f'(x) = \frac{2}{1 + x^{2}}
+ ii. g'(x) = \frac{1}{\sqrt{x}}
+ iii. f(1) = \frac{\pi}{2}
+ Which one is correct?","f(x) = tan^{-1}\left ( \frac{2x}{1 - x^{2}} \right ) এবং g(x) = sin^{-1}(sin\sqrt{x}) হলে-
+ i. f'(x) = \frac{2}{1 + x^{2}}
+ ii. g'(x) = \frac{1}{\sqrt{x}}
+ iii. f(1) = \frac{\pi}{2}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",c
+What is the value of cosec(- 330\degree)?,cosec(- 330\degree) এর মান কত?,\text{- 2},\frac{- 2}{\sqrt{3}},\frac{2}{\sqrt{3}},2,\text{- 2},\frac{- 2}{\sqrt{3}},\frac{2}{\sqrt{3}},2,d
+What is the inverse matrix of \begin{bmatrix} -1 & 0 \\ - \frac{1}{2} & 1 \end{bmatrix},\begin{bmatrix} -1 & 0 \\ - \frac{1}{2} & 1 \end{bmatrix} এর বিপরীত ম্যাট্রিক্স কোনটি?,\begin{bmatrix} -1 & 0 \\ - \frac{1}{2} & 1 \end{bmatrix},\begin{bmatrix} 1 & 0 -\frac{1}{2} & -1 \end{bmatrix},\begin{bmatrix} -1 & -\frac{1}{2} \\ 0 & 1 \end{bmatrix},\begin{bmatrix} 1 & - \frac{1}{2} \\ 0 & -1 \end{bmatrix},\begin{bmatrix} -1 & 0 \\ - \frac{1}{2} & 1 \end{bmatrix},\begin{bmatrix} 1 & 0 -\frac{1}{2} & -1 \end{bmatrix},\begin{bmatrix} -1 & -\frac{1}{2} \\ 0 & 1 \end{bmatrix},\begin{bmatrix} 1 & - \frac{1}{2} \\ 0 & -1 \end{bmatrix},a
+"If f(x) = \frac{x}{3} and g(x) = x^{2}, then-
+ i. \int f(x) dx = \frac{x^{2}}{6} + c
+ ii. \int \frac{- 1}{1 + g(x)} = - cotx + c
+ iii. g''(0) = 2
+ Which one is correct?","f(x) = \frac{x}{3} এবং g(x) = x^{2} হলে-
+ i. \int f(x) dx = \frac{x^{2}}{6} + c
+ ii. \int \frac{- 1}{1 + g(x)} = - cotx + c
+ iii. g''(0) = 2
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",c
+"What is the equation of a circle which passe through the point (-2, 3) and touches y-axis?","(-2, 3) বিন্দুতে কেন্দ্র এবং y-অক্ষকে স্পর্শ করে এরূপ বৃত্তের সমীকরণ কোনটি?",x^{2} + y^{2} + 4x - 6y + 9 = 0,x^{2} + y^{2} - 4x + 6y + 9 = 0,x^{2} + y^{2} + 4x - 6y + 4 = 0,x^{2} + y^{2} - 4x + 6y + 4 = 0,x^{2} + y^{2} + 4x - 6y + 9 = 0,x^{2} + y^{2} - 4x + 6y + 9 = 0,x^{2} + y^{2} + 4x - 6y + 4 = 0,x^{2} + y^{2} - 4x + 6y + 4 = 0,a
+"2x - ky + 1 = 0 and 3x + 2y - 6 = 0 are equation of two straight lines.
+ 
+ What is the slope of perpendicular of second straight line?","2x - ky + 1 = 0 ও 3x + 2y - 6 = 0 দুইটি সরলরেখার সমীকরণ।
+ 
+ দ্বিতীয় রেখাটির লম্ব রেখার ঢাল কত?",\frac{3}{2},\frac{2}{3},- \frac{2}{3},- \frac{3}{2},\frac{3}{2},\frac{2}{3},- \frac{2}{3},- \frac{3}{2},b
+"2x - ky + 1 = 0 and 3x + 2y - 6 = 0 are equation of two straight lines.
+ 
+ If two straight lines are parallel to each other, then what is the value of K?","2x - ky + 1 = 0 ও 3x + 2y - 6 = 0 দুইটি সরলরেখার সমীকরণ।
+ 
+ রেখাদ্বয় পরস্পর সমান্তরাল হলে k এর মান কত হবে?",\frac{4}{3},\frac{3}{4},- \frac{3}{4},- \frac{4}{3},\frac{4}{3},\frac{3}{4},- \frac{3}{4},- \frac{4}{3},d
+"If \begin{bmatrix} 0 & 5 & -3 \\ -5 & 0 & y \\ x & 4 & 0 \end{bmatrix} is skew symmentric matrix, then (x, y) = ?","\begin{bmatrix} 0 & 5 & -3 \\ -5 & 0 & y \\ x & 4 & 0 \end{bmatrix} বিপ্রতিসম ম্যাট্রিক্স হলে (x, y) = ?","(-3, -4)","(-3, 4)","(3, -4)","(3, 4)","(-3, -4)","(-3, 4)","(3, -4)","(3, 4)",c
+"If f(x) = 2x^{2} - x + 3, then-
+ i. slope of function at point (1, 4) is 3
+ ii. for x < \frac{1}{4}, the function is decreasing
+ iii. the function has maximum value for x = \frac{1}{4}
+ Which one is correct?","f(x) = 2x^{2} - x + 3 হলে-
+ i. (1, 4) বিন্দুতে ফাংশনটির স্পর্শকের ঢাল 3
+ ii. x < \frac{1}{4} এর জন্য ফাংশনটি ক্রমহ্রাসমান
+ iii. x = \frac{1}{4} এর জন্য ফাংশনটির সর্বোচ্চ মান বিদ্যমান
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",a
+"If the minor of (1, 1)th element of \begin{vmatrix} 1 & 4 & -3 \\ 2 & -1 & x \\ 6 & 2 & 8 \end{vmatrix} is - 4, what is the value of x?","\begin{vmatrix} 1 & 4 & -3 \\ 2 & -1 & x \\ 6 & 2 & 8 \end{vmatrix} এর (1, 1)তম ভুক্তির অনুরাশি -4 হলে x এর মান কত?",6,2,\text{- 2},text{- 6},6,2,\text{- 2},text{- 6},c
+"What is the equations of the tangent of the circle x^{2} + y^{2} = 13 at the point (-2, 3)?","x^{2} + y^{2} = 13 বৃত্তের (-2, 3) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",2x + 3y + 13 = 0,2x + 3y - 13 = 0,2x - 3y - 13 = 0,2x - 3y + 13 = 0,2x + 3y + 13 = 0,2x + 3y - 13 = 0,2x - 3y - 13 = 0,2x - 3y + 13 = 0,d
+"3x^{2} + 3y^{2} - 6x + 4y - 1 = 0 and x^{2} + y^{2} + 4x - 6y - 1 = 0 are two equations of circle.
+ 
+ Which one is the centre of the first circle?","3x^{2} + 3y^{2} - 6x + 4y - 1 = 0 ও x^{2} + y^{2} + 4x - 6y - 1 = 0 দুইটি বৃত্তের সমীকরণ।
+ 
+ প্রথম বৃত্তের কেন্দ্র কোনটি?","\left ( 1, \frac{2}{3} \right )","\left ( - 1, \frac{2}{3} \right )","\left ( 1, - \frac{2}{3} \right )","\left ( - 1, - \frac{2}{3} \right )","\left ( 1, \frac{2}{3} \right )","\left ( - 1, \frac{2}{3} \right )","\left ( 1, - \frac{2}{3} \right )","\left ( - 1, - \frac{2}{3} \right )",c
+"3x^{2} + 3y^{2} - 6x + 4y - 1 = 0 and x^{2} + y^{2} + 4x - 6y - 1 = 0 are two equations of circle.
+ 
+ What is the length of intercept on y-axis by second circle?","3x^{2} + 3y^{2} - 6x + 4y - 1 = 0 ও x^{2} + y^{2} + 4x - 6y - 1 = 0 দুইটি বৃত্তের সমীকরণ।
+ 
+ দ্বিতীয় বৃত্ত দ্বারা y-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য কত?",2\sqrt{3},2\sqrt{5},2\sqrt{8},2\sqrt{10},2\sqrt{3},2\sqrt{5},2\sqrt{8},2\sqrt{10},d
+"If in \Delta ABC, a = 5, b = 4 and c = 3, then-
+ i. value of angle A is 60\degree
+ ii. area of the triangle is 6 sq. unit
+ iii. the triangle is right angled triangle
+ Which one is correct?","\Delta ABC এর a = 5, b = 4 এবং c = 3 হলে-
+ i. A কোণের মান 60\degree
+ ii. ত্রিভুজের ক্ষেত্রফল 6 বর্গ একক
+ iii. ত্রিভুজটি সমকোণী
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",c
+What is the value of \int \frac{5}{1 - 5x}dx?,\int \frac{5}{1 - 5x}dx এর মান কোনটি?,ln(1 - 5x) + c,- ln(1 - 5x + c),\frac{ln(1 - 5x)}{5},\frac{ - ln(1 - 5x)}{5},ln(1 - 5x) + c,- ln(1 - 5x + c),\frac{ln(1 - 5x)}{5},\frac{ - ln(1 - 5x)}{5},b
+"If f(x) = x^{2} + 1, then-
+ i. slope of normal at point (1, 2) is - frac{1}{2}
+ ii. \int_{0}^{1} \frac{2x}{f(x)} dx = ln2
+ iii. the extreme point of the function is (0, 1)
+ Which one is correct?","f(x) = x^{2} + 1 হলে-
+ i. (1, 2) বিন্দুতে অভিলম্বের ঢাল - frac{1}{2}
+ ii. \int_{0}^{1} \frac{2x}{f(x)} dx = ln2
+ iii. ফাংশনটির চরম বিন্দুর স্থানাঙ্ক (0, 1)
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",d
+What is value of cos15\degree?,cos15\degree এর মান কত?,\frac{\sqrt{3} - 1}{\sqrt{2}},\frac{\sqrt{3} + 1}{2\sqrt{2}},\frac{\sqrt{3} + 1}{\sqrt{2}},\frac{\sqrt{3} - 1}{2\sqrt{2}},\frac{\sqrt{3} - 1}{\sqrt{2}},\frac{\sqrt{3} + 1}{2\sqrt{2}},\frac{\sqrt{3} + 1}{\sqrt{2}},\frac{\sqrt{3} - 1}{2\sqrt{2}},b
+What is the value of \lim_{x \to \infty} \frac{tan^{-1}2x}{3x} ?,\lim_{x \to \infty} \frac{tan^{-1}2x}{3x} এর মান কত?,0,\frac{1}{3},\frac{2}{3},11,0,\frac{1}{3},\frac{2}{3},11,c
+"If cot\theta = \frac{3}{4} and \pi < \theta < \frac{3\pi}{2}, then sec\theta = ?",cot\theta = \frac{3}{4} এবং \pi < \theta < \frac{3\pi}{2} হলে sec\theta এর মান কত?,\frac{-5}{3},\frac{-5}{4},\frac{5}{4},\frac{5}{3},\frac{-5}{3},\frac{-5}{4},\frac{5}{4},\frac{5}{3},a
+"If the centre of the circle is (6, - 4) and it touches x-axis, then what is the length of the diameter of that circle?","একটি বৃত্তের কেন্দ্র (6, -4) এবং বৃত্তটি x-অক্ষকে স্পর্শ করে, বৃত্তটির ব্যাসের মান কত?",12,8,6,4,12,8,6,4,b
+\int \frac{cosx}{\sqrt{sinx}} dx = what?,\int \frac{cosx}{\sqrt{sinx}} dx = কত?,2\sqrt{cosx} + c,2\sqrt{sinx} + c,\frac{1}{2} \sqrt{cosx} + c,\frac{1}{2} \sqrt{sinx} + c,2\sqrt{cosx} + c,2\sqrt{sinx} + c,\frac{1}{2} \sqrt{cosx} + c,\frac{1}{2} \sqrt{sinx} + c,b
+Area of the region bounded by the circle x^{2} + y^{2} = 1 is-,x^{2} + y^{2} = 1 বৃত্ত দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল-,\frac{\pi}{3},\frac{\pi}{2},\pi,2\pi,\frac{\pi}{3},\frac{\pi}{2},\pi,2\pi,c
+The value of \int^{1}_{0} \frac{dx}{x^{2} + 1} is-,\int^{1}_{0} \frac{dx}{x^{2} + 1} এর মান-,\frac{\pi}{2},\frac{\pi}{3},\frac{\pi}{4},\frac{\pi}{6},\frac{\pi}{2},\frac{\pi}{3},\frac{\pi}{4},\frac{\pi}{6},c
+"If A^{2} = A, then the matrx A is-",A^{2} = A হলে A ম্যাট্রিক্সটি-,idempotent,singular,symmetric,non-singular,সমঘাতী,ব্যতিক্রমী,প্রতিসম,অব্যতিক্রমী,a
+"\begin{bmatrix} 3 & -3 & 0 \\ 5 & 4 & 3 \\ 7 & -2 & -4 \end{bmatrix} is a determinant.
+ 
+ Minor of (2, 1)th entry is-","\begin{bmatrix} 3 & -3 & 0 \\ 5 & 4 & 3 \\ 7 & -2 & -4 \end{bmatrix} একটি নির্ণায়ক।
+ 
+ (2, 1)তম ভুক্তির অনুরাশি-",\text{- 41},\text{- 12},12,41,\text{- 41},\text{- 12},12,41,c
+"\begin{bmatrix} 3 & -3 & 0 \\ 5 & 4 & 3 \\ 7 & -2 & -4 \end{bmatrix} is a determinant.
+ 
+ Cofactor of (3, 2)th entry is-","\begin{bmatrix} 3 & -3 & 0 \\ 5 & 4 & 3 \\ 7 & -2 & -4 \end{bmatrix} একটি নির্ণায়ক।
+ 
+ (3, 2)তম ভুক্তির সহগুণক-",\text{- 12},\text{- 9},9,12,\text{- 12},\text{- 9},9,12,b
+"if the order of matrices A, B and C are 3 \times 4, 4\times 5 and 5 \times 2 respectively then which is the order of (AB)(C)?","A, B, C ম্যাট্রিক্সত্রয়ের মাত্রা যথাক্রমে 3 \times 4, 4\times 5 ও 5 \times 2 হলে, (AB)(C) এর মাত্রা-",4 \times 5,3 \times 2,2 \times 3,3 \times 5,4 \times 5,3 \times 2,2 \times 3,3 \times 5,b
+"The matrix \begin{bmatrix} 2 & -1 & 3 \\ -1 & 4 & 5 \\ 3 & 5 & 1 \end{bmatrix} is a-
+ i. square matrix
+ ii. symmetric matrix
+ iii. non-singular matrix
+ Which one is correct?","\begin{bmatrix} 2 & -1 & 3 \\ -1 & 4 & 5 \\ 3 & 5 & 1 \end{bmatrix} ম্যাট্রিক্সটি-
+ i. বর্গ ম্যাট্রিক্স
+ ii. প্রতিসম ম্যাট্রিক্স
+ iii. অব্যতিক্রমী ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+"The ratio in which the line segment joining the points (-3, -4) and (6, 2) divides internally by y-axis, is-","(-3, -4) ও (6, 2) বিন্দুদ্বয়ের সংযোগ রেখাটি y অক্ষরেখা যে অনুপাতে অন্তর্বিভক্ত করে, তা হলো-",2 : 1,1 : 2,2 : 3,3 : 2,2 : 1,1 : 2,2 : 3,3 : 2,b
+"The straight line 3x - 7y - 21 = 0 
+ i. having slope + \frac{3}{7}
+ ii. passes through the point (-7, -6)
+ iii. intercepts 7 units from x-axis
+ Which one is correct?","3x - 7y - 21 = 0 সরলরেখাটি-
+ i. + \frac{3}{7} ঢালবিশিষ্ট
+ ii. (-7, -6) বিন্দুগামী
+ iii. x-অক্ষ হতে 7 একক দৈর্ঘ্য খন্ডিত করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+Which one is the angle that the line x + \sqrt{3}y + 2 = 0 makes with the positive direction of x-axis?,x + \sqrt{3}y + 2 = 0 রেখাটি x-অক্ষের ধনাত্মক দিকের সাথে যে কোণ উৎপন্ন করে তা হলো-,180\degree,150\degree,60\degree,30\degree,180\degree,150\degree,60\degree,30\degree,b
+The angle between the lines y \pm x = 0 is-,y \pm x = 0 রেখাদ্বয়ের মধ্যবর্তী কোণ-,45\degree,60\degree,90\degree,120\degree,45\degree,60\degree,90\degree,120\degree,c
+The polar equation r - 4 = 0 represents-,r - 4 = 0 পোলার সমীকরণটি নির্দেশ করে-,parabola,circle,ellipse,hyperbola,পরাবৃত্ত,বৃত্ত,উপবৃত্ত,অধিবৃত্ত,b
+"x^{2} + y^{2} - 2x - 2y + 1 = 0 is an equation of circle.
+ 
+ Radius of the circle is-","x^{2} + y^{2} - 2x - 2y + 1 = 0 একটি বৃত্তের সমীকরণ।
+ 
+ বৃত্তটির ব্যাসার্ধ-",\frac{1}{2},1,2,3,\frac{1}{2},1,2,3,b
+"The equation of tangent of the circle x^{2} + y^{2} - 4x - 6y - 7 = 0 at (-2, 1) is-","x^{2} + y^{2} - 4x - 6y - 7 = 0 বৃত্তের (-2, 1) বিন্দুতে স্পর্শকের সমীকরণ-",x + 2y + 3 = 0,2x - y + 3 = 0,x - 2y + 3 = 1,2x + y + 3 = 1,x + 2y + 3 = 0,2x - y + 3 = 0,x - 2y + 3 = 1,2x + y + 3 = 1,d
+"If c^{2} + a^{2} - b^{2} - ca = 0 in case of \Delta ABC, which one is \angle B?",c^{2} + a^{2} - b^{2} - ca = 0 এর ক্ষেত্রে \Delta ABC হলে \angle B এর পরিমাণ-,30\degree,45\degree,60\degree,120\degree,30\degree,45\degree,60\degree,120\degree,c
+In any triangle ABC which of the following is correct?,যেকোনো ত্রিভুজ ABC এর ক্ষেত্রে নিচের কোনটি সঠিক?,c = acosB + bcosA,b = csinA + asinC,\Delta = \frac{1}{2} abcosC,cosA = \frac{b^{2} + c^{2} + a^{2}}{2bc},c = acosB + bcosA,b = csinA + asinC,\Delta = \frac{1}{2} abcosC,cosA = \frac{b^{2} + c^{2} + a^{2}}{2bc},a
+"If tan\theta = \frac{1}{2}, then what is the value of sin2\theta?",tan\theta = \frac{1}{2} হলে sin2\theta? এর মান কোনটি?,\frac{3}{4},\frac{4}{3},\frac{5}{4},\frac{4}{5},\frac{3}{4},\frac{4}{3},\frac{5}{4},\frac{4}{5},d
+sin^{4}\theta - cos^{4}\theta equals-,sin^{4}\theta - cos^{4}\theta সমান-,1 + 2sin^{2}\theta,1 + 2cos^{2}\theta,2sin^{2}\theta - 1,2cos^{2}\theta - 1,1 + 2sin^{2}\theta,1 + 2cos^{2}\theta,2sin^{2}\theta - 1,2cos^{2}\theta - 1,c
+The slope of the curve y = ln(x) at x = 1 is-,y = ln(x) বক্ররেখাটির x = 1 বিন্দুতে ঢাল-,1,2,3,4,1,2,3,4,a
+The value of \lim_{x \to 0}\frac{x(sin2x + sin3x)}{sinx} is-,\lim_{x \to 0}\frac{x(sin2x + sin3x)}{sinx} এর মান-,\text{- 2},\text{- 1},0,1,\text{- 2},\text{- 1},0,1,c
+\frac{d}{dx}(2^{x}) = what?,\frac{d}{dx}(2^{x}) = কত?,x2^{x - 1},x2^{x+1},2lnx,22^{x} ln2,x2^{x - 1},x2^{x+1},2lnx,22^{x} ln2,d
+The value of \lim_{x \to 0}{2 ln(1 + x) - ln(1 - x)} is-,\lim_{x \to 0}{2 ln(1 + x) - ln(1 - x)} এর মান-,0,1,2,\infty,0,1,2,\infty,a
+"The equation ax + by + c = 0 represents a straight line.
+ i. Slope of the straight line is - \frac{a}{b}
+ ii. If c = 0, it passes through the origin
+ iii. The area of the triangle formed with co-ordinate axes is \frac{1}{2} |ab| square unit
+ Which one is correct?","ax + by + c = 0 সমীকরণটি একটি সরলরেখা নির্দেশ করে।
+ i. সরলরেখাটির ঢাল - \frac{a}{b}
+ ii. c = 0 হলে সেটি মূলবিন্দুগামী
+ iii. অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল = \frac{1}{2} |ab| বর্গ একক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"What is the slope of the tangent at (-4, 3) to the curve x^{2} - 2y = 10?","x^{2} - 2y = 10 বক্ররেখার (-4, 3) বিন্দুতে স্পর্শকের ঢাল কত?",\text{-4},4,14,2,\text{-4},4,14,2,a
+What is the maximum value of y = x(1 - x)?,y = x(1 - x) এর সর্বোচ্চ মান কত?,\text{-2},2,\text{-6},\frac{1}{4},\text{-2},2,\text{-6},\frac{1}{4},d
+The distance between 4x - 3y + 2 = 0 and 8x - 6y - 9 = 0 is-,4x - 3y + 2 = 0 এবং 8x - 6y - 9 = 0 রেখাদ্বয়ের মধ্যবর্তী দূরত্ব কত?,\frac{11}{5},\frac{13}{10},\frac{11}{10},\frac{13{5},\frac{11}{5},\frac{13}{10},\frac{11}{10},\frac{13{5},b
+"If \lim_{x \to a} f(x) = l and \lim_{x \to a} g(x) = m.
+ i. \lim_{x \to a} [f(x) - g(x)] = l - m
+ ii. \lim_{x \to a} g(x) f(x) = ml
+ iii. \lim_{x \to a} \frac{g(x)}{f(x)} = \frac{l}{m}
+ Which one is correct?","যদি \lim_{x \to a} f(x) = l and \lim_{x \to a} g(x) = m হয়-
+ i. \lim_{x \to a} [f(x) - g(x)] = l - m
+ ii. \lim_{x \to a} g(x) f(x) = ml
+ iii. \lim_{x \to a} \frac{g(x)}{f(x)} = \frac{l}{m}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+What is the value of \int_{0}^{\frac{\pi}{4}} \frac{dx}{1 + cos2x} dx = ?,\int_{0}^{\frac{\pi}{4}} \frac{dx}{1 + cos2x} dx এর মান কত?,0,\frac{1}{2},1,\frac{3}{2},0,\frac{1}{2},1,\frac{3}{2},b
+What is the value of \int_{0}^{1} xe^{x^{2}} dx?,\int_{0}^{1} xe^{x^{2}} dx এর মান-,1 - \frac{2}{e},1,\frac{1}{2} (e - 1),\frac{1}{4} e,1 - \frac{2}{e},1,\frac{1}{2} (e - 1),\frac{1}{4} e,c
+"A = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 4 \end{bmatrix} A is a-
+ i. diagonal matrix
+ ii. scalar matrix
+ iii. symmetric matrix
+ Which one is correct?","A = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 4 \end{bmatrix}
+ A হলো-
+ i. কর্ণ ম্যাট্রিক্স
+ ii. স্কেলার ম্যাট্রিক্স
+ iii. প্রতিসম ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+"If \begin{bmatrix} 2 & 3 & x \\ 3 & 4 & -5 \\ 4 & 1 & 2 \end{bmatrix} + \begin{bmatrix} -6 & 8 & 7 \\ 2 & y & -9 \\ z & 1 & 2 \end{bmatrix} = \begin{bmatrix} -4 & 3 & 7 \\ 8 & 8 & -18 \\ 0 & 5 & 2 \end{bmatrix}
+ What is the value of x, y and z?","\begin{bmatrix} 2 & 3 & x \\ 3 & 4 & -5 \\ 4 & 1 & 2 \end{bmatrix} + \begin{bmatrix} -6 & 8 & 7 \\ 2 & y & -9 \\ z & 1 & 2 \end{bmatrix} = \begin{bmatrix} -4 & 3 & 7 \\ 8 & 8 & -18 \\ 0 & 5 & 2 \end{bmatrix} হলে x, y ও z এর মান কত?","-4, 8, 2","14, 12, 4","0, 4, -4","0, -4, 4","-4, 8, 2","14, 12, 4","0, 4, -4","0, -4, 4",c
+"If A = \begin{bmatrix} 1 & 5 \\ -3 & 2 \end{bmatrix} and I = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}, IA = ?",A = \begin{bmatrix} 1 & 5 \\ -3 & 2 \end{bmatrix} এবং I = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} হলে IA = ?,\begin{bmatrix} 6 & 0 \\ 0 & -1 \end{bmatrix},\begin{bmatrix} 1 & -3 \\ 5 & 2 \end{bmatrix},\begin{bmatrix} 5 & 0 \\ 0 & -6 \end{bmatrix},\begin{bmatrix} 1 & 5 \\ -3 & 2 \end{bmatrix},\begin{bmatrix} 6 & 0 \\ 0 & -1 \end{bmatrix},\begin{bmatrix} 1 & -3 \\ 5 & 2 \end{bmatrix},\begin{bmatrix} 5 & 0 \\ 0 & -6 \end{bmatrix},\begin{bmatrix} 1 & 5 \\ -3 & 2 \end{bmatrix},d
+If A = \begin{bmatrix} 3 & -8 \\ -2 & 5 \end{bmatrix} which is A^{-1}?,A = \begin{bmatrix} 3 & -8 \\ -2 & 5 \end{bmatrix} হলে A^{-1} কোনটি?,\begin{bmatrix} 3 & -2 \\ -8 & 5 \end{bmatrix},\begin{bmatrix} 5 & 2 \\ 8 & 3 \end{bmatrix},\begin{bmatrix} 5 & 8 \\ 2 & 3 \end{bmatrix},\begin{bmatrix} -5 & -8 \\ -2 & -3 \end{bmatrix},\begin{bmatrix} 3 & -2 \\ -8 & 5 \end{bmatrix},\begin{bmatrix} 5 & 2 \\ 8 & 3 \end{bmatrix},\begin{bmatrix} 5 & 8 \\ 2 & 3 \end{bmatrix},\begin{bmatrix} -5 & -8 \\ -2 & -3 \end{bmatrix},d
+"Two straight lines x + by = 1 and ax + y = 1 intersect at (1, 1). What is the value of a and b?","দুইটি সরলরেখা x + by = 1 এবং ax + y = 1 (1, 1) বিন্দুতে ছেদ করে। a এবং b এর মান কত?","0, 0","0, 1","1, 0","1, 1","0, 0","0, 1","1, 0","1, 1",a
+"f(x) = secx and g(x) = tanx
+ 
+ \int f(x) dx = ?","f(x) = secx এবং g(x) = tanx
+ 
+ \int f(x) dx = ?",ln \left | tan \left ( \frac{\pi}{4} - \frac{x}{2} \right ) \right | + c,ln \left | tan \left ( \frac{\pi}{4} + \frac{x}{2} \right ) \right | + c,ln |secx - tanx| + c,ln |tanx - secx| + c,ln \left | tan \left ( \frac{\pi}{4} - \frac{x}{2} \right ) \right | + c,ln \left | tan \left ( \frac{\pi}{4} + \frac{x}{2} \right ) \right | + c,ln |secx - tanx| + c,ln |tanx - secx| + c,b
+"f(x) = secx and g(x) = tanx
+ 
+ \int f(x) {1 + g(x)} dx = ?","f(x) = secx এবং g(x) = tanx
+ 
+ \int f(x) {1 + g(x)} dx = ?",e^{x} f(x) + c,e^{x} g(x) + c,- e^{x} f(x) + c,- e^{x} g(x) + c,e^{x} f(x) + c,e^{x} g(x) + c,- e^{x} f(x) + c,- e^{x} g(x) + c,a
+\int_{0}^{1} \frac{1 - x}{1 + x} dx = ?,\int_{0}^{1} xe^{x^{2}} dx এর মান-,ln2 - 2,1 - 2ln2,2ln2 - 1,2ln2 + 2,1 - \frac{2}{e},1,\frac{1}{2} (e - 1),\frac{1}{4} e,c
+"If the cofactor of the (2, 1)th entry of \begin{bmatrix} 1 & 2 & 5 \\ 0 & 1 & 2 \\ 3 & 1 & x \end{bmatrix} is 5, what is the value of x?","\begin{bmatrix} 1 & 2 & 5 \\ 0 & 1 & 2 \\ 3 & 1 & x \end{bmatrix} এর (2, 1) তম ভুক্তির সহগুণক 5 হলে x এর মান কত?",0,\frac{5}{2},5,10,0,\frac{5}{2},5,10,a
+"The Cartesian co-ordinates of (3, 270\degree) is-","(3, 270\degree) বিন্দুটির কার্তেসীয় স্থানাঙ্ক-","(-3, 0)","(0, -3)","(3, -3)","(0, 0)","(-3, 0)","(0, -3)","(3, -3)","(0, 0)",b
+"What is the length of the tangent of the circle 2x^{2} + 2y^{2} - x + 3y + 1 = 0 at point (1, 1)?","(1, 2) বিন্দু হতে 2x^{2} + 2y^{2} - x + 3y + 1 = 0 বৃত্তের উপর অঙ্কিত স্পর্শকের দৈর্ঘ্য কত?",\sqrt{\frac{1}{2}},\sqrt{7},\sqrt{\frac{7}{2}},\sqrt{2},\sqrt{\frac{1}{2}},\sqrt{7},\sqrt{\frac{7}{2}},\sqrt{2},c
+"What is the polar coordinates of the point (- \sqrt{2}, - \sqrt{2})?","(- \sqrt{2}, - \sqrt{2}) বিন্দুর পোলার স্থানাঙ্ক কোনটি?","\left ( 2, - \frac{3\pi}{2} \right )","\left ( 2, \frac{3\pi}{2} \right )","\left ( 2, - \frac{5\pi}{2} \right )","\left ( 2, \frac{5\pi}{2} \right )","\left ( 2, - \frac{3\pi}{2} \right )","\left ( 2, \frac{3\pi}{2} \right )","\left ( 2, - \frac{5\pi}{2} \right )","\left ( 2, \frac{5\pi}{2} \right )",d
+What is the inverse matrix of \begin{bmatrix} 7 & 6 \\ 8 & 7 \end{bmatrix},\begin{bmatrix} 7 & 6 \\ 8 & 7 \end{bmatrix} এর বিপরীত ম্যাট্রিক্স কোনটি?,\begin{bmatrix} -7 & 8 \\ 6 & -7 \end{bmatrix},\begin{bmatrix} 7 & -6 \\ -8 & 7 \end{bmatrix},\begin{bmatrix} 7 & -8 \\ -6 & 7 \end{bmatrix},\begin{bmatrix} -7 & 6 \\ 8 & -7 \end{bmatrix},\begin{bmatrix} -7 & 8 \\ 6 & -7 \end{bmatrix},\begin{bmatrix} 7 & -6 \\ -8 & 7 \end{bmatrix},\begin{bmatrix} 7 & -8 \\ -6 & 7 \end{bmatrix},\begin{bmatrix} -7 & 6 \\ 8 & -7 \end{bmatrix},b
+"What is the equation of the normal of the curve y = x^{3} - 8x^{2} + 7 at point (1, 1)?","y = x^{3} - 8x^{2} + 7 বক্ররেখার (1, 1) বিন্দুতে অভিলম্বের সমীকরণ কোনটি?",13x - y + 12 = 0,13x + y + 12 = 0,x + 13y + 12 = 0,x - 13y + 12 = 0,13x - y + 12 = 0,13x + y + 12 = 0,x + 13y + 12 = 0,x - 13y + 12 = 0,d
+If tany = \frac{2t}{1 - t^{2}} and sinx = \frac{2t}{1 + t^{2}}; then \frac{dy}{dx} = ?,"tany = \frac{2t}{1 - t^{2}}, sinx = \frac{2t}{1 + t^{2}} হলে \frac{dy}{dx} = ?",2,\sqrt{2},0,1,2,\sqrt{2},0,1,d
+"If three sides of a triangle are 3, 5, 7 units respectively, then-
+ i. the perimeter of the triangle is 15 unit
+ ii. the area of the triangle is \frac{15}{2}\sqrt{3} square unit
+ iii. the greatest angle of the triangle is 120\degree 
+ Which one is correct?","একটি ত্রিভুজের বাহুগুলোর দৈর্ঘ্য যথাক্রমে 3, 5, 7 একক হলে-
+ i. ত্রিভুজটির পরিসীমা 15 একক
+ ii. ত্রিভুজটির ক্ষেত্রফল \frac{15}{2}\sqrt{3} বর্গ একক
+ iii. ত্রিভুজটির বৃহত্তম কোণ 120\degree 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+What is the value of \int_{0}^{1} \frac{e^{\sqrt{x}}}{\sqrt{x}} dx?,\int_{0}^{1} \frac{e^{\sqrt{x}}}{\sqrt{x}} dx এর মান কোনটী?,2e^{-1},2(e - 1),\frac{2}{e} - 1,1 - \frac{1}{e},2e^{-1},2(e - 1),\frac{2}{e} - 1,1 - \frac{1}{e},b
+What is the value of \frac{1 - tan^{2}(45\degree + x)}{1 + tan^{2}(45\degree + x)}?,\frac{1 - tan^{2}(45\degree + x)}{1 + tan^{2}(45\degree + x)} এর মান কোনটি?,\text{- cos2x},sin2x,\text{- sin2x},cos2x,\text{- cos2x},sin2x,\text{- sin2x},cos2x,c
+"If the line 4x + 3y = a touches the circle x^{2} + y^{2} - 4x = 0, then-
+ i. centre of the circle is at (2, 0)
+ ii. radius of the circle is 4
+ iii. the value of a is 18 or - 2
+ Which one is correct?","4x + 3y = a রেখাটি x^{2} + y^{2} - 4x = 0 বৃত্তকে স্পর্শ করলে-
+ i. বৃত্তের কেন্দ্র (2, 0)
+ ii. বৃত্তের ব্যাসার্ধ 4
+ iii. a এর মান 18 অথবা - 2
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",c
+What is the value of \int \frac{x dx}{\sqrt{1 - x}}?,\int \frac{x dx}{\sqrt{1 - x}} এর মান কোনটি?,\frac{2}{3} (1 - x)^{\frac{3}{2}} - 2(1 - x)^{\frac{1}{2}} + c,- \frac{2}{3} (\sqrt{1 - x}) (x + 2) + c,\frac{1}{3} (1 - x)^{\frac{3}{2}} - (1 - x)^{\frac{1}{2}} + c,\frac{2}{3}(\sqrt{1 - x}) (x + 2) + c,\frac{2}{3} (1 - x)^{\frac{3}{2}} - 2(1 - x)^{\frac{1}{2}} + c,- \frac{2}{3} (\sqrt{1 - x}) (x + 2) + c,\frac{1}{3} (1 - x)^{\frac{3}{2}} - (1 - x)^{\frac{1}{2}} + c,\frac{2}{3}(\sqrt{1 - x}) (x + 2) + c,a
+"If the form of the matrices A, B and C are m \times n, n \times m and m \times s respectively, then what is the form of the matrix (A^{T} + B)C?","A, B এবং C ম্যাট্রিক্সগুলোর আকার যথাক্রমে m \times n, n \times m এবং m \times s হলে (A^{T} + B)C ম্যাট্রিক্সের আকার হবে-",m \times s,s \times n,n \times m,n \times s,m \times s,s \times n,n \times m,n \times s,d
+"A = \begin{bmatrix} x+4 & 8 \\ 2 & x-2 \end{bmatrix} is a matrix.
+ 
+ If A is a singular matrix, then which of the following is the value of x?","A = \begin{bmatrix} x+4 & 8 \\ 2 & x-2 \end{bmatrix} একটি ম্যাট্রিক্স।
+ 
+ যদি A ম্যাট্রিক্সটি ব্যতিক্রমী হয়, তবে x এর মান নিচের কোনটি?","\text{- 4, 2}","\text{- 2, 4}","\text{- 4, 6}","\text{- 6, 4}","\text{- 4, 2}","\text{- 2, 4}","\text{- 4, 6}","\text{- 6, 4}",d
+"A = \begin{bmatrix} x+4 & 8 \\ 2 & x-2 \end{bmatrix} is a matrix
+ 
+ If x = 3 in given matrix, then which of the following is A^{2}?","A = \begin{bmatrix} x+4 & 8 \\ 2 & x-2 \end{bmatrix} একটি ম্যাট্রিক্স।
+ 
+ প্রদত্ত ম্যাট্রিক্সে x = 3 হলে A^{2} নিচের কোনটি?",\begin{bmatrix} 65 & 64 \\ 16 & 17 \end{bmatrix},\begin{bmatrix} 49 & 46 \\ 41 & 43 & 43 \end{bmatrix},\begin{bmatrix} 40 & 48 \\ 52 & 64 \end{bmatrix},\begin{bmatrix} 64 & 49 \\ -2 & 4 \end{bmatrix},\begin{bmatrix} 65 & 64 \\ 16 & 17 \end{bmatrix},\begin{bmatrix} 49 & 46 \\ 41 & 43 & 43 \end{bmatrix},\begin{bmatrix} 40 & 48 \\ 52 & 64 \end{bmatrix},\begin{bmatrix} 64 & 49 \\ -2 & 4 \end{bmatrix},a
+Which of the following is the value of \int_{i}^{e} lnx dx?,\int_{i}^{e} lnx dx এর মান নিচের কোনটি?,\text{- 1},0,\frac{1}{e},1,\text{- 1},0,\frac{1}{e},1,d
+"The equations of the straight lines are x + y = 3 and x - y = 3.
+ 
+ What is the angle between two straight lines?","x + y = 3 এবং x - y = 3ন দুটি রেখার সমীকরণ।
+ 
+ রেখাদ্বয়ের মধ্যবর্তী কোণ কত?",30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,d
+"The equations of the straight lines are x + y = 3 and x - y = 3.
+ 
+ What is the area (in sq. unit) of the triangle which is formed by the straight lines with Y-axis?","x + y = 3 এবং x - y = 3ন দুটি রেখার সমীকরণ।
+ 
+ রেখাদ্বয় Y-অক্ষের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল কত বর্গ একক?",6,9,12,18,6,9,12,18,b
+What is the intercept of X-axis by the circle x^{2} + y^{2} - 4x - 6y = 7?,x^{2} + y^{2} - 4x - 6y = 7 বৃত্তের X-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য কত?,2\sqrt{11},\sqrt{22},11,22,2\sqrt{11},\sqrt{22},11,22,a
+"What is the coordinate of the point which devides the line segment joining the points (-2, 4) and (8, -10) externally in the ration 2 : 3?","(-2, 4) এবং (8, -10) বিন্দুদ্বয়ের সংযোজক রেখাকে 2 : 3 অনুপাতে বহির্বিভক্তকারী বিন্দুর স্থানাঙ্ক কোনটি?","(- 22, 8)","(22, -8)","(-22, 32)","(22, -32)","(- 22, 8)","(22, -8)","(-22, 32)","(22, -32)",d
+What is the equation of tangent y = sin^{-1} \frac{x}{3} at origin?,মূলবিন্দুতে y = sin^{-1} \frac{x}{3} এর স্পর্শক সমীকরণ নিচের কোনটি?,x - 3y = 0,x + 3y = 0,3x + y = 0,3x - y = 0,x - 3y = 0,x + 3y = 0,3x + y = 0,3x - y = 0,a
+"If x^{y} = y^{x}, then \frac{dy}{dx} = ?","x^{y} = y^{x}, হলে \frac{dy}{dx} = ?",\frac{x(y lny - y)}{y(x lny - x)},\frac{y(x lny - y}{x(y lnx - x)},\frac{y(x lny + y)}{x(y lnx + x)},\frac{x(y lnx - y)}{y(x lny - x)},\frac{x(y lny - y)}{y(x lny - x)},\frac{y(x lny - y}{x(y lnx - x)},\frac{y(x lny + y)}{x(y lnx + x)},\frac{x(y lnx - y)}{y(x lny - x)},b
+"What is the equation of straight line which is perpendicular to the line 2x - 3y - 9 = 0 and passing through the point (1, 2)?","(1, 2) বিন্দুগামী 2x - 3y - 9 = 0 রেখার উপর লম্বরেখার সমীকরণ কোনটি?",3x + 2y + 7 = 0,3x + 2y - 7 = 1,2x - 3y + 4 = 2,2x - 3y - 4 = 0,3x + 2y + 7 = 0,3x + 2y - 7 = 1,2x - 3y + 4 = 2,2x - 3y - 4 = 0,b
+"If A = \begin{bmatrix} 1 & -2 & 3 \end{bmatrix}, B = \begin{bmatrix} 2 \\ -4 \\ -1 \end{bmatrix} then 3AB = what?","A = \begin{bmatrix} 1 & -2 & 3 \end{bmatrix}, B = \begin{bmatrix} 2 \\ -4 \\ -1 \end{bmatrix} হলে 3AB = কত?",[-27],[-7],[7],[21],[-27],[-7],[7],[21],d
+Which one of the following matrix is singular?,কোনটি ব্যতিক্রমী ম্যাট্রিক্স?,\begin{bmatrix} 1 & 1 \\ -1 & 1 \end{bmatrix},\begin{bmatrix} 2 & 6 \\ 3 & 7 \end{bmatrix},\begin{bmatrix} 1 & -3 \\ 3 & 9 \end{bmatrix},\begin{bmatrix} 1 & 3 \\ 3 & 9 \end{bmatrix},\begin{bmatrix} 1 & 1 \\ -1 & 1 \end{bmatrix},\begin{bmatrix} 2 & 6 \\ 3 & 7 \end{bmatrix},\begin{bmatrix} 1 & -3 \\ 3 & 9 \end{bmatrix},\begin{bmatrix} 1 & 3 \\ 3 & 9 \end{bmatrix},d
+If A = \begin{bmatrix} x & 0 & 1 \\ 0 & 1 & 2 \\ 2 & 1 & 3 \end{bmatrix} and |A| = 0 then what is the value of x?,"A = \begin{bmatrix} x & 0 & 1 \\ 0 & 1 & 2 \\ 2 & 1 & 3 \end{bmatrix}, |A| = 0 হলে x এর মান কত?",\text{-2},0,\frac{2}{5},2,\text{-2},0,\frac{2}{5},2,d
+"In the determinant \begin{vmatrix} 1 & 0 & 0 \\ 2 & 3 & 5 \\ 1 & 2 & 3 \end{vmatrix} -
+ i. minor of the (2, 3)-th entry is 2
+ ii. co-factor of the (2, 2)-th entry is 3
+ iii. the value of the determinant is -1
+ Which one is correct?","\begin{vmatrix} 1 & 0 & 0 \\ 2 & 3 & 5 \\ 1 & 2 & 3 \end{vmatrix} নির্ণায়কের
+ i. (2, 3) তম ভুক্তির অনুরাশি + 2
+ ii. (2, 2) তম ভুক্তির সহগুণক 3
+ iii. নির্ণায়কটির মান - 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+Which of the following is the adjoint matrix of A = \begin{bmatrix} a & b \\ c & -d \end{bmatrix}?,A = \begin{bmatrix} a & b \\ c & -d \end{bmatrix} এর অনুবন্ধী (Adjoint) ম্যাট্রিক্স কোনটি?,\begin{bmatrix} d & -c \\ -b & -a \end{bmatrix},\begin{bmatrix} d & c \\ b & a \end{bmatrix},\begin{bmatrix} -d & -b \\ -c & a \end{bmatrix},\begin{bmatrix} -d & b \\ c & a \end{bmatrix},\begin{bmatrix} d & -c \\ -b & -a \end{bmatrix},\begin{bmatrix} d & c \\ b & a \end{bmatrix},\begin{bmatrix} -d & -b \\ -c & a \end{bmatrix},\begin{bmatrix} -d & b \\ c & a \end{bmatrix},c
+"A = \begin{bmatrix} 1 & 2 \\ 0 & -3 \end{bmatrix}, B = \begin{bmatrix} -2 & 3 \\ -1 & 4 \end{bmatrix}.
+ 
+ A + B = what?","A = \begin{bmatrix} 1 & 2 \\ 0 & -3 \end{bmatrix}, B = \begin{bmatrix} -2 & 3 \\ -1 & 4 \end{bmatrix}.
+ 
+ A + B = কত?",\begin{bmatrix} -1 & 5 \\ 1 & 1 \end{bmatrix},\begin{bmatrix} -1 & -5 \\ -1 & 1 \end{bmatrix},\begin{bmatrix} -1 & 5 \\ -1 & 1 \end{bmatrix},\begin{bmatrix} -1 & 5 \\ -1 & -1 \end{bmatrix},\begin{bmatrix} -1 & 5 \\ 1 & 1 \end{bmatrix},\begin{bmatrix} -1 & -5 \\ -1 & 1 \end{bmatrix},\begin{bmatrix} -1 & 5 \\ -1 & 1 \end{bmatrix},\begin{bmatrix} -1 & 5 \\ -1 & -1 \end{bmatrix},c
+"A = \begin{bmatrix} 1 & 2 \\ 0 & -3 \end{bmatrix}, B = \begin{bmatrix} -2 & 3 \\ -1 & 4 \end{bmatrix}.
+ 
+ A^{t} - B^{t} = what?","A = \begin{bmatrix} 1 & 2 \\ 0 & -3 \end{bmatrix}, B = \begin{bmatrix} -2 & 3 \\ -1 & 4 \end{bmatrix}.
+ 
+ A^{t} - B^{t} = কত?",\begin{bmatrix} 3 & 1 \\ -1 & -7 \end{bmatrix},\begin{bmatrix} -3 & 1 \\ -1 & -7 \end{bmatrix},\begin{bmatrix} 3 & -1 \\ -1 & -7 \end{bmatrix},\begin{bmatrix} 3 & 1 \\ 1 & -7 \end{bmatrix},\begin{bmatrix} 3 & 1 \\ -1 & -7 \end{bmatrix},\begin{bmatrix} -3 & 1 \\ -1 & -7 \end{bmatrix},\begin{bmatrix} 3 & -1 \\ -1 & -7 \end{bmatrix},\begin{bmatrix} 3 & 1 \\ 1 & -7 \end{bmatrix},a
+"A straight line passing through the points (5, 5) and (3, 7). What is slope of the straight line?","একটি সরলরেখা (5, 5) ও (3, 7) বিন্দুগামী হলে রেখাটির ঢাল কত?",\text{-2},\text{-1},3,10,\text{-2},\text{-1},3,10,b
+"Which one of the following is the equation of a straight line perpendicular to the straight line 3x + 7y - 2 = 0 and passing through the point (2, 1)?","3x + 7y - 2 = 0 সরলরেখার উপর লম্ব এবং (2, 1) বিন্দুগামী রেখার সমীকরণ নিচের কোনটি?",3x + 7y - 13 = 0,7x - 3y - 11 = 0,7x + 3y - 11 = 0,7x - 3y - 17 = 0,3x + 7y - 13 = 0,7x - 3y - 11 = 0,7x + 3y - 11 = 0,7x - 3y - 17 = 0,b
+Which one of the following is the equation of the straight line having slope - 1 and distance from origin is 4 unit?,মূলবিন্দু হতে 4 একক দূরবর্তী এবং - 1 ঢালবিশিষ্ট সরলরেখার সমীকরণ নিচের কোনটি?,x + y \pm 4\sqrt{2} = 0,y - x \pm 4\sqrt{2} = 0,y + x\sqrt{2}x = 0,4\sqrt{2} - y = 0,x + y \pm 4\sqrt{2} = 0,y - x \pm 4\sqrt{2} = 0,y + x\sqrt{2}x = 0,4\sqrt{2} - y = 0,a
+"If the straight line 3x + 4y - 12 = 0 forms a triangle with two axes then-
+ i. the area of the triangle is 6 sq. units
+ ii. the triangle is situated in first quadrant
+ iii. the length of the intercept of the line by the two axes 5 units
+ Which one is correct?","3x + 4y - 12 = 0 সরলরেখাটি অক্ষদ্বয়ের সাথে একটি ত্রিভুজ গঠন করলে-
+ i. ত্রিভুজটির ক্ষেত্রফল 6 বর্গ একক
+ ii. ত্রিভুজটি ১ম চতুর্ভাগে অবস্থিত
+ iii. অক্ষদ্বয় কর্তৃক রেখাটির খণ্ডিত অংশের পরিমাণ 5 একক
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",d
+"Equation of a straight line, 2x + 2y - \sqrt{5} = 0.
+ 
+ What is the angle forms by the straight line of the stem with the positive direction of x-axis?","2x + 2y - \sqrt{5} = 0 একটি সরলরেখার সমীকরণ।
+ 
+ উদ্দীপকে প্রদত্ত সরলরেখাটি x অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",-135\degree,-45\degree,45\degree,135\degree,-135\degree,-45\degree,45\degree,135\degree,d
+"Equation of a straight line, 2x + 2y - \sqrt{5} = 0.
+ 
+ What is the area of the triangle forms by the straight line of the stem with both axes?","2x + 2y - \sqrt{5} = 0 একটি সরলরেখার সমীকরণ।
+ 
+ উদ্দীপকের সরলরেখাটি দ্বারা স্থানাঙ্কের অক্ষদ্বয়ের সহিত উৎপন্ন ত্রিভুজের ক্ষেত্রফল নিচের কোনটি?",\frac{5}{8} sq. unit,\frac{5}{4} sq. unit,\frac{5}{2} sq. unit,4\sqrt{5} sq. unit,\frac{5}{8} বর্গ একক,\frac{5}{4} বর্গ একক,\frac{5}{2} বর্গ একক,4\sqrt{5} বর্গ একক,a
+\frac{d}{dx} (7^{x}) = what?,\frac{d}{dx} (7^{x}) = কত?,x.7^{x-1},7^{x} ln 7^{x},7^{x} ln 7,x ln 7^{x},x.7^{x-1},7^{x} ln 7^{x},7^{x} ln 7,x ln 7^{x},c
+If f(x) = sin \frac{x}{2} then f'' \left ( \frac{\pi}{2} \right ) = what?,f(x) = sin \frac{x}{2} হলে f'' \left ( \frac{\pi}{2} \right ) = কত?,\frac{-1}{2\sqrt{2}},\frac{-1}{4\sqrt{2}},\frac{1}{2\sqrt{2}},\frac{1}{\sqrt{2}},\frac{-1}{2\sqrt{2}},\frac{-1}{4\sqrt{2}},\frac{1}{2\sqrt{2}},\frac{1}{\sqrt{2}},b
+If x = a (\theta - sin\theta) and y = a(1 + cos\theta) the what is the value of \frac{dy}{dx}?,যদি x = a (\theta - sin\theta) এবং y = a(1 + cos\theta) হয় তবে \frac{dy}{dx} এর মান কোনটি?,- cot{\frac{\theta}{2},- sin\theta,1 - cos\theta,- tan \frac{\theta}{2},- cot{\frac{\theta}{2},- sin\theta,1 - cos\theta,- tan \frac{\theta}{2},a
+"If the function f(x) is continuous at x = b-
+ i. f(b) is defined
+ ii. \lim_{x \to b} f(x) does not exist
+ iii. \lim_{x \to b} f(x) = f(b)
+ Which one is correct?","f(x) ফাংশন x = b বিন্দুতে অবিচ্ছিন্ন হলে-
+ i. f(b) সংজ্ঞায়িত হয়
+ ii. \lim_{x \to b} f(x) বিদ্যমান থাকে না
+ iii. \lim_{x \to b} f(x) = f(b)
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+In which interval the function f(x) = 2x^{3} - 15x^{2} + 36x + 10 is decreases?,f(x) = 2x^{3} - 15x^{2} + 36x + 10 ফাংশনটি কোন ব্যবধিতে হ্রাস পায়?,x > 1,x < 2,x > 3,2 < x < 3,x > 1,x < 2,x > 3,2 < x < 3,d
+"What is the slope at the point (-3, 2) on the curve x^{2} - y^{2} = 5?","x^{2} - y^{2} = 5 বক্ররেখার (-3, 2) বিন্দুতে ঢাল কত?",- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},a
+If f(x) is a function of x then \int \frac{f'(x)}{f(x)} dx = what?,"x এর একটি ফাংশন f(x) হলে, \int \frac{f'(x)}{f(x)} dx = কত?",f'(x) + c,f(x) + c,ln |f'(x) | + c,ln |f(X)| + c,f'(x) + c,f(x) + c,ln |f'(x) | + c,ln |f(X)| + c,d
+"Applicable for integration-
+ i. \int f(x) dx = F(x) + c where c is a constant of the integration
+ ii. f(x) is called integrant
+ iii. \frac{d}{dx} and \int dx is reverse process
+ Which one is correct?","যোগজীকরণের ক্ষেত্রে প্রযোজ্য-
+ i. \int f(x) dx = F(x) + , যেখানে c হল যোগজীকরণ ধ্রুবক
+ ii. f(x) কে যোজ্য (Integrand) বলে
+ iii. \frac{d}{dx} ও \int dx পরস্পর বিপরীত প্রক্রিয়া
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+\int \sqrt{2 - 3x} dx = what?,\int \sqrt{2 - 3x} dx = কত?,- \frac{2}{9} (2 - 3x)^{\frac{3}{2}} + c,- \frac{1}{6} (2 - 3x)^{- \frac{1}{2}} + c,- (2 - 3x)^{\frac{3}{2}} + c,- 3(2 - 3x)^{- \frac{1}{2}} + c,- \frac{2}{9} (2 - 3x)^{\frac{3}{2}} + c,- \frac{1}{6} (2 - 3x)^{- \frac{1}{2}} + c,- (2 - 3x)^{\frac{3}{2}} + c,- 3(2 - 3x)^{- \frac{1}{2}} + c,a
+If \int \frac{dx}{x^{2} + a^{2}} = K cot^{-1} \frac{a}{x} + c then K = ?,\int \frac{dx}{x^{2} + a^{2}} = K cot^{-1} \frac{a}{x} + c হলে K = ?,- a,- \frac{1}{a},\frac{1}{a},a,- a,- \frac{1}{a},\frac{1}{a},a,c
+\int_{1}^{e} log_{e} x dx = what?,\int_{1}^{e} log_{e} x dx = কত?,- e,\text {-1},1,e,- e,\text {-1},1,e,c
+Which one is correct integration to determine the plane area bounded by the parabola y^{2} = 4ax and x^{2} = 4ay?,y^{2} = 4ax ও x^{2} = 4ay পরাবৃত্ত দুটি দ্বারা সীমাবদ্ধ সমতল ক্ষেত্রের ক্ষেত্রফল নির্ণয়ের জন্য কোন যোগজটি সঠিক?,\int_{0}^{4a} \left ( 2\sqrt{ax} - \frac{x^{2}}{4a} \right ) dx,\int_{0}^{4a} \left ( 2\sqrt{ax} - \frac{4a}{x^{2}} \right ) dx,\int_{0}^{4a} \left ( \frac{4a}{x^{2}} - 2\sqrt{ax} \right ) dx,\int_{0}^{4a} \left ( \sqrt{ax} - \frac{x^{2}}{2a} \right ) dx,\int_{0}^{4a} \left ( 2\sqrt{ax} - \frac{x^{2}}{4a} \right ) dx,\int_{0}^{4a} \left ( 2\sqrt{ax} - \frac{4a}{x^{2}} \right ) dx,\int_{0}^{4a} \left ( \frac{4a}{x^{2}} - 2\sqrt{ax} \right ) dx,\int_{0}^{4a} \left ( \sqrt{ax} - \frac{x^{2}}{2a} \right ) dx,a
+\frac{cot54\degree}{tan36\degree} + \frac{tan20\degree}{cot70\degree} = ?,\frac{cot54\degree}{tan36\degree} + \frac{tan20\degree}{cot70\degree} এর মান কত?,0,1,2,3,0,1,2,3,c
+"If cos\theta = \frac{1}{2} \left ( a + \frac{1}{a} \right ), then the value of cos3\theta is-","cos\theta = \frac{1}{2} \left ( a + \frac{1}{a} \right ) হয়, তবে cos3\theta এর মান-",\frac{1}{8} \left ( a^{3} + \frac{1}{a^{3}} \right ),\frac{1}{3} \left ( a^{3} + \frac{1}{a^{3}} \right ),\frac{1}{2} \left ( a^{3} + \frac{1}{a^{3}} \right ),\frac{3}{2} \left ( a^{3} + \frac{1}{a^{3}} \right ),\frac{1}{8} \left ( a^{3} + \frac{1}{a^{3}} \right ),\frac{1}{3} \left ( a^{3} + \frac{1}{a^{3}} \right ),\frac{1}{2} \left ( a^{3} + \frac{1}{a^{3}} \right ),\frac{3}{2} \left ( a^{3} + \frac{1}{a^{3}} \right ),c
+"At the point of the curve (1, 7) is y = x^{3} + 2x^{2} + 4 -
+ i. slope of the tangent 7
+ ii. equation of the tangent 7x - y + 5 = 0
+ iii. equation of the normal x + 7y = 50
+ Which one is correct?","y = x^{3} + 2x^{2} + 4 বক্ররেখার (1, 7) বিন্দুতে-
+ i. স্পর্শকের ঢাল 7
+ ii. স্পর্শকের সমীকরণ 7x - y + 5 = 0
+ iii. অভিলম্বের সমীকরণ x + 7y = 50
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+"If the distance S = 5t^{3} - 9t^{2} + 3t + 2, then after t = 4 what will be the unit of velocity?",দূরত্ব S = 5t^{3} - 9t^{2} + 3t + 2 হলে t = 4 সময় পর বেগ কত একক হবে?,71,171,243,343,71,171,243,343,b
+"For a square matrix A, if A^{2} = I, then A^{-1} = ?",বর্গ ম্যাট্রিক্স A এর ক্ষেত্রে A^{2} = I হলে A^{-1} = ?,2A,A,0,A + I,2A,A,0,A + I,b
+"If \begin{bmatrix} 1 & 3 & \lambda + 2 \\ 2 & 4 & 8 \\ 3 & 5 & 10 \end{bmatrix} is a singular matrix then, find the value of \lambda.","\begin{bmatrix} 1 & 3 & \lambda + 2 \\ 2 & 4 & 8 \\ 3 & 5 & 10 \end{bmatrix} একটি ব্যতিক্রমী ম্যাট্রিক্স হলে, \lambda এর মান-",\text{- 2},2,4,\text{- 4},\text{- 2},2,4,\text{- 4},c
+"If A^{-1} = \begin{bmatrix} 2 & 0 \\ 0 & 2 \end{bmatrix}, B^{-1} = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} then, what is the value of (AB)^{-1}?","A^{-1} = \begin{bmatrix} 2 & 0 \\ 0 & 2 \end{bmatrix}, B^{-1} = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} হলে (AB)^{-1} এর মান কত?",\begin{bmatrix} 0 & 2 \\ 2 & 0 \end{bmatrix},\begin{bmatrix} 2 & 0 \\ 0 & 2 \end{bmatrix},\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix},\begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix},\begin{bmatrix} 0 & 2 \\ 2 & 0 \end{bmatrix},\begin{bmatrix} 2 & 0 \\ 0 & 2 \end{bmatrix},\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix},\begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix},a
+"For a square matrix A and a scalar K-
+ i. (A^{t})^{t} = A
+ ii. (KA)^{t} = KA^{t}
+ iii. if |A| \neq 0, then |A^{-1}| = \frac{1}{|A|}
+ Which one is correct?","A একটি বর্গ ম্যাট্রিক্স এবং K একটি স্কেলার হলে-
+ i. (A^{t})^{t} = A
+ ii. (KA)^{t} = KA^{t}
+ iii. যদি |A| \neq 0 হয়, তাহলে |A^{-1}| = \frac{1}{|A|}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+"If A = \begin{bmatrix} 1 & 1 & 1 \\ e & \pi & \sqrt{3} \\ 3 & 3 & 3 \end{bmatrix}, then |A| = ?","A = \begin{bmatrix} 1 & 1 & 1 \\ e & \pi & \sqrt{3} \\ 3 & 3 & 3 \end{bmatrix} হলে, |A| = ?",e,\pi,2(e - \pi + \sqrt{3}),0,e,\pi,2(e - \pi + \sqrt{3}),0,d
+"The length of the straight line \sqrt{3}x - y + 8 = 0 from the point (\sqrt{3}, 1) is P and if the perpendicular line makes an angle \theta with x-axis, then-
+ 
+ What is the value of P?","(\sqrt{3}, 1) বিন্দু হতে \sqrt{3}x - y + 8 = 0 সরলরেখার উপর অঙ্কিত লম্বের দৈর্ঘ্য P এবং লম্ব রেখাটি x-অক্ষের সাথে \theta কোণ উৎপন্ন করলে-
+ 
+ P-এর মান কত?",5,4,2,5\sqrt{2},5,4,2,5\sqrt{2},a
+Under what condition of the function f(x) = x^{2} - 2x is monotonically decreasing?,f(x) = x^{2} - 2x ফাংশনটি ক্রমহ্রাসমান হওয়ার শর্ত-,x > 1,x > 2,x < 1,x < 2,x > 1,x > 2,x < 1,x < 2,c
+What is the value of \underset{x \to 0}{Lt} \frac{\sqrt{1 + sinx} - \sqrt{1 - sinx}}{x} ?,\underset{x \to 0}{Lt} \frac{\sqrt{1 + sinx} - \sqrt{1 - sinx}}{x} এর মান কত?,\frac{1}{2},\text{- 2},2,1,\frac{1}{2},\text{- 2},2,1,d
+\int \frac{cotx}{\sqrt{sinx}} dx = ?,\int \frac{cotx}{\sqrt{sinx}} dx = কত?,\frac{- 2}{\sqrt{sinx}} + c,\frac{- 1}{2\sqrt{sinx}} + c,\frac{1}{2\sqrt{sinx}} + c,2\sqrt{sinx} + c,\frac{- 2}{\sqrt{sinx}} + c,\frac{- 1}{2\sqrt{sinx}} + c,\frac{1}{2\sqrt{sinx}} + c,2\sqrt{sinx} + c,a
+What is the value of \int e^{x} cosx (1 + tanx) dx?,\int e^{x} cosx (1 + tanx) dx এর মান কত?,e^{x} cosx + c,e^{x} tanx + c,e^{x} secx + c,e^{x} sin x + c,e^{x} cosx + c,e^{x} tanx + c,e^{x} secx + c,e^{x} sin x + c,d
+"If \int_{0}^{3} f(x) = 4, then \int_{2}^{5} f(x - 2) = ?","\int_{0}^{3} f(x) = 4 হলে, \int_{2}^{5} f(x - 2) = কত?",0,4,3,2,0,4,3,2,b
+What is the unit of the area bounded by y-axis and the curve x = 4 - y^{2}?,y-অক্ষ এবং x = 4 - y^{2} পরাবৃত্ত দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?,\frac{3}{32} square unit,\frac{2}{33} square unit,\frac{32}{3} square unit,\frac{33}{2} square unit,\frac{3}{32} বর্গ একক,\frac{2}{33} বর্গ একক,\frac{32}{3} বর্গ একক,\frac{33}{2} বর্গ একক,c
+The distance between the straight lines 5x + 3y - 7 = 0 and 15x + 9y + 14 = 0 is-,5x + 3y - 7 = 0 এবং 15x + 9y + 14 = 0 এর মধ্যবর্তী দূরত্ব-,\frac{7}{\sqrt{34}},\frac{15}{2\sqrt{34}},\frac{35}{3\sqrt{34}},\frac{47}{4\sqrt{34}},\frac{7}{\sqrt{34}},\frac{15}{2\sqrt{34}},\frac{35}{3\sqrt{34}},\frac{47}{4\sqrt{34}},c
+"By the straight line 2x + 3y = 8 -
+ i. intercept on x-axis is 4
+ ii. the area of the triangle making with the axis is \frac{16}{3} square unit
+ iii. it intersects y-axis square unit
+ Which one is correct?","2x + 3y = 8 রেখা দ্বারা-
+ i. x-অক্ষের খন্ডিতাংশ 4
+ ii. অক্ষদ্বয়ের সাথে গঠিত ত্রিভুজের ক্ষেত্রফল \frac{16}{3} বর্গ একক
+ iii. y-অক্ষকে (0, 8) বিন্দুতে ছেদ করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"The circle x^{2} + y^{2} - 4x - 6y + c = 0 touches the y-axis.
+ 
+ What is the value of c?","x^{2} + y^{2} - 4x - 6y + c = 0 বৃত্তটি y-অক্ষকে স্পর্শ করে।
+ 
+ c-এর মান কত?",9,3,4,2,9,3,4,2,a
+"The circle x^{2} + y^{2} - 4x - 6y + c = 0 touches the y-axis.
+ 
+ What is the point of contact?","x^{2} + y^{2} - 4x - 6y + c = 0 বৃত্তটি y-অক্ষকে স্পর্শ করে।
+ 
+ স্পর্শ বিন্দুর স্থানাঙ্ক কত?","(3, 0)","(0, 3)","(2, 0)","(0, 2)","(3, 0)","(0, 3)","(2, 0)","(0, 2)",b
+"What is the length of the tangent to the circle x^{2} + y^{2} - 2x - y - 7 = 0 from the point (-1, -3)?","(-1, -3) বিন্দু হতে অঙ্কিত x^{2} + y^{2} - 2x - y - 7 = 0 বৃত্তের স্পর্শকের দৈর্ঘ্য কত?",4,2\sqrt{3},2\sqrt{2},8,4,2\sqrt{3},2\sqrt{2},8,c
+"If the straight lines 3x - 4y + 4 = 0 and 6x - 8y - 7 = 0 are tangents of a circle, then the radius of the circles is-","3x - 4y + 4 = 0 এবং 6x - 8y - 7 = 0 সরলরেখাদ্বয় একই বৃত্তের স্পর্শক হলে, বৃত্তটির ব্যাসার্ধ-",\frac{3}{5},\frac{5}{7},\frac{3}{4},\frac{5}{6},\frac{3}{5},\frac{5}{7},\frac{3}{4},\frac{5}{6},c
+\frac{d}{dx}(log_{10}x) = ?,\frac{d}{dx}(log_{10}x) এর মান কোনটি?,\frac{1}{x},\frac{1}{x}log_{10}e,\frac{1}{x}log_{e}10,log_{10}e,\frac{1}{x},\frac{1}{x}log_{10}e,\frac{1}{x}log_{e}10,log_{10}e,b
+"If I = \int_{1}^{e}\frac{dx}{x(1-lnx)}, then what is the value of I?",I = \int_{1}^{e}\frac{dx}{x(1-lnx)} হলে I এর মান কত?,e,e+1,ln e-1,ln2,e,e+1,ln e-1,ln2,d
+"If f(x) = 4x, then- 
+ i. \int \frac{dx}{f(x)} = \frac{1}{4} lnx + c 
+ ii. \int e^{f(x)}dx = \frac{1}{4}e^{4x} + c 
+ iii. \int_{0}^{2} f(x) dx = 8
+ Which one is correct?","f(x) = 4x হলে-
+ i. \int \frac{dx}{f(x)} = \frac{1}{4} lnx + c 
+ ii. \int e^{f(x)}dx = \frac{1}{4}e^{4x} + c 
+ iii. \int_{0}^{2} f(x) dx = 8
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+What is the value of- \int_{2}^{1} ln x dx?,- \int_{2}^{1} ln x dx এর মান কোনটি?,2ln2 - 1,2ln2+1,2ln2,ln2,2ln2 - 1,2ln2+1,2ln2,ln2,a
+"Order of A, B and C matrices are 4 \times 3, 3\times 4 and 7 \times 4 respectively. What is the order of matrix (B + A^{T}).C^{T} ?","A, B এবং C ম্যাট্রিক্সগুলোর মাত্রা যথাক্রমে 4 \times 3, 3\times 4 এবং 7 \times 4 হলে (B + A^{T}).C^{T} ম্যাট্রিক্সের মাত্রা কত?",3 \times 4,3 \times 7,4 \times 3,4 \times 7,3 \times 4,3 \times 7,4 \times 3,4 \times 7,b
+"If A = \begin{bmatrix} 2 & -1 \\ 5 & -3 \end{bmatrix}, then which one is A^{-1}?","A = \begin{bmatrix} 2 & -1 \\ 5 & -3 \end{bmatrix} হলে, নিচের কোনটির A^{-1}?",\begin{bmatrix} 2 & -1 \\ 5 & -3 \end{bmatrix},\begin{bmatrix} -3 & -1 \\ -5 & -2 \end{bmatrix},\begin{bmatrix} 3 & -1 \\ 5 & -2 \end{bmatrix},\begin{bmatrix} 3 & 1 \\ -5 & 2 \end{bmatrix},\begin{bmatrix} 2 & -1 \\ 5 & -3 \end{bmatrix},\begin{bmatrix} -3 & -1 \\ -5 & -2 \end{bmatrix},\begin{bmatrix} 3 & -1 \\ 5 & -2 \end{bmatrix},\begin{bmatrix} 3 & 1 \\ -5 & 2 \end{bmatrix},c
+"If \begin{bmatrix} a-3 & -1 \\ -8 & a+4 \end{bmatrix} is an singular matrix, then a = ?",\begin{bmatrix} a-3 & -1 \\ -8 & a+4 \end{bmatrix} একটি ব্যতিক্রমী ম্যাট্রিক্স হলে a = ?,"4, -5","-4, 5","-4, -5","4, 5","4, -5","-4, 5","-4, -5","4, 5",a
+"Which one is the Cartesian co-ordinate of (1, 150\degree)?","(1, 150\degree) বিন্দুর কার্তেসীয় স্থানাঙ্ক নিচের কোনটি?","\left ( \frac{\sqrt{3}}{2}, \frac{1}{2} \right )","\left ( - \frac{\sqrt{3}}{2}, \frac{1}{2} \right )","\left ( \frac{\sqrt{3}}{2}, - \frac{1}{2} \right )","\left ( - \frac{\sqrt{3}}{2}, - \frac{1}{2} \right )","\left ( \frac{\sqrt{3}}{2}, \frac{1}{2} \right )","\left ( - \frac{\sqrt{3}}{2}, \frac{1}{2} \right )","\left ( \frac{\sqrt{3}}{2}, - \frac{1}{2} \right )","\left ( - \frac{\sqrt{3}}{2}, - \frac{1}{2} \right )",b
+"The straight line x + y - 2 = 0 is-
+ i. parallel to 2x + 2y + 3 = 0
+ ii. perpendicular distance is \sqrt{2} unit from origin
+ iii. area of the triangle is 2 square unit which is bounded by the straight line in the stem
+ Which one is correct?","x + y - 2 = 0 রেখাটির=
+ i. সমান্তরাল রেখা 2x + 2y + 3 = 0
+ ii. মূলবিন্দু হতে লম্ব দূরত্ব \sqrt{2} একক
+ iii. উদ্দীপকের রেখাটির দ্বারা অক্ষদ্বয়ের সাথে উৎপন্ন ত্রিভুজের ক্ষেত্রফল 2 বর্গ একক
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",d
+What is the perpendicular distance between 4y = 3(x - 4) and 4y = 3(x - 1)?,4y = 3(x - 4) এবং 4y = 3(x - 1) রেখা দুইটির মধ্যবর্তী লম্ব দূরত্ব কত?,\frac{9}{4} unit,\frac{15}{9} unit,\frac{9}{5} unit,No one,\frac{9}{4} একক,\frac{15}{9} একক,\frac{9}{5} একক,কোনোটিই নয়,c
+"If the the circle x^{2} + y^{2} = 9 and x^{2} + y^{2} + 6x + 8y + c = 0 touches each other externally, then what is the value of c?",x^{2} + y^{2} = 9 এবং x^{2} + y^{2} + 6x + 8y + c = 0 বৃত্ত দুইটি পরস্পরকে বহিঃস্থভাবে স্পর্শ করলে c এর মান কত?,\text{- 39},\text{- 21},39,21,\text{- 39},\text{- 21},39,21,d
+"The circle x^{2} + y^{2} - 4x - 6y = 0 is-
+ i. passing through origin
+ ii. cuts 4 units from x-axis
+ iii. intersects y-axis at (0, - 6)
+ Which one is correct?","x^{2} + y^{2} - 4x - 6y = 0 বৃত্তটি-
+ i. মূলবিন্দুগামী
+ ii. x-অক্ষ থেকে 4 একক অংশ খণ্ডন করে
+ iii. y-অক্ষকে (0, - 6) বিন্দুতে ছেদ করে
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i এবং ii,ii এবং iii,i এবং iii,"i, ii এবং iii",a
+"x^{2} + y^{2} - 3x - 4y + 5 = 0 and 3x^{2} + 3y^{2} - 6x - 9y - 3 = 0 are the equation of two circles.
+ 
+ What is the intersecting part on x-axis by the 2nd circle?","x^{2} + y^{2} - 3x - 4y + 5 = 0 এবং 3x^{2} + 3y^{2} - 6x - 9y - 3 = 0, দুইটি বৃত্তের সমীকরণ।
+ 
+ দ্বিতীয় বৃত্ত দ্বারা x-অক্ষের ছেদিত অংশের দৈর্ঘ্য কত?",2\sqrt{2} unit,\sqrt{13} unit,\sqrt{2} unit,\frac{\sqrt{13}}{2} unit,2\sqrt{2} একক,\sqrt{13} একক,\sqrt{2} একক,\frac{\sqrt{13}}{2} একক,a
+"Radius of \Delta ABC is 10 unit. If c = 10\sqrt{3} unit, then what is the value of \angle C?","\Delta ABC এর পরিব্যাসার্ধ 10 একক।
+ যদি c = 10\sqrt{3} একক হয়, তবে C কোণের মান নিচের কোনটি?",60\degree,12\degree,30\degree,90\degree,60\degree,12\degree,30\degree,90\degree,a
+"If tan\theta = \sqrt{3} 
+ i. sin2\theta
+ ii. cos2\theta = \frac{1}{2}
+ iii. tan2\theta = - sqrt{3}
+ Which one is correct?","tan\theta = \sqrt{3} হলে
+ i. sin2\theta
+ ii. cos2\theta = \frac{1}{2}
+ iii. tan2\theta = - sqrt{3}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+sin65\degree + cos65\degree = ?,sin65\degree + cos65\degree = ?,\frac{\sqrt{3}}{2} cos40\degree,\frac{1}{2} sin20\degree,\frac{\sqrt{3}}{2} sin40\degree,\sqrt{2} cos20\degree,\frac{\sqrt{3}}{2} cos40\degree,\frac{1}{2} sin20\degree,\frac{\sqrt{3}}{2} sin40\degree,\sqrt{2} cos20\degree,d
+"If tan\frac{\alpha}{2} = 7, 4sin\alpha - 3cos\alpha = ?",tan\frac{\alpha}{2} = 7 হলে 4sin\alpha - 3cos\alpha = ?,5,4,3,6,5,4,3,6,b
+What is the differentiation of e^{sin^{2}x} with respect to x?,x এর সাপেক্ষে e^{sin^{2}x} এর অন্তরজ কোনটি?,e^{sin^{2}x} sin2x,2e^{sin^{2}x} sinx,- e^{sin^{2}x} sin2x,e^{sin^{2}x},e^{sin^{2}x} sin2x,2e^{sin^{2}x} sinx,- e^{sin^{2}x} sin2x,e^{sin^{2}x},a
+What is the slope of y = ax(1 - x) on origin?,y = ax(1 - x) বক্ররেখাটির মূলবিন্দুতে ঢাল কত?,\text{- a},a,a - 2ax,a + 2ax,\text{- a},a,a - 2ax,a + 2ax,b
+"Matrix A will be symmetrix matrix when-
+ i. A is square
+ ii. A^{2} = A
+ iii. A^{T} = A
+ Which one is correct?","A ম্যাট্রিক্সটি প্রতিসম ম্যাট্রিক্স হবে যখন-
+ i. A বর্গ
+ ii. A^{2} = A
+ iii. A^{T} = A
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+Which is the value of the determinant \begin{vmatrix} x & y+z & 1 \\ y & x+z & 1 \\ z & z+y & 1 \end{vmatrix}?,\begin{vmatrix} x & y+z & 1 \\ y & x+z & 1 \\ z & z+y & 1 \end{vmatrix} নির্ণায়কের মান কোনটি?,4x^{2}y^{2}z^{2},4xyz,1,0,4x^{2}y^{2}z^{2},4xyz,1,0,d
+"Which of the following is A^{-1}, if A = \begin{bmatrix} 3 & 0 \\ 0 & 3 \end{bmatrix}",A = \begin{bmatrix} 3 & 0 \\ 0 & 3 \end{bmatrix} হলে A^{-1} নিচের কোনটি?,\begin{bmatrix} \frac{1}{3} & 0 \\ 0 & \frac{1}{3} \end{bmatrix},\begin{bmatrix} \frac{1}{3} & 0 \\ 0 & - \frac{1}{3} \end{bmatrix},\begin{bmatrix} \frac{-1}{3} & 0 \\ 0 & \frac{1}{3} \end{bmatrix},\begin{bmatrix} -\frac{1}{3} & 0 \\ 0 & - \frac{1}{3} \end{bmatrix},\begin{bmatrix} \frac{1}{3} & 0 \\ 0 & \frac{1}{3} \end{bmatrix},\begin{bmatrix} \frac{1}{3} & 0 \\ 0 & - \frac{1}{3} \end{bmatrix},\begin{bmatrix} \frac{-1}{3} & 0 \\ 0 & \frac{1}{3} \end{bmatrix},\begin{bmatrix} -\frac{1}{3} & 0 \\ 0 & - \frac{1}{3} \end{bmatrix},a
+"If the (2, 3)th co-factor is 0 from the determinant \begin{vmatrix} 1 & 2 & 3 \\ 0 & 3 & 6 \\ 1 & -x & -2 \end{vmatrix} then what is the value of x?","\begin{vmatrix} 1 & 2 & 3 \\ 0 & 3 & 6 \\ 1 & -x & -2 \end{vmatrix} নির্ণায়কটির (2, 3) তম ভুক্তির সহগুণক 0 হলে x এর মান কত?",\text{-2},\text{-1},1,2,\text{-2},\text{-1},1,2,a
+"If P = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} then-
+ i. Det P = 1
+ ii. P^{T} = P
+ iii. P = I_{3}
+ Which one is correct?","P = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} হলে-
+ i. Det P = 1
+ ii. P^{T} = P
+ iii. P = I_{3}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+Which of the following is a skew symmetric matrix?,নিচের কোনটি বিপ্রতিসম ম্যাট্রিক্স?,\begin{bmatrix} a & 0 \\ 0 & -a \end{bmatrix},\begin{bmatrix} a & 0 \\ -a & 0 \end{bmatrix},\begin{bmatrix} 0 & a \\ -a & 0 \end{bmatrix},\begin{bmatrix} 0 & -a \\ 0 & a \end{bmatrix},\begin{bmatrix} a & 0 \\ 0 & -a \end{bmatrix},\begin{bmatrix} a & 0 \\ -a & 0 \end{bmatrix},\begin{bmatrix} 0 & a \\ -a & 0 \end{bmatrix},\begin{bmatrix} 0 & -a \\ 0 & a \end{bmatrix},c
+What is the slope of the perpendicular line of y = -3x + 7?,y = -3x + 7 রেখার সাথে লম্বরেখার ঢাল কত?,\text{-3},- \frac{1}{3},\frac{1}{3},3,\text{-3},- \frac{1}{3},\frac{1}{3},3,c
+"P(x, y), Q(2, -2) and R(0, 4) are vertices of a triangle.
+ 
+ i. Middle point of QR is (1, 1)
+ ii. Slope of parallel to QR is 3
+ iii. Length of QR is 2\sqrt{10}
+ Which one is correct?","P(x, y), Q(2, -2) এবং R(0, 4) বিন্দুত্রয় একটি ত্রিভুজের শীর্ষবিন্দু।
+ 
+ i. QR এর মধ্যবিন্দুর স্থানাঙ্ক (1, 1)
+ ii. QR এর সমান্তরাল রেখার ঢাল 3
+ iii. QR এর দৈর্ঘ্য 2\sqrt{10}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+"If the slope of a straight line is \frac{2}{3} and its length of intercept from y-axis is -5, Then the equation of the straight line is-",একটি সরলরেখার ঢাল \frac{2}{3} এবং y অক্ষের খণ্ডিতাংশ -5 হলে রেখাটির সমীকরণ-,2x + 3y = 15,3x + 2y = 15,2x - 3y = 15,3x - 2y = 15,2x + 3y = 15,3x + 2y = 15,2x - 3y = 15,3x - 2y = 15,c
+What is the perpendicular distance between the lines 3x - 4y - 18 = 0 and -3x + 4y - 7 = 0?,3x - 4y - 18 = 0 এবং -3x + 4y - 7 = 0ন রেখাদ্বয়ের মধ্যবর্তী লম্ব দূরত্ব কত?,\pm 5,\pm \frac{11}{5},\frac{11}{5},5,\pm 5,\pm \frac{11}{5},\frac{11}{5},5,d
+"What is the length of intercepted part by axes of the line which is passing through the points (1, 2) and (3, -2)?","(1, 2) ও (3, -2) বিন্দুগামী রেখার অক্ষ দুটির মধ্যবর্তী খণ্ডিতাংশের দৈর্ঘ্য কত?",2\sqrt{5},3\sqrt{5},5\sqrt{2},5\sqrt{3},2\sqrt{5},3\sqrt{5},5\sqrt{2},5\sqrt{3},a
+"If y = e^{-3x}, then \frac{dy}{dx} = ?",y = e^{-3x} হলে \frac{dy}{dx} = ?,- e^{-3x},- 3e^{-3x},e^{-3x},3e^{-3x},- e^{-3x},- 3e^{-3x},e^{-3x},3e^{-3x},b
+What is the derivative of cos\sqrt{x}?,cos\sqrt{x} এর অন্তরক সহগ কোনটি?,- sin\sqrt{x},- \frac{sin\sqrt{x}}{\sqrt{x}},\frac{sin\sqrt{x}}{\sqrt{x}},- \frac{sin\sqrt{x}}{2\sqrt{x}},- sin\sqrt{x},- \frac{sin\sqrt{x}}{\sqrt{x}},\frac{sin\sqrt{x}}{\sqrt{x}},- \frac{sin\sqrt{x}}{2\sqrt{x}},d
+"f(x) = x^{2} - x
+ 
+ At which point the tangent will be parallel to x-axis for the function?","f(x) = x^{2} - x
+ 
+ ফাংশনটির কোন বিন্দুতে অংকিত স্পর্শক x-অক্ষের সমান্তরাল?","\left ( \frac{-1}{2}, \frac{-1}{4} \right )","\left ( \frac{-1}{2}, \frac{1}{4} \right )","\left ( \frac{1}{2}, \frac{-1}{4} \right )","\left ( \frac{1}{2}, \frac{1}{4} \right )","\left ( \frac{-1}{2}, \frac{-1}{4} \right )","\left ( \frac{-1}{2}, \frac{1}{4} \right )","\left ( \frac{1}{2}, \frac{-1}{4} \right )","\left ( \frac{1}{2}, \frac{1}{4} \right )",c
+"f(x) = x^{2} - x
+ 
+ What is the extreme value of the function?","f(x) = x^{2} - x
+ 
+ ফাংশনটির চরম মান কত?",- \frac{1}{4},- \frac{1}{2},0,\frac{1}{2},- \frac{1}{4},- \frac{1}{2},0,\frac{1}{2},a
+"If y = sin2x then-
+ i. y_{1} = 2cos2x
+ ii. y_{2} + 4y = 0
+ iii. y_{3} - 4y_{1} = 0
+ Which one is correct?","y = sin2x হলে-
+ i. y_{1} = 2cos2x
+ ii. y_{2} + 4y = 0
+ iii. y_{3} - 4y_{1} = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+What is the value of \int_{0}^{1} \frac{sin^{-1}x}{\sqrt{1-x^{2}}}dx ?,\int_{0}^{1} \frac{sin^{-1}x}{\sqrt{1-x^{2}}}dx এর মান কত?,\frac{\pi^{2}}{16},\frac{\pi^{2}}{8},\frac{\pi^{2}}{4},\frac{\pi}{2},\frac{\pi^{2}}{16},\frac{\pi^{2}}{8},\frac{\pi^{2}}{4},\frac{\pi}{2},b
+What is the value of \int_{1}^{3} \frac{2x}{1 + x^{2}} dx?,\int_{1}^{3} \frac{2x}{1 + x^{2}} dx এর মান কত?,ln 10,ln 5,ln 4,ln 2,ln 10,ln 5,ln 4,ln 2,b
+What is the value of \lim_{x \to 0} \frac{\sqrt{1 - cos2x}}{x}?,\lim_{x \to 0} \frac{\sqrt{1 - cos2x}}{x} এর মান কত?,2\sqrt{2},\sqrt{2},\frac{1}{\sqrt{2}},0,2\sqrt{2},\sqrt{2},\frac{1}{\sqrt{2}},0,b
+"The order of the two matrix A and B are respectively p \times q and n \times r, which is the condition to determine AB?","দুটি ম্যাট্রিক্স A এবং B এর মাত্রা যথাক্রমে p \times q এবং n \times r হলে, AB নির্ণয়ের শর্ত কোনটি?",p = r,p = n,q = r,q = n,p = r,p = n,q = r,q = n,d
+"A = \begin{bmatrix} 2 & 3 & 4 \\ 4 & 6 & 8 \\ 3 & 1 & 2 \end{bmatrix} is a-
+ i. square matrix
+ ii. singular matrix
+ iii. symmetric matrix
+ Which one is correct?","A = \begin{bmatrix} 2 & 3 & 4 \\ 4 & 6 & 8 \\ 3 & 1 & 2 \end{bmatrix} হলে-
+ i. বর্গ ম্যাট্রিক্স
+ ii. ব্যতিক্রমী ম্যাট্রিক্স
+ iii. প্রতিসম ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+Which of the following is idempotent matrix?,নিচের কোনটি সমঘাতি ম্যাট্রিক্স?,\begin{bmatrix} -2 & -1 \\ -2 & -1 \end{bmatrix},\begin{bmatrix} 2 & 1 \\ -2 & -1 \end{bmatrix},\begin{bmatrix} -2 & 1 \\ -2 & -1 \end{bmatrix},\begin{bmatrix} 2 & 1 \\ -2 & 2 \end{bmatrix},\begin{bmatrix} -2 & -1 \\ -2 & -1 \end{bmatrix},\begin{bmatrix} 2 & 1 \\ -2 & -1 \end{bmatrix},\begin{bmatrix} -2 & 1 \\ -2 & -1 \end{bmatrix},\begin{bmatrix} 2 & 1 \\ -2 & 2 \end{bmatrix},b
+"\begin{vmatrix} 3 & 2 & 4 \\ 0 & 3 & 6 \\ 1 & -1 & -2 \end{vmatrix} is a determinant-
+ i. value of determinant is 0
+ ii. the minor of (2, 3)^{th} entry is 5
+ iii. the cofactor of (2, 1)^{th} entry is 0
+ Which one is correct?","\begin{vmatrix} 3 & 2 & 4 \\ 0 & 3 & 6 \\ 1 & -1 & -2 \end{vmatrix} নির্ণায়কটির-
+ i. মান = 0
+ ii. (2, 3) তম ভুক্তির অনুরাশি = 5
+ iii. (2, 1) তম ভুক্তির সহগুণক = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+Which is the adjoint matrix of \begin{bmatrix} 1 & 2 \\ 2 & -4 \end{bmatrix} ?,\begin{bmatrix} 1 & 2 \\ 2 & -4 \end{bmatrix} এর অ্যাডজয়েন্ট ম্যাট্রিক্স কোনটি?,\begin{bmatrix} -4 & 2 \\ 3 & -1 \end{bmatrix},\begin{bmatrix} -4 & 2 \\ 3 & 1 \end{bmatrix},\begin{bmatrix} -4 & -2 \\ -3 & 1 \end{bmatrix},\begin{bmatrix} -4 & -2 \\ 3 & 1 \end{bmatrix},\begin{bmatrix} -4 & 2 \\ 3 & -1 \end{bmatrix},\begin{bmatrix} -4 & 2 \\ 3 & 1 \end{bmatrix},\begin{bmatrix} -4 & -2 \\ -3 & 1 \end{bmatrix},\begin{bmatrix} -4 & -2 \\ 3 & 1 \end{bmatrix},c
+"Which is the polar co-ordinate of (- 1, - 1)?","(- 1, - 1) বিন্দুটির পোলার স্থানাঙ্ক কোনটি?","(\sqrt{2}, - 45\degree)","(\sqrt{2}, 45\degree)","(\sqrt{2}, 135\degree)","(\sqrt{2}, 225\degree)","(\sqrt{2}, - 45\degree)","(\sqrt{2}, 45\degree)","(\sqrt{2}, 135\degree)","(\sqrt{2}, 225\degree)",d
+"Which is the equation of the line perpendicular to 3x - 5y + 7 = 0 and passes through the point (2, 1)?","3x - 5y + 7 = 0 রেখার উপর লম্ব এবং (2, 1) বিন্দুগামী রেখার সমীকরণ কোনটি?",5x + 3y - 13 = 0,5x + 3y + 13 = 0,3x + 5y - 13 = 0,5x - 3y - 13 = 0,5x + 3y - 13 = 0,5x + 3y + 13 = 0,3x + 5y - 13 = 0,5x - 3y - 13 = 0,a
+"The equation of a straight line is 4x - 5y + 9 = 0
+ i. the slope of a straight line is \frac{4}{5}
+ ii. the intercept on x-axis is \frac{9}{4}
+ iii. point of intersection of y-axis is \left ( 0, \frac{9}{5} \right )
+ Which one is correct?","4x - 5y + 9 = 0 সরলরেখাটির-
+ i. ঢাল = \frac{4}{5}
+ ii. x-অক্ষের খণ্ডিতাংশ = \frac{9}{4}
+ iii. y-অক্ষের ছেদবিন্দু = \left ( 0, \frac{9}{5} \right )
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",b
+"\sqrt{2}x - y + 5 = 0 is a straight line.
+ 
+ What is the perpendicular distance of the above straight line from the point (\sqrt{2}, 1)?","\sqrt{2}x - y + 5 = 0 একটি সরলরেখার সমীকরণ।
+ 
+ (\sqrt{2}, 1) বিন্দু হতে রেখাটির লম্ব দূরত্ব কত?",2\sqrt{3},3\sqrt{2},\frac{2}{3},\frac{3}{2},2\sqrt{3},3\sqrt{2},\frac{2}{3},\frac{3}{2},a
+"\sqrt{2}x - y + 5 = 0 is a straight line.
+ 
+ Which is the length of intercept from y-axis cut off by the given straight line?","\sqrt{2}x - y + 5 = 0 একটি সরলরেখার সমীকরণ।
+ 
+ প্রদত্ত সরলরেখা দ্বারা y-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য কোনটি?",\text{- 5},- \frac{5}{\sqrt{2}},\sqrt{5}{\sqrt{2}},5,\text{- 5},- \frac{5}{\sqrt{2}},\sqrt{5}{\sqrt{2}},5,d
+What is the value of sin20\degree + cos20\degree?,sin20\degree + cos20\degree এর মান কত?,\sqrt{2} cos25\degree,\sqrt{2} sin25\degree,\frac{1}{\sqrt{2}} sin25\degree,\frac{1}{\sqrt{2}} cos25\degree,\sqrt{2} cos25\degree,\sqrt{2} sin25\degree,\frac{1}{\sqrt{2}} sin25\degree,\frac{1}{\sqrt{2}} cos25\degree,a
+"In triangle ABC if AB = 6, BC = 8 and \angle BAC = 60\degree, then what is the area of the triangle ABC?","\Delta ABC এর AB = 6, BC = 8 এবং \angle BAC = 60\degree হলে, \Delta ABC এর ক্ষেত্রফল কত বর্গ একক?",12\sqrt{3},24,48,48\sqrt{3},12\sqrt{3},24,48,48\sqrt{3},a
+"If n is an integer, what is the value of sin \left\{ 2n\pi + (-1)^{2n} \frac{\pi}{6} \right\}?",n একটি পূর্ণসংখ্যা হলে sin \left\{ 2n\pi + (-1)^{2n} \frac{\pi}{6} \right\} এর মান কত?,- \frac{1}{2},\frac{1}{2},- \frac{\sqrt{3}}{2},\frac{\sqrt{3}}{2},- \frac{1}{2},\frac{1}{2},- \frac{\sqrt{3}}{2},\frac{\sqrt{3}}{2},b
+"If sin10\degree = p, then which is the value of sin20\degree?",sin10\degree = p হলে sin20\degree এর মান কোনটি?,2p,2p\sqrt{1 - p^{2}},2p\sqrt{p^{2} - 1},2\sqrt{1 - p^{2}},2p,2p\sqrt{1 - p^{2}},2p\sqrt{p^{2} - 1},2\sqrt{1 - p^{2}},b
+In which condition the equation ax^{2} + by^{2} = c defines as a circle?,নিচের কোন শর্তে ax^{2} + by^{2} = c সমীকরণটি একটি বৃত্ত নির্দেশ করে?,c = 0,c = 2,a \neq b,"\frac{a}{b} = 1, b \neq 0",c = 0,c = 2,a \neq b,"\frac{a}{b} = 1, b \neq 0",d
+Which one is the centre of the circle 2x^{2} + 2y^{2} + 4x - 2y + 4 = 0?,2x^{2} + 2y^{2} + 4x - 2y + 4 = 0 বৃত্তের কেন্দ্র কোনটি?,"\left ( - 1, \frac{1}{2} \right )","\left ( 1, - \frac{1}{2} \right )","(- 2, 1)","\left ( 2, - \frac{1}{2} \right )","\left ( - 1, \frac{1}{2} \right )","\left ( 1, - \frac{1}{2} \right )","(- 2, 1)","\left ( 2, - \frac{1}{2} \right )",a
+Which is the length of intercept made by the circle x^{2} + y^{2} - 4x + 8y = 0 on y-axis?,x^{2} + y^{2} - 4x + 8y = 0 বৃত্তের y-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য কোনটি?,4,8,16,32,4,8,16,32,b
+"f(x) = ln(1 - x) and g(x) = tanx^{2}
+ 
+ What is the derivative of g(x)?","f(x) = ln(1 - x) এবং g(x) = tanx^{2}
+ 
+ g(x) এর অন্তরজ কোনটি?",sec^{2}x^{2},2x secx^{2},2x sec^{2}x^{2},2tanx sec^{2}x,sec^{2}x^{2},2x secx^{2},2x sec^{2}x^{2},2tanx sec^{2}x,c
+"f(x) = ln(1 - x) and g(x) = tanx^{2}
+ 
+ Which is the value of f''(2)?","f(x) = ln(1 - x) এবং g(x) = tanx^{2}
+ 
+ f''(2) এর মান কত?",\text{- 2},\text{- 1},1,2,\text{- 2},\text{- 1},1,2,b
+What is the value of \frac{d}{dx}(log_{a}2x) = ?,\frac{d}{dx}(log_{a}2x) = কত?,\frac{1}{x},\frac{1}{x}log_{e}a,\frac{1}{x}log_{a}e,\frac{1}{2x}loga,\frac{1}{x},\frac{1}{x}log_{e}a,\frac{1}{x}log_{a}e,\frac{1}{2x}loga,c
+"If y^{2} = x, then which of the following is y_{1}?",y^{2} = x হলে y_{1} নিচের কোনটি?,2y,2x,2\sqrt{x},\frac{1}{2\sqrt{x}},2y,2x,2\sqrt{x},\frac{1}{2\sqrt{x}},d
+"If y = sinx, then-
+ i. y_{1} = cosx
+ ii. y_{2} = - sinx
+ iii. y_{3} + y_{1} = 0
+ Which one is correct?","y = sinx হলে-
+ i. y_{1} = cosx
+ ii. y_{2} = - sinx
+ iii. y_{3} + y_{1} = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+What is the value of \int_{1}^{\sqrt{3}} \frac{dx}{1 + x^{2}}?,\int_{1}^{\sqrt{3}} \frac{dx}{1 + x^{2}} = কত?,\frac{\pi}{24},\frac{\pi}{12},\frac{\pi}{4},\frac{\pi}{2},\frac{\pi}{24},\frac{\pi}{12},\frac{\pi}{4},\frac{\pi}{2},b
+What is the value of \int_{0}^{1} \frac{ln(x + 1)}{x + 1} dx?,\int_{0}^{1} \frac{ln(x + 1)}{x + 1} dx = কত?,2ln2,\frac{1}{2} ln2,2(ln2)^{2},\frac{1}{2}(ln2)^{2},2ln2,\frac{1}{2} ln2,2(ln2)^{2},\frac{1}{2}(ln2)^{2},d
+"What is the polar co-ordinate of (\sqrt{2}, - \sqrt{2})?","(\sqrt{2}, - \sqrt{2}) বিন্দুর পোলার স্থানাঙ্ক কত?","\left ( 4, \frac{7\pi}{4} \right )","\left ( 6, \frac{- \pi}{4} \right )","\left ( 8, \frac{\pi}{4} \right )","\left ( 2, \frac{- \pi}{4} \right )","\left ( 4, \frac{7\pi}{4} \right )","\left ( 6, \frac{- \pi}{4} \right )","\left ( 8, \frac{\pi}{4} \right )","\left ( 2, \frac{- \pi}{4} \right )",d
+"2x - 3y + 6 = 0
+ 
+ What is the slope of the line?","2x - 3y + 6 = 0
+ 
+ রেখাটির ঢাল কত?",\frac{-3}{2},\frac{-2}{3},\frac{2}{3},\frac{3}{2},\frac{-3}{2},\frac{-2}{3},\frac{2}{3},\frac{3}{2},c
+"2x - 3y + 6 = 0
+ 
+ The co-ordinate of the point at which the line intersects the axis of x-","2x - 3y + 6 = 0
+ 
+ রেখাটি x অক্ষকে যে বিন্দুতে ছেদ করে তার স্থানাঙ্ক-","(-3, 0)","(0, -2)","(0, 2)","(3, 0)","(-3, 0)","(0, -2)","(0, 2)","(3, 0)",a
+What is the distance between the straight lines x + 2y = 2 and 2x + 4y = - 8?,x + 2y = 2 ও 2x + 4y = - 8 সরলরেখাদ্বয়ের মধ্যবর্তী দূরত্ব কত একক?,\text{-6},\frac{-6}{\sqrt{5}},\frac{6}{\sqrt{5}},6,\text{-6},\frac{-6}{\sqrt{5}},\frac{6}{\sqrt{5}},6,c
+"What is the perpendicular distance between from the point (1, 1) to 4x + 3y = 22?","(1, 1) বিন্দু হতে 4x + 3y = 22 রেখার লম্ব দূরত্ব কত একক?",\text{-3},- \frac{3}{5},\frac{3}{5},3,\text{-3},- \frac{3}{5},\frac{3}{5},3,d
+"For which value of k, kx + 3y + 1 = 0 and y = 3x + 5 lines will be parallel?",k-এর মান কত হলে kx + 3y + 1 = 0 এবং y = 3x + 5 রেখাদ্বয় পরস্পর সমান্তরাল হবে?,\text{-9},\text{-1},1,9,\text{-9},\text{-1},1,9,a
+"Which one is the equation of the straight line perpendicular to the straight line of slope \frac{2}{3} and passing through the point (-1, 0)?","\frac{2}{3} ঢালবিশিষ্ট সরলরেখার উপর লম্ব এবং (-1, 0) বিন্দুগামী সরলরেখার সমীকরণ কোনটি?",3x - 2y + 3 = 0,3x + 2y + 3 = 0,2x - 3y + 2 = 0,2x - 3y - 2 = 0,3x - 2y + 3 = 0,3x + 2y + 3 = 0,2x - 3y + 2 = 0,2x - 3y - 2 = 0,b
+What is the value of \lim_{x \to \infty} \frac{-x}{\sqrt{x^{2} + 3x + 4}}?,\lim_{x \to \infty} \frac{-x}{\sqrt{x^{2} + 3x + 4}} এর মান কত?,- \infty,\text{-1},1,4,- \infty,\text{-1},1,4,b
+\lim_{x \to -\frac{\pi}{2}} \frac{sin2x}{cosx},\lim_{x \to -\frac{\pi}{2}} \frac{sin2x}{cosx} = কত?,\text{-2},0,2,\infty,\text{-2},0,2,\infty,a
+\frac{d}{dx} (x^{-9}) = ?,\frac{d}{dx} (x^{-9}) = কত?,- 9x^{-8},- \frac{1}{9} x^{-10},- 9x^{-10},- \frac{1}{8}x^{-8},- 9x^{-8},- \frac{1}{9} x^{-10},- 9x^{-10},- \frac{1}{8}x^{-8},c
+\frac{d}{dx} (cot(2\sqrt{x})) = ?,\frac{d}{dx} (cot(2\sqrt{x})) = কত?,\frac{-cosec^{2}(2\sqrt{x})}{2\sqrt{x}},\frac{-cosec^{2}(2\sqrt{x})}{\sqrt{x}},-cosec^{2}(2\sqrt{x}),\frac{cosec^{2}(2\sqrt{x})}{2\sqrt{x}},\frac{-cosec^{2}(2\sqrt{x})}{2\sqrt{x}},\frac{-cosec^{2}(2\sqrt{x})}{\sqrt{x}},-cosec^{2}(2\sqrt{x}),\frac{cosec^{2}(2\sqrt{x})}{2\sqrt{x}},b
+\frac{d}{dx} (log_{5}x) = ?,\frac{d}{dx} (log_{5}x) = কত?,\frac{1}{x},\frac{1}{x}log_{e}5,\frac{1}{5 lnx},\frac{1}{x ln5},\frac{1}{x},\frac{1}{x}log_{e}5,\frac{1}{5 lnx},\frac{1}{x ln5},d
+\int sin \left ( 10 - \frac{x}{5} \right ) dx = ?,\int sin \left ( 10 - \frac{x}{5} \right ) dx = কত?,5cos \left ( 10 - \frac{x}{5} \right ) + c,- 5cos \left ( 10 - \frac{x}{5} \right ) + c,- \frac{1}{5}cos \left ( 10 - \frac{x}{5} \right ) + c,\frac{1}{5}cos \left ( 10 - \frac{x}{5} \right ) + c,5cos \left ( 10 - \frac{x}{5} \right ) + c,- 5cos \left ( 10 - \frac{x}{5} \right ) + c,- \frac{1}{5}cos \left ( 10 - \frac{x}{5} \right ) + c,\frac{1}{5}cos \left ( 10 - \frac{x}{5} \right ) + c,a
+\frac{d}{dx} (10^{x}) = ?,\frac{d}{dx} (10^{x}) = কত?,x10^{x-1},10^{x}ln10,10{x}ln10^{x},xln10^{x},x10^{x-1},10^{x}ln10,10{x}ln10^{x},xln10^{x},b
+\int_{0}^{\frac{\pi}{4}} cos2x dx = ?,\int_{0}^{\frac{\pi}{4}} cos2x dx এর মান কত?,\text{-1},- \frac{1}{2},\frac{1}{2},1,\text{-1},- \frac{1}{2},\frac{1}{2},1,c
+\int_{0}^{1} e^{-2x}dx = ?,\int_{0}^{1} e^{-2x}dx এর মান কোনটি?,2(1 - e^{-2}),2(e^{-2} - 1),\frac{1}{2} (e^{-2} - 1),\frac{1}{2}(1 - e^{-2}),2(1 - e^{-2}),2(e^{-2} - 1),\frac{1}{2} (e^{-2} - 1),\frac{1}{2}(1 - e^{-2}),d
+"\frac{x^{2}}{16} + \frac{y^{2}}{25} = 1, the area of the ellipse = ?",\frac{x^{2}}{16} + \frac{y^{2}}{25} = 1 উপবৃত্তটির ক্ষেত্রফল কত বর্গ একক?,16\pi,20\pi,25\pi,400\pi,16\pi,20\pi,25\pi,400\pi,b
+\int \frac{dx}{\sqrt{3 - 4x^{2}}} = ?,\int \frac{dx}{\sqrt{3 - 4x^{2}}} = কত?,sin^{-1} \frac{2x}{\sqrt{3}} + c,\frac{1}{2}sin^{-1} \frac{2x}{\sqrt{3}} + c,2sin^{-1} \frac{2x}{\sqrt{3}} + c,\frac{1}{2} sin^{-1} \frac{\sqrt{3x}}{2} + c,sin^{-1} \frac{2x}{\sqrt{3}} + c,\frac{1}{2}sin^{-1} \frac{2x}{\sqrt{3}} + c,2sin^{-1} \frac{2x}{\sqrt{3}} + c,\frac{1}{2} sin^{-1} \frac{\sqrt{3x}}{2} + c,b
+"f(x) = cotx, g(x) = cosec^{2}x
+ 
+ \int f(x) dx = ?","f(x) = cotx, g(x) = cosec^{2}x
+ 
+ \int f(x) dx = কত?",cosec^{2}x + c,- cosec^{2}x + c,ln |cosecx| + c,ln (sinx) + c,cosec^{2}x + c,- cosec^{2}x + c,ln |cosecx| + c,ln (sinx) + c,d
+"f(x) = cotx, g(x) = cosec^{2}x
+ 
+ i. \int g \left ( \frac{x}{2} \right ) dx = - 2cot \frac{x}{2} + c
+ ii. \frac{d}{dx} \left\{ f\left( \frac{\pi}{2} -2x \right) \right\} = 2sec^{2}2x
+ iii. \int f(x) g(x) dx = - \frac{1}{2} cot^{2}x + c
+ Which one is correct?","f(x) = cotx, g(x) = cosec^{2}x
+ 
+ i. \int g \left ( \frac{x}{2} \right ) dx = - 2cot \frac{x}{2} + c
+ ii. \frac{d}{dx} \left\{ f\left( \frac{\pi}{2} -2x \right) \right\} = 2sec^{2}2x
+ iii. \int f(x) g(x) dx = - \frac{1}{2} cot^{2}x + c
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",d
+"Which is the cofactor of (2, 1)th element of the determinant \begin{vmatrix} 1 & -2 & 0 \\ 2 & 0 & -3 \\ 3 & 0 & 4 \end{vmatrix}?","\begin{vmatrix} 1 & -2 & 0 \\ 2 & 0 & -3 \\ 3 & 0 & 4 \end{vmatrix} নির্ণায়কটির (2, 1) তম ভুক্তির সহগুণক কোনটি?",\text{-17},\text{-8},8,17,\text{-17},\text{-8},8,17,c
+Which is the order of AB if A = \begin{bmatrix} 2 & 4 & 6 \\ 4 & 6 & 8 \end{bmatrix} and B = \begin{bmatrix} 6 \\7 \\ 8 \end{bmatrix}?,A = \begin{bmatrix} 2 & 4 & 6 \\ 4 & 6 & 8 \end{bmatrix} এবং B = \begin{bmatrix} 6 \\7 \\ 8 \end{bmatrix} হলে AB-এর ক্রম কত?,2 \times 1,1 \times 2,3 \times 1,1 \times 3,2 \times 1,1 \times 2,3 \times 1,1 \times 3,a
+"If C = \begin{bmatrix} -1 & 2 \\ 3 & -4 \end{bmatrix}, C^{-1} = What?",C = \begin{bmatrix} -1 & 2 \\ 3 & -4 \end{bmatrix} হলে C^{-1} = কত?,- \frac{1}{2} \begin{bmatrix} -4 & 3 \\ 2 & -1 \end{bmatrix},- \frac{1}{2} \begin{bmatrix} 4 & -2 \\ -3 & 1 \end{bmatrix},\frac{1}{2} \begin{bmatrix} 4 & 2 \\ 3 & 1 \end{bmatrix},\frac{1}{2} \begin{bmatrix} 4 & 3 \\ 2 & 1 \end{bmatrix},- \frac{1}{2} \begin{bmatrix} -4 & 3 \\ 2 & -1 \end{bmatrix},- \frac{1}{2} \begin{bmatrix} 4 & -2 \\ -3 & 1 \end{bmatrix},\frac{1}{2} \begin{bmatrix} 4 & 2 \\ 3 & 1 \end{bmatrix},\frac{1}{2} \begin{bmatrix} 4 & 3 \\ 2 & 1 \end{bmatrix},c
+"\begin{bmatrix} 5 & 0 & 0 \\ 0 & 10 & 0 \\ 0 & 0 & 20 \end{bmatrix} is-
+ i. diagonal matrix
+ ii. symmetric matrix
+ iii. scalar matrix
+ Which one is correct?","\begin{bmatrix} 5 & 0 & 0 \\ 0 & 10 & 0 \\ 0 & 0 & 20 \end{bmatrix} একটি-
+ i. কর্ণ ম্যাট্রিক্স
+ ii. প্রতিসম ম্যাট্রিক্স
+ iii. স্কেলার ম্যাট্রিক্স
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",a
+"What is the value of x if (1, 2)th minor is 8 of \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & -8 \\ -5 & 6 & x \end{bmatrix}?","\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & -8 \\ -5 & 6 & x \end{bmatrix}-এর (1, 2) তম অনুরাশি 8 হলে x-এর মান কত?",\text{-8},\text{-5},12,13,\text{-8},\text{-5},12,13,c

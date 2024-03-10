@@ -1,0 +1,508 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+What is the length of the diaginal of a square with side 2 meter?,একটি বর্গক্ষেত্রের এক বাহুর 2 মিটার হলে এর কর্ণ কত?,\sqrt{2}m,2\sqrt{2}m,4m,8m,\sqrt{2} মি.,2\sqrt{2} মি.,4 মি.,8 মি.,b
+1 acre = ?,1 একর = কত বর্গমিটার?,4046.86sq.m,4064.86sq.m,4406.86sq.m,4640.86sq.m,4046.86 বর্গ মিটার,4064.66 বর্গ মিটার,4406.86 বর্গ মিটার,4640.86 বর্গ মিটার,a
+"If \left ( 3a + \frac{3}{a} \right ) = 9, then-
+ i. \left ( a + \frac{1}{a} \right )^{2} = 3
+ ii. a + \frac{1}{a} = 1
+ iii. a^{2} + \frac{1}{a^{2}} = - 1
+ which one is correct?","\left ( 3a + \frac{3}{a} \right ) = 9 হলে-
+ i. \left ( a + \frac{1}{a} \right )^{2} = 3
+ ii. a + \frac{1}{a} = 1
+ iii. a^{2} + \frac{1}{a^{2}} = - 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If a = x + \frac{1]{x} and b = \frac{1}{x} - x, then (a - b)^{2} = ?",a = x + \frac{1]{x} এবং b = \frac{1}{x} - x হলে (a - b)^{2} = কত?,2x,4x,4x2,0,2x,4x,4x2,0,c
+"If a - 1 is a factor of 3 - 1, then which one is the another factor?",a^{3} - 1 এর একটি উৎপাদক a - 1 হলে অপরটি কত?,a + 1,a2 - a - 1,1 + a + a2,1 - a - a2,a + 1,a2 - a - 1,1 + a + a2,1 - a - a2,c
+What is the simplified value of \frac{2}{a} + \frac{3}{a} - \frac{4}{a}?,\frac{2}{a} + \frac{3}{a} - \frac{4}{a} এর সরল ফল কত?,\frac{4}{a},\frac{3}{a},\frac{2}{a},\frac{1}{a},\frac{4}{a},\frac{3}{a},\frac{2}{a},\frac{1}{a},d
+"Which one is the H, C, F of x^{2} - 2 and x^{2} - 4?",x^{2} - 2 এবং x^{2} - 4 এর গ.সা.গু নিচের কোনটি?,1,x + 2,x - 2,x^{2} - 2,1,x + 2,x - 2,x^{2} - 2,a
+"If x = \frac{p}{q} and y = 1 - \frac{p}{q}, then - 
+ i. x + y = 0
+ ii. \frac{x}{y} = -1
+ iii. xy = \frac{(p - 1)^{2}}{q^{2}}
+ Which one is correct?","x = \frac{p}{q} এবং y = 1 - \frac{p}{q} হলে- - 
+  i. x + y = 0
+  ii. \frac{x}{y} = -1
+  iii. xy = \frac{(p - 1)^{2}}{q^{2}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If x - y = 2p and px + qy = p^{2} + q^{2} then (x, y) = ?","x - y = 2p এবং px + qy = p^{2} + q^{2} হলে, (x, y) = কত?","(p - q, p + q)","(q - p, o + q)","(p + q, p - q)","(p + q, q - p)","(p - q, p + q)","(q - p, p + q)","(p + q, p - q)","(p + q, q - p)",d
+"In which quadrant ( - 3, - 2) is located?","(-3, -2) বিন্দুটি লেখচিত্রের কোন চতুর্ভাগে অবস্থিত?",4th,3rd,2nd,1st,4র্থ,3য়,2য়,1ম,b
+"How many subsets has the set p = {1, 2, 3, 4}","p = {1, 2, 3, 4} এর উপসেট কতটি?",4,8,15,16,4,8,15,16,d
+"P = {X : X, factor of 4 and 1 < x < 8}
+ Q = {X:X is even number and 1 < x < 6}
+ 
+ The set P = ?","P = {x : x, 4 এর গুণনীয়ক এবং 1 < x <8} 
+ Q = {x : x, জোড় সংখ্যা এবং 1 < x < 6}
+ P সেট কোনটি?","{2, 4}","{1, 4}","{1, 2}","{1, 2, 4}","{2, 4}","{1, 4}","{1, 2}","{1, 2, 4}",a
+"P = {X:X, factor of 4 and 1 < x < 8}
+ Q = {X:X is even number and 1 < x < 6}
+ 
+ Which one of the following is Q/P?","P = {x : x, 4 এর গুণনীয়ক এবং 1 < x <8}
+ Q = {x : x, জোড় সংখ্যা এবং 1 < x < 6}
+ Q/P সেট নিচের কোনটি?",{ },{ \varnothing },{4},{6},{ },{\varnothing},{4},{6},a
+What is sum of four angles of a kite?,ঘুড়ির চার কোণের সমষ্টি কত?,180\degree,270\degree,300\degree,360\degree,180\degree,270\degree,300\degree,360\degree,d
+"If a + b = 4 and a - b = 2, then a^{3} - b^{3} = ?",a + b = 4 এবং a - b = 2 হলে a^{3} - b^{3} = কত?,27,26,8,1,27,26,8,1,b
+What is the simplifid value of \frac{1}{a - 2} - \frac{a}{a^{2} -4}?,\frac{1}{a - 2} - \frac{a}{a^{2} -4} এর সরল মান কোনটি?,\frac{2}{a - 2},\frac{-2}{a + 2},\frac{-2}{a^{2} + 4},\frac{a^{2} - 4},\frac{2}{a - 2},\frac{-2}{a + 2},\frac{-2}{a^{2} + 4},\frac{a^{2} - 4},d
+How many type of measuring the central tendency are there in Statisties?,কেন্দ্রীয় প্রবণতার পরিমাপ কয়টি?,1,2,3,4,1টি,2টি,3টি,4টি,c
+What is the class interval of the class ' 6 - 10'?,“6 - 10” শ্রেণির শ্রেণিব্যাপ্তি কত?,4,5,6,10,4,5,6,10,b
+"What is the arithmetic mean of the data 0, 0, 2, 4, 6, 8, 7, 3, ?","0, 0, 2, 4, 6, 8, 7, 3 উপাত্তাগুলোর গড় নিচের কোনটি?",3.75,5,5.75,6,3.75,5,5.75,6,a
+"Which algebraic expression does the pattern 1, 3, 5, 7………..express?","1, 3, 5, 7, .... প্যাটার্ণটি কোন বীজগাণিতিক রাশি দ্বারা প্রকাশ করা যায়?",A + 1,2A + 1,2A - 1,3A - 2,ক + 1,2ক + 1,2ক - 1,3ক - 2,c
+Which one is the prime factor of 20?,20 এর মৌলিক গুণনীয়ক কোনটি?,1,5,10,20,1,5,10,20,b
+Which numbers are Fibonacci numbers in the following ?,নিচের কোন সংখ্যাগুলো ফিবোনাক্কি সংখ্যা?,"0, 1, 1, 2, 3, ….","0, 0, 1, 2, 3, ……","0, 1, 2, 3, 4, …..","0, 2, 4, 6, 8, ….","0, 1, 1, 2, 3, ... ...","0, 0, 1, 2, 3, ... ...","0, 1, 2, 3, 4, ... ...","0, 2, 4, 6, 8, ... ...",a
+"If the highest value is 80 and the lowest value is 40 of any data and
+ the class interval is 5, what will be the number if classes?","কোনো উপাত্তের সর্বোচ্চ মান 80, সর্বনিম্ন মান 40 এবং শ্রেণিব্যাপ্তি 5 হলে, শ্রেণিসংখ্যা কত?",8,9,40,41,8,9,40,41,b
+"What is the mean of the number 2, 1, 9, 0, 3, 4, 1, 6, 9, 0?","2, 1, 9, 0, 3, 4, 1, 6, 9, 0 সংখ্যাগুলোর গড় কত?",3.89,3.77,3.5,2.4,3.89,3.77,3.5,2.4,c
+"If a thing was sold at Tk.2375 at the loss of 5% , what was the 
+ cost price?","একটি পণ্য 5% ক্ষতিতে 2375 টাকায় বিক্রয় করা হলে, ক্রয়মূল্য কত ছিল?",Tk.2400,Tk.2450,Tk.2475,Tk.2500,2400 টাকা,2450 টাকা,2475 টাকা,2500 টাকা,d
+"The formula of finding simple profit or compound principal is - 
+ i. I = pnr
+ ii.A = p(1 - nr)
+ iii. C = p(1 + r)^{n}
+ Which one is correct?","সরল মুনাফা অথবা চক্রবৃদ্ধি মূলধন নির্ণয় করার সূত্র হচ্ছে-
+ i. I = Per
+ ii. A = P(I - nr)
+ iii. C = P(I + r)^{n}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+What is the percentage of profit per annum by which the profit of Tk.4000 will be Tk.2400 in 4 years?,শতকরা বার্ষিক কত মুনাফায় 4000 টাকার 4 বছরের মুনাফা 2400 টাকা হবে?,7\frac{1}{2}%,15%,16%,20%,7\frac{1}{2}%,15%,16%,20%,b
+"If the length of a side of a squara is 5 metre then its - 
+ i. area is 25sq. Metress
+ ii. Leggth of diagonal is 10 metres
+ iii. Perimeter is 20 mettes
+ Which one is correct?","একটি বর্গের বাহুর দৈর্ঘ্য 5 মিটার হলে এর-
+ i. ক্ষেত্রফল 25 বর্গমিটার
+ ii. কর্ণের দৈর্ঘ্য 10 মিটার
+ iii. পরিসীমা 20 মিটার
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+How many kathas are there in 5 bighas?,5 বিঘায় কত কাঠা?,20,25,50,100,20,25,50,100,d
+In Greek language hecto means -,গ্রিক ভাষায় হেক্টো অর্থ-,10 times,100 times,1000 times,"10, 000 times",1‘0 গুণ,100 গুণ,"1,000 গুণ","10,000 গুণ",b
+"If the circumference of the wheel of a car is 5.15 metres, what is the
+ diameter of the wheel?","একটি গাড়ির চাকার পরিধি 5.15 মিটার হলে, চাকাটির ব্যাস কত?",0.82 metre,0.96 metre,1.28 metre,1.64 metre,0.82 মিটার,0.96 মিটার,1.28 মিটার,1.64 মিটার,d
+"In which quadrant the point ( - 5, 5) will be?","(-5, 5) বিন্দুটি চর্তুভাগে অবস্থিত?",First,Second,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,b
+Which one is the lowest form of \frac{x^{3} - 49x}{x^{2} + 7x}?,\frac{x^{3} - 49x}{x^{2} + 7x} এর লঘিষ্ঠ রূপ কোনটি?,(x - 7),(x + 7),x(x - 7),x(x + 7),(x = 7),(x + 7),x(x = 7),x(x + 7),a
+If x^{2} - \sqrt{5}x + 1 = 0 then x + \frac{1}{x} = what?,"x^{2} - \sqrt{5}x + 1 = 0 হলে, x + \frac{1}{x} = কত?",- 2\sqrt{5},- \sqrt{5},\sqrt{5},5\sqrt{5},2\sqrt{5},- \sqrt{5},\sqrt{5},5\sqrt{5},c
+"If x + y = 6 and x - y = 4, what is the value of 5xy?","x + y = 6 এবং x - y = 4 হলে, 5xy এর মান কত?",16,24,25,36,16,24,25,36,c
+"If U = {1, 2, 3, 4, 5, 6, 7}, A = {3, 5, 6, 7, } what will be equal to A?","U = {1, 2, 3, 4, 5, 6, 7}, A = {3, 5, 6, 7, } হলে A^{c} সমান কত হবে?","{1, 2, 4}","{2, 4, 5}","{2, 4, 6}","{3, 5, 6, 7}","{1, 2, 4}","{2, 4, 5}","{2, 4, 6}","{3, 5, 6, 7}",a
+"If A = [3, 4, 5} and B = {4, 5, 7} , then - 
+ i. A \cup B = {3, 4, 5, 7}
+ ii.A \cap B = {4, 5}
+ iii. A \subset B
+ Which one is correct?","A = [3, 4, 5} এবং B = {4, 5, 7} হলে-
+  i. A \cup B = {3, 4, 5, 7}
+  ii.A \cap B = {4, 5}
+  iii. A \subset B
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one of the follwing is the factorized form of x^{2} - x - 42?,x^{2} - x - 42 এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?,(x - 6) (x - 7),(x - 6) (x + 7),(x + 6) (x + 7),(x - 7) (x + 6),(x - 6) (x - 7),(x - 6) (x + 7),(x + 6) (x + 7),(x - 7) (x + 6),d
+Which point lies on x - axis?,কোন বিন্দুটি x-অক্ষের উপর অবস্থিত?,"(0, - 4)","( - 4, 0)","(0, 3)","(3, - 1)","(0, - 4)","( - 4, 0)","(0, 3)","(3, - 1)",b
+"If the sum of the numerator and denominator is 14 and the
+difference is 8 of a proper fraction, which one of the following is the fraction?","কোনো প্রকৃত ভগ্নাংশের লব ও হরের যোগফল 14 এবং বিয়োগফল 8 হলে, ভগ্নাংশটি নিচের কোনটি?",\frac{5}{9},\frac{9}{5},\frac{3}{11},\frac{11}{3},\frac{5}{9},\frac{9}{5},\frac{3}{11},\frac{11}{3},c
+"If m^{2} - 6m - 1 = 0, then m^{2} + \frac{1}{m^{2}} = what?","m^{2} - 6m - 1 = 0 হলে, m^{2} + \frac{1}{m^{2}} = কত?",32,34,36,38,32,34,36,38,d
+"The radius of a right circular cylinder is 4 cm and the height is 6 cm.
+ What is the area of the curved surface of the cylinder?(\pi = 3.14)",একটি সমবৃত্তভূমিক বেলনের ব্যাসার্ধ 4 সে.মি. এবং উচ্চতা 6 সে.মি.। বেলনটির বস্তু পৃষ্রে কেষত্রফল কত? (\pi = 3.14),"75, 36sq.cm",150.72sq.cm,226.08sq.cm,301.44sq.cm,75.36 বর্গ সে.মি.,150.72 বর্গ সে.মি.,226.08 বর্গ সে.মি.,301.11 বর্গ সে.মি.,b
+"What is called the quadrilateral whose two pairs of adjacent sides
+ are equal?",যে চতুর্ভূজের দুটি জোড়া সন্নিহিত বাহু সমান তাকে কী বলে?,Rectangle,Square,Kite,Parallelogram,আয়ত,বর্গ,ঘুড়ি,সামান্তরিক,c
+"If the ratio of the sides of a triangle is x : x : x\sqrt{2}, What is the value of its greatest angle?","একটি ত্রিভুজের বাহুগুলোর অনুপাত x : x : x\sqrt{2} হলে, এর বৃহত্তম কোণটির মান কত?",80\degree,85\degree,90\degree,120\degree,80\degree,85\degree,90\degree,120\degree,c
+What is the sum of four angles of a quadrilateral?,চতুর্ভুজের চারটি কোণের সমষ্টি কত?,360\degree,300\degree,270\degree,180\degree,360\degree,300\degree,270\degree,180\degree,a
+The lengths of two parallel sides of a trapezium are 13 cm and 8 cm respectively.If its perpendicular distance btween two parallel sides is 4 cm.how many sq.cm will be the area of the trapezium?,একটি ট্রাপিজিয়ামের সমান্তরাল বাহু দুইটির দৈর্ঘ্য যথাক্রমে 13 সে.মি. এবং 8 সে.মি.। সমান্তরাল বাহুদ্বয়ের লম্ব দূরত্ব 4 সে.মি. হলে ট্রাপিজিয়ামটির ক্ষেত্রফল কত বর্গ?,42 sq.cm,52 sq.cm,84 sq.cm,104 sq.cm,42 বর্গ সে.মি.,52 বর্গ সে.মি.,84 বর্গ সে.মি.,101 বর্গ সে.মি.,a
+"What is the 9th term of the pattern 0, 1, 1, 2, 3, 5, 8, 13 ?","0, 1, 1, 2, 3, ...... প্যাটার্নটির 9ম পদ কত?",8,13,21,34,8,13,21,34,c
+What is the sum of consecutive even numbers from 1 to 15 ?,1 থেকে 15 পর্যন্ত ক্রমিক স্বাভাবিক জোড় সংখ্যার সমষ্টি কত?,56,64,112,120,56,64,112,120,a
+"P = 3000, r = 6% and n = 5, then - 
+ i. I = 900
+ ii.C = 5900
+ iii.A = 3900
+ Which one is correct?","P = 3000, r = 6% এবং n = 5 হলে-
+ i. I = 900
+ ii. C = 5900
+ iii. A = 3900
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+2 pieces per TK. 1 are bought and 3 pieces per TK. 1 are sold. What will be the percentage of profit or loss?,টাকায় 2টি দরে ক্রয় করে 3টি দরে বিক্রয় করলে শতকরা কত লাভ বা ক্ষতি হবে?,Loss 33\frac{1}{3}%,Profit 33\frac{1}{3}%,Profit 50%,Lost 50%,33\frac{1}{3} ক্ষতি,33\frac{1}{3} লাভ,50% লাভ,50% ক্ষতি,a
+"If the rate of profit is 9% per annum, what will be the compound profit of TK.2, 000 in 3 years?",বার্ষিক 9% মুনাফায় 2000 টাকার 3 বছরের চক্রবৃদ্ধি মুনাফা কত?,TK.180,TK.540,TK.590.06,TK.2590.06,180 টাকা,540 টাকা,590.06 টাকা,2590.06 টাকা,c
+10 km = What mile?,10 কিলোমিটার = কত মাইল?,"0.621 mile 
+ (approximate)","6.211mile 
+ (approximate)","16.10 mile
+(approximate)","62.11 mile 
+ (approximate)",0.621 মাইল (প্রায়),6.211 মাইল (প্রায়),16.10 মাইল (প্রায়),62.11 মাইল (প্রায়),b
+If the breadth of a rectganguar room \frac{1}{3} time of length and perimeter is 48 m which one is the breadth?,"একটি আয়তাকার কক্ষেরে প্রস্থ দৈর্ঘ্যের এক-তৃতীয়াংশ এবং পরিসীমা 48 মিটার হলে, কক্ষটির প্রস্থ নিচের কোনটি?",6 m,12m,18m,24m,6 মিটার,12 মিটার,18 মিটার,24 মিটার,a
+The base of triangular region is 24m and height is 12m. What is the area of region?,"একটি ত্রিভুজাকৃতি জমির ভূমি 24 মিটার এবং উচ্চতা 12 মিটার হলে, এর ক্ষেত্রফল কত বর্গমিটার",72m^{2},144m^{2},288m^{2},576m^{2},72 বর্গ মিটার,144 বর্গ মিটার,288 ঘন মিটার,96 ঘন মিটার,b
+The edgs of cubic reservoir is 4m. What is the volume of reservoir?,একটি ঘনক আকৃতির চৌবাচ্চার এক বাহুর দৈর্ঘ্য 4 মিটার। চৌবাচ্চাটির আয়তন কত ঘন মিটার?,12m^{3},16m^{3},64m^{3},96m^{3},12 ঘন মিটার,16 ঘন মিটার,64 ঘন মিটার,96 ঘন মিটার,c
+What is magic number of magic square of order 5?,5 ক্রমের ম্যাজিক বর্গটির ম্যাজিক সংখ্যা কত?,25,26,65,130,25,26,65,130,c
+"x - y = 5 and xy = 6
+ 
+ Which one is the value of x^{3} - y^{3}?","x - y = 5 এবং xy = 6
+  
+ x^{3} - y^{3}? এর মান কত?",35,65,185,215,35,65,185,215,d
+"x - y = 5 and xy = 6
+ 
+ Which one is the value of x^{2} - y^{2}?","x - y = 5 এবং xy = 6
+ 
+ x^{2} - y^{2} এর মান কত?",37,35,25,5,37,35,25,5,b
+"If x + \frac{1}{x} = 2
+ i. x^{2} - 2x + 1 = 0
+ ii. x^{3} + \frac{1}{x^{3}} = 2
+ iii. x^{4} - \frac{1}{x^{4}} = 0
+ Which one is correct?","x + \frac{1}{x} = 2 হলে-
+  i. x^{2} - 2x + 1 = 0
+  ii. x^{3} + \frac{1}{x^{3}} = 2
+  iii. x^{4} - \frac{1}{x^{4}} = 0
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+"What is the HCF of 3x^{3}y^{3}z, 6xy^{3}z^{3} and 12x^{2}yz^{2}?","3x^{3}y^{3}z, 6xy^{3}z^{3} এবং 12x^{2}yz^{2} এর গ.সা.গু কত?",xyz,3xyz,3x^{3}y^{3}z^{3},12x^{3}y^{3}z^{3},xyz,3xyz,3x^{3}y^{3}z^{3},12x^{3}y^{3}z^{3},d
+Which one is the lowest form of \frac{x^{2} - x - 6}{x^{2} - 4}?,\frac{x^{2} - x - 6}{x^{2} - 4} এর লঘিষ্ঠ রূপ কোনটি?,\frac{x - 3}{x - 2},\frac{x + 3}{x + 2},\frac{x - 3}{x + 2},\frac{x + 3}{x - 2},\frac{x - 3}{x - 2},\frac{x + 3}{x + 2},\frac{x - 3}{x + 2},\frac{x + 3}{x - 2},a
+Which one is situated in the x-axis ?,নিচের কোন বিন্দুটি x-অক্ষের উপর অবস্থিত?,"( - 5, 5)","(3, - 3)","(0, 4)","(2, 0)","(- 5, 5)","(3, - 3)","(0, 4)","(2, 0)",d
+"A = {x \epsilon N : 1 \leq x < 7 and x is prime number}
+ B = {3, 4, 5} and C = {x \epsilon N : 6 < x \leq 12 and x is even number}
+ 
+ What is the number of subset of set C?","A = {x \epsilon N : 1 \leq x < 7 এবং x মৌলিক সংখ্যা}
+ B = {3, 4, 5} এবং C = {x \epsilon N : 6 < x \leq 12 এবং x জোড় সংখ্যা}
+ 
+ C সেটের উপসেট সংখ্যা কত?",32,16,8,6,32,16,8,6,c
+"A = {x \epsilon N : 1 \leq x < 7 and x is prime number}
+ B = {3, 4, 5} and C = {x \epsilon N : 6 < x \leq 12 and x is even number}
+ 
+ A \cap B = What?","A = {x \epsilon N : 1 \leq x < 7 এবং x মৌলিক সংখ্যা}
+ B = {3, 4, 5} এবং C = {x \epsilon N : 6 < x \leq 12 এবং x জোড় সংখ্যা}
+ 
+ A \cap B = কত?","{2, 3, 4, 5}","{3, 5}",{2},{4},"{2, 3, 4, 5}","{3, 5}",{2},{4},b
+Which point satisfies the equation 7x - 3y = 31?,কোন বিন্দুটি 7x - 3y = 31 সমীকরণকে সিদ্ধ করে?,"(3, - 3)","(4, - 1)","(4, 1)","(3, 3)","(3, - 3)","(4, - 1)",(4. 1),"(3, 3)",b
+What is called a parallelogram when one angle is 90\degree ?,সামান্তরিকের একটি কোণ 90\degree হলে তাকে কি বলা হয়?,Rectangle,Square,Rhombus,Trapezium,আয়ত,বর্গ,রম্বস,ট্রাপিজিয়াম,a
+From which three lengths it may possible to draw a right angled triangle?,কোন তিনটি বাহুর দৈর্ঘ্য দ্বারা সমকোণী ত্রিভুজ আঁকা সম্ভব?,"6cm, 8cm, 9cm","6cm, 7cm, 8cm","5cm, 11cm.12cm","5cm, 12cm, 13cmn","6 সে.মি., 8 সে.মি., 9 সে.মি.","6 সে.মি., 7 সে.মি., 8 সে.মি.","5 সে.মি., 11 সে.মি., 12 সে.মি.","5 সে.মি., 12 সে.মি., 13 সে.মি.",d
+What subtended angle at the centre of a circle is?,বৃত্তের কেন্দ্রে সৃষ্ট কোণের পরিমাণ কত ডিগ্রী?,0\degree,90\degree,180\degree,360\degree,0\degree,90\degree,180\degree,360\degree,d
+The highest and lowest values of a data are 95 and 70 respectively and class interval os 5.What is the number of classes?,"কোনো উপাাত্তের সর্বোচ্চ মান 95, সর্বনিম্ন মান 70 এবং শ্রেণি ব্যবধান 5 হলে, উপাত্তের শ্রেণি সংখ্যা কত?",10,7,6,5,10,7,6,5,c
+"what is median of the following numbers 28, 13, 23, 29, 16, 21?","28, 13, 23, 29, 16, 21 উপাত্তগুলোর মধ্যক কত?",22,23,26,29,22,23,26,29,a
+"What is the 6th term of the pattern 0, 1, 4, 9, 16, …..?","0, 1, 4, 9, 16, ... ... ... প্যাটার্নটির 6ষ্ঠ পদটি কত?",17,20,21,25,17,20,21,25,d
+779 is the 111th term of which algebraic expression?,779 সংখ্যাটি কোন বীজগণিতীয় রাশির 111 তম পদ?,7A - 2,7A + 2,555A + 224,777A + 2,7ক - 2,7ক + 2,5555ক + 224,777ক + 2,b
+How many ways the number 26 can be expressed as a sum of two distinct prime numbers?,26 সংখ্যাটিকে দুইটি ভিন্ন মৌলিক সংখ্যার সমষ্টিরূপে কতভাবে প্রকাশ করা যায়?,0,1,2,3,0,1,2,3,c
+"The profit - principal of some amount for 5 years in Tk.15, 000. The profit is \frac{1}{4} part of the principal.
+ 
+ What is the principal?","কোনো আসল 5 বছরে মুনাফা-আসলে 15,000 টাকায় হয়। মুনাফা-আসলের \frac{1}{4} অংশ।
+ 
+ মুনাফার হার কত?","Tk.1, 000","Tk.1, 200","Tk.10, 000","Tk.12, 000",3%,4%,5%,6%,c
+"The profit - principal of some amount for 5 years in Tk.15, 000. The profit is \frac{1}{4} part of the principal.
+ 
+ What is the rate of profit?","কোনো আসল 5 বছরে মুনাফা-আসলে 15,000 টাকায় হয়। মুনাফা-আসলের \frac{1}{4} অংশ।
+ 
+ মুনাফার হার কত?",3%,4%,5%,6%,3%,4%,5%,6%,c
+Present population of a district is 50 lac. The growth rate is 20 per thousand. What will be the population after 3 years of that district?,একটি জেলার বর্তমান জনসংখ্যা 50 লক্ষ। জনসংখ্যা বৃদ্ধির হার হাজারে 20 জন। 3 বছরে ঐ জেলার জনসংখ্যা কত হবে?,"51, 00, 000","53, 06, 040","55, 20, 434","60, 00, 000","51,00,000 জন","53,06,040 জন","55,20,434 জন","60,00,000 জন",b
+"If a^{2} - 3a - 1 = 0, then a^{2} + \frac{1}{a^{2}} = ?","a^{2} - 3a - 1 = 0 হলে, a^{2} + \frac{1}{a^{2}} এর মান কত?",5,7,11,13,5,7,11,13,c
+"If x + y = 7 and xy = 12, then 2(x - y)^{2} = ?","x + y = 7 এবং xy = 12 হলে, 2(x - y)^{2} এর মান কত?",1,2,25,75,1,2,25,75,b
+What is the lowest form of the fraction \frac{a^{2} + 6a + 5}{a^{2} + 10a + 25}?,\frac{a^{2} + 6a + 5}{a^{2} + 10a + 25} এর লঘিষ্ঠ ভগ্নাংশ হবে কোনটি?,\frac{a + 1}{a + 5},\frac{a + 3}{a + 5},\frac{a - 1}{a - 5},\frac{a + 3}{a - 5},\frac{a + 1}{a + 5},\frac{a + 3}{a + 5},\frac{a - 1}{a - 5},\frac{a + 3}{a - 5},a
+Which one is the value of \left ( \frac{2x}{y} + \frac{1}{y} \right )?,\left ( \frac{2x}{y} + \frac{1}{y} \right ) এর মান কোনটি?,\frac{2x + y}{y},\frac{2x + 1}{y},\frac{2x + 1}{2y},\frac{2xy + 1}{y},\frac{2x + y}{y},\frac{2x + 1}{y},\frac{2x + 1}{2y},\frac{2xy + 1}{y},b
+"For the graph of the equation 3x - 2y = 6 - 
+ i. the point(2, 0) lies on the x - axis 
+ ii.the point (0, - 3) lies on the y - axis
+ iii. the point (2, - 3) lies on the graph of the equation
+ Which one is correct?","3x - 2y = 6 সমীকরণের লেখচিত্রের জন্য-
+ i. (2, 0) বিন্দুটি x অক্ষের উপর অবস্থিত
+ ii. (0, - 3) বিন্দুটি y অক্ষের উপর অবস্থিত
+ iii. (2, - 3) বিন্দুটি সমীকরণটির লেখচিত্রের উপর অবস্থিত
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+Which one is the roaster representation of the set{x:x is a prime factor of 20}?,{x : x হল 20 এর মৌলিক উৎপাদক} সেটটির রোস্টার পদ্ধতির প্রকাশ কোনটি?,"{1, 2, 4, 5, }","{1, 2, 4}","{2, 4, 5}","{2, 5}","{1, 2, 4, 5}","{1, 2, 4}","{2, 4, 5}","{2, 5}",d
+"What is the mean of the number 8, 12, 16, 17, 20 ?","18, 25, 10, 14, 12, 19 সংখ্যাগুলোর মধ্যক কত?",10.5,12.5,13.6,14.6,10.5,12.5,13.6,14.6,d
+"What is the median of the number, 18, 25, 10, 14, 12 and19?","8, 12, 16, 17, 20 সংখ্যাগুলোর গড় কত?",11.5,14.5,16,18,11.5,14.5,16,18,c
+What is the sum of diagonal of magie square of order 4?,4 ক্রমের ম্যাজিক বর্গের কোণাকুণি যোগফল কত?,15,16,34,65,15,16,34,65,c
+"For algebraic expression (A_{2} - 1) - 
+ i. 1st term is zero
+ ii. The sum of first 4 number is 26
+ iii. The differenc of consecutive two terms is 5
+ which one is correct?","(ক_{2} - 1) বীজগাণিতিক রাশির- 
+ i. প্রথম পদ শূন্য
+ ii. প্রথম চারটি পদের সমষ্টি 26
+ iii. পাশাপাশি দুটি পদের পার্থক্য 5
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Some principal will be double in profit - principal in 5 years.What is the percentage of profit per annum?,কোনো আসল 5 বছরে মুনাফা-আসলে দ্বিগুণ হলে মুনাফার হার কত?,85,10%,20%,30%,8%,10%,20%,30%,c
+"Mizan takes a loan TK. 10, 000 at the rate 8% and after 'X' years he paid TK. 12, 400. 
+ 
+ What is the profit?","মিজান 8% মুনাফায় 10,000 টাকা ঋণ নিয়ে x বছর পর 12,400 টাকা পরিশোধ করে।
+ 
+ তার মুনাফা কত?","TK.2, 400","TK.10, 000","TK, 10, 400","TK.12, 400","2,400 টাকা","10,000 টাকা","10,400 টাকা","12,400 টাকা",a
+"Mizan takes a loan TK. 10, 000 at the rate 8% and after 'X' years he paid TK. 12, 400.
+ 
+ What is the value of 'x'?","মিজান 8% মুনাফায় 10,000 টাকা ঋণ নিয়ে x বছর পর 12,400 টাকা পরিশোধ করে।
+ 
+ x এর মান কত?",2 years,3 years,5 years,6 years,2 বছর,3 বছর,5 বছর,6 বছর,b
+The selling price is TK. 480 at the profit of 20% .What is the cost price?,20% লাভে বিক্রয়মূল্য 480 টাকা হলে ক্রয়মূল্য কত?,TK.100,TK.120,TK.400,TK.460,100 টাকা,120 টাকা,400 টাকা,460 টাকা,c
+What is the compound profit of TK.500 in 2 years if the rate of profit is TK.5% per snnum?,5% হার মুনাফায় 500 টাকার 2 বছরের চক্রবৃদ্ধি মুনাফা কত?,TK.512.5,TK.51.25,TK.50.75,TK.50.25,512.5 টাকা,51.25 টাকা,50.75 টাকা,50.25 টাকা,b
+How many mile is equal to one kilometer?,1 কি.মি. = কত মাইল?,62 mile,61.1 mile,1.61 mile,0.62 mile,62 মাইল,61.1 মাইল,1.61 মাইল,0.62 মাইল,d
+What is the volume of a cube having the sides 3cm each?,3 সে.মি বাহুবিশিষ্ট ঘনকের আয়তন কত ঘন সে.মি.?,27cc,18cc,9cc,6cc,27 ঘন সে.মি.,18 ঘন সে.মি.,9 ঘন সে.মি.,6 ঘন সে.মি.,a
+"If the length of a reservoir is 3 metres, the breadth is 2 metres and height is 1 metres.How many liters of water are there in the reservoir?","একটি চৌবাচ্চার দৈর্ঘ্য 3 মি., প্রস্থ 2 মি., উচ্চতা 1 মিটার হলে চৌবাচ্চাটিতে কত লিটার পানি ধরে?",6 Litres,60 Litres,600 Litres,6000 Litres,6 লি.,60 লি.,600 লি.,6000 লি.,d
+In Greek language hecto means -,গ্রিক ভাষায় হেক্টো অর্থ-,100 times,10 times,one tenth,one hundredth,100 গুণ,10 গুণ,দশমাংশ,শতাংশ,a
+"If x - \frac{1}{x} = 5, which one is the value of \left ( s + \frac{1}{x} \right )?","x - \frac{1}{x} = 5 হলে, \left ( s + \frac{1}{x} \right ) এর মান নিচের কোনটি?",\sqrt{21},\sqrt{23},\sqrt{27},\sqrt{29},\sqrt{21},\sqrt{23},\sqrt{27},\sqrt{29},d
+"If 4x - 3 = 5, what is the value of 64x^{3} - 27 - 180x?","4x - 3 = 5 হলে, 64x^{3} - 27 - 180x = কত?",25,125,140,305,25,125,140,305,b
+Which one is the factor of a^{2} - 2ab + 2b - 1?,a^{2} - 2ab + 2b - 1 এর একটি উৎপাদক-,(a + 1),(a - 1),(a - 2b),(a + 2b),(a + 1),(a - 1),(a - 2b),(a + 2b),b
+"For the two expressions of x^{3} - 8 and x^{2} + 2x + 4 - 
+ i. the H.C.F is x^{2} + 2x + 4
+ ii. The L.C.M is x^{3} - 8 
+ iii. the product is (x - 2) (x^{2} + 2x + 4)^{2}
+ which one is correct?","x^{3} - 8 এবং x^{2} + 2x + 4 রাশি দুইটির-
+ i. গ.সা.গু x^{2} + 2x + 4
+ ii. ল.সা.গু x^{3} - 8 
+ iii. গুণফল (x - 2) (x^{2} + 2x + 4)^{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+\frac{a}{a - 5} - \frac{a^{2}}{a^{2} - 25} = What?,\frac{a}{a - 5} - \frac{a^{2}}{a^{2} - 25} = কত?,\frac{5a}{a - 5},\frac{2a^{2} - 5}{a^{2} - 25},\frac{2a^{2} - 5}{a^{2} + 25},\frac{5a}{a^{2} - 25},\frac{5a}{a - 5},\frac{2a^{2} - 5}{a^{2} - 25},\frac{2a^{2} - 5}{a^{2} + 25},\frac{5a}{a^{2} - 25},d
+"Which equation is satisfied by the point (3, 2)?","(3, 2) বিন্দুটি নিচের কোন সমীকরণকে সিদ্ধ করে?",x - y = 0,2x - 3y = 0,x = \frac{1}{y},2x + 3y = 5,x - y = 0,2x - 3y = 0,x = \frac{1}{y},2x + 3y = 5,b
+The sum and the difference of the numerator and the denominator of a proper fraction are 12 and 2. what is the denominater of the fraction?,একটি প্রকৃত ভগ্নাংশের লব ও হরের যোগফল 12 এবং বিয়োগফল 2 । ভগ্নাংশটির হর কত?,3,5,7,9,3,5,7,9,c
+"x + 2y = 1, x - y = 7
+ 
+ What is the abscissa of the system of equation?","x + 2y = 1, x - y = 7
+ 
+ সমীকরণ জোটের ভুজ নিচের কোনটি?",5,2,-2,-5,5,2,-2,-5,a
+"x + 2y = 1, x - y = 7
+ 
+ In which quadrant does the root of the equation exist?","x + 2y = 1, x - y = 7
+ 
+ সমীকরণ জোটের মূল কোন চতুর্ভাগে অবস্থিত?",First,Second,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,d
+If A = {x \epsilon N : x is prime number and x ≤ 11}. How many elements are there in set A?,"A = {x \epsilon N : x মৌলিক সংখ্যা, x ≤ 11 হলে A সেটটির উপাদান কয়টি?",4,5,6,7,4,5,6,7,b
+"A{3, 5, 7, 9}, B = {x \epsiolon N: x is miltiple of 3}. Whate is the value of (A - B)?","A{3, 5, 7, 9}, B = {x \epsilon N: x, 3 এর গুণিতক} হলে, (A - B) এর মান কোনটি?","{5, 7}","{5, 9}","{7, 9}","{3, 9}","{5, 7}","{5, 9}","{7, 9}","{3, 9}",a
+"In a Rhombus - 
+ i. the diagonls are equal
+ ii. Opposite angles are equal
+ iii. The diagonals bisect each other at right angles
+ which one is correct?","রম্বসের-
+ i. কর্ণদ্বয় পরস্পর সমান
+ ii. বিপরীত কোণদ্বয় সমান
+ iii. কর্ণদ্বয় পরস্পরকে সমকোণে সমদ্বিখণ্ডিত করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+The distance between the parallel sides of a trapeziom is 5cm and its area is 40sq.cm. What is the sum of length of the two parallel sides?,একটি ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয়ের মধ্যবর্তী দূরত্ব 5 cm এবং ক্ষেত্রফল 40 বর্গ সে.মি. এর সমান্তরাল বাহুদ্বয়ের সমষ্টি কত?,8cm,13cm,16cm,21cm,8 সে.মি.,13 সে.মি.,16 সে.মি.,21 সে.মি.,c
+"The diameter of a circle is 12cm.What is the circumference of the circle? (use \pi = 3, 14)","12 সে.মি. ব্যাসের বৃত্তের পরিধি কত? (\pi = 3, 14)",18.84cm,37.68cm,113.76cm,452.16cm,18.84cm,37.68cm,113.76cm,452.16cm,b
+"if in \Delta PQR, \angle{R} = 90\degree then - 
+ i. the hypotenuse is PQ
+ ii. The area is \frac{1}{2} PR \times QR 
+ iii. PR^{2} = PQ^{2} - QR^{2}
+ which one is correct?","\Delta PQR এ \angle{R} = 90\degree হলে- 
+ i. অতিভুজ PQ
+ ii. ক্ষেত্রফল = \frac{1}{2} PR \times QR 
+ iii. PR^{2} = PQ^{2} - QR^{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"25, 15, 19, 23, 30, 12, 27, 35, 17, 21
+ 
+ What is the median of the numbers?","25, 15, 19, 23, 30, 12, 27, 35, 17, 21
+ 
+ সংখ্যাগুলোর মধ্যক কত?",22,23,26,30,22,23,26,30,a
+"25, 15, 19, 23, 30, 12, 27, 35, 17, 21
+ 
+ What is range of the data?","25, 15, 19, 23, 30, 12, 27, 35, 17, 21
+ 
+ উপাত্তগুলোর পরিসর কত?",12,13,23,24,12,13,23,24,d
+What is the sum of the first six odd numbers?,প্রথম 6টি বিজোড় স্বাভাবিক সংখ্যার যোগফল কত?,42,36,30,25,42,36,30,25,b
+Which one of the following is a pattern of Fibonacci number?,নিচের কোনটি ফিবোনাক্কি সংখ্যার প্যাটার্ন?,"0, 2, 2, 4, 6","0, 1, 1, 3, 5","0, 1, 1, 2, 5","0, 1, 2, 3, 4","0, 2, 2, 4, 6","0, 1, 1, 3, 5","0, 1, 1, 2, 4","0, 1, 2, 3, 4",a
+"For the natural number - 
+ i. 37 is the 7th term of the pattem (5a + 2)
+ ii. 28 is the 5th term of 8, 13, 18…….
+ iii.80 is the 10th term of a2 - 1
+ Which on is correct?","স্বাভাবিক সংখ্যার ক্ষেত্রে-
+ i. 5ক + 2 রাশিটির 7ম পদ 37
+ ii. 8, 13, 18, ... ... এর 5ম 28
+ iii. ক^{2} - 1 এর 10ম পদ 80
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"What is the simple profit of TK. 3, 000 in 2 years at the rate of simple profit of 6% per annum?",বার্ষিক 6% মুনাফায় 6000 টাকার 1 বছরের সরল মুনাফা কত?,TK.36,TK.90,TK.180,TK.360,36 টাকা,90 টাকা,180 টাকা,360 টাকা,d
+Which one of the following is 3% of TK. 350?,350 টাকার 3% সমান নিচের কোনটি?,TK.1.05,TK.10.50,TK.35,TK.105,1.05 টাকা,10.50 টাকা,35 টাকা,105 টাকা,b
+"What is the compound profit of TK.8, 000 at the profit of 12% per annum in 2 years?",বার্ষিক 12% মুনাফায় 8000 টাকার 2 বছরের চক্রবৃদ্ধি মুনাফা কত?,TK.1920,TK.2035.20,TK.9920,TK.10035.20,1920 টাকা,2035.20 টাকা,9920 টাকা,10035.20 টাকা,b
+What will be the area of a circle of diameter 6 cm?,6 সে.মি. ব্যাসবিশিষ্ট বৃত্তের ক্ষেত্রফল কত?,6\pi sq.cm,9\pi sq.cm,12\pi sq.cm,36\pi sq.cm,6\pi বর্গ সে.মি.,9\pi বর্গ সে.মি.,12\pi বর্গ সে.মি.,36\pi বর্গ সে.মি.,b
+"The area of square garden of 225 sq. metre.
+ 
+ What is the perimeter of the garden?","একটি বর্গাকার বাগানের ক্ষেত্রফল 225 বর্গমিটার।
+ বাগানটির পরিসীমা কত?",15 metres,30 metres,45 metres,60 metres,15 মিটার,30 মিটার,45 মিটার,60 মিটার,d
+"The area of square garden of 225 sq. metre.
+ 
+ What is the diagonal of the garden?","একটি বর্গাকার বাগানের ক্ষেত্রফল 225 বর্গমিটার।
+ বাগানটির কর্ণের দৈর্ঘ্য কত?",21.21 metres,25.98 metres,30 metres,45 metres,21.21 মিটার,25.98 মিটার,30 মিটার,45 মিটার,a
+"If a + b = 5 and a - b = 2, What is the value of a^{2} + b^{2}?",a + b = 5 এবং a - b = 2 হলে a^{2} + b^{2} এর মান কত?,\frac{21}{2},\frac{29}{2},21,29,\frac{21}{2},\frac{29}{2},21,29,b
+"If x^{2} - 4x - 1 = 0, When x \neq 0, What is the value of \left ( x - \frac{1}{x} \right )^{2}?","x^{2} - 4x - 1 = 0 হলে \left ( x - \frac{1}{x} \right )^{2} এর মান কত? যখন, x \neq 0",-4,-1,4,16,-4,-1,4,16,d
+Which one of the following is equal to 10 hectres?,10 হেক্টর সমান নিচের কোনটি?,2.47 acres,24.7 acres,247 acres,2470 acres,2.47 একর,24.7 একর,247 একর,2470 একর,b
+What is the cube of \sqrt{2}?,\sqrt{2} এর ঘন কত?,2^{\frac{1}{3}},2\sqrt{2},3\sqrt{2},8,2^{\frac{1}{3}},2\sqrt{2},3\sqrt{2},8,b
+"x + 1, x^{2} - 1 and x^{3} - 1 are three algebraic expressions. What is the HCF of the three expression?","x + 1, x^{2} - 1 এবং x^{3} - 1 বীজগণিতীয় রাশিগুলোর গ.সা.গু কোনটি?",x - 1,x + 1,(x + 1)(x3 - 1),1,x - 1,x + 1,(x + 1)(x^{3} - 1),1,d
+Which one of the following is the value of \frac{a^{2} + 2a + 1}{a^{2} - 2a + 1} \div \frac{a + 1}{a - 1}?,\frac{a^{2} + 2a + 1}{a^{2} - 2a + 1} \div \frac{a + 1}{a - 1} এর মান নিচের কোনটি?,\frac{a + 1}{a^{2} - 1},\frac{a^{2} - 1}{a + 1},\frac{a - 1}{a + 1},\frac{a + 1}{a - 1},\frac{a + 1}{a^{2} - 1},\frac{a^{2} - 1}{a + 1},\frac{a - 1}{a + 1},\frac{a + 1}{a - 1},d
+"In which quadrant the point ( - 1, 2) will be?","(- 1, 2) বিন্দুটি কোন চতুর্ভাগে অবস্থিত?",First,Second,Third,Fourth,1ম,2য়,3য়,4র্থ,b
+"What is the number of subsets of the set B = {a, b, c, d}","B = {a, b, c, d} হলে B এর উপসেট কয়টি?",4,8,15,16,4,8,15,16,d
+If 3x + 5y = 10 and x - 2y = 3 which one of the following will be value of \frac{x}{y}?,3x + 5y = 10 এবং x - 2y = 3 হলে \frac{x}{y} এর মান কত?,\frac{1}{70},\frac{1}{35},35,70,\frac{1}{70},\frac{1}{35},35,70,c
+Th present age of father and son are 70 yeare and 40 years respectively .What was the ratio of their age befor 10 years?,পিতা ও পুত্রের বর্তমান বয়স যথাক্রমে 70 বছর ও 40 বছর। 10 বছর পূর্বে পিতা ও পুত্রের বয়সের অনুপাত কত হবে?,5 : 8,2 : 1,8 : 5,1 : 2,5 : 8,2 : 1,8 : 5,1 : 2,b
+How many degree is found in the centre of pie-chart?,বৃত্তেলেখের কেন্দ্রে কত ডিগ্রি কোণ উৎপন্ন হয়?,90\degree,180\degree,270\degree,360\degree,90\degree,180\degree,270\degree,360\degree,d
+"What is the mode of the numbers : 8, 7, 9, 8, 7, 9, 6, 7, 8, 6, 7, 8, 9, 8?","8, 7, 9, 8, 7, 9, 6, 7, 8, 6, 7, 8, 9, 8 সংখ্যাগুলোর প্রচুরক কত?",6,7,8,9,6,7,8,9,c
+Which one of the following expression is the factors of x^{2} - x - 6?,x^{2} - x - 6 এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?,(x + 3)(x - 2),(x - 6) (x + 1),(x + 6)(x - 1),(x - 3)(x + 2),(x + 3) (x - 2),(x - 6) (x + 1),(x + 6) (x - 1),(x - 3) (x + 2),d
+If x + \frac{1}{x} = \sqrt{6} then \left ( x - \frac{1}{x} \right )^{2} = ?,"x + \frac{1}{x} = \sqrt{6} হলে, \left ( x - \frac{1}{x} \right )^{2} এর মান কোনটি?",2,4,32,40,2,4,32,40,a
+If x + y = 3 and x - y = - 1 then which is the value of xy?,x + y = 3 এবং x - y = - 1 হলে xy এর মান কত?,-1,-2,2,4,-1,-2,2,4,c
+"U = {1, 2, 3, 4, 5, 6}, A = {1, 3, 4, 5}
+ B = {2, 4, 6}
+ (A \cap B)' = ?","A = {1, 2}, B = {2, 3}, C = {1, 5, 6} হলে, C \cap (A \cup B) = ?","{1, 2, 3, 5, 6}",{4},"{1, 2, 3, 4, 5, 6}",\varnothing,{1},"{1, 2, 3, 5, 6}","{1, 2, 3}",{ },a
+\frac{1 - x^{2}}{b + b^{2}} \times \frac{1 - b^{2}}{1 + x} = ?,\frac{1 - x^{2}}{b + b^{2}} \times \frac{1 - b^{2}}{1 + x} = কত?,\frac{(1 + x) (1 - b)}{b},\frac{(1 - x) (1 + b)}{b},\frac{(1 - x) (1 - b)}{b},\frac{(1 + x) (1 + b)}{b},\frac{(1 + x) (1 - b)}{b},\frac{(1 - x) (1 + b)}{b},\frac{(1 - x) (1 - b)}{b},\frac{(1 + x) (1 + b)}{b},c
+"In a class , 70% of the students like Bangla, 57% of the students like English and 50% of the students like both.How many students dislike both the subjects?","কোনো ক্লাসে 70% ছাত্র বাংলা পছন্দ করে, 57% ছাত্র ইংরেজি পছন্দ করে এবং 50% ছাত্র উভয় বিষয় পছন্দ করে। কতজন ছাত্র উভয় বিষয় পছন্দ করে না?",20%,23%,77%,177%,20%,23%,77%,177%,b
+"In which quadrant the point (2a, - 5)where a > 0 will be?","(2a, - 5), a > 0 বিন্দুটি কোন চতুর্ভাগে অবস্থিত?",First,Second,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,d
+Which one of the following denotes the equation for the straight line?,নিচের কোনটি সরলরেখার সমীকরণ নির্দেশ করে?,x^{2} + 2y + 5 = 0,x + 2y^{2} + 5 = 0,x + 2y + 5 = 0,x + \frac{1}{y} + 5 = 0,x^{2} + 2y + 5 = 0,x + 2y^{2} + 5 = 0,x + 2y + 5 = 0,x + \frac{1}{y} + 5 = 0,c
+"Which one will be the H.C.F. of 18x^{3}y^{2}, 27x^{2}y, 45xy^{3}?","18x^{3}y^{2}, 27x^{2}y, 45xy^{3} এর গ.সা.গু কোনটি?",9x^{2}y^{2},9xy^{2},9x^{2}y,9xy,9x^{2}y^{2},9xy^{2},9x^{2}y,9xy,d
+Which one is the factorized form of 2x^{2} + 7x - 4?,2x^{2} + 7x - 4 এর উৎপাদকে বিশ্লেষিত রূপ কোনটি?,(2x - 1) (x - 4),(2x + 1) (x - 4),(2x - 1) (x + 4),(2x + 1) (x + 4),(2x - 1) (x - 4),(2x + 1) (x - 4),(2x - 1) (x + 4),(2x + 1) (x + 4),c
+"35, 42, 42, 43, 42, 48, 55, 56, 55, 58, 52
+ 
+ What is the median of the number?","35, 42, 43, 42, 48, 55, 56, 55, 58, 52
+ 
+ সংখ্যাগুলোর গড় কত?",48,43,55,42,42,47,48,49,c
+"35, 42, 42, 43, 42, 48, 55, 56, 55, 58, 52
+ 
+ What is the arithmetic mean of the numbers?","35, 42, 43, 42, 48, 55, 56, 55, 58, 52
+ 
+ সংখ্যাগুলোর গড় কত?",42,47,48,49,42,47,48,49,c
+1 + 2 + 3 + …….. + 25 = ?,1 + 2 + 3 + ...... + 25 = কত?,300,325,625,650,300,325,625,650,b
+24% = ?,24% = কত?,\frac{6}{25},\frac{4}{25},\frac{12}{25},\frac{3}{25},\frac{6}{25},\frac{4}{25},\frac{12}{25},\frac{3}{25},a
+Which one of the following is the simple value of \left ( \frac{1}{2x} + \frac{1}{y} \right ) \div \left ( \frac{1}{y} - \frac{1}{2x} \right )?,\left ( \frac{1}{2x} + \frac{1}{y} \right ) \div \left ( \frac{1}{y} - \frac{1}{2x} \right ) এর সরল মান নিচের কোনটি?,\frac{(2x + y)^{2}}{4xy},\frac{4x^{2} - y^{2}}{4x^{2}y^{2}},\frac{2x + y}{2x - y},\frac{(2x + y)^{2}}{4x^{2}y^{2}},\frac{(2x + y)^{2}}{4xy},\frac{4x^{2} - y^{2}}{4x^{2}y^{2}},\frac{2x + y}{2x - y},\frac{(2x + y)^{2}}{4x^{2}y^{2}},c
+"If A = {1, 2}, B = {2, 3}, C = {1, 5, 6}, then C \cap (A \cup B) = ?","A = {1, 2}, B = {2, 3}, C = {1, 5, 6} হলে, C \cap (A \cup B) = ?",{1},"{1, 2, 3, 5, 6}","{1, 2, 3}",{ },{1},"{1, 2, 3, 5, 6}","{1, 2, 3}",{ },a
+"If a + \frac{1}{a} = 3
+ 
+ a^{3} + \frac{1}{a^{3}} = ?","a + \frac{1}{a} = 3 হলে
+  
+  a^{3} + \frac{1}{a^{3}} এর মান নিচের কোনটি?",18,36,24,0,18,36,24,0,a
+"\frac{x^{2} + 5x - 14}{x^{2} + 3x - 28}, Which one of the following is the lowest value of the fraction?",\frac{x^{2} + 5x - 14}{x^{2} + 3x - 28} এর লঘিষ্ঠ মান নিচের কোনটি?,\frac{x + 7}{x - 4},\frac{x - 2}{x + 7},\frac{x + 2}{x - 4},\frac{x - 2}{x - 4},\frac{x + 7}{x - 4},\frac{x - 2}{x + 7},\frac{x + 2}{x - 4},\frac{x - 2}{x - 4},d
+"If the length of a box is 4m, width is 3m 20cm and height is 2m 50cm. What is the volume of the box?","একটি বাক্সের দৈর্ঘ্য 4 মি., প্রস্থ 3 মি. 20 সে.মি. এবং উচ্চতা 2 মি. 50 সে.মি. হলে এর আয়থন নিচের কোনটি?","320, 000 Cubic cm","32, 00, 000 Cubic cm","320, 00, 000 cubic cm","320, 000, 000 cubic cm",320000 ঘ. সে.মি.,3200000 ঘ. সে.মি.,32000000 ঘ. সে.মি.,320000000 ঘ. সে.মি.,c
+"What is the simple prifit if Tk. 2,500 in 7 years at the rate of simple profit of 15%",বার্ষিক 15% সরল মুনাফা 2500 টাকার 7 বছরের মুনাফা কত টাকা?,105,175,375,2625,105,175,375,2625,d
+"AB and CD be two equal chords of a circle with the centre 'O' , If OM \perp AB, ON \perp CD then which one is correct?","O' কেন্দ্রবিশিষ্ট বৃত্তে AB ও CD বৃত্তের দুইটি সমান জ্যা। OM \perp AB, ON \perp CD হলে নিচের কোনটি সঠিক?",OM < ON,OM < ON,OM < ON,AM < ON,OM < ON,OM = ON,OM > ON,AM = ON,b
+The radius of a right circular cylinder is 5 cm and its height is 7 cm. What is the area of the whole surface of the cylinder?,"একটি সমবৃত্তভূমিক বেলনের ব্যাসার্ধ 5 সে.মি., উচ্চতা 7 সে.মি.। বেলনটির সমগ্র পৃষ্ঠের ক্ষেত্রফল কত?",25\pi,50\pi,70\pi,120\pi,25\pi,50\pi,70\pi,120\pi,d
+2 Bigha = ?,2 বিঘা = ?,1600 sq.yards,1337.8 sq. Metres,"3200 sq, yards",2672.8 sq.metres,1600 বর্গ গজ,1337.8 বর্গ গজ,3200 বর্গ গজ,2672.8 বর্গ গজ,c
+"If a + \frac{1}{a} = 2
+ i. a^{2} + \frac{1}{a^{2}} = 2
+ ii. a^{3} + \frac{1}{^{3}} = 2
+ iii. a^{4} + \frac{1}{a^{4}} = 5
+ Which one is correct?","a + \frac{1}{a} = 2 হলে-
+  i. a^{2} + \frac{1}{a^{2}} = 2
+  ii. a^{3} + \frac{1}{^{3}} = 2
+  iii. a^{4} + \frac{1}{a^{4}} = 5
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+The area of the square garden is 1600 sq. metres then what is the length of the diagonal?,বর্গাকার বাগানের ক্ষেত্রফল 1600 বর্গমিটার হলে এর একটি কর্ণের দৈর্ঘ্য কত?,40 metres,40\sqrt{2} metres,80 metres,80\sqrt{2} metres,40 মিটার,40\sqrt{2} মিটার,80 মিটার,80\sqrt{2} মিটার,b
+"0, 1, 1, 2, 3, 5, …….
+ i. These are Fibonacci numbers
+ ii. 7th term is 8
+ iii. The summation of the first eighth term is 33
+ Which one is correct?","0, 1, 1, 2, 3, 5, ......
+ i. এরা ফিবোনাক্কি সংখ্যা
+ ii. 7ম পদ 8
+ iii. প্রথম আটটি পদের সমষ্টি 33
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one of the algebraic expression of the pattern of odd natural number?,বিজোড় স্বাভাবিক সংখ্যার প্যাটার্নের বীজগাণিতিক রাশি নিচের কোনটি?,2a,3a + 1,2a - 1,3a,2ক,3ক + 1,2ক - 1,3ক,c
+"What type of number pattern 0, 1, 1, 2, 3, 5, 8, 13, ……..are?","0, 1, 1, 2, 3, 5, 8, 13, ... ... কোন ধরনের সংখ্যা প্যাটার্ন?",Consecutive,Fibonacci,Odd,Prime,ধারাবাহিক,ফিবোনাজি,বিজোড়,মৌলিক,b
+"If the rate of simple profit is 10% per annum, what will be the profit of TK.1, 200 in 4 years?","বার্ষিক 10% সরল মুনাফায় 1,200 টাকার 4 বছরের মুনাফা নিচের কোনটি?",TK. 1680,TK.480,TK. 120,TK.48,1680 টাকা,480 টাকা,120 টাকা,48 টাকা,b
+"Present population a town is 10 lac.The grawth rate of population of the town is 30 per thousand.
+ 
+ How many population of the town will increasw in one year?","কোনো শহরের বর্তমান জনসংখ্যা 10 লক্ষ। ঐ শহরের জনসংখ্যা বৃদ্ধির হার প্রতি হাজারে 30 জন।
+ 
+ এক বছরে ঐ শহরের জনসংখ্যা কত বৃদ্ধি পাবে?",3000,30000,1003000,1030000,3000 জন,30000 জন,1003000 জন,1030000 জন,b
+"Present population a town is 10 lac.The grawth rate of population of the town is 30 per thousand.
+ 
+ What will be the population of the town after 3 years?","কোনো শহরের বর্তমান জনসংখ্যা 10 লক্ষ। ঐ শহরের জনসংখ্যা বৃদ্ধির হার প্রতি হাজারে 30 জন।
+ 
+ 3 বছর পরে ঐ শহরের জনসংখ্যা কত হবে?","10, 90, 000","10, 92, 772","10, 92, 720","10, 92, 727",1090000 জন,1092772 জন,1092720 জন,1092727 জন,d
+"U = {1, 2, 3, 4}, A = {2, 3} and B = {3, 4). What is the value of ?","U = {1, 2, 3, 4}, A = {2, 3} ও B = {3, 4) হলে (A \cap B)' নিচের কোনটি?","{1, 2, 4, }","{1, 4}","{1, 2}",{1},"{1, 2, 4}","{1, 4}","{1, 2}",{1},a
+"If the length of the side of a square is 5 cm, then its-
+ i. Area = 25sq.cm.
+ ii. Length of a diagonal = 5\sqrt{2} cm
+ iii. Peremeter = 10 cm
+ Which one is correct?","একটি বর্গের বাহুর দৈর্ঘ্য 5 সে.মি. হলে-
+ i. ক্ষেত্রফল = 25 বর্গ সে.মি.
+ ii. একটি কর্ণের দৈর্ঘ্য = 5\sqrt{2} সে.মি.
+ iii. পরিসীমা = 10 সে.মি.
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"The length of a rectangular garden is one and half times its breadth. If breadth is 16 metres , what is its peremeter?","একটি আয়তাকার বাগানের দৈর্ঘ্য প্রস্থের দেড়গুণ। এর প্রস্থ 16 মিটার হলে, বাগানের পরিসীমা কত?",40m,64m,80m,96m,40 মিটার,64 মিটার,80 মিটার,96 মিটার,c
+"The area of a triangular land is 225 sq. merers.If the height is 25 metres , which one is the base?","একটি ত্রিভুজাকৃতি জমির ক্ষেত্রফল 225 বর্গমিটার। এর উচ্চতা 25 মিটার হলে, ভূমি কত?",9 m,18 m,25 m,36 m,9 মিটার,18 মিটার,25 মিটার,36 মিটার,b
+Which one of the following expressions is the factors of 2x^{2} - 7xy + 6y^{2}?,2x^{2} - 7xy + 6y^{2} এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?,(x - 2y) (2x - 3y),(x + 2y) (2x - 3y),(x - 2y) (2x + 3y),(x + 2y) (2x + 3y),(x - 2y) (2x - 3y),(x + 2y) (2x - 3y),(x - 2y) (2x + 3y),(x + 2y) (2x + 3y),a
+"5x^{3}yz^{2}, 15xy^{3}z and 20x^{4}y^{2}z^{3} are three algebraic expression, then - 
+ i. H.C.F = 10xyz
+ ii. L.C.M = 60x^{4}y^{3}z^{3}
+ iii. Product = 1,500 x^{8}y^{6}z^{6}
+ which one is correct?","এবং তিনটি বীজগাণিতিক রাশির-
+ i. গ.সা.গু = 10xyz
+ ii. ল.সা.গু = 60x^{4}y^{3}z^{3}
+ iii. গুণফল = 1,500 x^{8}y^{6}z^{6}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If x^{2} + \frac{1}{x^{2}} = 10, then what is the value of x + \frac{1}{x}?","x^{2} + \frac{1}{x^{2}} = 10 হলে, x + \frac{1}{x} এর মান কোনটি?",\sqrt{6},2\sqrt{2},2\sqrt{3},\sqrt{14},\sqrt{6},2\sqrt{2},2\sqrt{3},\sqrt{14},c
+"x + y = 5 and x - y = 3
+ 
+Which one is the value of x^{2} - y^{2}?","x + y = 5 এবং x - y = 3
+ 
+ x^{2} + y^{2} এর মান নিচের কোনটি?",2,8,9,15,1,4,8,17,d
+"x + y = 5 and x - y = 3
+ 
+Which one is the value of x^{2} + y^{2}?","x + y = 5 এবং x - y = 3
+ 
+ x^{2} + y^{2} এর মান নিচের কোনটি?",1,4,8,17,1,4,8,17,d
+"If x + \frac{1}{x} = 4, Which one is the value of x^{3} + \frac{1}{x^{3}}?","x + \frac{1}{x} = 4 হলে, x^{3} + \frac{1}{x^{3}} এর মান কত?",52,56,72,76,52,56,72,76,a
+Which one is the product of (x - 11) and (x + 5)?,(x - 11) এবং (x + 5) এর গুণফল নিচের কোনটি?,x^{2} - 6x + 55,x^{2} + 6x - 55,x^{2} + 6x + 55,x^{2} - 6x - 55,x^{2} - 6x + 55,x^{2} + 6x - 55,x^{2} + 6x + 55,x^{2} - 6x - 55,d
+Which one is the lowest form of \frac{x^{2} - x - 12}{x^{2} - 16}?,\frac{x^{2} - x - 12}{x^{2} - 16} এর লঘিষ্ঠ আকার নিচের কোনটি?,\frac{x + 3}{x - 4},\frac{x - 3}{x - 4},\frac{x - 3}{x + 4},\frac{x + 3}{x + 4},\frac{x + 3}{x - 4},\frac{x - 3}{x - 4},\frac{x - 3}{x + 4},\frac{x + 3}{x + 4},d
+"Where the point ( - 2, 0) is situated?","(- 2, 0) বিন্দুটি কোথায় অবস্থিত?",1st quadrant,2nd quadrant,On the x - axix,On the y - axis,1ম চতুর্ভাগে,2য় চতুর্ভাগে,x-অক্ষের উপর,y-অক্ষের উপর,c
+"If A = {5, 6, 7} and B = {4, 6, 7}, then - 
+ i. A \cap B = {6, 7}
+ ii. A \cup B = {4, 5, 6, 7}
+ iii. Number of subset of A is 6
+ which one is correct?","A = {5, 6, 7} এবং B = {4, 6, 7} হলে-
+ i. A \cap B = {6, 7}
+ ii. A \cup B = {4, 5, 6, 7}
+ iii. A উপসেট সংখ্যা 6টি
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+How many data are needed to construct a rhmbus ?,একটি রম্বস অঙ্কনের জন্য কয়টি উপাত্তের প্রয়োজন?,1,2,3,4,1টি,2টি,3টি,4টি,b
+How many edges of a rectangular solid?,একটি আয়তাকার ঘনবস্তুর ধার কয়টি?,12,8,6,4,12টি,8টি,6টি,4টিি,a
+What is the sum of four angles of a kite?,ঘুড়ির চার কোণের সমষ্টি কত?,120\degree,180\degree,270\degree,360\degree,120\degree,180\degree,270\degree,360\degree,d
+How many degree is found is found in the centre of pie-chart?,পাইচিত্রের কেন্দ্রে কত ডিগ্রি কোণ উৎপন্ন হয়?,90\degree,180\degree,270\degree,360\degree,90\degree,180\degree,270\degree,360\degree,d
+"What is the mode of the following number? 6, 10, 7, 10, 5, 13, 6, 11, 11, 13, 7, 7, 15, 14,","6, 10, 7, 10, 5, 13, 6, 11, 11, 13, 7, 7, 15, 14 সংখ্যাগুলোর প্রচুরক নিচের কোনটি?",6,7,10,11,6,7,10,11,b
+"What is the next number of the list 9, 16, 25, 36………?","9, 16, 25, 36, ... ... তালিকার পরবর্তী সংখ্যাটি কত?",41,45,47,49,41,45,47,49,d
+"If the algebraic expression of a pattern is a2 - 1, which one of the 
+ following is 4th term?","কোনো প্যাটার্নের বীজগণিতীয় রাশি ক - 1 হলে, 4র্থ পদ কোনটি?",7,15,17,24,7,15,17,24,b
+The cost price of something is 3 pieces at Tk. 1 and selling price is 2 pieces at Tk. 1.what will be the percentage of profit or loss?,টাকায় 3টি দরে ক্রয় করে 2টি দরে বিক্রয় করলে শতকরা কত লাভ বা ক্ষতি যাবে?,profit 50%,Loss 50%,Profit 33\frac{1}{3}%,Loss 33\frac{1}{3}%,লাভ 50%,ক্ষতি 50%,লাভ 33\frac{1}{3}%,ক্ষতি 33\frac{1}{3}%,a
+In how many years will the profit of Tk. 750 be Tk. 225 at the rate of 7.50% profit?,বার্ষিক 7.50% মুনাফায় কত বছরে 750 টাকার মুনাফা 225 টাকা হবে?,2 years,4 years,6 years,8 years,2 বছর,4 বছর,6 বছর,8 বছর,b
+"The simple rate of profit is 6% and principal is TK. 5, 000 - 
+ i. profit after 1 year is Tk.300
+ ii. After 3 yeare profit - principal is Tk.5, 900
+ iii. in 5 years profit will be \frac{3}{5} time of principal
+ which one is correct?","6% সরল মুনাফায় 5,000 টাকার-
+ i. 1 বছরের মুনাফা 300 টাকা
+ ii. 3 বছর পর মুনাফা-আসলে 5,900 টাকা হবে
+ iii. 5 বছরে মুনাফা, আসলের \frac{3}{5} গুণ হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"The length of rectangular park is 40 metres and its breadth is 30 metres. There is a 2.5 metres wide road around outside.
+ 
+ What is the area of the park?","একটি আয়তাকার পার্কের দৈর্ঘ্য 40 মিটার এবং প্রস্থ 30 মিটার। পার্কটির বাইরে চারদিকে 2.5 মিটার বিস্তৃত একটি রাস্তা আছে।
+ পার্কটির ক্ষেত্রফল কত?",1200 are,12 are,1.2 are,0.12 are,1200 একর,12 এয়র,1.2 এয়র,0.12 এয়র,b
+"The length of rectangular park is 40 metres and its breadth is 30 metres. There is a 2.5 metres wide road around outside.
+ 
+ What is the area of the road?","একটি আয়তাকার পার্কের দৈর্ঘ্য 40 মিটার এবং প্রস্থ 30 মিটার। পার্কটির বাইরে চারদিকে 2.5 মিটার বিস্তৃত একটি রাস্তা আছে।
+ রাস্তার ক্ষেত্রফল কত?",325 sq.m,375 sq.m,875 sq.m,1575sq.m,325 বর্গমিটার,375 বর্গমিটার,875 বর্গমিটার,1575 বর্গমিটার,b
+How many integers from 1 to 10 can be expressed as the sum of two square number?,1 থেকে 10 পর্যন্ত কতটি সংখ্যাকে দুটি বর্গের যোগফল হিসেবে প্রওকাশ করা যায়?,2,3,4,5,2,3,4,5,c
+How many square centimetres are there in 2 square inches?,2 বর্গ ইঞ্চি সমান কত বর্গ সেন্টিমিটার?,"0.16 sq.
+ centimetres","0.32 sq. 
+ cenrimetres","6.45 sq, 
+ centimetres","12.90 sq.
+ centimetres",0.16,0.32,6.45,12.9,d
+"If p + q = 7 and pq = 9, what is the value of p^{2} + q^{2}?","p + q = 7 এবং pq = 9 হলে, p^{2} + q^{2} এর মান কোনটি?",67,40,31,13,67,40,31,13,c
+Which one of the following expression is the factors of 2y^{2} + y - 10?,2y^{2} + y - 10এর উৎপাদকে বিশ্লেষণ নিচের কোনটি?,(2y - 5)(y + 2),(2y + 5)(y - 1),(2y + 5)(y - 2),(y + 5)(2y - 1),(2y - 5)(y + 2),(2y + 5)(y - 1),(2y + 5)(y - 2),(y + 5)(2y - 1),c
+"If m - \frac{1}{m} = 4, what is the value of \left ( m + \frac{1}{m} \right )?","m - \frac{1}{m} = 4 হলে, \left ( m + \frac{1}{m} \right ) এর মান কত?",20,18,14,12,20,18,14,12,a
+"If p^{3} - q^{3} = 45, p - q = 3, what is the value of pq?","p^{3} - q^{3} = 45, p - q = 3 হলে, pq = কত?",-2,2,4,6,-2,2,4,6,b
+"The following will be the equivalent fraction of \frac{m^{2} + 6m + 5}{m^{2} + 10m + 25} -
+ i. \frac{m + 1}{m + 5}
+ ii. \frac{m^{2} - 2m - 3}{m^{2} + 2m - 15}
+ Iii. \frac{m^{2} + 2m + 1}{m^{2} - 3m - 10}
+ which one is correct?","\frac{m^{2} + 6m + 5}{m^{2} + 10m + 25} এর সমতুল ভগ্নাংশ হবে-
+ i. \frac{m + 1}{m + 5}
+  ii. \frac{m^{2} - 2m - 3}{m^{2} + 2m - 15}
+  Iii. \frac{m^{2} + 2m + 1}{m^{2} - 3m - 10}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"What is the HCF of x^{3} - 2x^{2}, x^{2} - 4 and xy - 2y?","x^{3} - 2x^{2}, x^{2} - 4 এবং xy - 2y এর গ.সা.গু. কত?",1,x - 2,x^{2}y (x - 2),x^{2}y(x^{2} - 4),1,x - 2,x^{2}y (x - 2),x^{2}y(x^{2} - 4),b
+Which one of the following point lies on 7x - 3y = 5?,নিচের কোন বিন্দুটি 7x - 3y = 5 এর উপর অবস্থিত?,"(3, 2)","(2, 3)","( - 3, 2)","( - 2, 3)","(3, 2)","(2, 3)","(- 3, 2)","(- 2, 3)",b
+"In which quadrant ( - 3, 2) point will be?","(- 3, 2) বিন্দুটি কোন চতুর্ভাগে অবস্থিত?",First,Second,Third,Fourth,1ম,2য়,3য়,4র্থ,b
+"If 2x + 3y = 8, 3x - 2y = - 1 , which one of the following will be the value of (x, y)?","2x + 3y = 8, 3x - 2y = - 1 হলে (x, y) এর মান নিচের কোনটি?","( - 2, 4)","(3, 5)","(1, 2)","( - 3, - 4)","(-2, 4)","(3, 5)","(1, 2)","(-3, -4)",c
+"U = {a, b, c, p, q, r, s}
+ A = {b, c, q}, B = {a, p, r}
+ 
+ A \cap B = What?","U = {a, b, c, p, q, r, s}
+ A = {b, c, q}, B = {a, p, r}
+ A \cap B = কত?",{\varphi},{0},{ },0,{\varphi},{0},{ },0,c
+"U = {a, b, c, p, q, r, s}
+ A = {b, c, q}, B = {a, p, r}
+ 
+ A^{c} = what?","U = {a, b, c, p, q, r, s}
+ A = {b, c, q}, B = {a, p, r}
+ A^{c} = কত?","{a, p, r}","{b, c, q}","{a, c, q, r}","{a, p, r, s}","{a, p, r}","{b, c, q}","{a, c, q, r}","{a, p, r, s}",d
+"At the construction of geometric figure - 
+ i. a rhombus can be drawn if a side and an angle is given
+ ii. If two adjacent sides and their included angles are given, the parallelogram can be drawn
+ iii. If the diagonals of a quadrilateral bisect each other, it will be a parallelogram
+ which one is correct?","জ্যামিতিক চিত্র অঙ্কনের ক্ষেত্রে-
+ i. একটি বাহু এবং একটি কোণ দেওয়া থাকলে রম্বস আঁকা যায়
+ ii. দুটি সন্নিহিত বাহু এবং তাদের অন্তর্ভুক্ত কোণ দেওয়া থাকলে সামান্তরিক আঁকা যায়
+ iii. চতুর্ভুজের কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করলে তা একটি সামান্তরিক হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"The length of each of a square is 5 cm. What is the area of the
+square drawn on its diagonal?",একটি বর্গের প্রতি বাহুর দৈর্ঘ্য 5 সে.মি. হলে এর কর্ণের উপর অঙ্কিত বর্গের ক্ষেত্রফল কত বর্গ সে.মি.?,20 sq.cm,25 sq.cm,40 sq.cm,50 sq.cm,20 বর্গ সে.মি.,25 বর্গ সে.মি.,40 বর্গ সে.মি.,50 বর্গ সে.মি.,d
+If the diameter of a circle is 2 cm? What is the circumference of the circle?,একটি বৃত্তের ব্যাস 2 সে.মি. হলে তার পরিধি কত?,3.14 cm,6.28 cm,12.57 cm,25.13 cm,3.14 সে.মি.,6.28 সে.মি.,12.57 সে.মি.,25.13 সে.মি.,b
+"What is the median of the numbers 11, 23, 25, 15, 21, 12, 18, 17, 27, 22, 29, 17, 30, 16?","11, 23, 25, 15, 21, 12, 18, 17, 27, 11, 29. 19, 30, 16 সংখ্যাগুলোর মধ্যক কত?",18,18.5,20,205,18,18.5,20,20.5,c
+"If range is 57 and class interval is 10, what is number of classes?","পরিসর 57 এবং শ্রেণি ব্যবধান 10 হলে, শ্রেণি সংখ্যা কত হবে?",5,6,7,8,5,6,7,8,b
+"How many subsets are there in the set P = {a, b, c}?","P = {a, b, c} এর উপসেট কয়টি?",3,6,7,8,3,6,7,8,d

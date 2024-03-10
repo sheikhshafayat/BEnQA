@@ -1,0 +1,109 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,"The equilibrium constant for the reactions X + Y \rightleftharpoons Z and Z\rightleftharpoons X + Y are A and B
+respectively.Which one of the following is correct.",X+Y\rightleftharpoons z এর সাম্যধ্রুবক A এবং Z \rightleftharpoons X + Y এর সাম্যধ্রুবক B হলে কোন সমীকরণটি সঠিক?,B=1/A,B=1/\sqrt{A},B = A,B^{-1} = A,a,N,2021Rajshahi,1,B = 1/A,B = 1/\sqrt{A},B = A,B^{-1} = A,ক,a,N,2021Rajshahi,0.883143713,0,0,,"The equilibrium constant for the reactions between X and Y producing Z, and the reverse reaction between Z producing X and Y are represented by constants A and B respectively. Which of the following equations correctly relates B to A?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's analyze the given equilibrium reactions:
+
+1. Reaction X + Y ⇌ Z has an equilibrium constant A.
+2. Reaction Z ⇌ X + Y has an equilibrium constant B.
+
+Now, let's consider the relationship between the equilibrium constants:
+
+The equilibrium constant (K) for the reverse reaction is the reciprocal (inverse) of the equilibrium constant for the forward reaction. In mathematical terms:
+
+K_reverse = 1 / K_forward
+
+In this case, for the reverse reaction Z ⇌ X + Y, the equilibrium constant is B (K_reverse = B). For the forward reaction X + Y ⇌ Z, the equilibrium constant is A (K_forward = A).
+
+So, the correct relationship is:
+
+B = 1 / A
+
+Therefore, the correct option is {{""Answer"": ""a""}}.","প্রদত্ত সাম্য বিক্রিয়াগুলি বিশ্লেষণ করা যাক:
+
+1. বিক্রিয়া X + Y ⇌ Z এর সাথে সাম্য ধ্রুবক A আছে।
+2. বিক্রিয়া Z ⇌ X + Y এর সাথে সাম্য ধ্রুবক B আছে।
+
+এখন, সাম্য ধ্রুবকের মধ্যকার সম্পর্কটি বিবেচনা করা যাক:
+
+বিক্রিয়ার উলটারূপের জন্য সাম্য ধ্রুবক (K) বিক্রিয়ার সম্মুক্মুখী রূপের বিপরীত হয়। গণিতিক দৃষ্টিকোণে:
+
+K_reverse = 1 / K_forward
+
+এই ক্ষেত্রে, বিপরীতরূপ বিক্রিয়া Z ⇌ X + Y এর জন্য সাম্য ধ্রুবকটি B (K_reverse = B)। সামনের বিক্রিয়া X + Y ⇌ Z এর জন্য সাম্য ধ্রুবকটি A (K_forward = A)।
+
+তাই, সঠিক সম্পর্কটি হল:
+
+B = 1 / A
+
+অতএব, সঠিক উত্তর হল {{""Answer"": ""a""}}।"
+1,which one of the following will be easier for the production of vinegar?,কোনটি থেকে ভিনেগার প্রস্তুতি অপেক্ষাকৃত সহজ হবে?,potato,Date-juice,Ethanol,Glucose,c,N,2021Rajshahi,1,আলু,খেজুরের রস,ইথানল,গ্লুকোজ,গ,c,N,2021Rajshahi,0.908794441,0,0,,Which one of the following would be the easiest to use for vinegar production?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","For the production of vinegar, the primary fermentation process involves the conversion of ethanol (alcohol) into acetic acid by acetic acid bacteria. The process of making vinegar is known as acetification.
+
+Among the options provided:
+
+1. Potato: While potatoes can be a source of starch that can be converted into glucose and then fermented into ethanol, they are not commonly used as a primary source for vinegar production.
+
+2. Date-juice: Date juice, also known as date palm sap or toddy, is a traditional and popular source for vinegar production in some regions. It contains natural sugars that can be fermented into alcohol and then acetic acid.
+
+3. Ethanol: Ethanol, which is alcohol, is a direct precursor for vinegar production. It can be readily converted into vinegar using acetic acid bacteria. This is a common method for producing vinegar, especially for commercial purposes. Ethanol fermentation is a well-established and efficient process, making it a cost-effective choice for vinegar production, especially on a commercial scale.
+
+4. Glucose: Glucose is a type of sugar that can be directly fermented into ethanol and subsequently converted into vinegar. It can be used as a source for vinegar production.
+
+Among the options, therefore, the best answer is {{""Answer"": ""c""}}","ভিনেগার উৎপাদনের জন্য, প্রাথমিক সম্পাদনা প্রক্রিয়াটি এসেটিক অ্যাসিড ব্যাকটেরিয়া দ্বারা ইথানল (এলকোহল) কে এসিটিক অ্যাসিডে রূপান্তর করা, এটিকে অ্যাসিটিফিকেশন প্রক্রিয়া হিসেবে জানা হয়।
+
+উল্লিখিত বিকল্পগুলির মধ্যে:
+
+1. আলু: আলু যেহেতু মূলত স্টার্চের উৎস হতে পারে, যা গ্লুকোজে রূপান্তরিত করা যেতে পারে এবং তারপরে ইথানলে পরিণত হতে পারে, ভিনেগার উৎপাদনের জন্য প্রাথমিক সংস্থান হিসেবে সাধারণভাবে ব্যবহার হয় না।
+
+2. খেজুরের রস: খেজুরের রস, যা খেজুরের গাছের রস বা টড়ি হিসেবে পরিচিত, কিছু অঞ্চলে ভিনেগার উৎপাদনের জন্য প্রশংসিত একটি উৎস। এটি প্রাকৃতিক চিনি সম্মিলিত করে যা এলকোহলে রূপান্তরিত হতে পারে এবং তারপরে এসিটিক অ্যাসিডে।
+
+3. ইথানল: ইথানল, যা এলকোহল, ভিনেগার উৎপাদনের জন্য নিকটচিন্তিত পূর্বরূপ। এটি ব্যাকটেরিয়া ব্যবহার করে ভিনেগারে সরাসরি পরিণত করা যেতে পারে। এটি ভিনেগার উৎপাদনের জন্য একটি সাধারণ প্রক্রিয়া, স্পেশালি বাণিজ্যিক উদ্দেশ্যে ভিনেগার উৎপাদনে একটি মানুষ স্কেলে এটি একটি যোগ্য বেছে নেওয়ার একটি প্রযুক্তি হিসেবে প্রযুক্তিকর একটি প্রক্রিয়া।  ইথানল ফার্মেন্টেশন একটি পূর্ণ স্থিতিশীল এবং দক্ষতাপূর্ণ প্রক্রিয়া যা এটি ভিনেগার উৎপাদনের জন্য একটি মূল্য-ক্রয়শীল পরিকল্পনা হিসেবে একটি প্রযুক্তিকর চয়ন তৈরি করে, স্পেশালি বাণিজ্যিক উদ্দেশ্যে ভিনেগার উৎপাদনে এটি ভিনেগার উৎপাদনের জন্য একটি যোগ্য চয়ন হিসেবে সাধারণ প্রযুক্তি, বেশি বেছে নেওয়ার একটি মূল্য-ক্রয়শীল পরিকল্পনা হিসেবে সাধারণ সাধারণ। ইথানল ফার্মেন্টেশন একটি পূর্ণ স্থিতিশীল এবং দক্ষতাপূর্ণ প্রক্রিয়া, স্পেশালি বাণিজ্যিক উদ্দেশ্যে ভিনেগার উৎপাদনে এটি একটি যোগ্য চয়ন তৈরি করে, স্পেশালি বাণিজ্যিক উদ্দেশ্যে ভিনেগার উৎপাদনে।
+
+4. গ্লুকোজ: গ্লুকোজ হলো একটি প্রকারের চিনি যা সরাসরি ইথানলে ফার্মেন্ট হতে পারে এবং পরবর্তীতে ভিনেগারে পরিণত হতে পারে। এটি ভিনেগার উৎপাদনের একটি উৎস হিসেবে ব্যবহার করা যেতে পারে।
+
+উপরোক্ত বিকল্পগুলির মধ্যে, অতএব, সেরা উত্তর হল {{""Answer"": ""c""}}"
+2,"Vinegar-
+i. Kills bacteria
+ii.can form hydrogen band
+iii.is strong acid
+Which one is correct?","ভিনেগার-
+ i. ব্যাকটেরিয়া ধ্বংস করে
+ ii. হেইড্রোজেন বন্ধন গঠন করতে পারে
+ iii. তীব্র অম্ল
+ নিচের কোনটি সঠিক?",i,iii,i&ii,"i.ii,&iii",c,N,2021Rajshahi,1,i,iii,i ও ii,"i, ii ও iii",গ,c,N,2021Rajshahi,0.938500767,0,0,,"Which of the following is correct about vinegar?
+i. Vinegar kills bacteria.
+ii. Vinegar can form a hydrogen bond.
+iii. Vinegar is a strong acid.",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Among the given statements:
+
+i. Kills bacteria: This statement is correct. Vinegar, specifically acetic acid, has antimicrobial properties and can inhibit the growth of certain bacteria. It is often used as a food preservative for this reason.
+
+ii. Can form hydrogen bonds: This statement is correct. Vinegar contains acetic acid, which is a molecule that can form hydrogen bonds due to the presence of hydrogen and oxygen atoms with polar covalent bonds.
+
+iii. Is a strong acid: This statement is not entirely correct. While vinegar contains acetic acid, it is not considered a strong acid. Acetic acid is a weak acid, meaning it does not completely ionize in water and has a relatively low concentration of hydrogen ions (H+).
+
+So, the correct option is {{""Answer"": ""c""}}.","
+দেওয়া বিবৃতিগুলির মধ্যে:
+
+i. ব্যাকটেরিয়া মারে: এই বিবৃতি সঠিক। সিরক, বিশেষভাবে এসিটিক অ্যাসিড, এন্টিমাইক্রোবিয়াল গুণ আছে এবং কিছু ব্যাকটেরিয়ার বৃদ্ধি রোধ করতে পারে। এটি এই কারণে সাধারণভাবে খাবার সংরক্ষণের জন্য ব্যবহৃত হয়।
+
+ii. হাইড্রোজেন বন্ধন তৈরি করতে পারে: এই বিবৃতি সঠিক। সিরক এসিটিক অ্যাসিড সম্মিলিত করে যা একটি অণু, যা পোলার কোভালেন্ট বন্ধন সহ হাইড্রোজেন এবং অক্সিজেন এটুকুবন্ধনের উপস্থিতি দেওয়া কারণে হাইড্রোজেন বন্ধন তৈরি করতে পারে।
+
+iii. একটি শক্ত অ্যাসিড: এই বিবৃতি সম্পূর্ণ সঠিক নয়। যদিও সিরকে এসিটিক অ্যাসিড আছে, তা শক্ত অ্যাসিড হিসেবে গণ্য করা হয় না। এসিটিক অ্যাসিড একটি শক্ত অ্যাসিড হলেও, এটি জলে সম্পূর্ণভাবে আয়নন হয় না এবং হাইড্রোজেন আয়নের (H+) প্রায় নিচু অবস্থান রাখে।
+
+সুতরাং, সঠিক বিকল্পটি হলো {{""Answer"": ""c""}}।"
+3,Which compound has highest melting point?,নিচের কোন যৌগটির গলনাঙ্ক সবচেয়ে বেশি?,Cal_{2},CaBr_{2},CaCI_{2},CaF_{2},d,N,2021Rajshahi,1,CaI_{2},CaBr_{2},CaCl_{2},CaF_{2},ঘ,d,N,2021Rajshahi,0.938305126,0,0,,Which compound has the highest melting point?,Reasoning,"{""Answer"": ""Reasoning""}","Among the given compounds, calcium fluoride (CaF2) has the highest melting point.
+
+Calcium fluoride (CaF2) has a melting point of approximately 1,419 degrees Celsius (2,586 degrees Fahrenheit). This high melting point is due to the strong ionic bonds between calcium (Ca2+) and fluoride (F-) ions in the crystal lattice structure of the compound.
+
+The other compounds, such as calcium chloride (CaCl2), calcium bromide (CaBr2), and calcium iodide (CaI2), have lower melting points compared to calcium fluoride. All share the same cation and the anions belong the same periodic table group. Therefore, as the anion size gets shorter, the stronger the ionic bond, thus higher melting point.
+
+So, the correct answer is {{""Answer"": ""d""}}","দেওয়া সমস্ত যৌগগুলির মধ্যে, ক্যালসিয়াম ফ্লোরাইড (CaF2) সবচেয়ে বেশি গলনাঙ্ক রয়েছে।
+
+ক্যালসিয়াম ফ্লোরাইড (CaF2) একটি প্রায় 1,419 ডিগ্রি সেলসিয়াস (2,586 ডিগ্রি ফারেনহাইট) গুলোয় গলনাঙ্ক রয়েছে। এই উচ্চ গলনাঙ্কের মূল কারণ হলো এই যৌগের ক্রিস্টাল ল্যাটিস গুচ্ছে ক্যালসিয়াম (Ca2+) এবং ফ্লোরাইড (F-) আয়নের মধ্যে শক্তিশালী আয়নিক বন্ধনের জন্য।
+
+অন্য যৌগগুলি, সর্কামিয়াম ক্লোরাইড (CaCl2), ক্যালসিয়াম ব্রোমাইড (CaBr2), এবং ক্যালসিয়াম আয়োডাইড (CaI2), ক্যালসিয়াম ফ্লোরাইড (CaF2) এর তুলনায় কম গলনাঙ্কে। এখানে সকল যৌগের ক্যাটায়ন একই, কিন্তু আয়নগুলো পর্যায় সারণির একই গ্রুপে অবস্থান করে। তাই পর্যায় সারণির যত নিচ থেকে উপরে যাওয়া যায়, অ্যানায়নের আকার কমে যায়, যৌগের আয়নিক বন্ধন বৃদ্ধি পায়, তাই গলনাঙ্ক বৃদ্ধি পায়। 
+
+সুতরাং, সঠিক উত্তরটি হলো {{""Answer"": ""d""}}
+"
+4,Which one of the following is defected by Barium nitrate solution?,কোনটি শনাক্তকরণে বেরিয়াম নাইট্রেট ব্যবহার করা হয়?,NH_{4}^{+},Ca^{2+},CI^{-},SO_{4}^{2-},d,N,2021Rajshahi,1,NH_{4}^{+},Ca^{2+},Cl^{-},SO_{4}^{2-},ঘ,d,N,2021Rajshahi,0.892684283,0,0,,Which one of the following is affected by Barium nitrate solution?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Barium nitrate (Ba(NO3)2) is commonly used in chemistry as a reagent to test for the presence of sulfate ions (SO4^2-) in a solution. When barium nitrate is added to a solution containing sulfate ions, it forms an insoluble white precipitate of barium sulfate (BaSO4).
+
+So, among the given options, sulfate ions (SO4^2-) are the ones that react with barium nitrate solution to form a white precipitate of barium sulfate. Therefore, the correct answer is {{""Answer"": ""d""}}.","বেরিয়াম নাইট্রেট (Ba(NO3)2) সোডিয়াম আয়নের (SO4^2-) উপস্থিতি পরীক্ষা করতে রাসায়নিকভাবে ব্যবহৃত হয়। যখন বেরিয়াম নাইট্রেট একটি সোডিয়াম আয়নের (SO4^2-) উপস্থিত দ্রাবণে যোগ করা হয়, তখন বেরিয়াম সালফেট (BaSO4) এর অদৃশ্য সাদা স্তর তৈরি হয়।
+সুতরাং, দেওয়া বিকল্পগুলির মধ্যে, সোডিয়াম আয়ন (SO4^2-) সেগুলি যেগুলি বেরিয়াম নাইট্রেট দ্রাবণের সাথে প্রতিক্রিয়া করে বেরিয়াম সালফেটের (BaSO4) একটি অদৃশ্য সাদা আবেগ তৈরি করে। সুতরাং, সঠিক উত্তর হলো {{""Answer"": ""d""}}।"

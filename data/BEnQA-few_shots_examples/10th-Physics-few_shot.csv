@@ -1,0 +1,157 @@
+,Question,Question_fixed,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Unnamed: 16,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed.1,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+223,"Acceleration is-
+ i. derived quantities
+ ii. scalar quantities 
+ iii. vector quantities 
+ Which one is correct?","Acceleration is-
+ i. derived quantities
+ ii. scalar quantities 
+ iii. vector quantities 
+ Which one is correct?","ত্বরণ হলো-
+ i. লব্ধ রাশি
+ ii. স্কেলার রাশি
+ iii. ভেক্টর রাশি
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",b,N,2021Rajshahi,1,i and ii,i and iii,ii and iii,"i, ii and iii",খ,b,2021Rajshahi,0.922309223,0,0,,"Acceleration is-
+ i. derived quantities
+ ii. scalar quantities 
+ iii. vector quantities 
+ Which one is correct?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Certainly, let's analyze each option:
+
+i. Derived quantities: Acceleration is a derived quantity from distance and time.
+
+ii. Scalar quantities: Acceleration is not a scalar quantity. Scalar quantities have only magnitude and no direction, while acceleration has both magnitude and direction. It is a vector quantity.
+
+iii. Vector quantities: Acceleration is a vector quantity because it has both magnitude (how much) and direction (which way). When an object accelerates, its velocity changes, and this change can be in terms of speed and/or direction, making it a vector quantity.
+
+So, the correct option is {{""Answer"": ""b""}}","i. রাশি: ত্বরণ একটি যৌগিক রাশি । এটি সরণ ও সময় থেকে প্রতিপাদিত। 
+
+ii. স্কেলার রাশি: ত্বরণ একটি স্কেলার রাশি নয়। স্কেলার রাশিে শুধুমাত্র মাত্রতা আছে এবং কোন দিক নেই, যখন ত্বরণ মাত্রতা এবং দিক উভয় আছে। এটি একটি ভেক্টর রাশি।
+
+iii. ভেক্টর রাশি: ত্বরণ একটি ভেক্টর রাশি হয় কারণ এটি মাত্রতা (কত) এবং দিক (কোন দিকে) উভয় আছে। যখন একটি বস্তু ত্বরণ অর্জন করে, তার বেগ পরিবর্তন হয়, এবং এই পরিবর্তন বেগ এবং/অথবা দিকের সাথে হতে পারে, যেটি এটি একটি ভেক্টর রাশি হয়।
+
+অতএব, সঠিক বিকল্প হল {{“Answer”: “b”}}
+"
+1,A child is swinging in a cradle Which is right in case of the child?,"Which of the following statements is true about the child swinging in a cradle? 
+",একটি শিশু দোলনায় দোল খাচ্ছে। শিশুটির ক্ষেত্রে নিচের কোনটি সঠিক?,Kinetic energy is maximum at the maximum height,Velocity is the lowest during equilibrium state,Potential energy increases towards either way at equilibrium,Total energy is less at the highest height from the equilibrium state,c,N,2021Jashore,1,সর্বোচ্চ উচ্চতায় গতিশক্তি সবচেয়ে কম,সাম্যবস্থায় বেগ সবচেয়ে কম,সাম্যাবস্থা হতে যেকোনো দিকেই বিভব শক্তি বৃদ্ধি পায়,সাম্যাবস্থা হতে সর্বোচ্চ উচ্চতায় মোট শক্তি কম,গ,c,2021Jashore,0.935345987,0,0,,"Which of the following statements is true about the child swinging in a cradle? 
+",Reasoning,"{""Answer"": ""Reasoning""}","Let's analyze each statement to determine which one is true about a child swinging in a cradle
+
+Kinetic energy is maximum at the maximum height:
+
+When the child reaches the maximum height during the swing, their speed momentarily becomes zero (the child momentarily stops moving before reversing direction).
+At this point, the kinetic energy (energy associated with motion) is indeed at its minimum, not maximum, because velocity is zero.
+
+Velocity is the lowest during equilibrium state:
+
+The equilibrium state is when the child is at the lowest point of the swing, right before swinging back upward.
+At this point, the child's velocity is the highest, not the lowest, because they are moving the fastest.
+
+Potential energy increases towards either way at equilibrium:
+
+Potential energy increases as the child gains height during the swing.
+At the equilibrium point (lowest point of the swing), potential energy is at its minimum because the height is the lowest.
+
+Total energy is less at the highest height from the equilibrium state:
+
+This statement is not true. According to the law of conservation of energy, the total mechanical energy (sum of kinetic and potential energy) of the child on the swing remains constant in the absence of external forces like friction.
+At the highest point of the swing (maximum height), the kinetic energy is zero, but the potential energy is at its maximum.
+
+Based on the analysis, the correct option is {{""Answer"": ""c""}}","একটি বাচ্চা একটি ঝুলনে:
+
+যখন বাচ্চা ঝুলনের সময় সর্বোচ্চ উচ্চতা প্রাপ্ত করে, তখন তার গতি সাময়িকভাবে শূন্য হয় (বাচ্চা সাময়িকভাবে চলতে থামে পূর্বে দিক পরিবর্তন করার আগে)।
+এই বিন্যাসে, চলক শক্তি (গতিসম্পর্কিত শক্তি) নিজের সর্বনিম্ন অবস্থায় রয়েছে, না সর্বোচ্চ, কারণ গতি শূন্য।
+
+সাম্যাবস্থায় গতি সর্বনিম্ন:
+
+স্থিতি সময় হলো যখন বাচ্চা ঝুলনের সময় ঝুলনের সর্বনিম্ন অংশে আছে, সহজেই উপরে উঠতে থাকেন।
+এই সময়, বাচ্চার গতি সর্বনিম্ন নয়, বরং সর্বোচ্চ কারণ তারা সবচেয়ে দ্রুত চলতে থাকে।
+
+স্থিতিশক্তি উভয় গতির দিকে বৃদ্ধি পায়:
+
+সময়ের সাথে  বাচ্চা উচ্চতা অর্জন করে।
+সময় সাম্যবস্থায় (ঝুলনের সর্বনিম্ন অংশ) গতি সর্বোচ্চ থাকে কারণ উচ্চতা সর্বনিম্ন।
+
+সর্বমোট শক্তি সর্বোচ্চ উচ্চতা থেকে সম্বন্ধে সর্বনিম্ন:
+
+এই কথা সত্য নয়। শক্তির সংরক্ষণের নীতি অনুসারে, বাচ্চার ঝুলনে সর্বত্রিক যাংত্রিক শক্তি (চলন এবং সম্ভাব্য শক্তির যোগফল) বাইরের জ্ঞান্তর বলতে একটি প্রাপ্তি করে যে নয় যেমন ঘর্ষণ সম্বন্ধে।
+ঝুলনের সর্বোচ্চ বিন্দুতে (সর্বোচ্চ উচ্চতা) চলন শক্তি শূন্য, কিন্তু সম্ভাব্য শক্তি সর্বনিম্ন সর্বনিম্ন উচ্চতায় থাকে।
+
+এই বিশ্লেষণের ভিত্তিতে, সঠিক বিকল্প হলো {{""Answer"": ""c""}}"
+2,"In case of determining the thickness of a rectangular glass plate, main scale treading is 18 mm and verner constant is found 8. If the vernier constant of the tool is 0.01 cm, what is the thickness of the glass plate?","In order to determine the thickness of a rectangular glass plate, the main scale reading is 18 mm and the vernier constant is measured to be 8. If the vernier constant of the tool is 0.01 cm, what is the thickness of the glass plate?",স্লাইড ক্যালিপার্সের সাহায্যে একটি আয়তাকার কাচ ফলকের পুরুত্ব নির্ণয়ে প্রধান স্কেলের পাঠ 18 mm এবং ভার্নিয়ার সমপাতন 8 পাওয়া গেল। যন্ত্রটির ভার্নিয়ার ধ্রুবক 0.01 cm হলে পুরুত্ব কত?,8.1 mm,8.18 mm,18.08mm,18.8mm,d,N,2021Jashore,1,8.1 mm,8.18 mm,18.08mm,18.8mm,ঘ,d,2021Jashore,0.935980676,0,0,,"In order to determine the thickness of a rectangular glass plate, the main scale reading is 18 mm and the vernier constant is measured to be 8. If the vernier constant of the tool is 0.01 cm, what is the thickness of the glass plate?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To determine the thickness of the glass plate using a vernier caliper, you can use the formula:
+
+Thickness = (Main scale reading) + (Vernier scale reading x Vernier constant)
+
+In this case:
+Main scale reading = 18 mm
+Vernier constant = 0.01 cm = 0.1 mm (since 1 cm = 10 mm)
+
+Now, we need to find the vernier scale reading. To do that, look at the position where a vernier scale division aligns with a main scale division. The number of vernier divisions that align with main scale divisions gives you the vernier scale reading.
+
+In your question, the vernier constant is given as 8, which is unusual because vernier constants are typically in fractions. However, let's assume that 8 refers to the number of vernier divisions that align with main scale divisions.
+
+Now, calculate the thickness:
+
+Thickness = (Main scale reading) + (Vernier scale reading x Vernier constant)
+Thickness = 18 mm + (8 x 0.1 mm)  (since Vernier constant is now in mm)
+
+Thickness = 18 mm + 0.8 mm
+
+Thickness = 18.8 mm
+
+So, the correct answer is {{""Answer"": ""d""}}","""মোট পাঠ = (মুখ্য স্কেল পঠন) + (ভারর্নিয়ার স্কেল পঠন x ভারর্নিয়ার ধ্রুবক)
+
+এই ক্ষেত্রে:
+মুখ্য স্কেল পঠন = 18 মিমি
+ভারর্নিয়ার ধ্রুবক = 0.01 সেন্টিমিটার = 0.1 মিমি (কারণ 1 সেন্টিমিটার = 10 মিমি)
+
+এখন, আমরা ভারর্নিয়ার স্কেল পঠন খুঁজে বের করতে হবে। এটা করতে, দেখুন কোন স্থানে একটি ভারর্নিয়ার স্কেল বিভাগ মুখ্য স্কেল বিভাগের সাথে মিলে। মুখ্য স্কেল বিভাগের সাথে মিলে যে ভারর্নিয়ার বিভাগের সংখ্যা থাকে সেটি আপনাকে ভারর্নিয়ার স্কেল পঠন দেয়।
+
+আপনার প্রশ্নে, ভারর্নিয়ার ধ্রুবক দেওয়া হয় 8, যা অস্বাভাবিক কারণ ভারর্নিয়ার ধ্রুবক সাধারণভাবে ভিন্নসব হয়। তবে, আমরা ধরতে পারি যে 8 টি ভারর্নিয়ার বিভাগ মুখ্য স্কেল বিভাগের সাথে মেলে।
+
+এখন, মোট পাঠ গণনা করুন:
+
+মোট পাঠ = (মুখ্য স্কেল পঠন) + (ভারর্নিয়ার স্কেল পঠন x ভারর্নিয়ার ধ্রুবক)
+মোট পাঠ = 18 মিমি + (8 x 0.1 মিমি) (কারণ ভারর্নিয়ার ধ্রুবক এখন মিমি ইউনিটে)
+মোট পাঠ = 18 মিমি + 0.8 মিমি
+মোট পাঠ = 18.8 মিমি
+
+তাহলে, সঠিক উত্তর হলো {{""""Answer"""": """"d""""}}"""
+3,What is the specific resistance of gold?,What is the specific resistance of gold?,সোনার আপেক্ষিত রোধ কত?,2.5 \times 10/^{-6}\Omega m,2.44 \times 10/^{-8}\Omega m,1.68 \times 10/^{-8}\Omega m,1.59 \times 10/^{-8}\Omega m,b,N,2021Jashore,1,2.5 \times 10^{-6} \Omega m,2.44 \times 10^{-8} \Omega m,1.68 \times 10^{-8} \Omega m,1.59 \times 10^{-8} \Omega m,খ,b,2021Jashore,0.94621928,0,0,,What is the specific resistance of gold?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The specific resistance (also known as resistivity) of gold is approximately 2.44 x 10^-8 Ωm (ohm meters). Therefore a, c, d are incorrect, and the only correct answer is {{""Answer"": ""b""}}","স্বর্ণের আপেক্ষিক রোধ প্রায় 2.44 x 10^-8 Ωm (ওম মিটার)। সুতরাং, a, c, d ভুল, এবং একমাত্র সঠিক উত্তর হলো {{""Answer"": ""b""}}।"
+4,"A toy car of mass 1kg is moving on a frictionless floor at 1ms^{-1} velocity. You push the car towards its motion with 1N force.
+ 
+ How much distance the toy car will go 10s after your path?","A toy car with a mass of 1 kg is moving on a frictionless floor with a velocity of 1 m/s. You push the car in the direction of its motion with a force of 1 N. 
+
+How far will the toy car travel 10 seconds after you applied the force? 
+","ঘর্ষণবিহীন কোনো মেঝেতে 1 ms^{-1} বেগে গতিশীল 1 kg ভরের খেলনা গাড়ির গতির দিকে তুমি 1 N বলে ধাক্কা দিলে।
+ 
+ ধাক্কা দেয়ার 10 s পর গাড়িটির অতিক্রান্ত দূরত্ব কত?",110m,100m,60m,50m,c,N,2021Jashore,1,110m,100m,60m,50m,গ,c,2021Jashore,0.949714162,0,0,,"ParsingError{""Fixed"": ""A toy car with a mass of 1 kg is moving on a frictionless floor with a velocity of 1 m/s. You push the car in the direction of its motion with a force of 1 N. 
+
+How far will the toy car travel 10 seconds after you applied the force? 
+Choices: (a) 110 m 
+(b) 100 m 
+(c) 60 m 
+(d) 50 m""}",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To calculate the distance the toy car will travel after 10 seconds when you apply a constant force, you can use the formula:
+
+Distance (d) =  intial velocity (u) * time (t) + 0.5 * acceleration (a) * time (t)^2
+
+First, calculate the acceleration using Newton's second law of motion:
+
+Acceleration (a) = Force (F) / Mass (m)
+Acceleration (a) = 1 N / 1 kg = 1 m/s^2
+
+Now, plug in the values into the formula:
+
+Distance (d) = 1 m/s * 10 s + 0.5 * 1 m/s^2 * (10 s)^2 = 60 m
+
+
+So, the toy car will travel 60 meters after 10 seconds when you apply a force of 1 N in the direction of its motion. The correct answer is {{'Answer"": ""c""}}","দূরত্ব (d) = আদি বেগ (u) * সময় (t) + 0.5 * ত্বরণ (a) * সময় (t)^2
+
+প্রথমে, নিউটনের দ্বিতীয় গতির নিয়ম ব্যবহার করে ত্বরণ গণনা করুন:
+
+ত্বরণ (a) = বল (F) / দ্রব্যমান (m)
+ত্বরণ (a) = 1 নিউটন / 1 কেজি = 1 মি/সে^2
+
+এখন, মূল্যগুলি সূত্রে প্রবেশ করুন:
+
+দূরত্ব (d) = 1 মি/সে * 10 সে + 0.5 * 1 মি/সে^2 * (10 সে)^2 = 60 মিটার
+
+অতএব, খেলনা গাড়ি আপনি যখন এটির গতির দিকে 1 নিউটন বল প্রয়োগ করে 10 সেকেন্ড পরে যাবে, তখন সে 60 মিটার পার করবে। সঠিক উত্তর হলো {{""Answer"": ""c""}}"""

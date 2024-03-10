@@ -1,0 +1,126 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,"The perpendicular drawn from the point (\sqrt{3}, 1) on the straight line \sqrt{3}x - y + 1 = 0.
+ 
+ What is the length of the perpendicular drawn?","(\sqrt{3}, 1) বিন্দু হতে \sqrt{3}x - y + 1 = 0 সরলরেখার উপর লম্ব অঙ্কন করা হলো।
+ 
+ অঙ্কিত লম্বের দৈর্ঘ্য কত?",\frac{3}{4},\frac{5}{4},\frac{3}{2},\frac{5}{2},c,N,2021Rajshahi,1,\frac{3}{4},\frac{5}{4},\frac{3}{2},\frac{5}{2},গ,c,N,2021Rajshahi,0.9664862632,0,0,,"What is the length of the perpendicular drawn from the point (√3, 1) to the straight line √3x - y + 1 = 0?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the length of the perpendicular from the point (sqrt(3), 1) to the straight line sqrt(3)x - y + 1 = 0, we use the distance formula:
+
+Distance = |Ax1 + By1 + C| / sqrt(A^2 + B^2)
+
+Here, A, B, and C are the coefficients of the line Ax + By + C = 0, and (x1, y1) are the coordinates of the point.
+
+For the line sqrt(3)x - y + 1 = 0, A = sqrt(3), B = -1, and C = 1. The point is (sqrt(3), 1), so x1 = sqrt(3) and y1 = 1.
+
+Substituting these values, we get:
+
+Distance = |sqrt(3) * sqrt(3) - 1 * 1 + 1| / sqrt((sqrt(3))^2 + (-1)^2)
+
+Calculating this, the distance comes out to be 1.5, or 3/2. So the correct answer is {{""Answer"": ""c""}}","বিন্দু (sqrt(3), 1) থেকে সরলরেখা sqrt(3)x - y + 1 = 0 এর লম্ব দৈর্ঘ্য বের করতে আমরা দূরত্বের সূত্র ব্যবহার করি:
+
+দূরত্ব = |Ax1 + By1 + C| / sqrt(A^2 + B^2)
+
+এখানে, A, B, এবং C হল রেখা Ax + By + C = 0 এর গুণাংক, এবং (x1, y1) হল বিন্দুের স্থানাংক।
+
+রেখা sqrt(3)x - y + 1 = 0 এর জন্য, A = sqrt(3), B = -1, এবং C = 1। বিন্দু হল (sqrt(3), 1), সুতরাং x1 = sqrt(3) এবং y1 = 1।
+
+এই মানগুলি প্রতিস্থাপন করে আমরা পাই:
+
+দূরত্ব = |sqrt(3) * sqrt(3) - 1 * 1 + 1| / sqrt((sqrt(3))^2 + (-1)^2)
+
+এটি গণনা করে, দূরত্ব আসে 1.5, বা 3/2। সুতরাং সঠিক উত্তর হল {{""Answer"": ""c""}}"
+2,\lim_{x \to 0} (1 + 2x)^{\frac{1}{2x}} = ?,\lim_{x \to 0} (1 + 2x)^{\frac{1}{2x}} = ?,0,1,e,e^{2},c,N,2021Rajshahi,1,0,1,e,e^{2},গ,c,N,2021Rajshahi,0.8595730123,0,0,,What is the value of the limit as x approaches 0 of (1 + 2x)^(1/(2x))?,Procedural and Application,"{""Answer"": ""Procedural and Application""}","To calculate the limit of (1 + 2x)^(1/2x) as x approaches 0, we can relate it to the well-known limit form that approaches the natural exponential base e. 
+
+The limit is of the form lim(x -> 0) (1 + ax)^(1/bx), and when a equals b, this limit is known to approach e. In your case, a is 2 and b is 2, so the limit simplifies to a form that approaches e. 
+
+Thus, the limit of (1 + 2x)^(1/2x) as x approaches 0 is e. Therefore, the correct answer is {{""Answer"": ""c""}}","যখন x এর মান 0 এর দিকে এগোচ্ছে, তখন (1 + 2x)^(1/2x) এর লিমিট মান গণনা করতে আমরা এটিকে প্রাকৃতিক লগারিদমের ভিত্তি e এর দিকে এগোতে থাকা পরিচিত একটি লিমিট আকারের সাথে সম্পর্কিত করতে পারি।
+
+এই লিমিট হল lim(x -> 0) (1 + ax)^(1/bx) এর আকারে, এবং যখন a সমান b, তখন এই লিমিটটি e এর দিকে এগোয়। এ ক্ষেত্রে, a হল 2 এবং b ও হল 2, সুতরাং লিমিটটি সরলীকৃত হয়ে e এর দিকে এগোতে থাকে।
+
+সুতরাং, x এর মান 0 এর দিকে এগোচ্ছে সময়ে (1 + 2x)^(1/2x) এর লিমিট হল e। তাই, সঠিক উত্তর হল {{""Answer"": ""c""}}"
+3,If f(x) = ln (1 - x) then what is the value of f''(2)?,f(x) = ln (1 - x) হলে f''(2) এর মান কত?,- \frac{1}{9},\text{- 1},\frac{1}{9},1,b,N,2021Rajshahi,1,- \frac{1}{9},\text{- 1},\frac{1}{9},1,খ,b,N,2021Rajshahi,0.9624729267,0,0,,"If f(x) = ln(1 - x), what is the value of f''(2)?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the second derivative of \( f(x) = \ln(1 - x) \) evaluated at \( x = 2 \), we first need to find \( f''(x) \) and then substitute \( x = 2 \) into it. The first derivative of \( f(x) = \ln(1 - x) \) is: \[ f'(x) = \frac{-1}{1 - x} \] Now, we find the second derivative: \[ f''(x) = \frac{d}{dx} \left( \frac{-1}{1 - x} \right) \] This derivative can be found using the quotient rule or simply differentiating the expression as it is. After finding \( f''(x) \), we substitute \( x = 2 \) to get \( f''(2) \). Let's calculate this. The value of \( f''(2) \) for the function \( f(x) = \ln(1 - x) \) is \(-1\).
+
+Therefore, the correct answer is {{""Answer"": ""b""}}","যদি \( f(x) = \ln(1 - x) \) ফাংশনের জন্য \( x = 2 \) এ \( f''(x) \) মান বের করতে হয়, তবে প্রথমে আমাদের \( f''(x) \) বের করতে হবে এবং তারপর \( x = 2 \) মান প্রতিস্থাপন করতে হবে। \( f(x) = \ln(1 - x) \) ফাংশনের প্রথম ডেরিভেটিভ হল: \[ f'(x) = \frac{-1}{1 - x} \] এখন, আমরা দ্বিতীয় ডেরিভেটিভ বের করি: \[ f''(x) = \frac{d}{dx} \left( \frac{-1}{1 - x} \right) \] এই ডেরিভেটিভ কোশেন্ট নিয়ম ব্যবহার করে বা সরাসরি প্রকাশটি ডিফারেনশিয়েট করে পাওয়া যায়। \( f''(x) \) বের করার পর, আমরা \( x = 2 \) মান প্রতিস্থাপন করি যাতে \( f''(2) \) পাওয়া যায়। আসুন এটি গণনা করি। \( f(x) = \ln(1 - x) \) ফাংশনের জন্য \( f''(2) \) মান হল \(-1\)।
+
+সুতরাং, সঠিক উত্তর হল {{""Answer"": ""b""}}"
+131,"If the straight lines 3x - 4y + 12 = 0-
+ i. the length of intercept cut off by line from the x-axis is 4 unit
+ ii. the area made by the two axes with the line is 12 sq. unit
+ iii. intersect y-axis at the point (0, 3)
+ Which one is correct?","3x - 4y + 12 = 0 সরলরেখা-
+ i. দ্বারা x-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য 4 একক
+ ii. অক্ষদ্বয়ের সাথে যে ত্রিভুজ উৎপন্ন করে তার ক্ষেত্রফল 12 বর্গ একক
+ iii. y অক্ষের (0, 3) বিন্দুতে ছেদ করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",b,N,2021Sylhet,1,i এবং ii,i এবং iii,ii এবং iii,"i, ii এবং iii",খ,b,N,2021Sylhet,0.9434539852,0,0,,"If the straight lines 3x - 4y + 12 = 0-
+ i. the length of intercept cut off by line from the x-axis is 4 unit
+ ii. the area made by the two axes with the line is 12 sq. unit
+ iii. intersect y-axis at the point (0, 3)
+ Which one is correct?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To determine which statements are correct, we analyze each one:
+
+i. The length of the intercept cut off by the line 3x - 4y + 12 = 0 from the x-axis:
+The x-intercept occurs when y = 0. Substitute y = 0 into the equation:
+3x + 12 = 0
+x = -4
+Thus, the x-intercept is -4, but the length of the intercept is the absolute value, which is 4 units.
+
+ii. The area made by the two axes with the line 3x - 4y + 12 = 0:
+The area of the triangle formed by the x-axis, y-axis, and the line can be found using the intercepts. We already found the x-intercept to be 4 units (in magnitude). The y-intercept occurs when x = 0:
+-4y + 12 = 0
+y = 3
+So, the y-intercept is 3 units.
+The area of the triangle is (1/2) * base * height = (1/2) * 4 * 3 = 6 square units.
+
+iii. The line intersects the y-axis at the point (0, 3):
+This is true as calculated in point ii.
+
+Therefore, the correct statements are i and iii, making the answer {{""Answer"": ""b""}}","কোন কথনগুলি সঠিক তা নির্ধারণের জন্য আমরা প্রতিটি কথন বিশ্লেষণ করি:
+
+i. 3x - 4y + 12 = 0 লাইন দ্বারা x-অক্ষ থেকে খণ্ডিত অংশের দৈর্ঘ্য:
+x-অক্ষের ছেদ হয় যখন y = 0। সমীকরণে y = 0 প্রতিস্থাপন করুন:
+3x + 12 = 0
+x = -4
+তাই, x-অক্ষের ছেদ হল -4, কিন্তু অংশের দৈর্ঘ্য হল পরিমাণ মান, যা 4 একক।
+
+ii. 3x - 4y + 12 = 0 লাইন দ্বারা x-অক্ষ এবং y-অক্ষের সাথে তৈরি ক্ষেত্রফল:
+x-অক্ষ, y-অক্ষ এবং লাইন দ্বারা গঠিত ত্রিভুজের ক্ষেত্রফল আমরা ছেদগুলি ব্যবহার করে বের করতে পারি। আমরা ইতিমধ্যে x-অক্ষের ছেদ পেয়েছি 4 একক (পরিমাণ মানে)। y-অক্ষের ছেদ হয় যখন x = 0:
+-4y + 12 = 0
+y = 3
+সুতরাং, y-অক্ষের ছেদ হল 3 একক।
+ত্রিভুজের ক্ষেত্রফল হল (1/2) * ভিত্তি * উচ্চতা = (1/2) * 4 * 3 = 6 বর্গ একক।
+
+iii. লাইনটি y-অক্ষে (0, 3) বিন্দুতে ছেদ করে:
+এটি সত্য যেমন ii নম্বর পয়েন্টে গণনা করা হয়েছে।
+
+তাই, সঠিক কথনগুলি হল i এবং iii, যার ফলে উত্তর হল {{""Answer"": ""b""}}"
+5,"The equation of a curve is y = 3x (x - 2).
+ 
+ What is the slope of the tangent at the point (2, 0) on the curve?","y = 3x (x - 2) একটি বক্ররেখার সমীকরণ।
+ 
+ বক্ররেখাটির (2, 0) বিন্দুতে স্পর্শকের ঢাল কত?",\text{-12},\text{-6},6,12,c,N,2021Rajshahi,1,\text{-12},\text{-6},6,12,গ,c,N,2021Rajshahi,0.9458346894,0,0,,"What is the slope of the tangent at the point (2, 0) on the curve whose equation is y = 3x(x - 2)?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the slope of the tangent at a specific point on a curve, we first find the derivative of the curve's equation with respect to x. This derivative gives us the slope of the tangent at any point x.
+
+The equation of the curve is \( y = 3x(x - 2) \).
+
+First, we differentiate this equation to find the slope (dy/dx):
+\( y' = 3(x - 2) + 3x(1) \)
+\( y' = 3x - 6 + 3x \)
+\( y' = 6x - 6 \)
+
+Now, to find the slope of the tangent at the point (2, 0), we substitute x = 2 into the derivative:
+\( y'(2) = 6(2) - 6 \)
+\( y'(2) = 12 - 6 \)
+\( y'(2) = 6 \)
+
+So, the slope of the tangent at the point (2, 0) on the curve is 6, making the correct option {{""Answer"": ""c""}}","একটি বিশেষ বিন্দুতে একটি বক্ররেখার স্পর্শকের ঢাল বের করতে, প্রথমে আমরা বক্ররেখার সমীকরণের x এর সাপেক্ষে ডেরিভেটিভ বের করি। এই ডেরিভেটিভ আমাদের যে কোনো x বিন্দুতে স্পর্শকের ঢাল দেয়।
+
+বক্ররেখার সমীকরণ হল \( y = 3x(x - 2) \)।
+
+প্রথমে, আমরা এই সমীকরণের ডেরিভেটিভ বের করি যাতে ঢাল (dy/dx) পাওয়া যায়:
+\( y' = 3(x - 2) + 3x(1) \)
+\( y' = 3x - 6 + 3x \)
+\( y' = 6x - 6 \)
+
+এখন, (2, 0) বিন্দুতে স্পর্শকের ঢাল বের করতে, আমরা ডেরিভেটিভে x = 2 প্রতিস্থাপন করি:
+\( y'(2) = 6(2) - 6 \)
+\( y'(2) = 12 - 6 \)
+\( y'(2) = 6 \)
+
+সুতরাং, বক্ররেখার (2, 0) বিন্দুতে স্পর্শকের ঢাল হল 6, যা সঠিক উত্তর হল {{""Answer"": ""c""}}"

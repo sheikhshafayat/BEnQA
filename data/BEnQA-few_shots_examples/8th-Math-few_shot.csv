@@ -1,0 +1,158 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,"What is the next number of 1, 3, 7, 13, 21……….?","১, ৩, ৭, ১৩, ২১, ... ... তালিকার পরবর্তী সংখ্যা কত?",29,31,34,35,b,N,2019Chattogram,1,29,31,34,35,খ,b,N,2019Chattogram,0.9169070547,0,0,,"What is the next number in the sequence 1, 3, 7, 13, 21, ... ?",Reasoning,"{""Answer"": ""Reasoning""}","Let's look at the differences between successive numbers:
+
+3 - 1 = 2
+7 - 3 = 4
+13 - 7 = 6
+21 - 13 = 8
+
+The differences are increasing by 2 each time. If this pattern continues, the next difference should be 10 (8 + 2). Adding 10 to the last number in the sequence (21) should give us the next number:
+
+21 + 10 = 31
+
+Therefore, among the options, only {{""Answer"": ""b""}} is correct.","সিরিজের পরস্পর সংখ্যার মধ্যে পার্থক্য লক্ষ করি:
+
+3 - 1 = 2
+7 - 3 = 4
+13 - 7 = 6
+21 - 13 = 8
+
+প্রতিটি ধাপে পার্থক্য 2 দ্বারা বৃদ্ধি পাচ্ছে। এই ধারাটি যদি চলতে থাকে, তাহলে পরবর্তী পার্থক্য হবে 10 (8 + 2)। ধারার শেষ সংখ্যা (21) এর সাথে 10 যোগ করলে পরবর্তী সংখ্যা পাওয়া যাবে:
+
+21 + 10 = 31
+
+সুতরাং, প্রদত্ত বিকল্পগুলির মধ্যে, শুধুমাত্র {{""Answer"": ""b""}} সঠিক।"
+1,"If p Tk. Become triple as profit - principal in 10 years, then -
+ i. profit - principal = TK.3p
+ ii. Profit = Tk.2p
+ iii. Rate of profit = 10%
+ which one is correct?","p টাকা ১০ বছরে মুনাফা-আসলে তিন গুণ হলে-
+ i. মুনাফা আসল = ৩p টাকা
+ ii. মুনাফা = 2p টাকা
+ iii. বার্ষিক মুনাফার হার ১০%
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",a,N,2019Chattogram,1,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",ক,a,N,2019Chattogram,0.8899874909,0,0,,"If p Tk. Become triple as profit - principal in 10 years, then -
+ i. profut - principal = TK.3p
+ ii. Profit = Tk.2p
+ iii. Rate of profit = 10%
+ which one is correct?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's analyze each statement to see which ones are correct:
+
+Profit-Principal = Tk.3p: If p Tk. becomes triple as a result of the profit, this means the total amount (principal + profit) becomes 3p. So, statement (i) is correct.
+
+Profit = Tk.2p: If the total amount becomes 3p (triple the principal), and the principal is p, then the profit must be 3p - p = 2p. So, statement (ii) is correct.
+
+Rate of Profit = 10%: To determine the rate of profit, we can use the formula for simple interest: Profit = Principal × Rate × Time. Given that the profit is 2p and it is obtained over 10 years, we can rearrange the formula to find the rate: 
+Rate = Profit / (Principal × Time) = 2p/p×10 20%, which is not 10%, thus statement (iii) is incorrect.
+
+Based on the analysis, the correct statements are (i) and (ii), so the correct answer is {{""Answer"": ""a""}}","প্রতিটি বিবৃতিকে ধাপে ধাপে বিশ্লেষণ করা যাক:
+
+লাভ-মূলধন = টাকা.৩p: যদি p টাকা লাভের ফলে তিনগুণ হয়, এর মানে মোট পরিমাণ (মূলধন + লাভ) হয়ে যায় ৩p। তাই বিবৃতি (i) সঠিক।
+
+লাভ = টাকা.২p: যদি মোট পরিমাণ হয় ৩p (মূলধনের তিনগুণ), এবং মূলধন হয় p, তাহলে লাভ হবে ৩p - p = ২p। তাই বিবৃতি (ii) সঠিক।
+
+লাভের হার = ১০%: লাভের হার নির্ধারণ করতে, আমরা সাধারণ সুদের সূত্র ব্যবহার করতে পারি: লাভ = মূলধন × হার × সময়। যেহেতু লাভ হল ২p এবং এটি ১০ বছরে অর্জিত হয়, আমরা সূত্রটি পুনরায় সাজিয়ে হার নির্ধারণ করতে পারি:
+হার = লাভ / (মূলধন × সময়) = ২p/p×১০ = ২০%, যা ১০% নয়, তাই বিবৃতি (iii) ভুল।
+
+বিশ্লেষণের ভিত্তিতে, সঠিক বিবৃতিগুলি হল (i) এবং (ii), তাই সঠিক উত্তর হল {{""Answer"": ""a""}}"
+2,For which principal in 4 years Tk.480 will be the profit at the rate of profit 8%?,বার্ষিক ৮% হার মুনাফার কত টাকায় ৪ বছরের মুনাফা ৪৮০ টাকা হবে?,1200,1500,1600,3200,b,N,2019Chattogram,1,1200,1500,1600,3200,খ,b,N,2019Chattogram,0.8522076587,0,0,,At what principal amount will the profit be Tk.480 in 4 years at a rate of profit of 8%?,Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the principal amount that would yield a profit of Tk.480 in 4 years at an 8% rate of profit, we can use the simple interest formula:
+
+Interest = Principal × Rate × Time
+
+Given:
+
+Interest (profit) = Tk.480
+Rate of profit = 8% per year = 0.08 (in decimal form)
+Time = 4 years
+We can rearrange the formula to solve for the Principal:
+
+Principal = Interest / (Rate × Time)
+
+Substitute the given values:
+
+Principal = 480 / (0.08 × 4) = 1500
+
+The principal amount for which Tk.480 would be the profit in 4 years at a rate of 8% is Tk.1500
+
+
+Therefore, among the given options, only {{""Answer"": ""b""}} is correct.","যে মূলধন থেকে 4 বছরে 8% লাভের হারে টাকা.৪৮০ টাকা লাভ হবে তা নির্ণয় করতে, আমরা সাধারণ সুদের সূত্র ব্যবহার করতে পারি:
+
+সুদ = মূলধন × হার × সময়
+
+দেওয়া হল:
+
+সুদ (লাভ) = টাকা.৪৮০
+লাভের হার = বছরে ৮% = ০.০৮ (দশমিক আকারে)
+সময় = ৪ বছর
+আমরা সূত্রটি মূলধন নির্ণয়ের জন্য পুনরায় সাজাতে পারি:
+
+মূলধন = সুদ / (হার × সময়)
+
+প্রদত্ত মানগুলি বসান:
+
+মূলধন = ৪৮০ / (০.০৮ × ৪) = ১৫০০
+
+যে মূলধন থেকে ৪ বছরে ৮% লাভের হারে ৪৮০ টাকা লাভ হবে তা হল ১৫০০ টাকা।
+
+
+সুতরাং, প্রদত্ত বিকল্পগুলির মধ্যে, শুধুমাত্র {{""Answer"": ""b""}} সঠিক।"
+3,What is the meaning of 'Deci' in Greek language?,ল্যাটিন ভাষায় ‘ডেসি; অর্থ কী?,hundredth,tenth,10 times,100 times,b,N,2019Chattogram,1,শতাংশ,দশমাংস,১০ গুণ,১০০ গুণ,খ,b,N,2019Chattogram,0.8203862007,0,0,,What is the meaning of 'Deci' in the Greek language?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's analyze step by step.
+
+The prefix ""deci-"" is derived from Latin, not Greek, and it denotes a factor of one-tenth. Therefore:
+
+(a) Hundredth: This would correspond to the Latin prefix ""centi-"", not ""deci-"".
+
+(b) Tenth: This is the correct meaning of ""deci-"". It represents one-tenth of a unit.
+
+(c)10 times: This interpretation is incorrect for ""deci-""; it implies multiplication, which ""deci-"" does not represent.
+
+(d) 100 times: This is also incorrect for ""deci-""; it implies a much larger multiplication factor than what ""deci-"" represents.
+
+Therefore, the correct answer is {{""Answer"": ""b""}}","আসুন ধাপে ধাপে বিশ্লেষণ করি।
+
+উপসর্গ """"দেসি-"""" ল্যাটিন থেকে এসেছে, গ্রিক থেকে নয়, এবং এটি এক দশমাংশের গুণক নির্দেশ করে। তাই:
+
+(a) শতাংশ: এটি ল্যাটিন উপসর্গ """"সেন্টি-"""" এর সাথে মিলে, """"দেসি-"""" এর সাথে নয়।
+
+(b) দশমাংশ: এটি """"দেসি-"""" এর সঠিক অর্থ। এটি এককের এক দশমাংশ প্রতিনিধিত্ব করে।
+
+(c) ১০ গুণ: এই ব্যাখ্যা """"দেসি-"""" এর জন্য ভুল; এটি গুণন নির্দেশ করে, যা """"দেসি-"""" প্রতিনিধিত্ব করে না।
+
+(d) ১০০ গুণ: এটি """"দেসি-"""" এর জন্যও ভুল; এটি """"দেসি-"""" প্রতিনিধিত্ব করা অনেক বড় গুণক নির্দেশ করে।
+
+সুতরাং, সঠিক উত্তর হল {{""Answer"": ""b""}}"
+4,If the area of the triangle is 150 sq.cm. height is 10cm.then what is the length of base?,"একটি ত্রিভুজের উচ্চতা ১০ সে.মি. এবং ক্ষেত্রফল ১৫০ বর্গ সে.মি. হলে, ভূমির দৈর্ঘ্য কত?",75cm,65cm,30cm,15cm,c,N,2019Chattogram,1,৭৫ সে.মি.,৬৫সে.মি.,৩০ সে.মি.,১৫ সে.মি.,গ,c,N,2019Chattogram,0.8773111601,0,0,,"If the area of the triangle is 150 sq.m and the height is 10 cm, what is the length of the base?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's analyze step by step.
+
+To find the length of the base of a triangle with an area of 150 sq.cm and a height of 10 cm, we use the formula:
+
+Area = (1/2) * base * height
+
+Given:
+
+Area = 150 sq.cm
+Height = 10 cm
+Rearrange the formula to solve for the base:
+
+Base = (2 * Area) / Height
+
+Substitute the given area and height:
+
+Base = (2 * 150) / 10
+
+Calculation gives the length of the base of the triangle 30 cm. Therefore, the correct answer is {{""Answer"": ""c""}}","ধাপে ধাপে বিশ্লেষণ করা যাক।
+
+১৫০ বর্গ সেন্টিমিটার এলাকার একটি ত্রিভুজের ভূমির দৈর্ঘ্য নির্ণয় করতে, আমরা সূত্র ব্যবহার করি:
+
+ক্ষেত্রফল = (১/২) * ভূমি * উচ্চতা
+
+দেওয়া আছে:
+
+ক্ষেত্রফল = ১৫০ বর্গ সেন্টিমিটার
+উচ্চতা = ১০ সেন্টিমিটার
+সূত্রটি পুনরায় সাজিয়ে ভূমি নির্ণয় করি।
+
+ভূমি = (২ * ক্ষেত্রফল) / উচ্চতা
+
+প্রদত্ত ক্ষেত্রফল ও উচ্চতা বসিয়ে পাই :
+
+ভূমি = (২ * ১৫০) / ১০
+
+গণনা করে ত্রিভুজের বেসের দৈর্ঘ্য হয় ৩০ সেন্টিমিটার। সুতরাং, সঠিক উত্তর হল {{""Answer"": ""c""}}।"

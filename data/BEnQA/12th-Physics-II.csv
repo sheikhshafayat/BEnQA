@@ -1,0 +1,928 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+The ratio of amplitude of two co-herent source is 3 : 2. What is the ratio of intensity of two waves?,দুটি সুসংগত উৎসের বিস্তারের অনুপাত 3 : 2 । তরঙ্গ দুটির তীব্রতার অনুপাত কোনটি?,9 : 4,4 : 9,25 : 1,1 : 25,9 : 4,4 : 9,25 : 1,1 : 25,a
+The maximum magnitude of electric field of an electromagnetic wave is 54Vm^{-1}. What is the maximum magnitude of magnetic field?,একটি তড়িৎচুম্বকীয় তরঙ্গের তড়িৎ ক্ষেত্রের সর্বোচ্চ মান 54 Vm^{-1} হলে চৌম্বকক্ষেত্রের সর্বোচ্চ মান কত?,1.62 \times 10^{10}_{1} Wbm^{-2},1.8 \times 10^{7} Wbm^{-2},1.8 \times 10^{-7} Wbm^{-2},1.62 \times 10^{-10} Wbm^{-2},1.62 \times 10^{10}_{1} Wbm^{-2},1.8 \times 10^{7} Wbm^{-2},1.8 \times 10^{-7} Wbm^{-2},1.62 \times 10^{-10} Wbm^{-2},c
+"A carnot engine when remain at 72\degree C sink temperature then its efficiency is 40%.
+ 
+ What is the source temperature of the engine according to the stem?","একটি কার্নো ইঞ্জিন যখন 72\degree C তাপমাত্রায় তাপগ্রাহকে থাকে তখন কর্মদক্ষতা 40%।
+ 
+ উদ্দীপক অনুসারে ইঞ্জিনের উৎসের তাপমাত্রা কত?",138 K,207 K,575 K,863 K,138 K,207 K,575 K,863 K,c
+"A carnot engine when remain at 72\degree C sink temperature then its efficiency is 40%.
+ 
+ Keeping sink temperature constant in order to make the efficiency of the engine 60%-
+ i. the changed temperature of the source will be 862.5K
+ ii. source temperature increases by 287.5K
+ iii. source temperature decreased by 287.5K
+ Which one is correct?","একটি কার্নো ইঞ্জিন যখন 72\degree C তাপমাত্রায় তাপগ্রাহকে থাকে তখন কর্মদক্ষতা 40%।
+ 
+ গ্রাহকের তাপমাত্রা স্থির রেখে ইঞ্জিনটিকে 60% দক্ষ করতে হলে-
+ i. উৎসের পরিবর্তিত তাপমাত্রা হবে 862.5 K
+ ii. উৎসের তাপমত্রা বৃদ্ধি পাবে 287.5 K
+ iii. উৎসের তাপমাত্রা হ্রাস পাবে 287.5 K
+ নিচের কোনটি সঠিক?",i,iii,i & ii,i & iii,i,iii,i ও ii,i ও iii,c
+"The phase difference between two points of an electromagnetic waves-
+ i. depends on distance between two points
+ ii. depends on wave length
+ iii. does not depend on wave amplitude
+ Which one is correct?","একটি তড়িৎ চুম্বকীয় তরঙ্গের উপর অবস্থিত যেকোনো দুটি নির্দিষ্ট বিন্দুর দশা পার্থক্য-
+ i. বিন্দুর দুটির মধ্যবর্তী দূরত্বের উপর নির্ভর করে
+ ii. তরঙ্গ দৈর্ঘ্যের উপর নির্ভর করে
+ iii. তরঙ্গের বিস্তারের উপর নির্ভর করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one of the following has the highest frequency?,নিচের কোনটির কম্পাঙ্ক সবচেয়ে বেশি?,Radio Wave,Micro wave,Infrared ray,Ultraviolet ray,বেতার তরঙ্গ,মাইক্রোতরঙ্গ,অবলোহিত রশ্মি,অতিবেগুনী রশ্মি,d
+"In a transistor \alpha = 0.85, what is the value of \beta ?",একটি ট্রানজিস্টরের ক্ষেত্রে \alpha = 0.85 হলে \beta এর মান কত?,5.67,2.17,0.46,0.18,5.67,2.17,0.46,0.18,a
+How does semiconductor act due to increase of temperature?,তাপমাত্রা বৃদ্ধিতে অর্ধপরিবাহক কিসের ন্যায় আচরণ করে?,Super conductor,Conductor,Semiconductor,Insulator,অতিপরিবাহী,পরিবাহক,অর্ধ পরিবাহক,অন্তরক,b
+Which set of the following is semiconductor?,নিচের কোনগুলো অর্ধপরিবাহক?,"Si, As, C","Ge, C, Al","Ge, Si, Al","Ge, Si, C","Si, As, C","Ge, C, Al","Ge, Si, Al","Ge, Si, C",d
+According to theory of relativity due to motion-,আপেক্ষিক তত্ত্ব অনুসারে গতিশীলতার দরুন-,length contracts,mass decreases,length increases,time contracts,দৈর্ঘ্য হ্রাস পায়,ভর হ্রাস পায়,দৈর্ঘ্য বৃদ্ধি পায়,সময় সংকুচিত হয়,a
+What type of process is propagation of sound through air medium?,বায়ু মাধ্যমে শব্দ সঞ্চালন কোন ধরনের প্রক্রিয়া?,Isothermal,Isobaric,Isochroic,Adiabatic,সমোষ্ণ,সমচাপীয়,সমায়তন,রুদ্ধতাপীয়,d
+"Which one is correct for Adiabatic expansion?
+ [Here, \Delta W = external work, \Delta U = change in internal energy, \Delta Q = applied heat.]","রুদ্ধতাপীয় প্রসারণে কোনটি সঠিক? 
+ [এখানে, \Delta W = বাহ্যিক কাজ, \Delta U = অন্তঃস্থ শক্তির পরিবর্তন, \Delta Q = প্রযুক্ত তাপ]",\Delta W = \Delta U,\Delta W = - \Delta U,\Delta Q = \Delta U,\Delta Q = - \Delta U,\Delta W = \Delta U,\Delta W = - \Delta U,\Delta Q = \Delta U,\Delta Q = - \Delta U,b
+Which quantity is the reciprocal of resistance?,রোধের বিপরীত রাশি নিচের কোনটি?,Conductivity,Specific resistance,Co-efficient of temperature,Current density,পরিবাহিতা,আপেক্ষিক রোধ,উষ্ণতা গুণাঙ্ক,প্রবাহ ঘনত্ব,a
+"In case of parallel combination of cells if nR \gg , the current flow I_{p} = ?","তড়িৎ কোষের সমান্তরাল সমবায়ে nR \gg r হলে বর্তনীর প্রবাহ, I_{p} = ?",\frac{E}{R},\frac{nE}{R},\frac{E}{nR},n \left ( \frac{E}{r} \right ),\frac{E}{R},\frac{nE}{R},\frac{E}{nR},n \left ( \frac{E}{r} \right ),a
+What is the unit of pointing vector?,পয়েন্টিং ভেক্টরের একক কোনটি?,Jsm^{-2},Js^{2}m^{-2},Js^{-1}m^{-2},Js^{-1}m^{2},Jsm^{-2},Js^{2}m^{-2},Js^{-1}m^{-2},Js^{-1}m^{2},c
+What amount of shunt is to be added with a galvanometer of resistance 35\Omega so that it can measure 8 times current flow than previous value?,35 \Omega রোধের একটি গ্যালভানোমিটারের সাথে কত মানের সান্ট যুক্ত করলে পূর্বের 8 গুণ তড়িৎপ্রবাহ পরিমাপ করা যাবে?,0.2 \Omega,0.24 \Omega,5.0 \Omega,210 \Omega,0.2 \Omega,0.24 \Omega,5.0 \Omega,210 \Omega,c
+The actual length of an imaginary train is 80m and actual length of the platform is 100m. The train passes the platform with such a speed that the length of the train and the platform become equal. What was the velocity of the train?,"একটি কাল্পনিক ট্রেনের প্রকৃত দৈর্ঘ্য 80 m এবং রেলস্টেশন প্লাটফর্মের প্রকৃত দৈর্ঘ্য 100 m । ট্রেনটি এত বেগে প্লাটফর্মটি অতিক্রম করে গেল যে, অতিক্রমকালে ট্রেন ও প্লাটফর্মের দৈর্ঘ্য সমান হয়ে গিয়েছিল। ট্রেনটির বেগ কত ছিল?",\sqrt{5} c,\frac{5}{3} c,\frac{3}{5} c,\frac{c}{\sqrt{5}},\sqrt{5} c,\frac{5}{3} c,\frac{3}{5} c,\frac{c}{\sqrt{5}},c
+The relationship between pressure and temperature in the case of an ideal gas during the thermal change is-,রুদ্ধতাপীয় পরিবর্তনের সময় আদর্শ গ্যাসের ক্ষেত্রে চাপ ও তাপমাত্রার সম্পর্ক হলো-,TP \frac{1 - \gamma}{\gamma} = constant,PT \frac{1 - \gamma}{\gamma} = constant,TP \frac{\gamma}{1 - \gamma} = constant,PT \frac{\gamma}{1 - \gamma} = constant,TP \frac{1 - \gamma}{\gamma} = ধ্রুবক,PT \frac{1 - \gamma}{\gamma} = ধ্রুবক,TP \frac{\gamma}{1 - \gamma} = ধ্রুবক,PT \frac{\gamma}{1 - \gamma} = ধ্রুবক,a
+An ideal gas is expanded through a vaccum in a solid container covered with thermal insulator. As a result which of the following will happen?,তাপ অন্তরকের আবরণযুক্ত দৃঢ় পাত্রে একটি আদর্শ গ্যাস শূন্য মাধ্যমে প্রসারণ করা হলো। ফলে নিম্নের কোনটি ঘটবে?,There will be no change in the internal energy,The temperature will drop,There will be no change in pressure,The phase will change,অন্তঃস্থ শক্তির পরিবর্তন হবে না,তাপমাত্রা হ্রাস পাবে,চাপের কোনো পরিবর্তন হবে না,দশার পরিবর্তন হবে,b
+What is the thermodynamic temperature equivalent to 98.6\degree F?,98.6\degree F তাপমাত্রার সমতুল্য থার্মোডায়নামিক তাপমাত্রা কত?,310.16 K,345.16 K,393.16 K,408.16 K,310.16 K,345.16 K,393.16 K,408.16 K,a
+"Read the following statement-
+ i. the temperature at which a substance is in solid, liquid and gaseous equilibrium is called triple point of that substance
+ ii. the change that causes a change in the value of the thermal process
+ iii. inability or impossibility of a system to convert energy or the inavailability of energy convertion is called entropy
+ Which one is correct?","নিচের বিবৃতিগুলো লক্ষ্য করঃ
+ i. যে তাপমাত্রায় কোনো পদার্থ কঠিন, তরল ও বায়বীয়রূপে সাম্যবস্থায় থাকে তাকে ঐ পদার্থের ত্রৈধ বিন্দু বলে
+ ii. যে পরিবর্তনের কারণে তাপগতীয় স্থানাংকের মানের পরিবর্তন হয়, সেই পরিবর্তনকে তাপগতির প্রক্রিয়া বলে
+ iii. কোনো সিস্টেমের শক্তি রূপান্তরের অক্ষমতা বা অসম্ভাব্যতাকে বা রূপান্তরের জন্য শক্তির অপ্রাপ্যতাকে এনট্রপি বলে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+How many times does the gas need to be expanded to get the same pressure in the isothermal process as the final pressure that is process of 1atm pressure.,"রুদ্ধতাপীয় 1 atm চাপে রাখা গ্যাসকে প্রসারিত করে দ্বিগুণ করা হলে যে চূড়ান্ত চাপ হয়, সমোষ্ণ প্রক্রিয়ায় সেই একই চাপ পেতে গ্যাসকে কতগুণ প্রসারিত করতে হবে?",1.4,2.6,5.2,7.8,1.4,2.6,5.2,7.8,b
+Which of the following is the equation that determines the amount of heat generated by an electric current?,তড়িৎ প্রবাহের ফলে উৎপন্ন তাপের পরিমাণ নির্ণায়ক সমীকরণ নিচের কোনটি?,H = 0.24 V^{2} I t Cal,H = 0.24 \frac{V^{2}}{R} t Cal,H = 0.24 IRt Cal,H = 0.24 P^{2}t Cal,H = 0.24 V^{2} I t Cal,H = 0.24 \frac{V^{2}}{R} t Cal,H = 0.24 IRt Cal,H = 0.24 P^{2}t Cal,b
+"If a security fuse has 5 amp written on it, it means-
+ i. when connected to a circuit, it can tolerate an electric current upto 5 amperes
+ ii. at a current more than 5 amperes, the fuse melts and disconnects the circuit
+ iii. the fuse is connected in parallel with the supply line
+ Which one is correct?","কোনো নিরাপত্তা ফিউজ এর গায়ে 5 A ফিউজ লেখা থাকলে এর অর্থ-
+ i. কোনো বর্তনীতে যুক্ত করলে তা 5 A পর্যন্ত তড়িৎ প্রবাহ সহ্য করতে পারে
+ ii. 5 A এর অধিক প্রবাহমাত্রায় ফিউজ গলে বর্তনী সংযোগ বিচ্ছিন্ন করে
+ iii. ফিউজটি সরবরাহ লাইনের সাথে সমান্তরালে যুক্ত থাকে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Heat produced due to friction of two objects follows-,দুইটি বস্তুর মধ্যে ঘর্ষণের ফলে উৎপন্ন তাপ কোন প্রক্রিয়া অনুসরণ করে?,reversible process,irreversible process,adiabatic process,Isothermal process,প্রত্যাবর্তী প্রক্রিয়া,অপ্রত্যাবর্তী প্রক্রিয়া,রুদ্ধতাপীয় প্রক্রিয়া,সমোষ্ণ প্রক্রিয়া,b
+The two ends of the voltemeter are connected to the two ends of the dry cell. Then a key and a resistor were connected in series combination and the current was turned on by turning the key.,একটি ভোল্টমিটার ও একটি শুষ্ককোষ নিয়ে ভোল্টমিটারের দুই প্রান্ত কোষের দুই প্রান্তের সাথে সংযুক্ত করা হলো। অতঃপর কোষের সাথে শ্রেণি সমবায়ে একটি চাবি ও একটি রোধক যুক্ত করে এবং চাবি বন্ধ করে তড়িৎ প্রবাহ চালনা করা হলো।,"In the first cas, the reading on the voltemer is the e.m.f.","In the second case, the reading on the voltemeter is the e.m.f.","In the first case, the reading is potential difference","In the second case, the reading is more than that of first case",প্রথম ক্ষেত্রে ভোল্টমিটারে যে পাঠ দেয় তা তড়িচ্চালক শক্তি,দ্বিতীয় ক্ষেত্রে যে পাঠ দেয় তা তড়িচ্চালক শক্তি,প্রথম ক্ষেত্রে যে পাঠ দেয় তা বিভব পার্থক্য,দ্বিতীয় ক্ষেত্রে যে পাঠ দেয় তা প্রথম ক্ষেত্রের পাঠের চেয়ে বেশি,a
+Which is the correct of the following in the case of electromagnetic waves?,তড়িৎ চৌম্বক তরঙ্গের ক্ষেত্রে নিচের কোনটি সঠিক?,B = B_{0} sin\frac{2\pi}{\lambda} (ct - x),B = B_{0} sin 2\pi (ct - x),B = B_{0} sin\frac{2\pi}{\lambda} (x - ct),B = B_{0} sin 2\pi (x - ct),B = B_{0} sin\frac{2\pi}{\lambda} (ct - x),B = B_{0} sin 2\pi (ct - x),B = B_{0} sin\frac{2\pi}{\lambda} (x - ct),B = B_{0} sin 2\pi (x - ct),a
+The reason for having two slits in Young's experiment is-,ইয়ং এর পরীক্ষায় দুটি চিড় থাকার কারণ হলো-,to increase intensity,one slit for frequency and the other for the wavelength,to create path difference,one slit for \vec{E} and other slit for \vec{B},তীব্রতা বাড়ানো,একটি চিড় কম্পাংকের জন্য অন্যটি তরঙ্গদৈর্ঘ্যের জন্য,পথ পার্থক্য সৃষ্টির জন্য,একটি চিড় \vec{E} এর জন্য অন্যটি \vec{B} এর জন্য,c
+The unit of Plank's constant is equal to the unit of following any sum bellow:,প্লাংকের ধ্রুবকের একক নিচের কোন রাশির এককের সমান?,Momentum,Energy,Angular momentum,Frequency,ভরবেগ,শক্তি,কৌণিক ভরবেগ,কম্পাংক,c
+"An astronaut A weight 30kg and is 30 years old. He boarded a spacecraft at a speed of 2.4 \times 10^{8}ms^{-1} and went in search of the galaxy. According to the calendar, when his twin brother B was 80 years old, he came to earth later. What will be the mass of A in the spacecraft?","একজন মহাশূন্যযানচারী A এর ভর 60 kg এবং বয়স 30 বছর। সে 2.4 \times 10^{8} ms^{-1} বেগে গতিশীল মহাশূন্যযানে চড়ে ছায়াপথ অনুসন্ধানে গেল। পঞ্জিকা অনুসারে তার জমজ ভাই B এর বয়স যখন 80 বছর হলো তখন সে পৃথিবীতে ফিরে এলো।
+ মহাশূন্যযানে A এর ভর কত হবে?",90kg,100kg,110kg,120kg,90 kg,100 kg,110 kg,120 kg,b
+The cause of the depletion layer at the junction of the p-n junction is-,p-n জাংশনে সংযোগস্থলে ডিপ্লেশন স্তর সৃষ্টির কারণ হলো-,waste ions,diffusion of charge carriers,persecution of electron,persecution of hole,অপদ্রব্য আয়ন,আধান বাহকের ব্যাপন,ইলেকট্রনের তাড়ন,হোলের তাড়ন,b
+"Heat (H) generated due to flow of current through a conductor, heat H is-
+ i. H \propto I^{2}
+ ii. H \propto t
+ iii. H \propto R
+ Which one is correct?","পরিবাহীর মধ্য দিয়ে তড়িৎ প্রবাহের ফলে উৎপন্ন তাপ H হয়-
+ i. H \propto I^{2}
+ ii. H \propto t
+ iii. H \propto R
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+For constructive interference the path difference between the over lapped waves will be-,গঠনমূলক ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গদ্বয়ের মধ্যে পথ পার্থক্য হবে-,even multiple of \frac{\lambda}{2},odd multiple of \frac{\lambda}{2},even multiple of \lambda,odd multiple of \lambda,\frac{\lambda}{2} এর যুগ্ম গুণিতক,\frac{\lambda}{2} এর অযুগ্ম গুণিতক,\lambda এর যুগ্ম গুণিতক,\lambda এর অযুগ্ম গুণিতক,a
+By which theory Compton Effect can be explained?,কম্পটন ক্রিয়া কোন তত্ত্বের সাহায্যে ব্যাখ্যা করা যায়?,Corpuscular theory,Wave theory,Quantum theory,Electromagnetic theory,কণা তত্ত্ব,তরঙ্গ তত্ত্ব,কোয়ান্টাম তত্ত্ব,তড়িৎ চুম্বক তত্ত্ব,c
+"A = (101101)_{2}, B = (101)_(2), C = (110111)_{2}
+ i. A + C = (1100100)_{2}
+ ii. A/B = (1001)_{2}
+ iii. C - A = (101010)_{2}
+ Which one is correct?","A = (101102)_{2}, B = (101)_{2}, C = (11011)_{2}
+ i. A + C = (1100100)_{2}
+ ii. A/B = (1001)_{2}
+ iii. C - A = (101010)_{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+20 gm water boiled from 0\degree C temp. to 80\degree C temp. What will be the change of entropy?,20 gm পানিকে 0\degree C থেকে 80\degree C তাপমাত্রায় উত্তপ্ত করা হলো। এন্ট্রপির পরিবর্তন কত হবে?,21.59 JK^{-1},24.02 JK^{-1},40.20 JK^{-1},46.20 JK^{-1},21.59 JK^{-1},24.02 JK^{-1},40.20 JK^{-1},46.20 JK^{-1},a
+Which one is the unit of entropy?,এনট্রপির একক নিচের কোনটি?,NK^{-1},JK^{-1},JK^{-1} mol^{-1},Unitless quantity,NK^{-1},JK^{-1},JK^{-1} mol^{-1},এককহীন রাশি,b
+"Wheatstone Bridge principle operates on-
+ i. Post office box
+ ii. Potentiometer
+ iii. Meter bridge
+ Which one is correct?","হুইটস্টোন ব্রিজ নীতির ভিত্তিতে পরিচালিত হয়-
+ i. পোস্ট অফিস বক্স
+ ii. পটেনশিওমিটার
+ iii. মিটারব্রিজ
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+"Following stem answer the questions within temperature 327\degree C and 27\degree C. Engine takes Q amount heat from source and realse heat 3000 J in sink.
+ 
+ What is the value of Q?","একটি কার্ণো ইঞ্জিন 327\degree C ও 27\degree C তাপমাত্রা পরিসরে কাজ করে। ইঞ্জিনটি উৎস হতে Q পরিমাণ তাপ গ্রহণ করে সিংকে 3000 J তাপ বর্জন করে।
+ 
+ Q এর মান কত?",1000 J,1500 J,2000 J,6000 J,1000 J,1500 J,2000 J,6000 J,d
+What is the correct statement about shunt?,শান্ট সম্পর্কে সঠিক তথ্য কোনটি?,Greater value resistance that connect parallel,Shortest value resistance that connect parallel,Shortest value resistance that connect series,Greater value resistance that connect series,সমান্তরালে যুক্ত বৃহৎ মানের রোধ,সমান্তরালে যুক্ত স্বল্প মানের রোধ,শ্রেণিতে যুক্ত স্বল্প মানের রোধ,শ্রেণিতে যুক্ত বৃহৎ মানের রোধ,b
+Which one is used to find out ration of EMF of a cell?,কোষের EMF তুলনা করতে ব্যবহৃত হয় কোনটি?,Galvanometer,Potentiometer,Meter bridge,Voltmeter,গ্যালভানোমিটার,পটেনশিওমিটার,মিটার ব্রিজ,ভোল্টমিটার,b
+Following which one is the ratio of C_{p}/C_{v} in Helium gas?,হিলিয়াম গ্যাসের ক্ষেত্র C_{p}/C_{v} এর অনুপাত নিচের কোনটি?,1.67,1.41,1.33,Zero,1.67,1.41,1.33,শূন্য,a
+"In case of transistor-
+ i. I_{C} = I_{E} - I_{B}
+ ii. \beta = \frac{\alpha}{1 - \alpha}
+ iii. \alpha = \frac{\beta}{1 + \beta}
+ Which one is correct?","ট্রানজিস্টরের ক্ষেত্রে-
+ i. I_{C} = I_{E} - I_{B}
+ ii. \beta = \frac{\alpha}{1 - \alpha}
+ iii. \alpha = \frac{\beta}{1 + \beta}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+What is the phase difference when the path between two points is \frac{\pi}{8} of a wave?,তরঙ্গের দুই বিন্দুর মধ্য পথ পার্থক্য \frac{\lambda}{8} হলে দশা পার্থক্য কত?,\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{6},\frac{\pi}{8},\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{6},\frac{\pi}{8},b
+What is the value of \epsilon_{0} \mu_{0}^{-\frac{1}{2}}?,\epsilon_{0} \mu_{0}^{-\frac{1}{2}} এর মান কোনটি?,8.85 \times 10^{-12} C^{2} N^{-1} m^{-2},9 \times 10^{9} Nm^{2} C^{-2},4\pi \times 10^{-7} TmA^{-1},3 \times 10^{8} ms^{-1},8.85 \times 10^{-12} C^{2} N^{-1} m^{-2},9 \times 10^{9} Nm^{2} C^{-2},4\pi \times 10^{-7} TmA^{-1},3 \times 10^{8} ms^{-1},d
+"For changing adiabatic process-
+ i. occurs suddenly
+ ii. temperature constant
+ iii. change of entropy is zero
+ Which one is correct?","রুদ্ধতাপীয় পরিবর্তনের ক্ষেত্রে-
+ i. হঠাৎ সংঘটিত হয়
+ ii. তাপমাত্রা স্থির থাকে
+ iii. এনট্রপির পরিবর্তন শূন্য
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+Which one has minimum frequency?,নিচের কোনটির কম্পাঙ্ক সর্বাপেক্ষা কম?,Ultraviolet ray,Infrared ray,X-ray,Gamma ray,অতিবেগুনী রশ্মী,অবলোহিত রশ্মি,এক্স-রে,গামা রশ্মি,b
+"""It is impossible to construct an engine which can extract heat continuosly from a source of heat and completely transforms into work""- which scientist gave this statement?","""কোনো নির্দিষ্ট পরিমাণ তাপশক্তি সম্পূর্ণভাবে যান্ত্রিক শক্তিতে রূপান্তর করার মতো যন্ত্র নির্মাণ সম্ভব নয়।""- উক্তিটি কোন বিজ্ঞানী প্রদান করেন?",Planck,Kelvin,Clausius,Carnot,প্লাংক,কেলভিন,ক্লসিয়াস,কার্ণো,d
+"Transistor use in-
+ i. amplifier
+ ii. switch
+ iii. rectifier
+ Which one is correct?","ট্রানজিস্টর ব্যবহৃত হয়-
+ i. অ্যামপ্লিফায়ার হিসেবে
+ ii. সুইচ হিসেবে
+ iii. রেকটিফায়ার হিসেবে
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+For which gas the graph in adiabatic process is more steep?,কোন গ্যাসের জন্য রুদ্ধতাপীয় লেখ অধিক খাড়া?,Neon,Oxygen,Ozone,Carbon di-oxide,নিয়ন,অক্সিজেন,ওজোন,কার্বন-ডাই-অক্সাইড,a
+Potential depletion layer in reverse bias for P-N junction-,বিমুখী ঝোঁক প্রদানে P-N জাংশনের বিভব প্রাচীর-,decreasing,increasing,unchange,abolish,হ্রাস পায়,বৃদ্ধি পায়,অপরিবর্তিত থাকে,বিলুপ্ত হয়,b
+The 'OR'-logic gate in Boolean Algebra is represented by-,OR-gate বুলিয়ান বীজগণিতের কোন ফাংশন নির্দেশ করে?,division,multiplication,addition,subtraction,ভাগ,গুণ,যোগ,বিয়োগ,c
+Which of the following cannot be explaind by Huygen's Wave theory?,নিচের কোনটি হাইগেনসের তরঙ্গ তত্ত্বের সাহায্যে ব্যাখ্যা করা যায় না?,Reflection,Refraction,diffraction,polarization,প্রতিফলন,প্রতিসরণ,অপবর্তন,সমবর্তন,d
+The path difference between two point on light wave is \frac{\lambda}{4}. What is the phase difference?,আলোক তরঙ্গের দুটি বিন্দুর পথ পার্থক্য \frac{lambda}{4} হলে দশা পার্থক্য হবে?,\pi,\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{8},\pi,\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{8},b
+In which physical state entropy is the minimum?,কোন অবস্থায় এন্ট্রপি কম থাকে?,Solid,Liquid,Gaseous,Plasma,কঠিন,তরল,বায়বীয়,প্লাজমা,a
+In which thermodynamic process no work is done on the system?,তাপগতিবিদ্যার কোন প্রক্রিয়ায় গ্যাসের উপর কোনো কাজ হয় না?,Isothermal,Isochoric,Isobaric,Adiabatic,সমোষ্ণ,সম-আয়তন,সমচাপীয়,রুদ্ধতাপীয়,b
+"An electric conductor is divided into two equal halves, then-",একটি তারকে সমান দুইভাগ করলে-,specific resistance decreases,specific resistance increases,conductivity decreases,specific resistance remains the same,আপেক্ষিক রোধ কমে যায়,আপেক্ষিক রোধ বেড়ে যায়,বৈদ্যুতিক পরিবাহকত্ব কমে যায়,আপেক্ষিক রোধ একই থাকে,d
+1 kW-hr =? J,এক কিলোওয়াট ঘন্টা = কত জুল?,36 \times 10^{5},36 \times 10^{6},36 \times 10^{3},3600,36 \times 10^{5},36 \times 10^{6},36 \times 10^{3},3600,a
+"When s shunt is connected to a galvanometer of resistance 100\Omega , 99% of the input current bypass through the shunt. What is the resistance of shunt?",একটি গ্যালভানোমিটারের রোধ 100 \Omega এবং এর সাথে কত মানের একটি সান্ট যুক্ত করলে তড়িৎ প্রবাহমাত্রার 99% সান্টের মধ্যে দিয়ে যাবে?,2.01 \Omega,1.01 \Omega,1.10 \Omega,1.06 \Omega,2.01 \Omega,1.01 \Omega,1.10 \Omega,1.06 \Omega,b
+"A constructive interference is observed due to superposition of two coherent source of same frequency and amplitude, when
+ i. the two wave superimpose in same phase
+ ii. their path difference is even multiple of \frac{\lambda}{2}
+ iii. their phase difference is integer multiple of \pi
+ Which one is correct?","দুটি সুসংগত উৎস হতে নির্গত সমান কম্পাংক ও সমান বিস্তারের দুটি আলোক তরঙ্গের উপরিপাতনের ফলে কোনো বিন্দুতে গঠনমূলক ব্যতিচার সৃষ্টি হবে যখন-
+ i. তরঙ্গদ্বয় সমদশায় মিলিত হয়
+ ii. তরঙ্গদ্বয়ের দশা পার্থক্য \frac{\lambda}{2} এর জোড় গুণিতক হয়
+ iii. তরঙ্গদ্বয়ের দশা পার্থক্য \pi এর সরল গুণিতক হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which of the following has maximum wavelength?,নিচের কোন তরঙ্গের তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি?,Visible spectrum,Radio wave,Infrared ray,Ultraviolet ray,দৃশ্যমান বিকিরণ,বেতার তরঙ্গ,অবলোহিত রশ্মি,অতিবেগুনী রশ্মি,b
+What will be the relative mass of an object of test mass m_{0} moving at the speed of light?,m_{0} স্থির ভরসম্পন্ন একটি বস্তু যদি আলোর বেগে ধাবিত হয় তাহলে তার ভর হবে-,0,m_{0},2m_{0},\infinity,0,m_{0},2m_{0},\infty,d
+"An object of length 30m is set in motion from its state of rest with a velocity 0.5C.
+ What will be the relative length?",30 m দৈর্ঘ্যের কোনো বস্তু স্থির অবস্থা থেকে 0.5 c বেগে চলতে শুরু করলে গতিশীল অবস্থায় বস্তুর আপাত দৈর্ঘ্য কত হবে?,25.98 m,26.83 m,33.54 m,34.60 m,25.98 m,26.83 m,33.54 m,34.60 m,a
+What is the base of decimal number system?,ডেসিমেল সংখ্যা পদ্ধতির ভিত্তি-,2,8,10,16,2,8,10,16,c
+The binary expression for the number 25 is-,25 এর বাইনারী কোড হলো-,10011,11001,10101,10001,10011,11001,10101,10001,b
+Which one is used to dope Germanium to form a n-type semiconductor?,জার্মেনিয়ামের সাথে নিচের কোন মৌলটি যুক্ত করলে N-type অর্ধপরিবাহী তৈরি হবে?,Aluminium,Gallium,Arsenic,Indium,অ্যালুমিনিয়াম,গ্যালিয়াম,আর্সেনিক,ইন্ডিয়াম,c
+"A carnot's engine receives 800 J of heat from a source at 327\degree C and release heat to a sink at 127\degree C. Later the temperature of the sink is raised to 227\degree C.
+What is the work done by the engine?","একটি কার্নো ইঞ্জিন 327\degree C তাপমাত্রায় 800 J তাপ গ্রহণ করে 127\degree C তাপমাত্রায় তাপগ্রাহকে তাপ বর্জন করে। পরবর্তীতে তাপ গ্রাহকের তাপমাত্রা 227\degree C এ উন্নীত করা হয়।
+ 
+ ইঞ্জিন কর্তৃক সম্পাদিত কাজ হবে-",250 J,267 J,500 J,800 J,250 J,267 J,500 J,800 J,b
+"A carnot's engine receives 800 J of heat from a source at 327\degree C and release heat to a sink at 127\degree C. Later the temperature of the sink is raised to 227\degree C.
+ 
+ The efficiency compared to previous efficiency will be-","একটি কার্নো ইঞ্জিন 327\degree C তাপমাত্রায় 800 J তাপ গ্রহণ করে 127\degree C তাপমাত্রায় তাপগ্রাহকে তাপ বর্জন করে। পরবর্তীতে তাপ গ্রাহকের তাপমাত্রা 227\degree C এ উন্নীত করা হয়।
+ 
+ পরবর্তী অবস্থায় দক্ষতা পূর্বের-",half,equal,double,triple,অর্ধেক,সমান,দ্বিগুণ,তিনগুণ,a
+The phase difference between two points on the same wave front is-,একই তরঙ্গমুখে অবস্থিত যেকোনো দুটি বিন্দুর মধ্যে দশা পার্থক্য হবে-,3\frac{\pi}{2},\pi,\frac{\pi}{2},0,3\frac{\pi}{2},\pi,\frac{\pi}{2},0,d
+The electric meter in a house is labelled as '15A - 220V'. How many 60W bulbs can be used in that house safely?,একটি বাড়ির মেইন মিটারে 15A-220V চিহ্নিত করা আছে। 60W এর কতটি বাতি ঐ বাড়িতে নিরাপদে ব্যবহার করতে পারবে?,22,33,44,55,22,33,44,55,d
+At absolute zero temperature a semi-conductor behaves as a-,পরমশূন্য তাপমাত্রায় অর্থ পরিবাহীর আচরণ নিচের কোনটির অনুরূপ হবে?,good conductor,semi-conductor,super conductor,non-conductor,সুপরিবাহী,অর্ধ পরিবাহী,অতিপরিবাহী,অপরিবাহী,d
+Which one exchange among system and environment in an open system?,উন্মুক্ত সিস্টেমে সিস্টেম ও পরিবেশের মধ্যে আদান-প্রদান হয় কোনটি?,Mass and momentum,Momentum and energy,Mass and energy,Mass pressure,ভর ও ভরবেগ,ভরবেগ ও শক্তি,ভর ও শক্তি,ভর ও চাপ,c
+"For keeping unchange the volume if some heat provide in a gas then in this gas-
+ i. increase pressure
+ ii. increase kinetic energy
+ iii. increase temperature
+ Which one is correct?","আয়তন অপরিবর্তিত রেখে কোনো গ্যাস যদি কিছু তাপ প্রয়োগ করা হয়, তাহলে ঐ গ্যাসের ক্ষেত্রে-
+ i. চাপ বৃদ্ধি পায়
+ ii. গতিশক্তি বৃদ্ধি পায়
+ iii. তাপমাত্রা বৃদ্ধি পায়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one is the unit of permitivity constant?,পরাবৈদ্যুতিক ধ্রুবকের একক কোনটি?,C^{2}N^{-2}m^{-1},C^{2}N^{-1}m^{-1},C^{2}N^{-1}m^{-2},Unitless,C^{2}N^{-2}m^{-1},C^{2}N^{-1}m^{-1},C^{2}N^{-1}m^{-2},একক বিহীন,d
+How much angle create between electric field and uniform potential surface?,সমবিভব তল ও তড়িৎ ক্ষেত্রের মধ্যবর্তী কোণ কত ডিগ্রী?,0 \degree,45 \degree,90 \degree,180 \degree,0\degree,45\degree,90\degree,180\degree,c
+Which one is the change of entropy from higher temperature T_{1} to lower temperature T_{2} of an object of mass 'm' and specific heat 's'?,m ভরের এবং s আপেক্ষিক তাপের কোনো বস্তুর উচ্চ তাপমাত্রা T_{1} থেকে নিম্ন তাপমাত্রার T_{2} তে পরিবর্তিত হলে এর এনট্রপির পরিবর্তন হবে কোনটি?,ms (ln T_{2} - ln T_{1}),ms (ln T_{1} - ln T_{2}),ms ln(T_{2} - T_{1}),ms ln(T_{1} - T_{2}),ms (ln T_{2} - ln T_{1}),ms (ln T_{1} - ln T_{2}),ms ln(T_{2} - T_{1}),ms ln(T_{1} - T_{2}),a
+By how much the resistance of the wire increase if it is streched three times while keeping the temperature constant?,তাপমাত্রা স্থির রেখে একটি তারকে টেনে 3 গুণ করা হলে রোধ কত গুণ হবে?,Unchanged,3,9,27,অপরিবর্তিত,3,9,27,c
+Which one is correct for changing Galvanometer to Ammeter?,গ্যালভানোমিটারকে অ্যামিটারে রূপান্তরের ক্ষেত্রে কোনটি সঠিক?,Conncect high values resistance in parallel,Connect high values resistance in series,Connect low values resistance in parallel,Conncect law values resistance in series,বেশি মানের রোধ সমান্তরালে যুক্ত করতে হয়,বেশি মানের রোধ শ্রেণিতে যুক্ত করতে হয়,স্বল্প মানের রোধ সমান্তরালে যুক্ত করতে হয়,স্বল্প মানের রোধ শ্রেণিতে যুক্ত করতে হয়,c
+How much resistance of the bulb when 25W-200V writen in the bulb?,"একটি বৈদ্যুতিক বাল্বে 25 W - 200 V লেখা থাকলে, বাল্বটির রোধ কত?",1600 \Omega,8 \Omega,0.125 \Omega,6.25 \times 10^{4} \Omega,1600 \Omega,8 \Omega,0.125 \Omega,6.25 \times 10^{-4} \Omega,a
+What is the value of \beta when \alpha = 0.9 in a transistor?,একটি ট্রানজিস্টরের ক্ষেত্রে \alpha = 0.9 হলে \beta কত হবে?,0.11,0.47,2.11,9,0.11,0.47,2.11,9,d
+For a fission reaction _{92}^{235}\textrm{U} + _{0}^{1}\textrm{n} \rightarrow _{56}^{141}\textrm{Ba} + _{36}^{92}\textrm{Kr} + energy + ?,একটি ফিশন বিক্রিয়ায় _{92}^{235}\textrm{U} + _{0}^{1}\textrm{n} \rightarrow _{56}^{141}\textrm{Ba} + _{36}^{92}\textrm{Kr} + শক্তি + ?,Two neutrons,Three neutrons,Two protons,Three protons,দুটি নিউট্রন,তিনটি নিউট্রন,দুটি প্রোটন,তিনটি প্রোটন,b
+What is the value of rydberg constant?,রিডবার্গ ধ্রুবকের মান কত?,1.097 \times 10^{7} m^{-1},1.097m^{-1},0.097m^{-1},1.097 \times 10^{-7}m^{-1},1.097 \times 10^{7} m^{-1},1.097m^{-1},0.097m^{-1},1.097 \times 10^{-7}m^{-1},a
+Half life a radioactive element is 5 years. How much of the element will be eroded after 25 years?,কোনো তেজস্ক্রিয় মৌলের অর্ধায়ু 5 বছর। 25 বছর পর মৌলটির কত অংশ ক্ষয়প্রাপ্ত হবে?,3.127 \times 10^{-2},3.198 \times 10^{-1},6.802 \times \10^{-1},9.687 \times 10^{-1},3.127 \times 10^{-2},3.198 \times 10^{-1},6.802 \times \10^{-1},9.687 \times 10^{-1},d
+How much mass in kg of a moving electron when it's velocity 0.8C? Rest mass of electron = 9.1 \times 10^{-31} kg.,একটি ইলেক্ট্রন 0.8 c বেগে গতিশীল হলে এর চলমান ভর কত kg? ইলেক্ট্রনের নিশ্চল ভর = 9.1 \times 10^{-31} kg,9.1 \times 10^{-31},14.22 \times 10^{-31},15.17 \times 10^{-31},32.76 \times 10^{-31},9.1 \times 10^{-31},14.22 \times 10^{-31},15.17 \times 10^{-31},32.76 \times 10^{-31},c
+"For photon's-
+ i. rest mass zero
+ ii. energy h\upsilon
+ iii. velocity 3 \times 10^{8} ms^{-1}
+ Which one is correct?","ফোটনের ক্ষেত্রে-
+ i. স্থির ভর শূন্য
+ ii. শক্তি h\upsilon
+ iii. বেগ 3 \times 10^{8} ms^{-1}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"For a Young's double slit experiment, a dark fringe create by the superposition of two waves. Which one is the phase difference of that point of these waves (n consider as a integer)?",ইয়ং এর দ্বিচিড় পরীক্ষায় দুটি তরঙ্গের উপরিপাতনের ফলে পর্দায় কোনো বিন্দুতে অন্ধকার ডোরা উৎপন্ন হলো। ঐ বিন্দুতে তরঙ্গদ্বয়ের মধ্যে দশা পার্থক্য (n পূর্ণসংখ্যা বিবেচনা করে) হলো নিম্নরূপ কোনটি?,2\pi n,2\pi n + \frac{\pi}{4},2\pi n + \frac{\pi}{2},2n\pi + \pi,2\pi n,2\pi n + \frac{\pi}{4},2\pi n + \frac{\pi}{2},2n\pi + \pi,d
+What type of change is coming in the breath of the fringe when distance between slits becomes half and distance between slit to screen three times in Young's double slits experiment?,ইয়ং এর দ্বিচিড় পরীক্ষায় চিড়গুলোর মধ্যবর্তী দূরত্ব অর্ধেক এবং চিড় থেকে পর্দার দূরত্ব তিনগুণ করা হলে ডোরা প্রস্থের কীরূপ পরিবর্তন হবে?,Unchange,Will be 6 times,Will be 3 times,Will be 2 times,অপরিবর্তিত,6 গুণ হবে,3 গুণ হবে,2 গুণ হবে,b
+"With the helps of Huygen's principle-
+ i. refraction
+ ii. reflection
+ iii. polarization
+ Which one is correct?","হাইগেন্‌স এর নীতির সাহায্যে ব্যাখ্যা করা যায়-
+ i. প্রতিসরণ
+ ii. প্রতিফলন
+ iii. সমবর্তন
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the relation between distance and electric intensity of an electric dipole moment?,একটি তড়িৎ দ্বিমেরুর ক্ষেত্রে দূরত্বের সাথে তড়িৎ প্রাবল্য কীরূপ সম্পর্কিত?,E \propto \frac{1}{r},E \propto \frac{1}{r^{2}},E \propto \frac{1}{r^{3}},E \propto \frac{1}{r^{4}},E \propto \frac{1}{r},E \propto \frac{1}{r^{2}},E \propto \frac{1}{r^{3}},E \propto \frac{1}{r^{4}},c
+What is the nature of light rays and wave front is fresnel class of diffraction?,ফ্রেনেল শ্রেণির অপবর্তনে আলোকরশ্মি ও তরঙ্গমুখ কীরূপ হয়?,Convergent and spherical,Divergent and spherical,Parallel and plane,Parallel and cylindrical,অভিসারী ও গোলীয়,অপসারী ও গোলীয়,সমান্তরাল ও সমতল,সমান্তরাল ও বেলনাকৃতি,b
+How much the equivalent energy in ev of mass 1 amu (1.66 \times 10^{-27} kg)?,1 amu (1.66 \times 10^{-27} kg) ভরের সমতুল্য শক্তি কত eV?,9.338 \times 10^{8},9.338 \times 10^{6},3.113,1.494 \times 10^{-10},9.338 \times 10^{8},9.338 \times 10^{6},3.113,1.494 \times 10^{-10},a
+"Radioactivity-
+ i. is a nuclear phenomenon
+ ii. is a spontaneous phenomenon
+ iii. is depending on the atomic number of the element
+ Which one is correct?","তেজস্ক্রিয়তা-
+ i. একটি নিউক্লিয় ঘটনা
+ ii. একটি স্বতঃস্ফূর্ত
+ iii. মৌলের পারমাণবিক সংখ্যার উপর নির্ভরশীল
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the energy gap between conduction band valence band of silicon?,সিলিকনের জন্য যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান থাকে কোনটি?,0.3 ev,0.7 ev,1.1 ev,6 ev,0.3 eV,0.7 eV,1.1 eV,6 eV,c
+The lengths of two conductive wires made of same material are 3m and 6m respectively and radius are 1 cm and 0.5 cm respectively. What is the ratio of specific resistance of these wires?,একই উপাদানে তৈরি দুটি পরিবাহী তারের দৈর্ঘ্য যথাক্রমে 3 m ও 6 m এবং ব্যাসার্ধ যথাক্রমে 1 cm ও 0.5 cm এদের আপেক্ষিক রোধের অনুপাত কত?,1 : 8,1 : 4,1 : 1,4 : 1,1:8,1:4,1:1,4:1,c
+The protential barrier voltage for Si is-,Si এর জন্য বিভব বাধা ভোল্টেজের মান-,0.1 V,0.3 V,0.4 V,0.7 V,0.1 V,0.3 V,0.4 V,0.7 V,d
+"The current i is obtained from a series combination of n number of cells of electromotive force E, (Internal resistance of cell is r and external resistance of circuit is R) then-",n সংখ্যক E তড়িচ্চালক বলের কোষকে শ্রেণিতে যুক্ত করলে প্রবাহ i হবে (কোষের আভ্যন্তরীণ রোধ r ও বহিঃবর্তনীর রোধ R) ।,i = \frac{nE}{R + nr},i = \frac{nE}{nR + r},i = \frac{nE}{nR + nr},i = \frac{nE}{R + \frac{r}{n}},i = \frac{nE}{R + nr},i = \frac{nE}{nR + r},i = \frac{nE}{nR + nr},i = \frac{nE}{R + \frac{r}{n}},a
+The universal gate is-,সার্বজনীন গেইট হলো-,AND,NAND,OR,NOT,AND,NAND,OR,NOT,b
+The length of a rocket having light speed will be-,আলোর দ্রুতিতে গতিশীল একটি রকেটের দৈর্ঘ্য হবে-,half,Zero,double,infinity,অর্ধেক,শূন্য,দ্বিগুণ,অসীম,b
+"If the absorbed heat from the foodstuff preserved in the chamber of a refrigerator is Q_{2} and the released heat to the environment is Q_{1}, then the value of co-efficient of performance K is-",রেফ্রিজারেটর প্রকোষ্ঠে রক্ষিত খাদ্যদ্রব্য হতে গৃহীত তাপ Q_{2} এবং পরিবেশে বর্জিত তাপ Q_{1} হলে কার্যসহগ K এর মান হল-,K = \frac{Q_{1}}{Q_{2} - Q_{1}},K = \frac{Q_{1}}{Q_{1} - Q_{2}},K = \frac{Q_{2}}{Q_{1} - Q_{2}},K = \frac{Q_{2}}{Q_{2} - Q_{1}},K = \frac{Q_{1}}{Q_{2} - Q_{1}},K = \frac{Q_{1}}{Q_{1} - Q_{2}},K = \frac{Q_{2}}{Q_{1} - Q_{2}},K = \frac{Q_{2}}{Q_{2} - Q_{1}},c
+In surgery to make instruments germ free-,শল্য চিকিৎসায় ব্যবহৃত যন্ত্রপাতি জীবাণুমুক্ত করতে ব্যবহৃত হয়-,X-ray,Ultraviolet ray,Gamma rays,infrared ray,এক্স-রে,অতিবেগুনী রশ্মি,গামা-রে,অবলোহিত রশ্মি,b
+"The working substance at the second phase of Carnot's cycle-
+ i. absorb heat
+ ii. have decrease of pressure
+ iii. have decrease of temperature
+ Which one is correct?","কার্নো চক্রের দ্বিতীয় ধাপে কার্যনির্বাহক বস্তুর-
+ i. তাপের শোষণ ঘটে
+ ii. চাপ হ্রাস পায়
+ iii. তাপমাত্রা হ্রাস পায়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+The unit for Poynting Vector is-,পয়েন্টিং ভেক্টরের একক কোনটি?,Wm^{-1},Wm^{-2},Wm^{-1} s^{-1},Wm^{-2} s^{-1},Wm^{-1},Wm^{-2},Wm^{-1} s^{-1},Wm^{-2} s^{-1},b
+The ratio of moving length to the stationery length of a rocket is 1:3. The velocity of the rocket is-,কোনো রকেটের গতিশীল দৈর্ঘ্য ও স্থির দৈর্ঘ্যের অনুপাত 1 : 3 । রকেটের বেগ হল-,0.94 \times 10^{8} ms^{-1},1.73 \times 10^{8} ms^{-1},2.65 \times 10^{8} ms^{-1},2.83 \times 10^{8} ms^{-1},0.94 \times 10^{8} ms^{-1},1.73 \times 10^{8} ms^{-1},2.65 \times 10^{8} ms^{-1},2.83 \times 10^{8} ms^{-1},d
+To make n-type semiconductor which impurities are added in intrinsic semiconductor?,বিশুদ্ধ অর্ধ-পরিবাহীতে কোন অপদ্রব্য মেশালে n টাইপ অর্ধ-পরিবাহী তৈরি হয়?,As,Ga,B,Al,As,Ga,B,Al,a
+"U_[1} and U_{2} are the internal energy of two objects of temperature T_{1} and T_{2} respectively where T_{1} > T_{2}.
+ Which of the following occurs if the two objects came to thermal equilibrium is an isolated system?",T_{1} ও T_{2} তাপমাত্রার দুটি বস্তুর অভ্যন্তরীণ শক্তি যথাক্রমে U_{1} ও U_{2}; যেখানে T_{1} > T_{2} । বিচ্ছিন্ন সিস্টেমে বস্তুদ্বয় তাপীয় সাম্যবস্থায় আসলে নিচের কোনটি ঘটে?,"U_{1} increases, U_{2} decreases","U_{1} decreases, U_{2} increases","U_{1} increases, U_{2} decreases","U_{1} decreases, U_{2} decreases",U_{1} বৃদ্ধি U_{2} হ্রাস,U_{1} হ্রাস U_{2} বৃদ্ধি,U_{1} বৃদ্ধি U_{2} বৃদ্ধি,U_{1} হ্রাস U_{2} হ্রাস,b
+Accelerated reference frame is called-,ত্বরণযুক্ত প্রসঙ্গ কাঠামোকে বলে-,Galilean reference frame,Inertial reference frame,Non-inertial reference frame,Newtonian reference frame,গ্যালিলিও প্রসঙ্গে কাঠামো,জড় প্রসঙ্গে কাঠামো,অজড় প্রসঙ্গ কাঠামো,নিউটনীয় প্রসঙ্গ কাঠামো,c
+A shunt of magnitude S is connected parallel to a Galvanometer of resistance R and the shunt current becomes double of galvanometer current. The relation between R and S is-,R রোধের কোনো গ্যালভানোমিটারের সমান্তরাল S মানের সাল্ট ব্যবহার করলে সান্টের প্রবাহ গ্যালভানোমিটার প্রবাহের দ্বিগুণ হয়। R ও S এর সম্পর্ক হলো-,S = 4R,S = 2R,S = R,S = \frac{R}{2},S = 4R,S = 2R,S = R,S = \frac{R}{2},d
+The angle made by incident ray with the wave front is-,আপতিত আলোকরশ্মির তরঙ্গমুখের উৎপন্ন কোণ হলো-,0\degree,45\degree,90\degree,180\degree,0\degree,45\degree,90\degree,180\degree,c
+In a common emitter NPN transistor circuit I_{b} = 6 \times 10^{-5} A and I_{E} = 4.38 \times 10^{-3} A. Current gain (\beta) of the circuit is-,কোনো সাধারণ নিঃসারক NPN ট্রানজিস্টর বর্তনীতে I_{b} = 6 \times 10^{-5} A এবং I_{E} = 4.38 \times 10^{-3} A । বর্তনীর প্রবাহ লাভ (\beta) এর মান-,71,72,73,74,71,72,73,74,b
+"Inertial frame S^{\prime} is moving at constant velocity v with respect to a inertial frame S. The observers of the both frames determine the speed of light of a lamp as c^{\prime} and c respectively.
+ The relation between c^{\prime} and c will be-","S^{\prime} জড় প্রসঙ্গ কাঠামো, S জড় প্রসঙ্গ কাঠামোর সাপেক্ষে v ধ্রুব বেগে গতিশীল। উভয় কাঠামোর পর্যবেক্ষক কোনো বাতির আলোর দ্রুতি নির্ণয় করলেন যথাক্রমে c^{\prime} ও c ।
+ c^{\prime} ও c এর সম্পর্ক হবে-",c^{\prime} = c,c^{\prime} = c - v,c^{\prime} = c + v,c^{\prime} = \frac{c}{\sqrt{1 - v^{2}/c^{2}}},c^{\prime} = c,c^{\prime} = c - v,c^{\prime} = c + v,c^{\prime} = \frac{c}{\sqrt{1 - v^{2}/c^{2}}},a
+Which of the following is the value of y for ozone gas?,ওজোন গ্যাসের জন্য \gamma এর মান কোনটি?,1.03,1.33,1.4,1.67,1.03,1.33,1.4,1.67,b
+Post office box is used to determine which of the following?,পোস্ট অফিস বক্স নিচের কোনটি নির্ণয়ে ব্যবহৃত হয়?,Drift velocity,Electromotive force,Resistance,Reserve the file of post office,তাড়ন বেগ,তড়িৎ চালক বল,রোধ,ডাকঘরের নথি সংরক্ষণ,c
+"Due to superposition of two light wave alternate bright and dark state is produced.
+ The phenomenon is called-",দুটি আলোক রশ্মির উপরিপাতনের ফলে উজ্জ্বল ও অন্ধকার অবস্থা সৃষ্টির ঘটনাকে বলে-,Reflection,Refraction,spectrum,interference,প্রতিফলন,প্রতিসরণ,বর্ণালি,ব্যতিচার,d
+For which of the following there is no energy gap between valence bond and conduction bond?,যোজন ব্যান্ড এবং পরিবহণ ব্যান্ডের মধ্যে কোনো ফাঁকা থাকে না নিচের কোনটিতে?,Silicon,Germanium,Ceramic,Copper,সিলিকন,জার্মেনিয়াম,সিরামিক,তামা,d
+Characteristics of N-type semi-conductor-,একটি N টাইপ অর্ধ-পরিবাহীর বৈশিষ্ট্য হলো-,it is negatively charged,it contains more protone in it,number of holes is more,it is charge neutral,একটি ঋণাত্মক চার্জগ্রস্থ,এতে প্রোটনের আধিক্য থাকে,হোলের পরিমাণ বেশি থাকে,এটি আধান নিরপেক্ষ,d
+A system absorbs 1500J heat from environment and 300J work is done on the system. What is the change of internal energy?,কোন ব্যবস্থা পরিবেশ থেকে 1500 জুল তাপ শোষণ করে এবং ব্যবস্থার উপর 300 জুল কাজ সম্পাদিত হয়। ব্যবস্থাটির অভ্যন্তরীণ শক্তির পরিবর্তন কত?,1200 J,- 1200 J,1800 J,- 1800 J,1200 জুল,- 1200 জুল,1800 জুল,- 1800 জুল,c
+"For a conductor specific resistance depends of-
+ i. length
+ ii. temperature
+ iii. material
+ Which one is correct?","আপেক্ষিক রোধ নির্ভর করে পরিবাহীর-
+ i. দৈর্ঘ্যের উপর
+ ii. তাপমাত্রার উপর
+ iii. উপাদানের উপর
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Two resistance of 20\Oemga and 30\Omega are connected in left and right gaps respectively of a meterbridge. What is the distance of neutral point from the left end?,একটি মিটার ব্রীজের বাম ও ডান ফাঁকে যথাক্রমে 20 \Omega এবং 30 \Omega রোধ যুক্ত রয়েছে। বাম প্রান্ত হতে কত দূরে সাম্য বিন্দু পাওয়া যাবে?,30 cm,40 cm,50 cm,60 cm,30 cm,40 cm,50 cm,60 cm,b
+What is the frequency of an electromagnetic wave whose wavelength is 3500\AA ?,কোনো তড়িৎ চুম্বকীয় তরঙ্গের তরঙ্গদৈর্ঘ্য 3500 \AA হলে এর কম্পাংক কত?,6.5 \times 10^{14} Hz,7.57 \times 10^{15} Hz,8.57 \times 10^{14} Hz,9.67 \times 10^{14} Hz,6.5 \times 10^{14} Hz,7.57 \times 10^{15} Hz,8.57 \times 10^{14} Hz,9.67 \times 10^{14} Hz,c
+What is the length of a meter scale moving with velocity 0.5C?,0.5 c বেগে গতিশীল একটি মিটার স্কেলের দৈর্ঘ্য কত হবে?,200 cm,115.47 cm,100 cm,86.6 cm,200 cm,115.47 cm,100 cm,86.6 cm,d
+The emitter and base current of a transistor are 25 mA and 7 mA respectively- What is the value of collector current?,একটি ট্রানজিস্টরের নিঃসারক প্রবাহের মান 25 mA এবং ভূমি প্রবাহের মান 7 mA হলে সংগ্রাহক প্রবাহের মান কত?,32 mA,18 mA,3.2 mA,3 mA,32 mA,18 mA,3.2 mA,3 mA,b
+"In case of Galilean transformation-
+ i. time is not depended on observer
+ ii. equations of Newtonian Mechanies remain in same form
+ iii. electro-magnetic equations remain in same form
+ Which one is correct?","গ্যালিলিও রূপান্তরে-
+ i. সময় পর্যবেক্ষণ নির্ভর নয়
+ ii. নিউটনিয়ান বলবিদ্যার সমীকরণের রূপ অপরিবর্তিত থাকে
+ iii. তড়িৎ চুম্বকীয় সমীকরণের রূপ অপরিবর্তিত থাকে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If the velocity of a particles of stationary mass m_{0} is \frac{C}{\sqrt{2}}, Then its momentum-",m_{0} স্থির ভরসম্পন্ন কণার বেগ \frac{c}{\sqrt{2}} হলে এর ভরবেগ-,\frac{1}{\sqrt{2}} m_{0}c,\frac{1}{2} m_{0}c,m_{0}c,2 m_{0}c,\frac{1}{\sqrt{2}} m_{0}c,\frac{1}{2} m_{0}c,m_{0}c,2 m_{0}c,c
+"In case of adiabatic compression-
+ i. heat is absorbed
+ ii. work is done on the system
+ iii. temperature of the system increases
+ Which one is correct?","রুদ্ধতাপীয় সংকোচনের ক্ষেত্রে-
+ i. তাপ শোষিত হয়
+ ii. সিস্টেমের উপর কার্য সম্পাদিত হয়
+ iii. সিস্টেমের তাপমাত্রা বৃদ্ধি হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Which one of the following is demonstrated by Young's double slit experiment?,ইয়ং-এর দ্বিচি পরীক্ষা দ্বারা নিচের কোনটি প্রদর্শিত হয়?,Diffraction,Polarization,interference,Travels of light in straight line,অপবর্তন,সমবর্তন,ব্যতিচার,আলোর সরল পথে চলা,c
+Laws of reflection and refraction can be proved by which of the following?,আলোর প্রতিফলন এবং প্রতিসরণের সূত্র প্রমাণ করা যায়-,Huygen's principle,Young's double slit experiment,Grating,Prism,হাইগেনস এর নীতির সাহায্যে,দ্বিচিড় পরীক্ষার সাহায্যে,গ্রেটিং এর সাহায্যে,প্রিজমের সাহায্যে,a
+Which one of the following is not connect in case of Carnot's engine?,কার্নোর ইঞ্জিনের ক্ষেত্রে নিচের কোনটি সঠিক নয়?,Changes isothermally,Changes adiabatically,Temperature of source changes,Temperature of link does not change,সমোষ্ণ পরিবর্তন ঘটে,রুদ্ধতাপীয় পরিবর্তন ঘটে,তাপ উৎসের তাপমাত্রার পরিবর্তন হয়,তাপ গ্রাহকের তাপমাত্রার পরিবর্তন হয় না,c
+Mathematical form of second law of thermodynamics-,তাপগতিবিদ্যার দ্বিতীয় সূত্রের গাণিতিক রূপ-,dQ = TdS,dQ = \frac{dS}{T},W = JH,dQ = dU + dW,dQ = TdS,dQ = \frac{dS}{T},W = JH,dQ = dU + dW,a
+Concept of thermometer can be observed from which of the following Laws of thermodynamics?,থার্মোমিটার এর ধারণা পাওয়া যায় তাপগতিবিদ্যার কোন সূত্র হতে?,Zeroth,First,Second,Third,শূন্যতম,প্রথম,দ্বিতীয়,তৃতীয়,a
+Which one of the following can be used as swith?,সুইচ হিসেবে ব্যবহার করা যায় নিচের কোনটি?,Resistor,Inductor,Diod,Transistor,রোধক,আবেশক,ডায়োড,ট্রানজিস্টর,d
+What is the right fundamental equation of thermometry in the below?,থার্মোমিতির মূল সমীকরণ নিচের কোনটি?,\frac{N}{\theta - \theta_{ice}} = \frac{X_{\theta} - X_{ice}}{X_{steam} - X_{ice}},\frac{\theta - \theta_{ice}}{N} = \frac{X_{\theta} - X_{ice}}{X_{steam} - X_{ice}},\frac{N}{\theta - \theta_{ice}} = \frac{X_{steam} - X_{ice}{X_{\theta} - X_{ice}}},\frac{\theta - \theta_{ice}}{N} = \frac{X_{steam} - X_{ice}}{X_{\theta} - X_{ice}},\frac{N}{\theta - \theta_{ice}} = \frac{X_{\theta} - X_{ice}}{X_{steam} - X_{ice}},\frac{\theta - \theta_{ice}}{N} = \frac{X_{\theta} - X_{ice}}{X_{steam} - X_{ice}},\frac{N}{\theta - \theta_{ice}} = \frac{X_{steam} - X_{ice}{X_{\theta} - X_{ice}}},\frac{\theta - \theta_{ice}}{N} = \frac{X_{steam} - X_{ice}}{X_{\theta} - X_{ice}},b
+"X \xarrowright{\beta} Y \xarrowright{\alpha} Z \xrightarrow{\gamma} M
+ [Where \alpha , \beta and \gamma are the emitted particles from X, Y and Z elements respectively. The mass number of the element M is 210 and its atomic number is 82.]
+ 
+ What is the atomic number of the elementry?","X \xarrowright{\beta} Y \xarrowright{\alpha} Z \xrightarrow{\gamma} M
+ [এখানে, \alpha , \beta ও \gamma যথাক্রমে X, Y ও Z হতে রশ্মি বিকিরণ বোঝানো হয়েছে। M মৌলের ভরসংখ্যা 210 এবং পারমাণবিক সংখ্যা 82]
+ 
+ Y মৌলের পারমাণবিক সংখ্যা কত?",84,82,80,78,84,82,80,78,a
+"X \xarrowright{\beta} Y \xarrowright{\alpha} Z \xrightarrow{\gamma} M
+ [Where \alpha , \beta and \gamma are the emitted particles from X, Y and Z elements respectively. The mass number of the element M is 210 and its atomic number is 82.]
+ 
+ X and Y elements of the stem are-","X \xarrowright{\beta} Y \xarrowright{\alpha} Z \xrightarrow{\gamma} M
+ [এখানে, \alpha , \beta ও \gamma যথাক্রমে X, Y ও Z হতে রশ্মি বিকিরণ বোঝানো হয়েছে। M মৌলের ভরসংখ্যা 210 এবং পারমাণবিক সংখ্যা 82]
+ 
+ উদ্দীপকের X ও Y মৌল হলো-",Isobar,Isotone,Isotope,Isomer,আইসোবার,আইসোটোন,আইসোটোপ,আইসোমার,a
+What is unit of entropy?,এনট্রপির একক কোনটি?,NK^{-1},JK^{-1},JK^{-1} mol^{-1},N^{-1} m^{-2} C^{2},NK^{-1},JK^{-1},JK^{-1} mol^{-1},N^{-1} m^{-2} C^{2},b
+"The decisions of the Michelson Morley's experiments are-
+ i. there is no any either medium in this universe
+ ii. Galilian transformation is right
+ iii. the velocity of light is constant, that is not dependable of any observer
+ Which one is correct?","মাইকেলসন-মর্লির পরীক্ষার সিদ্ধান্তসমূহ হচ্ছে-
+ i. ইথার মাধ্যম বলতে এ মহাবিশ্বে কিছু নেই
+ ii. গ্যালিলিওর রূপান্তর সঠিক
+ iii. আলোর বেগ একটি ধ্রুব রাশি যা কোনো পর্যবেক্ষকের উপর নির্ভরশীল নয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+Deffraction is one kind of-,অপবর্তন এক বিশেষ ধরনের-,polarisation,reflection,interference,refraction,সমবর্তন,প্রতিফলন,ব্যাতিচার,প্রতিসরণ,c
+What is the unit of electric flux?,তড়িৎ ফ্লাক্সের একক কী?,NC^{-1}m^{2},JC^{-1},V,VM^{-1},NC^{-1}m^{2},JC^{-1},V,VM^{-1},a
+Which fundamental force's field particle the Intermediate Vectar Bosom is-,Intermediate vector boson কোন মৌলিক বলের ক্ষেত্রকণার মান?,a strong nuclear force,weak nuclear force,gravitational force,electromagnetic force,সবল নিউক্লিয় বল,দুর্বল নিউক্লিয় বল,মহাকর্ষ বল,তড়িৎ চুম্বকীয় বল,b
+"For the neutron the fact is correct-
+ i. it is chargeless particle
+ ii. by decaying creates a proton, an electron and an antinutrino
+ iii. it is highly peretrating power
+ Which one is correct?","নিউট্রনের ক্ষেত্রে সঠিক হলো-
+ i. এটি চার্জহীন কণিকা
+ ii. এটি ক্ষয়প্রাপ্ত হয়ে একটি প্রোটন, একটি ইলেক্ট্রন ও একটি এন্টি নিউট্রনো তৈরি করে
+ iii. এটি অত্যধিক ভেদন ক্ষমতাসম্পন্ন
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+What is not a polar dielectric substance of the below?,নিচের কোনটি পোলার ডাইইলেক্ট্রিক পদার্থ নয়?,HN_{3},HCl,H_{2}O,CH_{4},HN_{3},HCl,H_{2}O,CH_{4},d
+"The characteristics of photoelectric effect is-
+ i. it is instantaneous incident
+ ii. the kinetic energy of photoelectron is proportional the frequency of the incident light
+ iii. the amount of the photoelectric current is inversely proportional to the intensity of the incident light
+ Which one is correct?","আলোক তড়িৎ ক্রিয়ার বৈশিষ্ট্য হলো-
+ i. এটি একটি তাৎক্ষণিক ঘটনা
+ ii. ফটি ইলেক্ট্রনের গতিশক্তি আপতিত আলোর কম্পাঙ্কের সমানুপাতিক
+ iii. ফটোতড়িৎ প্রবাহের মান আপতিত আলোর তীব্রতার ব্যস্তানুপাতিক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the maximum number of diodes required for a full wave rectifier?,পূর্ণ তরঙ্গ রেকটিফায়ারে সর্বোচ্চ কতটি ডায়োড প্রয়োজন?,1,2,3,4,1,2,3,4,d
+"If electricity flows through a parallel connection of two resistance of unequal values then-
+ i. electricity will flow through the resistance with different values
+ ii. potential difference will be equal to the both points
+ iii. heat production will be low to the low valued resistance
+ Which one is correct?","অসম মানের দুটি রোধকে সমান্তরালে যুক্ত করে তড়িৎ প্রবাহিত করলে-
+ i. রোধ দুটিতে ভিন্ন মানের তড়িৎ প্রবাহিত হবে
+ ii. উভয় রোধের বিভব পার্থক্য সমান হবে
+ iii. কম মানের রোধের প্রান্তে কম তাপ উৎপন্ন হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"When a p-n junction is in reverse bias, if the applied voltage increases to certain voltage, the electric current in the p-n junction suddenly increases very high. This voltage is called-",p-n জাংশন বিমুখী ঝোঁকে থাকাকালীন ভোল্টেজ ক্রমশ বাড়তে থাকলে একটি বিশেষ ভোল্টেজে প্রবাহমাত্রা হঠাৎ বেড়ে যায়। এই ভোল্টেজকে বলা হয়-,hall voltage,lost voltage,zener voltage,none of the above,হল ভোল্টেজ,লস্ট ভোল্টেজ,জজেনার ভোল্টেজ,কোনোটিই না,c
+The number (19E)_{16} hexadecimal indicates what is the number in decimal?,(19 E)_{16} হেক্সাডেসিমেল নম্বরটি ডেসিমেলে কত সংখ্যা নির্দেশ করে?,214,314,414,514,214,214,414,514,c
+"For the isothermal process it obeys that-
+ i. in this process temperature remains constant
+ ii. in this process, dQ = - dW
+ iii. heat is exchangeable between the system and environment
+ Which one is correct?","সমোষ্ণ প্রক্রিয়ার ক্ষেত্রে প্রযোজ্য হলো-
+ i. এ প্রক্রিয়ায় তাপমাত্রা স্থির থাকে
+ ii. এ প্রক্রিয়ায় dQ = - dW
+ iii. এ প্রক্রিয়ায় সিস্টেম ও পরিবেশের মধ্যে তাপের আদান-প্রদান হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+What is the relation between the distance of the two successive bright interference fringe (\Delta x) and the width of a single bright fringe (\delta x) in Young's double slits experiment?,ইয়ং এর দ্বিচিড় পরীক্ষায় সৃষ্ট ব্যাতিচার ঝালরে পর পর দুটি উজ্জ্বল ডোরার ব্যবধান (\Delta x) এবং একটি উজ্জ্বল ডোরার প্রস্থ (\delta x) এর মধ্যকার সম্পর্ক নিচের কোনটি?,\Delta x = 2 \delta x,\delta x = 2 \Delta x,\delta x = \frac{\Delta x}{4},\Delta x = \frac{\delta x}{4},\Delta x = 2 \delta x,\delta x = 2 \Delta x,\delta x = \frac{\Delta x}{4},\Delta x = \frac{\delta x}{4},a
+Which one of the below is incorrect for potential difference?,বিভব পার্থক্যের জন্য নিচের কোনটি সঠিক নয়?,Potential difference permits electric current from one point to another of the circuit,Potential difference depends on the resistance of the conductor,Potential difference is a result of the e.m.f of the circuit,Potential difference of any two points in a circuit is greater than e.m.f of the cell of the circuit,বিভব পার্থক্য বর্তনীর যেকোনো দুই বিন্দুর মধ্যে তড়িৎ সরবরাহ করে,বিভব পার্থক্য পরিবাহীর রোধের উপর নির্ভর করে,বর্তনীর যেকোনো দুই বিন্দুর বিভব পার্থক্য তড়িচ্চালক বলের ফল,বর্তনীর যেকোনো অংশের বিভব পার্থক্য কোষের তড়িচ্চালক শক্তি অপেক্ষা বেশি,d
+The depletion layer of PN junction in forward bias is-,Forward bias এ PN জাংশনের ডিপ্লেশন স্তর-,extended,compressed,remain unchanged,charged,প্রসারিত হয়,সংকুচিত হয়,অপরিবর্তিত থাকে,চার্জিত হয়,b
+"When a beta particle is emitted, then in the nucleus-",একটি বিটা কণা নির্গত হলে নিউক্লিয়াসের-,number of proton is increased,number of neutron is increased,number of proton is decreased,mass number is increased,প্রোটন সংখ্যা বৃদ্ধি পায়,নিউট্রন সংখ্যা বৃদ্ধি পায়,প্রোটন সংখ্যা হ্রাস পায়,ভরসংখ্যা হ্রাস পায়,a
+"After passing through a narrow slit, the ray of light enters in the geometric region is called-",সরু চিড়ের মধ্য দিয়ে গমনের পর আলোক রশ্মি জ্যামিতিক ছায়া অঞ্চলে প্রবেশ করাকে বলে-,dispersion,interference,diffraction,polarization,বিচ্ছুরণ,ব্যতিচার,অপবর্তন,সমবর্তন,c
+Which of the following substance as impurity is used to get N-type semiconductor?,N টাইপ অর্ধপরিবাহী পাওয়ার জন্য নিচের কোন পদার্থটি অপদ্রব্য হিসেবে ব্যবহার করা হয়?,Aluminium,Antimony,Boron,Indium,এলুমিনিয়াম,এন্টিমনি,বোরন,ইন্ডিয়াম,b
+Which colour of light will be used to minimize the width's of interference fringe in the Young's double slit experiment?,ইয়ং এর দ্বিচিড় পরীক্ষায় কোন বর্ণের আলো ব্যবহার করলে ব্যতিচার ডোরার বিস্তার সবচেয়ে কম হবে?,Red,Green,Violet,Orange,লাল,সবুজ,বেগুনি,কমলা,c
+"Any system absorbed 50 Joule heat energy from the environment and did 20 Joule work on the environment.
+ What does the change in internal energy of this system?",কোনো ব্যবস্থা পরিবেশ থেকে 50 জুল তাপ শক্তি শোষণ করে এবং পরিবেশের উপর 20 জুল কাজ সম্পাদন করে। এতে ব্যবস্থার অন্তঃস্থ শক্তির পরিবর্তন কত?,20 Joule,30 Joule,50 Joule,70 Joule,20 জুল,30 জুল,50 জুল,70 জুল,b
+A charge of 5 \times 10^{-11} is given to the surface of a spherical conductor of radius 100 cm. The potential at a distance of 25 cm. from the centre of the sphere will-,100 cm ব্যাসার্ধবিশিষ্ট একটি গোলকের পরিবাহীর পৃষ্ঠে 5 \times 10^{-11} কুলম্ব চার্জ প্রদান করা হলো। গোলকের কেন্দ্রে থেকে 25 cm দূরে তড়িৎ বিভব হবে-,3.6 V,1.8 V,0.9 V,0.45 V,3.6 V,1.8 V,0.9 V,0.45 V,d
+"In the photoelectric effect-
+ i. if the frequency of incident light will be less than the threshold frequency then the electron is emmitted only.
+ ii. If the frequency of light is increased then stopping potential is increased
+ iii. there is a relation between the energy of emitted electron with the change of colour of light.
+ Which one is correct?","আলোর তড়িৎ ক্রিয়ায়-
+ i. আপতিত আলোর কম্পাংক সূচন কম্পাংকের চেয়ে কম হলেই কেবল Electron নির্গমন ঘটে
+ ii. আলোর কম্পাংক বাড়ালে নিবৃত্তি বিভব বৃদ্ধি পায়
+ iii. আলোর বর্ণ পরিবর্তনের সাথে নির্গত ইলেক্ট্রনের শক্তির সম্পর্ক রয়েছে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+If the frequency of a photon of X-ray is 4 \times 10^{15} Hz then what will the value of energy?,X-ray এর একটি ফোটনের কম্পাংক 4 \times 10^{15} Hz হলে এর শক্তি কত হবে?,26.52 \times 10^{-34} Joule,26.52 \times 10^{-19} Joule,26.52 \times 10^{-19} Joule,26.52 \times 10^{-40} Joule,26.52 \times 10^{-34} জুল,26.52 \times 10^{-19} জুল,26.52 \times 10^{-19} জুল,26.52 \times 10^{-40} জুল,b
+"The unit of radoactive activity-
+ i. Becquerel
+ ii. Curie
+ iii. Rutherford
+ Which one is correct?","তেজস্ক্রিয় সক্রিয়তার একক-
+ i. বেকেরেল
+ ii. কুরী
+ iii. রাদারফোর্ড
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+If the current flow suddenly increases abnormally in the reversed bias of p-n junction then this event is called-,"বিপরীত ঝোঁক যখন PN জাংশনে তড়িৎ প্রবাহ হঠাৎ করে স্বাভাবিক হারে বৃদ্ধি পায়, তখন এই ঘটনাকে বলা হয়-",amplification,filtering,zener effect,rectification,অ্যামপ্লিফিকেশন,ফিল্টারিং,জেনার ক্রিয়া,রেক্টিফিকেশন,c
+Which one of the following is not used to prove the laws of reflection and refraction of light?,নিচের কোনটি দ্বারা আলোর প্রতিফলন ও প্রতিসরণের সূত্র প্রমাণ করা যায় না?,Huygens,Farmats principle,Corpuscular theory,Bohr's corresponding principle,হাইগেন্‌স এর নীতি,ফার্মাটের নীতি,নিউটনের কণা তত্ত্ব,বোরের অনুরূপতার নীতি,d
+If the current of 1 A is passed through 1\Omega resistance per second then the amount of produced heat is-,প্রতি সেকেন্ডে 1 \Omega রোধের মধ্য দিয়ে 1 A তড়িৎ প্রবাহমাত্রা প্রেরণ করা হলে উৎপন্ন তাপের পরিমাণ-,0.2 J,0.24 Cal,4.2 J,4.2 Cal,0.24 J,0.24 cal,4.2 J,4.2 cal,b
+"In adiabatic process-
+ i. entropy is unchanged
+ ii. there is no exchange of heat
+ iii. there is no change of temperature
+ Which one is correct?","রুদ্ধতাপীয় প্রক্রিয়ায়-
+ i. Entropy অপরিবর্তিত থাকে
+ ii. তাপের আদান প্রদান ঘটে না
+ iii. তাপমাত্রার পরিবর্তন ঘটে না
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the value of \gamma of triatomic gas?,ত্রিপরমাণুক গ্যাসের জন্য \gamma এর মান-,1.33,1.41,1.66,3,1.33,1.41,1.66,3,a
+The capacitance of a spherical conductor varies with its radius-,গোলকের পরিবাহীর ধারকত্ব উহার ব্যাসার্ধের-,proportional,inversely proportional to the square root,proportional to the square,inversely proportional,সমানুপাতিক,বর্গের ব্যস্তানুপাতিক,বর্গমূলের সমানুপাতিক,ব্যস্তানুপাতিক,a
+"If the current flow in a conductor becomes five times, then how many times the rate of heat production?",কোনো পরিবাহীতে তড়িৎ প্রবাহমাত্রা পাঁচগুণ করা হলে তাপ উৎপাদনের হার কত গুণ হবে?,\frac{1}{5},5,25,50,\frac{1}{5},5,25,50,c
+Which one of the following is electromagnetic?,নিচের কোনটি তড়িৎ চুম্বকীয় তরঙ্গ?,Alpha rays,Beta rays,Gamma rays,Photoelectron,আলফা রশ্মি,বিটা রশ্মি,গামা রশ্মি,ফটোইলেক্ট্রন,c
+"When a photon of energy equal to the work function of a metal is incident, the kinetic energy of the emitted electron-",কোনো ধাতুর কার্য অপেক্ষকের সমান শক্তির একটি ফোটন আপতিত হলে নির্গত ইলেক্ট্রনের গতিশক্তি-,zero,infinity,equal to the energy of incident photon,equal to the work function,শূন্য,অসীম,আপতিত ফোটনের শক্তির সমান,কার্য অপেক্ষকের সমান,a
+"The equation of the produced heat in the circuit is-
+ i. VIt
+ ii. \frac{V^{2}}{Rt}
+ iii. I^{2}Rt
+ Which one is correct?","তড়িৎ বর্তনীতে উৎপন্ন তাপের সমীকরণ হলো-
+ i. Vit
+ ii. \frac{V^{2}}{Rt}
+ iii. I^{2}Rt
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"The combined form of 1st and 2nd law of thermodynamics is-
+ i. dW = TdS - dU
+ ii. dW = TdS - PdV
+ iii. dW = TdS - C_{v}dT
+ Which one is correct?","তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত রূপ হলো-
+ i. dW = TdS - dU
+ ii. dU = TdS - pdV
+ iii. dW = TdS - CVdT
+ নিচের কোনটি সঠিক?",i & ii,ii & iii,i & iii,"i, ii & iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+The capacitance of a spherical conductor varies with its radius-,গোলাকার পরিবাহীর ধারকত্ব এর ব্যাসার্ধের-,proportional,inversely proportional to the square root,inversely proportional,proportional to the square,সমানুপাতিক,বর্গের ব্যস্তানুপাতিক,ব্যস্তানুপাতিক,বর্গের সমানুপাতিক,a
+"The shape of the incident wave front of Fresnel's class diffraction will be-
+ i. spherical
+ ii. plane
+ iii. cylendrical
+ Which one is correct?","ফ্রেনেল শ্রেণির অপবর্তনে আপতিত তরঙ্গমুখের আকৃতি হবে-
+ i. গোলীয়
+ ii. সমতল
+ iii. সিলিন্ডার
+ নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+What is the mass of electron of kinetic energy at 1.6 \times 10^{6}eV?,1.6 \times 10^{6} eV গতিশক্তি সম্পন্ন ইলেকট্রনের ভর কত?,3.75 \times 10^{-31} kg,9.1 \times 10^{-31} kg,9.75 \times 10^{-31} kg,37.54 \times 10^{-31} kg,3.75 \times 10^{-31} kg,9.1 \times 10^{-31} kg,9.75 \times 10^{-31} kg,37.54 \times 10^{-31} kg,d
+Which one if the following is not variable according to the theory of relativity?,আপেক্ষিক তত্ত্ব অনুসারে নিচের কোনটি পরিবর্তনশীল নয়?,Mass,Time,Velocity of light,Length,ভর,সময়,আলোর দ্রুতি,দৈর্ঘ্য,c
+What is the difference between valanced band and conduction band for Ge?,Ge এর ক্ষেত্রে যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তির ব্যবধান কত?,0.7 eV,1.1 eV,6 eV,7 eV,0.7 eV,1.1 eV,6 eV,7 eV,a
+"For the thermodynamics process-
+ i. at isothermal, dU = 0
+ ii. at adiabatic, dW = - dU
+ iii. at isochoric, dQ = dU
+ Which one is correct?","তাপগতীয় প্রক্রিয়ার ক্ষেত্রে প্রযোজ্য-
+ i. সমোষ্ণ প্রক্রিয়ায়, dU = 0
+ ii. রুদ্ধতাপীয় প্রক্রিয়ায়, dW = - dU
+ iii. সমআয়তন প্রক্রিয়ায়, dQ = dU
+ নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+The average life of a piece of radioactive element is-,তেজস্ক্রিয় বস্তুখণ্ডের গড় জীবন হলো-,\frac{\lambda}{ln2},\frac{1}{\lambda},\frac{0.693}{T_{\frac{1}{2}}},\frac{0.693}{\lambda},\frac{\lambda}{ln2},\frac{1}{\lambda},\frac{0.693}{T_{\frac{1}{2}}},\frac{0.693}{\lambda},b
+The angular momentum of electron at fourth Bohr's orbit of a hydrogen atom is-,হাইড্রোজেন পরমাণুর চতুর্থ বোর কক্ষে ইলেকট্রনের কৌণিক ভরবেগ হলো-,\frac{h}{\pi},\frac{2h}{\pi},\frac{h}{\lambda},\frac{2h}{\lambda},\frac{h}{\pi},\frac{2h}{\pi},\frac{h}{\lambda},\frac{2h}{\lambda},b
+Which one is the unit of current density?,প্রবাহ ঘনত্বের একক কোনটি?,A m^{-2},A m,m A^{-1},A^{-1} m^{2},A m^{-2},A m,m A^{-1},A^{-1} m^{2},a
+A carnot engine is operated between the melting point and boiling point. What is its efficiency?,একটি কার্নো ইঞ্জিন হিমাঙ্ক ও স্ফুটনাঙ্কের মধ্যে কার্যরত আছে। এর দক্ষতা কত?,98%,62.18%,46.28%,26.81%,98%,62.18%,46.28%,26.81%,d
+What is the resistance of the bulb which is marked as 400W-200V?,400 W - 200 V চিহ্নিত বাল্বের রোধ কত?,200 \Omega,100 \Omega,2 \Omega,0.5 \Omega,200 \Omega,100 \Omega,2 \Omega,0.5 \Omega,b
+Entropy of reversible process-,প্রত্যাগামী প্রক্রিয়ায় এন্ট্রপি-,remains constant,increases,decreases,becomes zero,স্থির থাকে,বৃদ্ধি পায়,হ্রাস পায়,শূন্য হয়,a
+The potential difference of an uniform electric field at the distance of 50cm between two points is 200V. What is intensity?,একটি সুষম তড়িৎক্ষেত্রে 50 cm ব্যবধানে অবস্থিত দুটি বিন্দুর বিভব পার্থক্য 200 V । প্রাবল্য কত?,50 Vm^{-1},100 Vm^{-1},400 Vm^{-1},1600 Vm^{-1},50 Vm^{-1},100 Vm^{-1},400 Vm^{-1},1600 Vm^{-1},c
+"Which quantity of the following will be same, if three system are in thermal equilibrium?",তিনটি সিস্টেম তাপীয় সাম্যবস্থায় থাকলে তাদের নিচের কোন রাশিটি একই হবে?,Potential energy,Internal energy,Mass,Temperature,বিভব শক্তি,অন্তঃস্থ শক্তি,ভর,তাপমাত্রা,d
+The potential of any point of an electric field is,তড়িৎ ক্ষেত্রের কোনো বিন্দুর বিভব হচ্ছে-,the work done to bring an unit negative charge form infinity,the force acting on an unit positive charge at that point,the work done to bring an unit positive charge from infinity,the force acting on an unit negative charge at that point,অসীম বিন্দু থেকে এর ঋণাত্মক চার্জ আনতে কৃতকাজ,ঐ বিন্দুতে একক ধনাত্মক চার্জের উপর ক্রিয়াশীল বল,অসীম দূর থেকে একক ধনাত্মক চার্জ আনতে কৃতকাজ,ঐ বিন্দুতে একক ঋণাত্মক চার্জের ওপর ক্রিয়াশীল বল,c
+Which one is the equivalent unit of volt?,ভোল্ট এর তুল্য একক কোনটি?,JC^{-1},J.C,N.C^{-1},N.m^{-1},JC^{-1},J.C,N.C^{-1},N.m^{-1},a
+"The efficiency of a reversible Carnot's engine is 50% when it is in a sink of 27\degree C.
+ 
+ What is the temperature of the source of engine?","একটি প্রত্যাবর্তী কার্নো ইঞ্জিন যখন 27\degree C তাপমাত্রায় তাপগ্রাহকে থাকে তখন এর কর্ম-দক্ষতা হয় 50%।
+ 
+ ইঞ্জিনটির উৎসের তাপমাত্রা কত?",500 K,550 K,600 K,650 K,500 K,550 K,600 K,650 K,c
+"The efficiency of a reversible Carnot's engine is 50% when it is in a sink of 27\degree C.
+ 
+ To make the efficiency of that engine 60%-
+ i. temperature of the source will be 750K
+ ii. the temperature of sink will decrease 150K
+ iii. the temperature of source will increase 150K
+ Which one is correct?","একটি প্রত্যাবর্তী কার্নো ইঞ্জিন যখন 27\degree C তাপমাত্রায় তাপগ্রাহকে থাকে তখন এর কর্ম-দক্ষতা হয় 50%।
+ 
+ ইঞ্জিনটির দক্ষতা 60% করতে হলে-
+ i. উৎসের তাপমাত্রা 750 K করতে হবে
+ ii. তাপ গ্রাহকের তাপমাত্রা 150 K কমাতে হবে
+ iii. উৎসের তাপমাত্রা 150 K বাড়াতে হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+_{20}^{40}\textrm{Ca} and _{19}^{39}\textrm{K} is-,_{20}^{40}\textrm{Ca} ও _{19}^{39}\textrm{K} হচ্ছে-,Isobar,Isotope,Isomer,Isotone,আইসোবার,আইসোটোপ,আইসোমার,আইসোটোন,d
+"If a Carnot engine works between steam point and ice point, what will be its efficiency?",একটি কার্নো ইঞ্জিনের পানির হিমাঙ্ক ও স্ফুটনাঙ্ক-এর মধ্যে কার্যকর দক্ষতা কত?,100%,26.80%,20.60%,0%,100%,26.80%,20.60%,0%,b
+"As per special theory of relativity-
+ i. time is infinity in a moving frame and moves with light velocity
+ ii. the length of an object which moves with light velocity is zero
+ iii. the mass of an object which moves with light velocity is zero
+ Which one is correct?","বিশেষ আপেক্ষিক তত্ত্বানুসারে-
+ i. আলোর বেগ গতিশীল কাঠামোতে সময় অসীম
+ ii. আলোর বেগে চলমান বস্তুর দৈর্ঘ্য শূন্য
+ iii. আলোর বেগ চলমান বস্তুর ভর শূন্য হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one of the following ray is charge independent?,নিচের কোনটি চার্জ নিরপেক্ষ রশ্মি?,Cathode ray,Alpha ray,Gamma ray,Beta ray,ক্যাথোড রশ্মি,আলফা রশ্মি,গামা রশ্মি,বিটা রশ্মি,c
+What is the value of \overline{A + B} as per Boolean Algebra?,বুলিয়ান বীজগণিত অনুযায়ী \overline{A+B},\overline{A} . \overline{B},\overline{A} + \overline{B},A+B,A.B,\overline{A} . \overline{B},\overline{A} + \overline{B},A+B,A.B,a
+The mass defect of a nucleus is 0.0377 a.m.u. What is its binding energy?,একটি নিউক্লিয়াসের ভরত্রুটি 0.0377 a.m.u হলে এর বন্ধন শক্তি কত?,3.51 MeV,35.2 MeV,37.7 MeV,931 MeV,3.51 MeV,35.2 MeV,37.7 MeV,931 MeV,b
+How much Wh energy can get from 1 kg Uranium (^{235}\textrm{U})?,1 kg ইউরেনিয়াম (^{235}\textrm{U}) হতে শক্তির পরমাণ কত kWh?,2.25 \times 10^{2},2.29 \times 10^{7},3.92 \times 10^{7},9.32 \times 10^{7},2.25 \times 10^{2},2.29 \times 10^{7},3.92 \times 10^{7},9.32 \times 10^{7},b
+The radius of earth is 6500 km. What is its capacitance?,পৃথিবীর ব্যাসার্ধ 6500 km এর ধারকত্ব কত?,711 F,722 \mu F,640 \mu F,614 \mu F,711 F,722 \mu F,640 \mu F,614 \mu F,b
+"If we connect an charged object to the earth, then what will be the amount of charge in that object?",একটি চার্জিত বস্তুকে পৃথিবীর সাথে যুক্ত করলে বস্তুটিকে আধানের পরিমাণ-,Will increase,Will be zero,Will decrease,Remain unchanged,বৃদ্ধি পাবে,শূন্য হবে,হ্রাস পাবে,অপরিবর্তিত হবে,b
+G = resistance if galvanometer and S = resistance of shunt. What is shunt constant?,"G = গ্যালভালোমিটারের রোধ এবং S = সান্টের রোধ হলে, সান্ট ধ্রুবক হবে-",\frac{S + G}{S},\frac{S}{S+G},\frac{S+G}{G},\frac{G}{S+G},\frac{S + G}{S},\frac{S}{S+G},\frac{S+G}{G},\frac{G}{S+G},a
+"The frequency of each photon of a beam of X-ray is 3 \times 10^{17} Hz.
+ 
+ What is the energy of the photon?","এক গুচ্ছ রশ্মির প্রতিটি ফোটনের কম্পাঙ্ক 3 \times 10^{17}Hz
+ 
+ কোনটির শক্তি কত?",1.989 \times 10^{-16} J,2.89 \times 10^{-16} J,19.89 \times 10^{-16} J,91.98 \times 10^{-16} J,1.989 \times 10^{-16} J,2.89 \times 10^{-16} J,19.89 \times 10^{-16} J,91.98 \times 10^{-16} J,a
+"The frequency of each photon of a beam of X-ray is 3 \times 10^{17} Hz.
+ 
+ In case of the photon mentioned in above steam-
+ i. velocity 3 \times 10^{8} ms^{-1}
+ ii. wave length 10 \AA
+ iii. momentum 6.63 \times 10^{-35} kgms^{-1}
+ Which one is correct?","এক গুচ্ছ রশ্মির প্রতিটি ফোটনের কম্পাঙ্ক 3 \times 10^{17}Hz
+ 
+ উদ্দীপকে উল্লিখিত ফোটনের-
+ i. বেগ 3 \times 10^{8} ms^{-1}
+ ii. তরঙ্গ দৈর্ঘ্য 10 \AA
+ iii. ভরবেগ 6.63 \times 10^{-25} kgms^{-1}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+An ammeter of 1.8 \Omega resistance can pass 1A current. To measure 10A current shunt of which vaue can be used?,1.8 \Omega রোধের একটি অ্যামিটার 1 A তড়িৎ প্রবাহ গ্রহণ করতে পারে। 10 A তড়িৎ প্রবাহ মাত্রার জন্য কত রোধের সান্ট ব্যবহার করতে হবে?,0.2 \Omega,1.2 \Omega,2.2 \Omega,4.2 \Omega,0.2 \Omega,1.2 \Omega,2.2 \Omega,4.2 \Omega,a
+The potential difference between two plates of a capacitor is 150V. The stored energy in capacitor is 14.9 \times 10^{-7} J. What is the capactance of that capacitor?,একটি ধারকের দুই পাতের মধ্যে বিভব পার্থক্য 150 V। ধারকে সঞ্চিত শক্তি 14.9 \times 10^{-7}J । ধারকের ধারকত্ব কত?,1.3 \times 10^{-5}F,6.5 \times 10^{-9}F,1.3 \times 10^{-10}F,6.5 \times 10^{-10}F,1.3 \times 10^{-5}F,6.5 \times 10^{-9}F,1.3 \times 10^{-10}F,6.5 \times 10^{-10}F,c
+"_{0}^{1}\textrm{n} + _{92}^{235}\textrm{U} + _{56}^{141}\textrm{Ba} + _{36}^{92}\textrm{Kr} + 3 _{0}^{1}\textrm{n} + Energy.
+ 
+ What type of reaction the reaction mentioned in above stem?","_{0}^{1}\textrm{n} + _{92}^{235}\textrm{U} + _{56}^{141}\textrm{Ba} + _{36}^{92}\textrm{Kr} + 3 _{0}^{1}\textrm{n} + শক্তি
+ 
+ বিক্রিয়াটি কোন ধরনের?",Fusion,Fission,Nuclear thermal reaction,Additional reaction,ফিউশন,ফিশন,নিউক্লীয় তাপ বিক্রিয়া,সংযোজন বিক্রিয়া,b
+"_{0}^{1}\textrm{n} + _{92}^{235}\textrm{U} + _{56}^{141}\textrm{Ba} + _{36}^{92}\textrm{Kr} + 3 _{0}^{1}\textrm{n} + Energy.
+ 
+ How much energy will produce in the reaction?","_{0}^{1}\textrm{n} + _{92}^{235}\textrm{U} + _{56}^{141}\textrm{Ba} + _{36}^{92}\textrm{Kr} + 3 _{0}^{1}\textrm{n} + শক্তি
+ 
+ বিক্রিয়াটিতে কী পরিমাণ শক্তি উৎপন্ন হয়?",132 MeV,182 MeV,192 MeV,200 MeV,132 MeV,182 MeV,192 MeV,200 MeV,d
+"1 a.m.u = 
+ i. 931 MeV
+ ii. 931 \times 10^{6} eV
+ iii. 1.66057 \times 10^{-27} kg
+ Which one is correct?","1 a.m.u = 
+ i. 931 MeV
+ ii. 931 \times 10^{6} eV
+ iii. 1.66057 \times 10^{-27} kg
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the unit of mechanical equivalent of heat?,তাপের যান্ত্রিক সমতার একক কোনটি?,Joule-Calori,Joule/Calori,Calori/gm,Calori/Joule,জুল-ক্যালরি,জুল/ক্যলরি,ক্যালরি/গ্রাম,ক্যালরি/জুল,b
+Diffraction is a special kind of-,অপবর্তন এক বিশেষ ধরনের-,Polarization,reflection,interference,refraction,সমবর্তন,প্রতিফলন,ব্যতিচার,প্রতিসরণ,c
+"In Young's double slit experiment using sodium light (\lambda = 5898 \AA), 92 fringes are yielded. If green colour (x = 5461 \AA) could be used, how many fringes will be yielded?",ইয়ং এর দ্বি চিড় পরীক্ষায় সোডিয়াম আলো (\gamma = 5898 \AA) ব্যবহার করলে পর্দায় 92টি ডোরা পাওয়া যায়। যদি সবুজ আলো (\gamma = 5461\AA) ব্যবহার করা হয় তবে কতগুলো ডোরা পাওয়া যাবে?,62,67,90,99,62,67,90,99,d
+"If the ratio of propagation of two superimposed waves is 2 : 1, the ratio of the maxium and the minimum intensity is-",উপরিপাতিত দুটি তরঙ্গ বিস্তারের অনুপাত 2:1 হলে সর্বোচ্চ ও সর্বনিম্ন তীব্রতার অনুপাত হবে-,1 : 1,9 : 1,4 : 1,2 : 1,1 : 1,9 : 1,4 : 1,2 : 1,b
+"The polarising angle of a transparent medium is 60\degree .
+ 
+ What is the refracting angle?","কোনো স্বচ্ছ মাধ্যমের সমবর্তন কোণ 60\degree।
+ 
+ প্রতিসরণ কোণের মান কত?",30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,a
+"The characteristics of photoelectric effect is-
+ i. it is instantaneous incident
+ ii. the kinetic energy of photoelectron is proportional the frequency of the incident light
+ iii. the amount of the photoelectric current is inversely proportional to the intensity of the incident light
+ Which one is correct?","আলোর তড়িৎ ক্রিয়ার বৈশিষ্ট্য হলো-
+ i. এটি একটি তাৎক্ষণিক ঘটনা
+ ii. ফটো ইলেকট্রনের গতিশক্তি আপতিত আলোর কম্পাংকের সমানুপাতিক
+ iii. ফটোতড়িৎ প্রবাহের মান আপতিত আলোর তীব্রতার ব্যস্তানুপাতিক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the unit of entropy?,এনট্রপির একক কোনটি?,NK^{-1},JK^{-1},Jmole^{-1} K^{-1},N^{-1} m^{-2} C^{2},NK^{-1},JK^{-1},Jmole^{-1} K^{-1},N^{-1} m^{-2} C^{2},b
+The work done by a system is zero. This means-,কোনো সিস্টেম কর্তৃক কৃতকাজ শূন্য-এর অর্থ-,the pressure remains constant but volume increases,the pressure remains constant but volume decreases,the volume remains constant but pressure increases,"the volume, pressure and temperature increase",চাপ স্থির কিন্তু আয়তন বৃদ্ধি পায়,চাপ স্থির কিন্তু আয়তন কমে যায়,আয়তন স্থির কিন্তু চাপ বৃদ্ধি পায়,"চাপ, আয়তন এবং তাপমাত্রা বৃদ্ধি পায়",c
+The relationship between the pressure and temperature of an ideal gas in adiabatic process-,রুদ্ধতাপীয় প্রক্রিয়ায় একটি আদর্শ গ্যাসের চাপ ও তাপমাত্রার মধ্যে সম্পর্ক-,P^{\gamma - 1} = constant,P^{\gamma} T^{\gama + 1} = constant,P^{\gamma} T^{\gamma - 1} = constant,P^{1 - \gamma} T^{\gamma} = constant,P^{\gamma - 1} = ধ্রুবক,P^{\gamma} T^{\gama + 1} = ধ্রুবক,P^{\gamma} T^{\gamma - 1} = ধ্রুবক,P^{1 - \gamma} T^{\gamma} = ধ্রুবক,d
+What is the value of \gamma in case of mono-atomic gas?,এক পরমাণুক গ্যাসের ক্ষেত্রে \gamma এর মান কত?,1.11,1.33,1.41,1.67,1.11,1.33,1.41,1.67,d
+"If current passes through two unequal resistors are connected in parallel-
+ i. different values of electricity will flow in the two resistors
+ ii. the potential difference between the ends both resistors will be equal
+ iii. less heat will generate at the edge of low values resistor
+ Which one is correct?","অসম মানের দুটি রোধকে সমান্তরালে যুক্ত করে তড়িৎ প্রবাহিত করলে-
+ i. রোধ দুটিতে ভিন্ন মানের তড়িৎ প্রবাহিত হবে
+ ii. উভয় রোধের প্রান্তের বিভব পার্থক্য সমান হবে
+ iii. কম মানের রোধের প্রান্তের কম তাপ উৎপন্ন হবে
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+"When a radioactive substance emits an \alpha particle, its position in the periodic table is lowered by-",যখন কোনো তেজস্ক্রিয় মৌল থেকে \alpha কণা নির্গত হয় তখন পর্যায় সারণিতে মৌলটির অবস্থান নিচে নেমে যায়-,one place,two place,three place,four place,এক ঘর,দুই ঘর,তিন ঘর,চার ঘর,b
+If \frac{1}{16} percent of any radio-active element remains after one day it will also have a half life-,কোনো তেজস্ক্রিয় মৌলের 1 দিন পর \frac{1}{16} অংশ অবশিষ্ট থাকলে অর্ধায়ু হবে-,12 hrs,6 hrs,3 hrs,2 hrs,12 ঘন্টা,6 ঘন্টা,3 ঘন্টা,2 ঘন্টা,b
+The correct relationship between two current gains in a transistor is-,ট্রানজিস্টরের ক্ষেত্রে \alpha ও \beta এর মধ্যে সম্পর্ক নিম্নরূপ-,\beta = \frac{\alpha}{1 + \alpha},\beta = \frac{1 + \alpha}{1 - \alpha},\alpha = \frac{\beta}{1 + \beta},\alpha = \frac{1 + \beta}{\beta},\beta = \frac{\alpha}{1 + \alpha},\beta = \frac{1 + \alpha}{1 - \alpha},\alpha = \frac{\beta}{1 + \beta},\alpha = \frac{1 + \beta}{\beta},c
+How many diodes are needed for a full wave rectification?,পূর্ণ তরঙ্গ রেকটিফায়ারের সর্বোচ্চ কতটি ডায়োড প্রয়োজন?,1,2,3,4,1,2,3,4,d
+Shunt uses for-,শান্ট ব্যবহার করা হয়-,decreases current,decrease resistance,decrease potentiality,increase potentiality,বিদ্যুৎ প্রবাহ কমাতে,রোধ কমাতে,বিভব কমাতে,বিভব বাড়াতে,a
+Unit of electric flux is-,তড়িৎ ফ্লাক্সের একক হলো-,NC^{-1}m^{2},JC^{-1},V,V/m,NC^{-1} m^{2},JC^{-1},V,V/m,a
+What is the capacitance of earth assuming it to be a spherical conductor of radius 6400 km?,পৃথিবীকে 6400 km ব্যাসার্ধের একটি ধারক মনে করলে ধারকত্ব কত হবে?,3200 \mu F,420 \mu F,511 \mu F,711 \mu F,320 \mu F,420 \mu F,511 \mu F,711 \mu F,d
+Unit of X-ray is-,এক্স-রে এর একক হলো-,Becquerel,Newton,Roentgen,Volt,বেকেরেল,নিউটন,রন্টজেন,ভোল্ট,c
+1 amu is equal to what?,1 amu ভরের সমতুল্য শক্তি কত?,932 MeV,93.2 MeV,9.32 MeV,0.932 MeV,932 MeV,93.2 MeV,9.32 MeV,0.932 MeV,a
+What change in light characteristics occur when the medium is changed?,মাধ্যমের পরিবর্তন হলে আলোর বৈশিষ্ট্যের কী পরিবর্তন ঘটে?,Frequency,Colour,Wave length,,কম্পাঙ্ক,বর্ণ,তরঙ্গদৈর্ঘ্য,কোনোটিই না,c
+_{18}^{40}\textrm{Ar} and _{20}^{40}\textrm{Ca} are,_{18}^{40}\textrm{Ar} ও _{20}^{40}\textrm{Ca} হচ্ছে-,Isomers,Isotopes,Isobars,Isotones,আইসোমার,আইসোটোপ,আইসোবার,আইসোটোন,c
+"Applied centripetal force is acted upon revolving electron in its orbit-
+ i. F_{c} = \frac{Mv^{2}}{r}
+ ii. F_{c} = m\omega^{2}r
+ iii. F_{c} = mr^{2}
+ Which one of the following is correct?","কক্ষপথে ঘূর্ণনশীল ইলেক্ট্রনের ওপর প্রযুক্ত কেন্দ্রমুখী বল-
+ i. F_{c} = \frac{Mv^{2}}{r}
+ ii. F_{c} = m\omega^{2}r
+ iii. F_{c} = mr^{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Mass defect of the nucleus is 0.0377 amu, what will be the binding energy?",কোনো নিউক্লিয়াসের ভরত্রুটি 0.0377 amu হলে বন্ধন শক্তি কত?,31.2 MeV,32.5 MeV,33.1 MeV,35.1 MeV,31.2 MeV,32.5 MeV,33.1 MeV,35.1 MeV,d
+"Resistance 8.5 \Omega is connected in the left gap and 3.5 \Omega is conncected in the right gap of the meter bridge.
+ 
+ What is the distance of the null point from the left terminal of meter bridge?","একটি মিটার ব্রিজের বাম ফাঁকে 8.5 \Omega এবং ডান ফাঁকে 3.5 \Omega রোধ যুক্ত আছে।
+ মিটার ব্রিজটির বাম প্রান্ত থেকে কত দূরে নিঃস্পন্দ বিন্দু অবস্থিত?",87.70 cm,83.70 cm,70.83 cm,63.73 cm,87.70 cm,83.70 cm,70.83 cm,63.73 cm,c
+"Resistance 8.5 \Omega is connected in the left gap and 3.5 \Omega is conncected in the right gap of the meter bridge.
+ 
+ When positions of two resistance are interchanged then what amount will move null point towards left side?","একটি মিটার ব্রিজের বাম ফাঁকে 8.5 \Omega এবং ডান ফাঁকে 3.5 \Omega রোধ যুক্ত আছে।
+ রোধ দুটি স্থান বিনিময় করলে নিঃস্পন্দ বিন্দু বাম দিকে কি পরিমাণ সরে আসবে?",66.41 cm,41.66 cm,16.41 cm,16.16 cm,66.41 cm,41.66 cm,16.41 cm,16.16 cm,b
+"1.0 \times 10^{5} Nm^{-2} constant pressure, the volume of an ideal gas expanded from 0.04 m^{3} to 0.05 m^{3}. What is the external work done?",1.0 \times 10^{5} Nm^{-2} স্থির চাপে কোনো আদর্শ গ্যাসের আয়তন 0.04 m^3 থেকে প্রসারিত হয়ে 0.05 m^3 হলো। বহিঃস্থ কাজের পরিমাণ কত?,1 J,10 J,100 J,1000 J,1 J,10 J,100 J,1000 J,d
+"Irreversible process-
+ i. is a rapid process
+ ii. is a spontaneous process
+ iii. does not keep the system in thermodynamic equilibrium
+ Which one is correct?","অত্যপ্রত্যাবর্তী প্রক্রিয়া-
+ i. একটি ব্রুত প্রক্রিয়া
+ ii. একটি স্বতঃস্ফূর্ত প্রক্রিয়া
+ iii. সিস্টেম তাপগতীয় সাম্যবস্থা বজায় রাখে না
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"An electric diole is formed by two charges \pm 5 \mu C and distance between them is 4 mm. The dipole is placed perpendicularly in the electric field of intensity of \times 10^4 NC^{-1}.
+ 
+ What is the dipole moment in case of above stimulus?"," 5\mu C চার্জ দুটিকে 4mm ব্যবধানে রেখে একটি তড়িৎ দ্বিমেরু গঠন করা হলো। দ্বিমেরুটি 2 \times 10^4 NC^{-1} প্রবাল্যের তড়িৎ ক্ষেত্রে লম্বভাবে স্থাপন করা হলো।
+ উদ্দীপকে তড়িৎ দ্বিমেরু ভ্রামক কত?",2 \times 10^{-8} Cm,1.6 \times 10^{-8} Cm,1.4 \times 10^{-8} Cm,1.2 \times 10^{-8} Cm,2 \times 10^{-8} Cm,1.6 \times 10^{-8} Cm,1.4 \times 10^{-8} Cm,1.2 \times 10^{-8} Cm,a
+"An electric diole is formed by two charges \pm 5 \mu C and distance between them is 4 mm. The dipole is placed perpendicularly in the electric field of intensity of \times 10^4 NC^{-1}.
+ 
+ How much torque will be required to place the electric dipole in the electric field?","5\mu C চার্জ দুটিকে 4mm ব্যবধানে রেখে একটি তড়িৎ দ্বিমেরু গঠন করা হলো। দ্বিমেরুটি 2 \times 10^4 NC^{-1} প্রবাল্যের তড়িৎ ক্ষেত্রে লম্বভাবে স্থাপন করা হলো।
+ দ্বিমেরুটিকে তড়িৎ ক্ষেত্রে লম্বভাবে স্থাপন করতে কত টর্কের প্রয়োজন হবে?",6 \times 10^{-4} Nm,4 \times 10^{-4} Nm,2 \times 10^{-4} Nm,1.2 \times 10^{-4} Nm,6 \times 10^{-4} Nm,4 \times 10^{-4} Nm,2 \times 10^{-4} Nm,1.2 \times 10^{-4} Nm,b
+What is the unit of specific resistance?,আপেক্ষিক রোধের একক কোনটি?,\Omega - m^{-1},\Omega,\Omega - m,\Omega - m^{-2},\Omega - m^{-1},\Omega,\Omega - m,\Omega - m^{-2},c
+Which one is not electromagnetic wave?,কোনটি তড়িৎ চুম্বকীয় তরঙ্গ নয়?,Visible light,X-ray,\gamma - ray,\alpha - ray,দৃশ্যমান আলো,X-রশ্মি,গামা রশ্মি,আলফা রশ্মি,d
+"In case of coherent source of light-
+ i. the two sources should be small
+ ii. light waves of the same wavelength are emitted from two sources
+ iii. two sources should be very close to each other
+ Which one of the following is correct?","সুসংগত আলোর উৎসের ক্ষেত্রে-
+ i. উৎস দুটি ক্ষুদ্র হবে
+ ii. উৎস হতে সমান তরঙ্গ দৈর্ঘ্যের তরঙ্গ নির্গত হবে
+ iii. উৎস দুটি পরস্পর থেকে স্বল্প দূরে হতে হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the meaning of 'tope' of Isotope?,আইসোটোপের 'টোপ'-এর অর্থ কী?,Place,Motion,Action,Radiation,স্থান,গতি,ক্রিয়া,বিকিরণ,a
+"A particle is moving with a velocity of \frac{c}{\sqrt{3}}, then total energy will be-",\frac{c}{\sqrt{3}} বেগে চলমান একটি কণার মোট শক্তি হলো-,0.173 m_{0}c^{2},\sqrt{\frac{3}{2}}m_{0}c^{2},\frac{\sqrt{2}}{4}m_{0}c^{2},1.732 m_{0}c,0.173 m_{0}c^{2},\sqrt{\frac{3}{2}}m_{0}c^{2},\frac{\sqrt{2}}{4}m_{0}c^{2},1.732 m_{0}c,b
+For the constructive interference the path difference between the over lapped waves will be-,গঠনমূলক ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গদ্বয়ের মধ্যে পথ পার্থক্য হবে-,even multiple of \frac{\lambda}{2},odd multiple of \frac{\lambda}{2},even multiple of \lambda,odd multiple of \lambda,\frac{\lambda}{2} এর যুগ্ম গুণিতক,\frac{\lambda}{2} এর অযুগ্ম গুণিতক,\lambda এর যুগ্ম গুণিতক,\lambda এর অযুগ্ম গুণিতক,a
+"In young's double slit experiment distance between the two slit is 0.4 mm. The slits are illuminated by light of wave length of 6000 \AA . The distance between the central bright fringe and the last bright fringe is 18mm. Distance of the screen parallel to the slit is 1m.
+ 
+ How many bright fringes will be found on the screen?","ইয়ং এর দ্বিচির পরীক্ষায় চিরদ্বয়ের মধ্যবর্তী দূরত্ব 0.4 mm চিরটিকে 6000 \AA তরঙ্গদৈর্ঘ্যের আলো দ্বারা আলোকিত করলে পর্দায় কেন্দ্রীয় উজ্জ্বল হতে 18 mm দূরে সর্বশেষ উজ্জ্বল ডোরা পাওয়া যায়। চিত্র হতে পর্দার দূরত্ব 1 m।
+ 
+ দ্বিতীয় উজ্জ্বল ডোরা হতে ৪র্থ অন্ধকার কেন্দ্রের মধ্যবর্তী দূরত্ব কত?",12,24,35,49,1.25 mm,2.25 mm,4.5 mm,5.5 mm,b
+"In young's double slit experiment distance between the two slit is 0.4 mm. The slits are illuminated by light of wave length of 6000 \AA . The distance between the central bright fringe and the last bright fringe is 18mm. Distance of the screen parallel to the slit is 1m.
+ 
+ What is the distance between the center of second bright fringe and the 4th dark fringe?","ইয়ং এর দ্বিচির পরীক্ষায় চিরদ্বয়ের মধ্যবর্তী দূরত্ব 0.4 mm চিরটিকে 6000 \AA তরঙ্গদৈর্ঘ্যের আলো দ্বারা আলোকিত করলে পর্দায় কেন্দ্রীয় উজ্জ্বল হতে 18 mm দূরে সর্বশেষ উজ্জ্বল ডোরা পাওয়া যায়। চিত্র হতে পর্দার দূরত্ব 1 m।
+ 
+ দ্বিতীয় উজ্জ্বল ডোরা হতে ৪র্থ অন্ধকার কেন্দ্রের মধ্যবর্তী দূরত্ব কত?",1.25 mm,2.25 mm,4.5 mm,5.5 mm,1.25 mm,2.25 mm,4.5 mm,5.5 mm,b
+By which theory Compton effect can be explained?,কম্পটন ক্রিয়া কোন তত্ত্বের সাহায্যে ব্যাখ্যা করা যায়?,Corpuscular theory,Wave theory,Quantum theory,Electromagnetic theory,কণা তত্ত্ব,তরঙ্গ তত্ত্ব,কোয়ান্টাম তত্ত্ব,তড়িৎ চুম্বক তত্ত্ব,c
+By which maximum diffraction happens-,কোন তরঙ্গের জন্য অপবর্তন সর্বাধিক হয়?,Gamma ray,X-ray,Infrared ray,Radio wave,গামা রশ্মি,এক্স রশ্মি,অবলোহিত রশ্মি,বেতার রশ্মি,d
+The relationship between the pressure and temperature in the case of ideal gas during the thermal charge is-,রুদ্ধতাপীয় পরিবর্তনের সময় আদর্শ গ্যাসের ক্ষেত্রে চাপ ও তাপমাত্রার সম্পর্ক হলো-,TP \frac{1 - \gamma}{\gamma} = constant,PT \frac{1 - \gamma}{\gamma} = ধ্রুবক,TP \frac{\gamma}{1 - \gamma} = constant,PT \frac{\gamma}{1 - \gamma} = constant,TP \frac{1 - \gamma}{\gamma} = ধ্রুবক,PT \frac{1 - \gamma}{\gamma} = ধ্রুবক,TP \frac{\gamma}{1 - \gamma} = ধ্রুবক,PT \frac{\gamma}{1 - \gamma} = ধ্রুবক,a
+"Read the following statement-
+ i. the temperature at which a substance is in solid, liquid and gaseous equilibrium is called triple point of that substance
+ ii. the change that causes a change in the value of the thermal process
+ iii. inability or impossibility of a system to convert or the inavailibility of energy for coversion is called entropy
+ Which one is correct?","নিচের বিবৃতিগুলো লক্ষ্য করঃ
+ i. যে তাপমাত্রায় কোনো পদার্থ কঠিন, তরল ও বায়বীয়রূপে সাম্যবস্থায় থাকে তাকে ঐ পদার্থের ত্রৈধ বিন্দু বলে
+ ii. যে পরিবর্তনের কারণে তাপগতীয় স্থানাংকের মানের পরিবর্তন হয়, সেই পরিবর্তনকে তাপগতির প্রক্রিয়া বলে
+ iii. কোনো সিস্টেমের শক্তি রূপান্তরের জন্য শক্তির অপ্রাপ্ততাকে এন্ট্রপি বলে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+How many times does the gas need to be expanded to get the same pressure in the isothermal process as the final pressure that is process of 1atm pressure.,"রুদ্ধতাপে 1 atm চাপে রাখা গ্যাসকে প্রসারিত করে দ্বিগুণ করা হলে যে চূড়ান্ত চাপ হয়, সমোষ্ণ প্রক্রিয়ায় সেই একই চাপ পেতে গ্যাসকে কতগুণ প্রসারিত করতে হবে?",1.4,2.6,5.2,7.8,1.4,2.6,5.2,7.8,b
+"In a security fuse has 5apm written on it, it meanse-
+ i. ehen conncected to a circuit, it tolerates an electric current upto 5 amperes
+ ii. at a current more than 5 amperes, the fuse melts and disconnects the circuit
+ iii. the fuse is connected in parallel with the supply line
+ Which one is correct?","কোনো নিরাপত্তা ফিউজ এর গায়ে 5 A ফিউজ লেখা থাকলে এর অর্থ-
+ i. কোনো বর্তনীতে যুক্ত করলে তা 5 A পর্যন্ত তড়িৎ প্রবাহ সহ্য করতে পারে
+ ii. 5 A এর অধিক প্রবাহমাত্রায় ফিউজ গলে বর্তনী সংযোগ বিচ্ছিন্ন করে
+ iii. ফিউজটি সরবরাহ লাইনের সাথে সমান্তরালে যুক্ত থাকে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+The two ends of the voltemeter are connected to the two ends of the dry cell. Then a key and a resistor were connected in series combination and the current was turned on by turning the key.,একটি ভোল্টমিটার ও একটি শুষ্ককোষ নিয়ে ভোল্টমিটারের দুই প্রান্ত কোষের দুই প্রান্তের সাথে সংযুক্ত করা হলো। অতঃপর কোষের সাথে শ্রেণি সমবায়ে একটি চাবি ও একটি রোধক যুক্ত করে এবং চাবি বন্ধ করে তড়িৎ প্রবাহ চালনা করা হলো।,"In the first cas, the reading on the voltemer is the e.m.f.","In the second case, the reading on the voltemeter is the e.m.f.","In the first case, the reading is potential difference","In the second case, the reading is more than that of first case",প্রথম ক্ষেত্রে ভোল্টমিটার যে পাঠ দেয় তা তড়িচ্চালক শক্তি,দ্বিতীয় ক্ষেত্রে যে পাঠ দেয় তা তড়িচ্চালক শক্তি,প্রথম ক্ষেত্রে যে পাঠ দেয় তা বিভব পার্থক্য,দ্বিতীয় ক্ষেত্রে যে পাঠ দেয় তা প্রথম ক্ষেত্রের পাঠের চেয়ে বেশি,a
+The heat produced due to friction of two objects follows-,দুইটি বস্তুর মধ্যে ঘর্ষণের ফলে উৎপন্ন তাপ কোন প্রক্রিয়া অনুসরণ করে?,reversible process,irreversible process,adiabatic process,Isothermal process,প্রত্যাবর্তী প্রক্রিয়া,অপ্রত্যাবর্তী প্রক্রিয়া,রুদ্ধতাপীয় প্রক্রিয়া,সমোষ্ণ প্রক্রিয়া,b
+20 gm water boiled from 0\degree C temp. to 80\degree C temp. What will be the change of entropy?,20 gm পানিকে 0\degree C থেকে 80\degree C তাপমাত্রায় উত্তপ্ত করা হলো। এন্ট্রপির পরিবর্তন কত হবে?,21.59 JK^{-1},24.02 JK^{-1},40.20 JK^{-1},46.20 JK^{-1},21.59 JK^{-1},24.02 JK^{-1},40.20 JK^{-1},46.20 JK^{-1},a
+"Heat (H) generated due to flow of current through a conductor, heat H is-
+ i. H \propto I^{2}
+ ii. H \propto t
+ iii. H \propto R
+ Which one is correct?","পরিবাহীর মধ্য দিয়ে তড়িৎ প্রবাহের ফলে উৎপন্ন তাপ H হয়-
+ i. H \propto I^{2}
+ ii. H \propto t
+ iii. H \propto R
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+If the length of a conducting wire becomes two times and its area of cross-section becomes half then what will be its resistance-,একটি পরিবাহী তারের দৈর্ঘ্য দ্বিগুণ ও প্রস্থচ্ছেদের ক্ষেত্রফল অর্ধেক করলে উহার রোধ হবে?,half,two times,four times,will not change,অর্ধেক,দ্বিগুণ,চারগুণ,পরিবর্তন হবে না,c
+"The characteristics of electromagnetic wave is
+ i. transverse wave
+ ii. combination of electric and magnetic fields
+ iii. medium is necessary for the propagation of electromagnetic waves
+ Which one is correct?","তড়িৎ চুম্বকীয় তরঙ্গের বৈশিষ্ট্য হচ্ছে-
+ i. আড় তরঙ্গ
+ ii. তড়িৎক্ষেত্র ও চৌম্বকক্ষেত্রের সমন্বয়ে গঠিত
+ iii. তড়িৎ চুম্বকীয় তরঙ্গের সঞ্চালনের জন্য মাধ্যম প্রয়োজন
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",I ও iii,i ও ii,ii ও iii,"i, ii ও iii",b
+The momentum of photon is-,ফোটনের ভরবেগ-,P = \frac{\lambda}{h},P = \frac{C}{E},P = \frac{h}{\lambda},P = \frac{h}{C},P = \frac{\lambda}{h},P = \frac{c}{E},P = \frac{h}{\lambda},P = \frac{h}{c},c
+"If the external voltage is not applied across the P-N junction of a diode, which is found in the depletion region-",ডায়োডের P-N জংশনে বহিঃস্থ ভোল্টেজ প্রয়োগ করা না হলে উহার নিঃশেষিত অঞ্চলে থাকে-,only electron,only hole,both electron and hole,only ion,শুধু ইলেকট্রন,শুধু হোল,ইলেকট্রন ও হোল উভয়ই,শুধু আয়ন,d
+"In a common emitter transistor the current gain is 60, the input and load resistance are 500 \Omega and 500\Omega respectively. The voltage gain is-","একটি সাধারণ নিঃসারক ট্রানজিস্টর এ প্রবাহ লাভ = 60, ভাররোধ ও অন্তরগামী রোধ যথাক্রমে 500 \Omega, 500 \Omega । ভোল্টেজ বিবর্ধন কত?",20,40,60,80,20,40,60,80,c
+An ideal gas is expanded through a vaccum in a solid container covered with thermal insulator. As a result which of the following will happen?,তাপ অন্তরকের আবরণযুক্ত দৃঢ় পাত্রে একটি আদর্শ গ্যাস শূন্য মাধ্যমে প্রসারণ করা হলো। ফলে নিম্নের কোনটি ঘটবে?,There will be no change in the internal energy,The temperature will drop,There will be no change in pressure,The phase will change,অন্তঃস্থ শক্তির পরিবর্তন হবে না,তাপমাত্রা হ্রাস পাবে,চাপের কোনো পরিবর্তন হবে না,দশার পরিবর্তন হবে,b
+Which of the following is the equation that determines the amount of heat generated by an electric current?,তড়িৎ প্রবাহের ফলে উৎপন্ন তাপের পরিমাণ নির্ণায়ক সমীকরণ নিচের কোনটি?,H = 0.24 V^{2} It Cal,H = 0.24 \frac{V^{2}}{R} t Cal,H = 0.24 IRt Cal,H = 0.24 P^{2}t Cal,H = 0.24 V^{2} It Cal,H = 0.24 \frac{V^{2}}{R} t Cal,H = 0.24 IRt Cal,H = 0.24 P^{2}t Cal,b
+What is the thermodynamic temperature equivalent to 98.6\degree F?,98.6\degree F তাপমাত্রার সমতুল্য থার্মোডায়নামিক তাপমাত্রা কত?,310.16K,345.16 K,393.16 K,408.16 K,310.16 K,345.16 K,393.16 K,408.16 K,a
+Resistance of which substance decreases with the increases of temperature?,কোন পদার্থের তাপমাত্রা বাড়লে রোধ কমে?,Nichrome,Copper,Aluminium,Germinium,নাইক্রোম,কপার,অ্যালুমিনিয়াম,জার্মেনিয়াম,d
+"In the second step of Carnot's cycle-
+ i. pressure decreases
+ ii. temperature decreases
+ iii. volume decreases
+ Which one is correct?","কার্নোচক্রের দ্বিতীয় ধাপে-
+ i. চাপ হ্রাস পায়
+ ii. তাপমাত্রা হ্রাস পায়
+ iii. আয়তন হ্রাস পায়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"n' number of capacitors of capacitance c are connected to a source of v volt is series and in parallel respectively.
+ 
+ If equivalent capacitance in series and in parallel are C_{s} and C_{p} respectively which of the following is correct?","n সংখ্যক C ধারকত্বের ধারককে V ভোল্ট উৎসের সাথে যথাক্রমে শ্রেণি ও সমান্তরালে যুক্ত করার হলো।
+ 
+ শ্রেণি ও সমান্তরালে তুল্য ধারকত্ব যথাক্রমে C_{s} ও C_{p} হলে নিচের কোনটি সঠিক?",C_{p} = n^{2}C_{s},C_{p} = nC_{s},C_{p} = \frac{C_{s}}{n},C_{p} = \frac{C_{5}}{n^{2}},C_{p} = n^{2}C_{s},C_{p} = nC_{s},C_{p} = \frac{C_{s}}{n},C_{p} = \frac{C_{5}}{n^{2}},a
+"n' number of capacitors of capacitance c are connected to a source of v volt is series and in parallel respectively.
+ 
+ If the stored energy of equivalent capacitors in series and in parallel are U_{s} and U_{p} respectively, which of the following is correct?","n সংখ্যক C ধারকত্বের ধারককে V ভোল্ট উৎসের সাথে যথাক্রমে শ্রেণি ও সমান্তরালে যুক্ত করার হলো।
+ 
+ উদ্দীপকে শ্রেণি ও সমান্তরালে তুল্য ধারকের সঞ্চিত শক্তি যথাক্রমে U_{s} ও U_{p} হলে নিচের কোনটি সঠিক?",U_{p} = \frac{U_{s}}{n},U_{p} = U_{s},U_{p} = nU_{s},U_{p} = n^{2} U_{s},U_{p} = \frac{U_{s}}{n},U_{p} = U_{s},U_{p} = nU_{s},U_{p} = n^{2} U_{s},d
+1 Curie = ?,1 কুরি = ?,3.7 \times 10^{3} Bq,3.7 \times 10^{4} Bq,3.7 \times 10^{7} Bq,3.7 \times 10^{10} Bq,3.7 \times 10^{3} Bq,3.7 \times 10^{4} Bq,3.7 \times 10^{7} Bq,3.7 \times 10^{10} Bq,d
+"Refractive index of water is 1.33. If a lightray in incident at the angle of polarisation, the angle of refraction will be-",পানির প্রতিসরাঙ্ক 1.33। পানিতে সমাবর্তন কোণে আলোকরশ্মি আপতিত করলে প্রতিসরণ কোণ হবে-,90\degree,53\degree,37\degree,26\degree,90\degree,53\degree,37\degree,26\degree,c
+"According to the theory of relativity-
+ i. t = \frac{t_{0}}{\sqrt{1 - \frac{v^{2}}{c^{2}}}}
+ ii. L = \frac{L_{0}}{\sqrt{1 - \frac{v^{2}}{c^{2}}}}
+ iii. m = \frac{m_{0}}{\sqrt{1 - \frac{v^{2}}{c^{2}}}}
+ Which one is correct?","আপেক্ষিকতার তত্ত্ব অনুসারে-
+ i. t = \frac{t_{0}}{\sqrt{1 - \frac{v^{2}}{c^{2}}}}
+ ii. L = \frac{L_{0}}{\sqrt{1 - \frac{v^{2}}{c^{2}}}}
+ iii. m = \frac{m_{0}}{\sqrt{1 - \frac{v^{2}}{c^{2}}}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+The ratio of energy of electrons of first Bohr's orbit to the second Bohr's orbit is-,প্রথম ও দ্বিতীয় বোর কক্ষপথে ইলেক্ট্রনের শক্তির অনুপাত-,1 : 2,1 : 4,2 : 1,4 : 1,1:2,1:4,2:1,4:1,d
+"If the potential on the surface of a charged hollow sphere of radius 5 cm is 10 V, the potential at its centre will be-",5 সেঃমিঃ ব্যাসার্ধের চার্জিত ফাঁপা গোলকের পৃষ্ঠে বিভব 10 V হলে কেন্দ্রে বিভব হবে-,0 V,2 V,5 V,10 V,0 V,2 V,5 V,10 V,d
+"If the initial number of atoms of a radioactive substance is N_{0} and its half-life is 3 days, the number of intact atoms after 15 days will be-",কোন তেজস্ক্রিয় প্রারম্ভিক পরমাণু সংখ্যা N_{0} অর্ধায়ু 3 দিন হলে 15 দিন পর অক্ষত পরমাণু সংখ্যা-,\frac{N_{0}}{32},\frac{N_{0}}{16},\frac{N_{0}}{10},\frac{N_{0}}{8},\frac{N_{0}}{32},\frac{N_{0}}{16},\frac{N_{0}}{10},\frac{N_{0}}{8},a
+In case of reversible process,প্রত্যাবর্তী প্রক্রিয়ার ক্ষেত্রে-,It is a spontaneous process,It is a slow process,Thermodynamical equilibrium is not maintained,Energy is dissipated,এটি স্বতঃস্ফূর্ত প্রক্রিয়া,এটি ধীর প্রক্রিয়া,তাপগতীয় সাম্যবস্থা বজায় থাকে না,শক্তির অপচয় হয়,b
+The S.I unit for electric permeability is-,তড়িৎ প্রবেশ্যতার S.I একক হলো-,Nm^{-2}C^{-2},N^{-1}m^{-2}C^{-2},Nm^{-2}C^{2},N^{1}m^{-2}C^{2},Nm^{-2}C^{-2},N^{-1}m^{-2}C^{-2},Nm^{-2}C^{2},N^{1}m^{-2}C^{2},d
+"The electric potential at any point on the axis at a distance r from the mid-point of an electric dipole is- 
+ (Where p = 2lq)","কোনো তড়িৎ দ্বিমেরুর অক্ষের উপর মধ্যবিন্দু হতে r দূরত্বে কোনো বিন্দুতে তড়িৎ বিভব হলো-
+ (যেখানে P = 2lq)",V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r-l},V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r+l},V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r^{2}-l^{2}},V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r^{3}-l^{3}},V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r-l},V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r+l},V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r^{2}-l^{2}},V = \frac{1}{4\pi \epsilon_{0}} = \frac{P}{r^{3}-l^{3}},c
+The phase difference of particles in a wavefront is-,তরঙ্গমুখের উপরস্থ কণাসমূহের দশা পার্থক্য হল-,0 radian,\frac{\pi}{4} radian,\frac{\pi}{2} radian,\pi radian,0 রেডিয়ান,\frac{\pi}{4} রেডিয়ান,\frac{\pi}{2} রেডিয়ান,\pi রেডিয়ান,a
+"The temperature of the heat sink of a heat engine is 360K and efficiency is 40%.
+ 
+ The temperature of the beat source is-","কোনো তাপ ইঞ্জিনের তাপগ্রাহকের তাপমাত্রা 360 K এবং দক্ষতা 40%।
+ 
+ তাপ উৎসের তাপমাত্রা হলো-",400 K,600 K,720 K,900 K,400 K,600 K,720 K,900 K,b
+"The temperature of the heat sink of a heat engine is 360K and efficiency is 40%.
+ 
+ The temperature of heat source to be increased to double the efficiency of the engine is-","কোনো তাপ ইঞ্জিনের তাপগ্রাহকের তাপমাত্রা 360 K এবং দক্ষতা 40%।
+ 
+ ইঞ্জিনের দক্ষতা দ্বিগুণ করতে হলে উৎসের তাপমাত্রা বৃদ্ধি করতে হবে-",450 K,600 K,900 K,1200 K,450 K,600 K,900 K,1200 K,d
+"In Galilean transformation-
+ i. equations of Newtonian Mechanics remains unchaged
+ ii. the mathematical expression for electromagnetic theory is changed
+ iii. second postulates of special theory of relativity is violated
+ Which one is correct?","গ্যালিলিও রূপান্তরে-
+ i. নিউটনিয়ান বলবিদ্যার সমীকরণের রূপ অপরিবর্তিত থাকে
+ ii. তড়িৎ চুম্বকীয় সমীকরণের রূপ পরিবর্তিত হয়
+ iii. আইনস্টাইনের দ্বিতীয় স্বীকার্য লঙ্ঘিত হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"In transistor I_{0} = 5mA and I_{B} = 100 \mu A
+ 
+ What is the current in the emitter?","একটি ট্রানজিস্টরের সংগ্রাহক প্রবাহ 5 mA এবং ভূমি প্রবাহ 100 \mu A ।
+ 
+ নিঃসারক প্রবাহ কত?",5.0001 mA,5.001 mA,5.01 mA,5.1 mA,5.0001 mA,5.001 mA,5.01 mA,5.1 mA,d
+"In transistor I_{0} = 5mA and I_{B} = 100 \mu A
+ 
+ Amplification factor \alpha = ?","একটি ট্রানজিস্টরের সংগ্রাহক প্রবাহ 5 mA এবং ভূমি প্রবাহ 100 \mu A ।
+ 
+ প্রবাহ বিবর্ধক গুণক \alpha কত হবে?",0.02,0.98,1.02,50,0.02,0.98,1.02,50,b
+Which equation is the combination of first and second law of thermodynamics?,তাপগতিবিদ্যার ১ম ও ২য় সূত্রের সমন্বিত রূপ-,dU = TdS + PdV,dU = TdS - PdV,dU = VdP - TdS,dU = VdP + TdS,dU = TdS + PdV,dU = TdS - PdV,dU = VdP - TdS,dU = VdP + TdS,b
+A heater of 220V is nm by 110V. What will be the amount of heat produced compared to the previous amount?,220 V এর হিটার 110 V এ চালালে উৎপাদিত তাপ পূর্বের-,Twice,equal,Half,One-fourth,দ্বিগুণ হবে,একই হবে,অর্ধেক হবে,এক-চতুর্থাংশ হবে,d
+The first law of thermodynamics relates-,তাপগতিবিদ্যার প্রথম সূত্র সম্পর্ক স্থাপন করে-,Heat and pressure,Heat and force,Heat and work,Heat and power,তাপ ও চাপ এর মধ্যে,তাপ ও বল এর মধ্যে,তাপ ও কাজ এর মধ্যে,তাপ ও ক্ষমতা এর মধ্যে,c
+"In adiabatic process-
+ i. PV^{\gamma} = constant
+ ii. TV^{1 - \gamma} = constant
+ iii. T^{\gamma} P^{1 - \gamma} = constant
+ Which one is correct?","রুদ্ধতাপীয় পরিবর্তনের ক্ষেত্রে-
+ i. PV^{\gamma} = ধ্রুবক
+ ii. TV^{1 - \gamma} = ধ্রুবক
+ iii. T^{\gamma} P^{1 - \gamma} = ধ্রুবক
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+The unit of electromotive force is-,তড়িচ্চালক শক্তির একক হলো-,Ampere,Joule,Coulomb,Volt,অ্যাম্পিয়ার,জুল,কুলম্ব,ভোল্ট,d
+"Shunt is directly used in-
+ i. Ammeter
+ ii. Voltmeter
+ iii. Galvanometer
+ Which one is correct?","সান্ট সরাসরি ব্যবহার করা হয়-
+ i. অ্যামিটার-এ
+ ii. ভোল্টমিটার-এ
+ iii. গ্যালভানোমিটার-এ
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+The path difference between two point on light wave is \frac{\lambda}{4}. What is the phase difference?,একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য \frac{\lambda}{4} হলে দশা পার্থক্য কত?,\frac{\pi}{2},\pi,\frac{3\pi}{2},2\pi,\frac{\pi}{2},\pi,\frac{3\pi}{2},2\pi,a
+"Transistor use in-
+ i. amplifier
+ ii. switch
+ iii. rectifier
+ Which one is correct?","ট্রানজিস্টর ব্যবহার করা যায়-
+ i. সুইচ হিসেবে
+ ii. বিবর্ধক হিসেবে
+ iii. একমুখীকারক হিসেবে
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Full wave rectifier circuit is made of-
+ i. 2 diodes
+ ii. 3 diodes
+ iii. 4 diodes
+ Which one is correct?","পূর্ণতরঙ্গ একমুখীকরণ বর্তনী তৈরি করা যায়-
+ i. ২ টি ডায়োড দিয়ে
+ ii. ৩ টি ডায়োড দিয়ে
+ iii. ৪ টি ডায়োড দিয়ে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+If G and S are the resistance of galvanometer and shunt respectively then the co-efficient of shunt is-,"G = গ্যালভালোমিটারের রোধ এবং S = সান্ট হলে, সান্টের গুণক হবে-",\frac{S}{G + S},\frac{G + S}{S},\frac{G}{G + S},\frac{G + S}{G},\frac{S}{G + S},\frac{G + S}{S},\frac{G}{G + S},\frac{G + S}{G},b
+"In Carnot's engine 840 J of heat is absorbed from a source at 400 K and is released 630 J of heat in the sink.
+ 
+ What is the temperature of the sink?","একটি কার্নো ইঞ্জিনের কার্যনির্বাহক বস্তু 400 K তাপমাত্রার তাপ উৎস হতে 840 J তাপ গ্রহণ করে তাপগ্রাহকে 630 J তাপ বর্জন করে।
+ 
+ তাপ গ্রাহকের তাপমাত্রা কত?",210 K,300 K,400 K,440 K,210 K,300 K,400 K,440 K,b
+Which of the following has negative thermal co-efficient of resistance?,নিচের কোনটির রোধের উষ্ণতা গুণাংক ঋণাত্মক?,Copper,Brass,Aluminium,Germanium,তামা,পিতল,অ্যালুমিনিয়াম,জার্মেনিয়াম,d
+Which of the following is the range of wavelength for visible spectrum?,দৃশ্যমান বর্ণালির তরঙ্গদৈর্ঘ্যের বিস্তৃতি-,2000 \AA - 3000 \AA,3000 \AA - 4000 \AA,4000 \AA - 8000 \AA,8000 \AA - 12000 \AA,2000 \AA থেকে 3000 \AA পর্যন্ত,3000 \AA থেকে 4000 \AA পর্যন্ত,4000 \AA থেকে 8000 \AA পর্যন্ত,8000 \AA থেকে 12000 \AA পর্যন্ত,c
+"In Physics laboratory the instructor instructed present students to perform Young's double slit experiment. Instructor explained the observation made by the students following wave theory of light.
+ 
+ In experimental observation to increase the visibility of the bands-","পদার্থবিজ্ঞান গবেষণাগারে শিক্ষক উপস্থিত শিক্ষার্থীদের ইয়ং-এর দ্বিচিড় পরীক্ষার ব্যবস্থা করতে বললেন। শিক্ষার্থীরা পরীক্ষাটি আলোর তরঙ্গ তত্ত্ব মেনে ব্যতিচার সংঘটিত হয়েছে মর্মে পর্যবেক্ষণ করলেন।
+ 
+ উক্ত পরীক্ষার ব্যতিচার ডোরার দৃষ্টি গ্রাহ্যতা বাড়াতে হলে-",distance between screen and slits has to decrease,distance between slits need t decrease,"distance between slits and screen, distance between slits both need to decrease","distance between slits and screen, distance between slits both need to increase",চিড়দ্বয় হতে পর্দার দূরত্ব কমাতে হবে,চিড়দ্বয়ের মধ্যবর্তী দূরত্ব কমাতে হবে,চিড়দ্বয় হতে পর্দার দূরত্ব ও চিড়দ্বয়ের মধ্যবর্তী দূরত্ব উভয়ই কমাতে হবে,চিড়দ্বয় হতে পর্দার দূরত্ব ও চিড়দ্বয়ের মধ্যবর্তী দূরত্ব উভয়ই বাড়াতে হবে,b
+"In Physics laboratory the instructor instructed present students to perform Young's double slit experiment. Instructor explained the observation made by the students following wave theory of light.
+ 
+ If the distance between slits is equal to the wave length of the light used, then how many bright bands will form?","পদার্থবিজ্ঞান গবেষণাগারে শিক্ষক উপস্থিত শিক্ষার্থীদের ইয়ং-এর দ্বিচিড় পরীক্ষার ব্যবস্থা করতে বললেন। শিক্ষার্থীরা পরীক্ষাটি আলোর তরঙ্গ তত্ত্ব মেনে ব্যতিচার সংঘটিত হয়েছে মর্মে পর্যবেক্ষণ করলেন।
+ 
+ এই পরীক্ষায় চিড়দ্বয়ের ব্যবধান আলোর তরঙ্গদৈর্ঘ্যের সমান হলে সর্বোচ্চ কতটি উজ্জ্বল পট্টি গঠিত হয়?",2,3,4,5,2,3,4,5,b
+The kinetic energy of a particle is double of its energy in stationary statch. The moving mass relative to stationary mass is-,কোনো কণার গতিশক্তি এর স্থিরাবস্থার শক্তির দ্বিগুণ। কণাটির গতিশীল ভর স্থির ভরের-,twice,three times,four times,nine times,দ্বিগুণ,তিন গুণ,চার গুণ,নয় গুণ,b
+The valence bond of a substance is almost full and the conduction bond is almost empty. The energy gap between the two bands is very small. The substance is a-,একটি পদার্থের যোজন ব্যান্ড প্রায় পূর্ণ এবং পরিবহন ব্যান্ড প্রায় খালি। ব্যান্ড দুটোর শক্তি ব্যবধান খুবই বেশি। পদার্থটি হলো-,conductor,semi-conductor,insulator,super conductor,পরিবাহী,অর্ধপরিবাহী,অন্তরক,অতিপরিবাহী,c
+"If the length of a conductor is twice and radius is half, the final resistance is how much times tahn that of initial?",কোনো পরিবাহীর দৈর্ঘ্য দ্বিগুণ ও ব্যাসার্ধ অর্ধেক করলে চূড়ান্ত রোধ হবে প্রাথমিক রোধের কত গুণ?,two times,four times,eight times,tweleve times,দ্বিগুণ,চার গুণ,আট গুণ,বার গুণ,c
+"If a heat engine releases half of its heat, what is the efficiency of the engine?",কোনো তাপ ইঞ্জিন হতে অর্ধেক তাপ বর্জন হলে ইঞ্জিনের দক্ষতা কত হবে?,25%,50%,75%,80%,25%,50%,75%,80%,b
+The thermodynamic process in which the entropy remains constant is-,যে ভৌত প্রক্রিয়ায় এনট্রপি স্থির থাকে তা হলো-,adiabatic process,isothermal process,isobaric process,isochoric process,রুদ্ধতাপীয় প্রক্রিয়া,সমোষ্ণ প্রক্রিয়া,সমচাপ প্রক্রিয়া,সমআয়তন প্রক্রিয়া,a
+"Increase pressure slowly of a system the pressure change 2pa to 4pa. In isochoric process internal energy increase 200 J. In systems-
+ i. given heat 200J
+ ii. work dine is zero
+ iii. increase the temperature
+ Which one is correct?","ধীরে ধীরে চাপ বৃদ্ধি করায় কোনো সিস্টেমের চাপ 2 Pa হতে 4 Pa হলো। এক্ষেত্রে সম আয়তন প্রক্রিয়ায় সিস্টেমের অভ্যন্তরীণ শক্তি 200 J বৃদ্ধি পেলো। সিস্টেমের-
+ i. সরবরাহকৃত তাপ 200 J
+ ii. কৃতকাজ শূন্য
+ iii. তাপমাত্রা বৃদ্ধি
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What kind change of conductivity of a conductor when temperature is increased?,তাপমাত্রা বৃদ্ধি পেলে পরিবাহীর পরিবাহকত্ব কীরূপ হবে?,increase,unchanged,decrease,becomes zero,বৃদ্ধি পাবে,অপরিবর্তিত থাকবে,হ্রাস পাবে,শূন্য হবে,c
+Flow of current becomes one-third of a conductor then the heat generation at fixed time is that of the initial is-,কোনো নির্দিষ্ট পরিবাহীতে প্রবাহমাত্রা এক-তৃতীয়াংশ করলে নির্দিষ্ট সময়ে উৎপন্ন তাপ হবে প্রাথমিক তাপের-,double,equal,one-third,one-ninth,দ্বিগুণ,সমান,এক-তৃতীয়াংশ,এক-নবমাংশ,d
+Shunt is used in the device as-,সান্ট ব্যবহৃত হয় কোন যন্ত্রে?,ammeter,voltmeter,meterbridge,post office box,অ্যামিটার,ভোল্ট মিটার,মিটার ব্রিজ,পোস্ট অফিস বক্স,a
+A clock is in motion frame of reference with respect to rest one is-,স্থির কাঠামোর তুলনায় গতিশীল কাঠামোতে ঘড়ি-,moves slow,moves fast,remains the same,moves at double rate,ধীরে চলে,দ্রুত চলে,একই থাকে,দ্বিগুণ দ্রুত চলে,a
+"A person of 60kg is in a rocket moves over a field of length 500 m with spped of 0.8 c.
+ 
+ The person will measure the length of the field is-","60 kg ভরের একজন লোক 0.8 c বেগে চলমান রকেটে চড়ে 500 m দৈর্ঘ্যের একটি মাঠ অতিক্রম করলো।
+ 
+ রকেটের লোকটি মাঠের দৈর্ঘ্য পরিমাপ করবে-",300 m,400 m,625 m,833 m,300 m,400 m,625 m,833 m,a
+"A person of 60kg is in a rocket moves over a field of length 500 m with spped of 0.8 c.
+ 
+ An observer on the field will measure the mass of the person in rocket is-","60 kg ভরের একজন লোক 0.8 c বেগে চলমান রকেটে চড়ে 500 m দৈর্ঘ্যের একটি মাঠ অতিক্রম করলো।
+ 
+ ঐ মাঠে অবস্থিত একজন পর্যবেক্ষক লোকটির ভর পরিমাপ করবে-",36kg,60 kg,75 kg,100 kg,36 kg,60 kg,75 kg,100 kg,d
+The collector and base current of a resistor is 5 mA and 100 \mu A respectively. Then the emitter current is-,একটি ট্রানজিস্টরের সংগ্রাহক প্রবাহ 5 mA এবং ভূমি প্রবাহ 100 \mu A হলে নিঃসারক প্রবাহ কত?,5.2 mA,5.1 mA,5.0 mA,4.9 mA,5.2 mA,5.1 mA,5.0 mA,4.9 mA,b
+The instruments used in operations are disinfected with-,শল্য চিকিৎসায় ব্যবহৃত যন্ত্রপাতি জীবাণুমুক্ত করতে ব্যবহৃত হয়-,X-ray,gamma ray,ultra violet ray,infrared ray,এক্স রশ্মি,গামা রশ্মি,অতিবেগুনি রশ্মি,অবলোহিত রশ্মি,c
+"The proponent of the electromagnetic wave velocity, c = \frac{1}{\mu_{0} \varepsilon_{0}} is-",তড়িৎ চৌম্বকীয় তরঙ্গের বেগ c = \frac{1}{\mu_{0} \varepsilon_{0}} প্রতিপাদিত হয়েছে যে তত্ত্ব হতে তার প্রবক্তা হলেন-,Max Plank,Max Well,Einstein,Newton,ম্যাক্স প্ল্যাঙ্ক,ম্যাক্স ওয়েল,আইনস্টাইন,নিউটন,b
+"The characteristics of wavefront are-
+ i. the phase of every particle in te wave front are identical
+ ii. the wavefront maintains the same phase at one wavelength interval
+ iii. the wave propagate along the perpendicular to the wavefront
+ Which one is correct?","তরঙ্গ মুখের বৈশিষ্ট্য হল-
+ i. তরঙ্গমুখে প্রতিটি কণার দশা অভিন্ন
+ ii. এক তরঙ্গদৈর্ঘ্য ব্যবধানে তরঙ্গমুখ সমদশায় থাকে
+ iii. তরঙ্গমুখের অভিলম্ব বরাবর তরঙ্গ সঞ্চালিত হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+The width of the bright fringe on the screen 1.2 m away from the two slits with a spacing of 0.2 mm is 1.74 mm. The wavelength of light used is-,0.2 mm ব্যবধানবিশিষ্ট দুটি চিড় হতে 1.2 m দূরে অবস্থিত পর্দায় সৃষ্ট উজ্জ্বল ডোরার প্রস্থ 1.74 mm । ব্যবহৃত আলোর তরঙ্গদৈর্ঘ্য হল-,4800 \AA,5800 \AA,6800 \AA,7200 \AA,4800 \AA,5800 \AA,6800 \AA,7200 \AA,b
+The rest mass of an electron is 9.1 \times 10^{-31} kg and its moving mass is 2.09 \times 10^{-30} kg. What is the kinetic energy of the electron?,একটি ইলেকট্রনের নিশ্চল ভর 9.1 \times 10^{-31} kg । গতিশীল করায় ইলেকট্রনটির ভর হলো 2.09 \times 10^{-30} kg । ইলেকট্রনের গতিশক্তি কত?,0.819 \times 10^{-13} J,1.062 \times 10^{-13} J,1.881 \times 10^{-13} J,2.7 \times 10^{-13} J,0.819 \times 10^{-13} J,1.062 \times 10^{-13} J,1.881 \times 10^{-13} J,2.7 \times 10^{-13} J,b
+"According to theory of relativity-
+ i. a moving clock runs slower than a stationary clock
+ ii. the length of a moving bar is less than its static length
+ iii. an object cannot move with a speed equal to that of light
+ Which one is correct?","আপেক্ষিক তত্ত্বানুসারে-
+ i. গতিশীল ঘড়ি, নিশ্চল ঘড়ির চেয়ে ধীরে চলে
+ ii. কোনো দণ্ডের গতিশীল অবস্থার দৈর্ঘ্য দণ্ডটির নিশ্চল অবস্থার দৈর্ঘ্যের চেয়ে ছোট হবে
+ iii. কোনো বস্তু আলোর বেগের সমান বেগে চলতে পারে না
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the equivalent energy of 1000 g mass?,1000 g ভরের সমতূল্য শক্তি কত?,10 \times 10^{16} J,9 \times 10^{16} J,3.1 \times 10^{16} J,1.6 \times 10^{16} J,10 \times 10^{16} J,9 \times 10^{16} J,3.1 \times 10^{16} J,1.6 \times 10^{16} J,b
+What is the unit of entropy?,এনট্রপির একক কোনটি?,J kg^{-1},J kg^{-1} mol^{-1},J kg^{-1} K^{-1},J K^{-1},J kg^{-1},J kg^{-1} mol^{-1},J kg^{-1} K^{-1},J K^{-1},d
+What is the angular momentum of an electron in an approved orbit according to Bohr?,বোরের স্বীকার্য অনুসারে অনুমোদিত কক্ষপথে ইলেক্ট্রনের কৌণিক ভরবেগ কত?,L = \frac{nh}{2\pi},L = \frac{2\pi}{nh},L = \frac{2n\pi}{h},L = \frac{2h}{\pi},L = \frac{nh}{2\pi},L = \frac{2\pi}{nh},L = \frac{2n\pi}{h},L = \frac{2h}{\pi},a
+What kind of light rays and waves are formed in the fresnel class of diffraction?,ফ্রেনেল শ্রেণির অপবর্তনে আলোকরশ্মি ও তরঙ্গমুখ কীরূপ হবে?,Convergent and spherical,Divergent and spherical,Parallel and plane,Parallel and cylindrical,অভিসারী ও গোলীয়,অপসারী ও গোলীয়,সমান্তরাল ও সমতল,সমান্তরাল ও বেলনাকৃতি,b
+How much the molar specific heat at constant volume when \gamma = \frac{5}{3} at argon gas?,অর্গান গ্যাসের ক্ষেত্রে \gamma = \frac{5}{3} হলে স্থির আয়তনে মোলার আপেক্ষিক তাপ কত?,\frac{7}{2} R,\frac{5}{2} R,\frac{3}{2} R,R,\frac{7}{2} R,\frac{5}{2} R,\frac{3}{2} R,R,c
+Which scientist did make the relation between current flow and electric potential?,তড়িৎ প্রবাহ ও তড়িৎ বিভব এর মধ্যে সম্পর্ক স্থাপন করেন কোন বিজ্ঞানী?,Volt,Ohm,Ampere,Newton,ভোল্ট,ওহম,অ্যাম্পিয়ার,নিউটন,b
+What is the dimension decay constant of radioactive elements?,তেজস্ক্রিয় ক্ষয় ধ্রুবকের মাত্রা কোনটি?,[T],[T^{-1}],[ \lambda ],[\lambda^{-1}],[T],[T^{-1}],[\gamma],[\gamma^{-1}],b
+What is the value of (\sqrt{\epsilon_{0}\mu_{0}})^{-1}?,(\sqrt{\epsilon_{0}\mu_{0}})^{-1} এর মান কোনটি?,6.63 \times 10^{-34} Js,8.85 \times 10^{-12} N^{-1} m^{-2} C^{2},9 \times 10^{9} Nm^{2} C^{-2},3 \times 10^{8} ms^{-1},6.63 \times 10^{-34} Js,8.85 \times 10^{-12} N^{-1} m^{-2} C^{2},9 \times 10^{9} Nm^{2} C^{-2},3 \times 10^{8} ms^{-1},d
+"5 \mu C charge provide a hollow sphere of radius 20 cm.
+ 
+ How much electric intensity create inside the sphere?","20 cm ব্যাসার্ধের একটি ফাঁপা গোলকে 5\mu C চার্জ প্রদান করা হলো।
+ 
+ গোলকের অভ্যন্তরে তড়িৎ প্রাবল্য কত?",Infinite,5.625 \times 10^{6} NC^{-1},1.125 \times 10^{6} NC^{-1},Zero,অসীম,5.625 \times 10^{6} NC^{-1},1.125 \times 10^{6} NC^{-1},শূন্য,d
+"Properties of nuclear force-
+ i. is long range
+ ii. is attractional
+ iii. is short range
+ Which one is correct?","নিউক্লিয় বলের বৈশিষ্ট্য-
+ i. বেশি পাল্লা 
+ ii. আকর্ষণধর্মী
+ iii. স্বল্প পাল্লা
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+On the basis of which law of thermodynamic the refrigerator built?,রেফ্রিজারেটর তাপগতিবিদ্যার কোন সূত্রের ভিত্তিতে নির্মিত হয়?,Zeroth,First,Second,Third,শূন্যতম,প্রথম,দ্বিতীয়,তৃতীয়,c
+What is the right information about shunt?,শান্ট সম্পর্কে সঠিক তথ্য কোনটি?,"Parallel to the instrument, large amount resistance","Series to the instrument, small amount resistance","Parallel to the instrument, small amount resistance","Series to the instrument, large amount resistance",যন্ত্রের সাথে সমান্তরালে যুক্ত বড় মানের রোধ,যন্ত্রের সাথে শ্রেণিতে যুক্ত ছোট মানের রোধ,যন্ত্রের সাথে সমান্তরালে যুক্ত ছোট মানের রোধ,যন্ত্রের সাথে শ্রেণিতে যুক্ত বড় মানের রোধ,c
+What is the range of wave length of visible light ray?,দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লা কোনটি?,100 nm to 300 nm,400 nm to 780 nm,1000 nm to 1200 nm,5000 nm to 10000 nm,100 nm হতে 300 nm,400 nm হতে 780 nm,1000 nm হতে 1200 nm,"5000 nm হতে 10,000 nm",b
+"Change of adiabatic process-
+ i. create quickly
+ ii. occurs in non-conductive vessel
+ iii. PV^{\delta - 1} = constant
+ Which one is correct?","রুদ্ধতাপীয় পরিবর্তন-
+ i. দ্রুত সংঘটিত হয়
+ ii. অপরিবাহী পাত্রে সংঘটিত হয়
+ iii. PV^{\gamma - 1} = ধ্রুবক
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+What is the property of a wire in electric fuse?,বৈদ্যুতিক ফিউজ-এ তারের বৈশিষ্ট্য কোনটি?,"Low resistance, high melting point","High resistance, high melting point","High resistance, low melting point","Low resistance, low melting point","কম রোধ, উচ্চ গলনাঙ্ক","উচ্চ রোধ, উচ্চ গলনাঙ্ক","উচ্চ রোধ, কম গলনাঙ্ক","কম রোধ, কম গলনাঙ্ক",d
+Following which material's resistance has negative thermal co-efficient (\alpha)?,নিচের কোন পদার্থের রোধের উষ্ণতা গুণাংক (\alpha) ঋণাত্মক?,Germnanium,Copper,Brass,Mica,জার্মেনিয়াম,ব্রোঞ্জ,পিতল,অভ্র,a
+What is _{20}^{40}\textrm{Ca} ও _{19}^{39}\textrm{K} each other?,_{20}^{40}\textrm{Ca} ও _{19}^{39}\textrm{K} পরস্পরের কী?,Isotope,Isotone,Isobar,Isomar,আইসোটোপ,আইসোটোন,আইসোবার,আইসোমার,b
+Which one is weakest force?,কোনটি সর্বাপেক্ষা দুর্বল বল?,Grativational force,weak nuclear force,Electromotive force,Strong nuclear force,মহাকর্ষ,নিউক্লিয় দুর্বল বল,তাড়িত চৌম্বকীয় বল,নিউক্লিয় সবল বল,a
+"Which information is applicable for photon particle-
+ i. rest mass infinity
+ ii. no charge
+ iii. momentum P = \frac{h}{\lambda}
+ Which one is correct?","ফোটন কণার ক্ষেত্রে কোন তথ্য প্রযোজ্য-
+ i. স্থিতিভর অসীম
+ ii. চার্জহীন
+ iii. ভরবেগ, P = \frac{h}{\lambda}
+ নিচের কোনটি সঠিক?",i,ii,iii,ii and iii,i,ii,iii,ii ও iii,d
+Written in the building main meter 6A-220V. How many bulb of 90W can be sofely used?,বাড়ির প্রধান মিটারে 6A - 220V লেখা আছে। 90W এর কতগুলো বাল্ব নিরাপদে ব্যবহার করা যাবে?,11,22,33,44,11,22,33,44,a

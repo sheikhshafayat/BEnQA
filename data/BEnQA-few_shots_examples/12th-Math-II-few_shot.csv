@@ -1,0 +1,110 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+135,"The parabola x^{2} = 1 - y has-
+ i. vertex (1, 0)
+ ii. foci \left ( 0, \pm \frac{3}{4} \right )
+ iii. equation of the directrix 4y = 5
+ Which one is correct?","x^{2} = 1 - y পরাবৃত্তটির-
+ i. শীর্ষবিন্দু (1, 0)
+ ii. উপকেন্দ্র \left ( 0, \pm \frac{3}{4} \right )
+ iii. নিয়ামক রেখার সমীকরণ 4y = 5
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",c,N,2021Chattogram,1,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",গ,c,N,2021Chattogram,0.8826709539,0,0,,"The parabola x^{2} = 1 - y has-
+ i. vertex (1, 0)
+ ii. foci \left ( 0, \pm \frac{3}{4} \right )
+ iii. equation of the directrix 4y = 5
+ Which one is correct?",Reasoning,"{""Answer"": ""Reasoning""}","i. Vertex (1, 0) - Incorrect. The given equation is \(x^2 = 1 - y\). To find the vertex, we need to rewrite it as \(y = -x^2 + 1\) in the standard form \((x-h)^2 = 4p(y-k)\), where \((h, k)\) is the vertex, and \(p\) is the distance from the vertex to the focus. Comparing the given equation to the standard form, we have \(h = 0\) and \(k = 1\). So, the vertex is actually at (0, 1), not (1, 0).
+
+ii. Foci (0, ±3/4) - Correct. To find the foci, we calculate the value of \(4p\) in the standard form of the parabola \((x - h)^2 = 4p(y - k)\). In this case, \(4p = 1\), so \(p = \frac{1}{4}\). The foci are located at \((0, k \pm \frac{1}{4})\), which simplifies to \((0, 1 + \frac{1}{4})\) and \((0, 1 - \frac{1}{4})\), resulting in the foci being \((0, \frac{5}{4})\) and \((0, \frac{3}{4})\).
+
+iii. Equation of the directrix 4y = 5 - Correct. The equation of the directrix for a parabola in this form is \(y = k - \frac{p}{4}\). From part (ii), we know that \(p = \frac{1}{4}\), and from part (i), we found that \(k = 1\). Substituting these values into the equation \(y = k - \frac{p}{4}\), we get \(y = 1 - \frac{1}{4}\), which simplifies to \(y = \frac{3}{4}\). So, the equation of the directrix is indeed \(4y = 5\).
+
+In summary, statement ii and statement iii are correct. Statement i is incorrect because the vertex is actually at (0, 1), not (1, 0). Therefore, the correct answer is {{""Answer"": ""c""}}","i. শীর্ষবিন্দু (1, 0) - অনুপযুক্ত। দেওয়া সমীকরণ হল \(x^2 = 1 - y\)। শীর্ষবিন্দু খুঁজে পেতে, আমাদের এটিকে \(y = -x^2 + 1\) হিসেবে পুনঃলিখন করতে হবে যা স্ট্যান্ডার্ড ফর্মে \((x-h)^2 = 4p(y-k)\) হয়, যেখানে \((h, k)\) হল শীর্ষবিন্দু, এবং \(p\) হল শীর্ষবিন্দু থেকে ফোকাস পর্যন্ত দূরত্ব। দেওয়া সমীকরণকে স্ট্যান্ডার্ড ফর্মের সাথে তুলনা করে, আমাদের পাওয়া যায় \(h = 0\) এবং \(k = 1\)। সুতরাং, শীর্ষবিন্দু আসলে (0, 1) বিন্দুতে, (1, 0) নয়।
+
+ii. ফোকাস (0, ±3/4) - সঠিক। ফোকাস খুঁজে পেতে, আমরা \(4p\) এর মান গণনা করি প্যারাবোলার স্ট্যান্ডার্ড ফর্মে \((x - h)^2 = 4p(y - k)\)। এই ক্ষেত্রে, \(4p = 1\), তাই \(p = \frac{1}{4}\)। ফোকাস অবস্থিত হয় \((0, k \pm \frac{1}{4})\) বিন্দুতে, যা সরলীকৃত হয়ে \((0, 1 + \frac{1}{4})\) এবং \((0, 1 - \frac{1}{4})\) হয়, ফলে ফোকাস হয় \((0, \frac{5}{4})\) এবং \((0, \frac{3}{4})\)।
+
+iii. নিয়ামকের সমীকরণ 4y = 5 - সঠিক। এই ধরনের প্যারাবোলার জন্য নিয়ামকের সমীকরণ হল \(y = k - \frac{p}{4}\)। দ্বিতীয় অংশ থেকে,
+
+ আমরা জানি \(p = \frac{1}{4}\), এবং প্রথম অংশ থেকে, আমরা জানি \(k = 1\)। এই মানগুলিকে \(y = k - \frac{p}{4}\) সমীকরণে প্রতিস্থাপন করে, আমরা পাই \(y = 1 - \frac{1}{4}\), যা সরলীকৃত হয় \(y = \frac{3}{4}\)। সুতরাং, নিয়ামকের সমীকরণ সত্যিই \(4y = 5\)।
+
+সারাংশে, বিবৃতি ii এবং বিবৃতি iii সঠিক। বিবৃতি i অনুপযুক্ত কারণ শীর্ষবিন্দু আসলে (0, 1) বিন্দুতে, (1, 0) নয়। সুতরাং, সঠিক উত্তর হল {{""Answer"": ""c""}}
+"
+1,A balloon has been ascending with a velocity 20 m/s and a stone is left fall from it which reaches the ground in 10 seconds. The height of the balloon when the stone dropped was-,"20 m/sec বেগে খাড়া ঊর্ধ্বগামী একটি বেলুন হতে একখণ্ড পাথর ফেলে দেয়া হল। পাথরটি 10 সেকেন্ডে ভূমিতে পতিত হয়। পাথরটি যখন ফেলা হয়েছিল, তখন বেলুনের উচ্চতা কত মিটার ছিল?",780 m,690 m,580 m,290 m,d,N,2022Dhaka,1,780,690,580,290,ঘ,d,N,2022Dhaka,0.9434149285,0,0,,"When a stone is dropped from a balloon that has been ascending with a velocity of 20 m/s, it reaches the ground in 10 seconds. What was the height of the balloon when the stone was dropped?
+Choices: (a) 780 m (b) 690 m (c) 580 m (d) 290 m",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To solve this problem, let's use the equation for motion under uniform acceleration:
+
+s = ut + 1/2 at^2
+
+Here, 
+- s is the displacement, which in this case is the height of the balloon when the stone was dropped.
+- u is the initial velocity, which is -20 m/s (upward velocity taken as negative).
+- t is the time, which is 10 seconds.
+- a is the acceleration due to gravity, approximately 9.8 m/s^2 (downward acceleration taken as positive).
+
+Substituting the values:
+
+s = (-20 m/s * 10 s) + 1/2 * 9.8 m/s^2 * (10 s)^2
+
+Calculating this gives the height of the balloon as approximately 290 meters. So, the correct answer is {{""Answer"": ""d""}}","এই সমস্যা সমাধানের জন্য, আমরা সমান ত্বরণে গতির সমীকরণ ব্যবহার করি:
+s = ut + 1/2 at^2
+এখানে,
+s হল সরণ, যা এই ক্ষেত্রে হল পাথর ফেলা হলে বেলুনের উচ্চতা।
+u হল প্রাথমিক বেগ, যা হল -20 m/s (উপরের দিকে বেগ নেগেটিভ হিসেবে গণ্য করা হয়)।
+t হল সময়, যা হল 10 সেকেন্ড।
+a হল মহাকর্ষণ কারণে ত্বরণ, প্রায় 9.8 m/s^2 (নিচের দিকে ত্বরণ পজিটিভ হিসেবে গণ্য করা হয়)।
+মানগুলি প্রতিস্থাপন করে:
+s = (-20 m/s * 10 s) + 1/2 * 9.8 m/s^2 * (10 s)^2
+এটি গণনা করে বেলুনের উচ্চতা প্রায় 290 মিটার হিসেবে পাওয়া যায়। সুতরাং, সঠিক উত্তর হল {{""Answer"": ""d""}}"
+2,"If z_{1} = 1 + 2i and z_{2} = 3 + i, then the modules of z_{1} - z_{2} is-","z_{1} = 1 + 2i এবং z_{2} = 3 + i হলে, z_{1} - z_{2} এর মডুলাস হলো-",\sqrt{5},\sqrt{13},\sqrt{25},5\sqrt{2},a,N,2022Dhaka,1,\sqrt{5},\sqrt{13},\sqrt{25},5\sqrt{2},ক,a,N,2022Dhaka,0.9231413244,0,0,,"If z_{1} = 1 + 2i and z_{2} = 3 + i, what is the magnitude of z_{1} - z_{2}?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the modulus of z1 - z2, where z1 = 1 + 2i and z2 = 3 + i, we first calculate the difference z1 - z2 and then find its modulus.
+
+The difference z1 - z2 is:
+(1 + 2i) - (3 + i)
+= 1 + 2i - 3 - i
+= -2 + i
+
+The modulus of a complex number z = a + bi is given by sqrt(a^2 + b^2).
+
+So, the modulus of -2 + i is:
+sqrt((-2)^2 + 1^2)
+= sqrt(4 + 1)
+= sqrt(5)
+
+Therefore, the modulus of z1 - z2 is sqrt(5). So, the answer is {{""Answer"": ""a""}}","যেখানে z1 = 1 + 2i এবং z2 = 3 + i, তাদের মধ্যে z1 - z2 এর মডুলাস বের করতে, প্রথমে আমরা z1 - z2 এর পার্থক্য গণনা করি এবং তারপর এর মডুলাস বের করি।
+
+z1 - z2 এর পার্থক্য হল:
+(1 + 2i) - (3 + i)
+= 1 + 2i - 3 - i
+= -2 + i
+
+একটি জটিল সংখ্যা z = a + bi এর মডুলাস দেওয়া হয় sqrt(a^2 + b^2) দ্বারা।
+
+সুতরাং, -2 + i এর মডুলাস হল:
+sqrt((-2)^2 + 1^2)
+= sqrt(4 + 1)
+= sqrt(5)
+
+সুতরাং, z1 - z2 এর মডুলাস হল sqrt(5)। তাই, উত্তর হল {{""Answer"": ""a""}}"
+3,"If z = 1 - i, then what is the square root of z - \overline{z} -",z = 1 - i হলে z - \overline{z} ের বর্গমূল কত?,- 1 - i,\pm (1 + i),\pm (1 - i),\pm \frac{1}{\sqrt{2}} (1 - i),c,N,2022Dhaka,1,- 1 - i,\pm (1 + i),\pm (1 - i),\pm \frac{1}{\sqrt{2}} (1 - i),গ,c,N,2022Dhaka,0.9177155838,0,0,,"ParsingError{""Fixed"": ""If z = 1 - i, what is the square root of z - \overline{z}?""}",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the square root of \(z - \overline{z}\) for \(z = 1 - i\), we first determine \(\overline{z}\), the conjugate of \(z\). The conjugate of a complex number \(a + bi\) is \(a - bi\), so for \(z = 1 - i\), \(\overline{z} = 1 + i\).
+
+Now, calculate \(z - \overline{z}\):
+\(z - \overline{z} = (1 - i) - (1 + i)\)
+
+After calculating this difference, we find its square root. The result is \(1 - i\). Therefore, the correct answer is {{""Answer"": ""c""}}","z - ̄z, যেখানে z = 1 - i, এর বর্গমূল বের করতে, প্রথমে  ̄z, z এর কনজুগেট বের করা যাক। একটি কমপ্লেক্স সংখ্যা a + bi এর কনজুগেট হলো a - bi, তাহলে z = 1 - i এর জন্য  ̄z = 1 + i।
+
+এখন, আসুন z - ̄z কে গণনা করি:
+z - ̄z = (1 - i) - (1 + i)
+
+এই সমীকরণ সরলীকরণায় প্রস্তুত করা যাক:
+(1 - i) - (1 + i) = 1 - i - 1 - i
+
+সময় সময়ের মধ্যে সামল করা হয়ে যাক:
+(1 - 1) + (-i - i) = 0 - 2i = -2i
+
+তাহলে, সঠিক উত্তর হল {""Answer"": ""c""}।"
+4,What is the principle argument of (1 - \sqrt{3}i)?,1 - \sqrt{3}i এর মুখ্য আর্গুমেন্ট কত?,\frac{2\pi}{3},\frac{\pi}{3},\frac{- \pi}{3},\frac{- 2\pi}{3},c,N,2022Dhaka,1,\frac{2\pi}{3},\frac{\pi}{3},\frac{- \pi}{3},\frac{- 2\pi}{3},গ,c,N,2022Dhaka,0.9220880376,0,0,,"ParsingError{ ""Fixed"": ""What is the principal argument of (1 - \sqrt{3}i)?"" }",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the principal argument of the complex number \(1 - \sqrt{3}i\), we calculate the angle it forms with the positive x-axis in the complex plane. This is done using the arctangent function. The real part of this complex number is 1, and the imaginary part is \(-\sqrt{3}\).
+
+Principal argument = arctan(imaginary part/real part) = arctan(-root(3)/1), which is \(-\frac{\pi}{3}\).
+
+Hence, the correct answer is {{""Answer"": ""c""}}","জটিল সংখ্যা \(1 - \sqrt{3}i\) এর মুখ্য আর্গুমেন্ট বের করতে, আমরা এই সংখ্যাটি জটিল সমতলে ধনাত্মক x-অক্ষের সাথে যে কোণ গঠন করে তা গণনা করি। এতে আর্কট্যানজেন্ট ফাংশন ব্যবহার করে করা হয়। এই জটিল সংখ্যার বাস্তব অংশ হল 1, এবং কাল্পনিক অংশ হল \(-\sqrt{3}\)।
+
+মুখ্য আর্গুমেন্ট =arctan(কাল্পনিক অংশ/বাস্তব অংশ) = arctain(-root(3)/1), যা হল \(-\frac{\pi}{3}\)।
+
+তাই, সঠিক উত্তর হল {{""Answer"": ""c""}}
+"

@@ -1,0 +1,794 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+Which of the following is irrational number?,নিচের কোন সংখ্যাটি অমূলদ?,\frac{\sqrt[3]{64}}{\sqrt{36}},\frac{\sqrt[3]{8}}{\sqrt[3]{27}},\sqrt{\frac{81}{625}},\frac{\sqrt[3]{8}}{\sqrt{7}},\frac{\sqrt[3]{64}}{\sqrt{36}},\frac{\sqrt[3]{8}}{\sqrt[3]{27}},\sqrt{\frac{81}{625}},\frac{\sqrt[3]{8}}{\sqrt{7}},d
+"If f(x) = x^{3} - x - 24, then what values of x, f(x) = 0?",f(x) = x^{3} - x - 24 হলে x এর কোন মানে জ্ন্য হবে?,2,3,4,6,2,3,4,6,b
+What is called the angle of which greater than two right angle but less than four right angle?,দুই সমকোণ অপেক্ষা বড় কিন্তু চার সমকোণ অপেক্ষা ছোট কোণকে কী বলে?,Obtuse angle,Supplementary angle,Complementary angle,Reflex angle,স্থূলকোণ,সম্পূরক কোণ,পূরক কোণ,প্রবৃদ্ধ কোণ,d
+"If A = \{1, 2, 3, 4\}, then how many proper subsets of the set A?","A={1,2,3,4} হলে সেট A এর প্রকৃত উপসেট কয়টি?",4,14,15,16,4,14,15,16,c
+"If x + y = 2, xy = 1, then what is the value of (x - y)^{2}?","x + y = 2, xy = 1 হলে (x - y)^{2} এর মান কত?",0,2,6,8,0,2,6,8,a
+"If \sin \theta = \frac{1}{2}, then what is the value of \tan \theta?","\sin \theta = \frac{1}{2} হলে, \tan \theta এর মান কত?",\frac{1}{\sqrt{3}},\frac{\sqrt{3}}{2},\sqrt{3},2,\frac{1}{\sqrt{3}},\frac{\sqrt{3}}{2},\sqrt{3},2,a
+"If the area of a rectangle is 35 sq. cm whose length is x cm and breadth is (x - 2) cm, then what is the value of x?",35 বর্গ সে.মি ক্ষেত্রফল বিশিষ্ট একটি আয়তক্ষেত্রর দৈর্ঘ্য x সে.মি এবং প্রস্থ (x-2) সে.মি. হলে x এর মান কত?,7,5,-5,-7,7,5,-5,-7,a
+"If the area of the whole surface of a cube is 96 m^{2}, then what is its diagonal of the surface?",একটি ঘনকের সম্পূর্ণ পৃষ্ঠের ক্ষেত্রফল 96 বর্গমিটার। এর পৃষ্ঠতলে কর্ণের দৈর্ঘ্য কত মিটার?,16\sqrt{3},16\sqrt{2},4\sqrt{3},4\sqrt{2},16\sqrt{3},16\sqrt{2},4\sqrt{3},4\sqrt{2},d
+"In a series 6 + 10 + 14 + .....
+i. common difference is 4
+ii. 20th term is 82
+iii. sum of 1st 10 terms is 20
+Which one is correct?","6+10+14+…… ধারার- 
+ i. সাধারণ অন্তর 4
+ ii. 20 তম পদ 82
+ iii. প্রথম 10টি পদের সমষ্টি 240
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If f(x) = x^{3} - 4x + 3, then what is then value of f(-1)?","f(x) = x^{3} - 4x + 3 হলে, f(-1) এর মান কত?",-2,0,6,8,-2,0,6,8,c
+"Two circles touches each other at internally. If one of its diameter is 10 cm and radius of other circle i 4 cm, then what is the distance between the two centres of them?","দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করে। এদের ব্যাস 10 সে.মি এর অপরটির ব্যসার্ধ 4 সে.মি হলে, এদের কেন্দ্রদ্বয়ের মর্ধবর্তী দূরত্ব কত সে.মি.?",1,4,5,9,1,4,5,9,a
+Which one is the simple fractions of 0.\dot{3} \dot{3}?,0.\dot{3} \dot{3} এর সাধারণ ভগ্নাংশ কোনটি?,\frac{33}{100},\frac{33}{90},\frac{33}{99},\frac{30}{90},\frac{33}{100},\frac{33}{90},\frac{33}{99},\frac{30}{90},c
+"If x + y = 3 and xy = 1, then what is the value of x^{3} + y^{3} + (x - y)^{2}?",x+y=3 এবং xy=1 হলে x^{3} + y^{3} + (x - y)^{2} এর মান কত?,23,31,41,49,23,31,41,49,a
+"If \tan (\theta - 60\degree) = \frac{1}{\sqrt{3}}, then \sin \theta = what?","\tan (\theta - 60\degree) = \frac{1}{\sqrt{3}} হলে, \sin \theta = কত?",0,\frac{1}{2},\frac{\sqrt{3}{2},1,0,\frac{1}{2},\frac{\sqrt{3}{2},1,d
+What is the scientific number of 0.000060302?,0.000060302 সংখ্যাটির আদর্শ রূপ কোনটি?,0.60302 \times 10^{-4},6.0302 \times 10^{-5},60.302 \times 10^{-6},603.02 \times 10^{-7},0.60302 \times 10^{-4},6.0302 \times 10^{-5},60.302 \times 10^{-6},603.02 \times 10^{-7},b
+What is number of independent data is required to draw a definite quadrilateral?,নির্দিষ্ট চতুর্ভূজ আকাঁর জন্য কতটি স্বতন্ত্র উপাত্ত প্রয়োজন?,2,3,4,5,2,3,4,5,d
+"If a commodity sells at \frac{25}{2}% loss, then what is the ratio of selling price and buying price?",একটি দ্রব্য \frac{25}{2}% ক্ষতিতে বিক্রয় করলে বিক্রয়মূল্য ও ক্রয়মূল্যের অনুপাত কত?,07:08,08:09,09:08,08:07,07:08,08:09,09:08,08:07,a
+Which one of the following is the value of \sqrt[3]{7}.\sqrt[3]{7}?,\sqrt[3]{7}.\sqrt[3]{7} এর মান নিচের কোনটি?,\sqrt[6]{7},\sqrt[3]{7^{2}},\sqrt[3]{7^{3}},\sqrt{7^{2}},\sqrt[6]{7},\sqrt[3]{7^{2}},\sqrt[3]{7^{3}},\sqrt{7^{2}},b
+What is the angle between the tangent and the radius through the point of contact of the tangent?,কোনো বৃত্তের স্পর্শক ও স্পর্শবিন্দুগামী ব্যাসাধের মধ্যবর্তী কোণ কত?,45\degree,60\degree,90\degree,180\degree,45\degree,60\degree,90\degree,180\degree,c
+"If the length of a side is given, then it is possible to draw a-
+i. regular triangle
+ii. square
+iii. rhombus
+Which one is correct?","একটি বাহুর দের্ঘ্য দেওয়া থাকরে অঙ্কন সম্ভব- 
+ i. সুষম ত্রিভুজ
+ ii. বর্গ 
+ iii. রম্বস
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which of the following is median of prime numbers from 30 to 75?,30 থেকে 75 এর মধ্যবর্তী মৌলিক সংখ্যা গুলোর মধ্যক নিচের কোনটি?,47,53,59,61,47,53,59,61,b
+"If mode = 49.75, L = 48, f_{1} = 7 and f_{2} = 17 a frequency distribution the class interval?","কোনো গনসংখ্যা নিবেশনের প্রচুরক= 49.75, L = 48, f_{1} = 7 এবং f_{2} = 17 হলে, শ্রেণি ব্যবধান কত?",6,7,10,20,6,7,10,20,a
+Which is the tabular form of \{x \in \mathbb{N}:4 < x \leq 5\}?,{x \epsilon \mathbb{N} : 4 < x \leq 5} এর তালিকা রূপ কোনটি?,\O,\{4\},\{5\},"\{4, 5\}",\varnothing,{4},{3},"{4,5}",c
+Which of the following is infinite set?,নিচের কোনটি অসমী সেট?,\{x \in \mathbb{N}:x > 5\},\{x \in \mathbb{N}:x < 5\},\{x \in \mathbb{N}:x is prime number and x < 2\},\{x \in \mathbb{Z}:16 \leq x^{2} \leq 36\},{x \epsilon \matbbb{N} : x > 5},{x \epsilon \mathbb{N} : x < 5},{x \epsilon \mathbb{N} : x মৌলিক সংখ্যা এবং x < 2},{x \epsilon \mathbb{Z} : 16 \leq x^{2} \leq 36},a
+"If f(y) = y^{2} - \left ( a + \frac{1}{a} \right )y + 1, then for what value of will f(y) = 0?",f(y) = y^{2} - \left ( a + \frac{1}{a} \right )y + 1 হলে y এর কোন মানের জন্য হবে?,"0, a","0, \frac{1}{a}","a, -\frac{1}{a}","a, \frac{1}{a}","0, a","0, \frac{1}{a}","a, -\frac{1}{a}","a, \frac{1}{a}",d
+If \log_{4} x = \frac{1}{2} then x = ?,\log_{4} x = \frac{1}{2} হলে x = কত?,4,2,\frac{1}{2},\frac{1}{8},4,2,\frac{1}{2},\frac{1}{8},b
+Which one is a factor of x^{2} - 1 + 2y - y^{2}?,x^{2} - 1 + 2y - y^{2} এর একটি উৎপাদক নিচের কোনটি?,x + y - 1,x + y + 1,y - x + 1,x - y - 1,x+y-1,x+y+1,y-x+1,x-y-1,a
+Which is to be added to (x + y)^{2} that the sum will be (x - y)^{2}?,(x + y)^{2} এর সাথে কত যোগ করলে যোগফল হবে (x - y)^{2}?,- 4xy,4xy,- 2xy,2xy,-4xy,4xy,-2xy,2xy,a
+"If a + b = 4 and a^{2} + b^{2} = 8, what is the value of a^{3} + b^{3}?",a + b = 4 এবং a^{2} + b^{2} হলে a^{3} + b^{3} এর মান কত?,0,12,16,18,0,12,16,18,c
+How many years will the simple profit be Tk. 273 of Tk. 650 at the rate of profit Tk. 7 percent per annum?,বার্ষিক 7% হারে মুনাফায় 650 টাকার কত বছরের সরল মুনাফা 273 টাকা হবে?,4,5,6,7,4,5,6,7,c
+Which one of the following angle is to be possible inscribed in a minor are of a circle?,কোনো বৃত্তের উপচাপে অন্তলিখিত কোণ নিচের কোনটি হওয়ার সম্ভাবনা আছে?,30\degree,45\degree,70\degree,110\degree,30\degree,45\degree,70\degree,110\degree,d
+"If (\sqrt{3})^{x+2} = 27, what is the value of x?",(\sqrt{3})^{x+2} = 27 হলে x এর মান কত?,6,4,3,2,6,4,3,2,b
+If 2 \log x - \log (2x + 35) = 0 then what is the value of x?,2 logx - log (2x + 35) = 0 হলে x এর মান কত?,-7,-5,"-5, 7","-7, 5",-7,-5,"- 5, 7","- 7, 5",c
+What is the sum of the first 27 natural numbers?,প্রথম 27টি স্বাভাবিক সংখ্যার সমষ্টি কত?,27,378,756,6930,27,378,756,6930,b
+If \sec^{2}\theta + \tan^{2}\theta = 3 then what is the value of \cosec \theta ? (When \theta is an acute angle),"sec^{2}\theta + tan^{2}\theta = 3 হলে cosec\theta এর মান কত? (যেখানে, \theta সূক্ষ্মকোণ)",\frac{2}{\sqrt{3}},\sqrt{2},1,\frac{1}{\sqrt{2}},\frac{2}{\sqrt{3}},\sqrt{3},1,\frac{1}{\sqrt{2}},b
+If \sin A = \sqrt{(2)^{-1}} then what is the value of \sec A?,"\sin A = \sqrt{(2)^{-1}} হলে, secA এর মান কত?",0,1,\frac{2}{\sqrt{3}},\sqrt{2},0,1,\frac{2}{\sqrt{3}},\sqrt{2},d
+The perimeter of an equilateral triangle is 18 cm. What is the height of the triangle is cm?,একটি সমবাহু ত্রিভুজের পরিসীমা 18 সে.ম. হলে ত্রিভুজটির উচ্চতা কত সি.মি. ?,\sqrt{3},3\sqrt{3},3\sqrt{5},6,\sqrt{3},3\sqrt{3},3\sqrt{5},6,b
+If the radius of base and the height a cylinder are 3 cm and 7 cm respectively then what is the area of its curved surface?,"একটি সিলিন্ডারের ভূমির ব্যাসার্ধ 3 সে.মি. ও উচ্চতা 7সে.মি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সে.মি?",9\pi,21\pi,42\pi,63\pi,9\pi,21\pi,42\pi,63\pi,c
+The centre of circumscribing circle of what type of triangle is situated on the longest side of the triangle?,কোন ধরনের ত্রিভুজের পরিবৃত্তের কেন্দ্র ত্রিভূজটির বৃহত্তম বাহুর উপর অবস্থিত ?,Equllateral,Acute angled,Obtuse angled,Right angled,সমবাহু,সূক্ষ্মকোণ,স্থূলকোণী,সমকোণী,d
+"Which one is the median of the numebr 5, 15, 10, 3, 7?","5,15,10,3,7 সংখ্যাগুলোর মধ্যক কত?",15,10,7,5,15,10,7,5,c
+"If the area of an equilateral triangle is 4\sqrt{3} sq. metre, how many metres is the length of its side?",একটি সমবাহু ত্রির্ভুজের ক্ষেত্রফল বর্গমিটর হলে 4\sqrt{3} এর বাহুর দৈর্ঘ্য কত মিটর ?,\frac{\sqrt{3}}{4},\sqrt{3},4,16,\frac{\sqrt{3}}{4},\sqrt{3},4,16,c
+"If the perimeter of a square is 16 metres, how many metres is its diagonal?",একটি বর্গের পরিসীমা 16 মিটার হলে এর কর্ণ কত মিটার ?,4\sqrt{2},4\sqrt{3},8\sqrt{2},8\sqrt{3},4\sqrt{2},4\sqrt{3},8\sqrt{2},8\sqrt{3},a
+Which one of the following is the area of an isosceles triangle if its base is a and the length of its equal sides is b?,সমদ্বিবাহু ত্রিভূজের ভূমি a এবং সমান সমান বাহুর দৈর্ঘ্য b হলে এর ক্ষেত্রফল নিচের কোনটি?,\frac{b}{4} \sqrt{4a^{2} - b^{2}},\frac{a}{4} \sqrt{4b^{2} - a^{2}},\frac{4}{a} \sqrt{4b^{2} - a^{2}},\frac{4}{b} \sqrt{4b^{2} - a^{2}},\frac{b}{4} \sqrt{4a^{2} - b^{2}},\frac{a}{4} \sqrt{4b^{2} - a^{2}},\frac{4}{a} \sqrt{4b^{2} - a^{2}},\frac{4}{b} \sqrt{4b^{2} - a^{2}},b
+How many lines of symmetry does a square have?,একটি বর্গের কতটি প্রতিসাম্য রেখা আছে?,8,6,4,2,8টি,6টি,4টি,2টি,c
+"If the mid-points of the sides AB and AC of \triangle{ABC} are P and Q, which one is the value of \triangle{ABC} : \triangle{APQ}?","\triangle ABC এর AB ও AC বাহুর মধ্যবিন্দু P ও Q হলে, \triangle ABC : \triangle APQ এর মান কোনটি?",01:02,01:04,02:01,04:01,01:02,01:04,02:01,04:01,d
+The lengths of three sides of a triangle are given in cm unit. In which case of the following is it possible to construct a triangle?,ত্রিভূজের তিনটি বাহুর দৈর্ঘ্য সে.মি এককে দেওয়া হলো। নিচের কোন ক্ষেত্রে ত্রিভূজ অঙ্কন করা যায়?,"5, 6, 18","6, 7, 19","7, 8, 17","9, 6, 13","5,6,18","6,7,19,","7,8,17","9,6,13",d
+Which one of the following is correct in the case of constructing 70\degree angle in a right angled triangle?,সমকোণী ত্রিভূজের 70\degree কোণ অংকনের ক্ষেত্রে নিম্নের কোনটি সঠিক?,Hypotenuse = Perpendicular,Base < Perpendicular,Base > Perpendicular,Base = Perpendicular,অতিভূজ = লম্ব,ভূমি < লম্ব,ভূমি > লম্ব,ভূমি = লম্ব,b
+How many independent data are necessary for constructing of definite quadrliateral?,নির্দিষ্ট চতুর্ভূজ অংকনের জন্য কয়টি স্বতন্ত্র উপাত্ত প্রয়োজন?,5,4,3,2,5টি,4টি,3টি,2টি,a
+Which one is the sum of the (2n + 2) terms of the series - 2 + 2 - 2 + 2 - 2 + .....?,- 2 + 2 - 2 + 2 - 2 + .... ধারাটির (2n+2) পদের সমষ্টি কত?,4,2,0,-1,4,2,0,-1,c
+Where lies the circumcentre of the obtuse-angled triangle?,স্থূলকোণী ত্রিভূজের পরিকেন্দ্র কোথায় অবস্থিত?,On greater side,On lesser side,Inside the triangle,Outside the triangle,বৃহত্তর বাহুর উপর,ক্ষুদ্রতর বাহুর উপর,ত্রিভূজের অভ্যন্তরে,ত্রিভূজের বহির্ভাগে,d
+"If the length of a perpendicular on the chord is 3 cm from the centre of a circle with radius of 5 cm, what is the length of that chord of the circle?",5 সে.মি. ব্যাসার্ধবিশিষ্ট্ বৃত্তের কেন্দ্র থেকে কোনো জ্যা এর উপর অংকিত লম্বের দৈর্ঘ্য 3 সে.মি হলে বৃত্তের ঐ জ্যা এর দৈর্ঘ্য কত?,16 cm,8 cm,4 cm,2 cm,16 সে.মি,8 সে.মি.,4 সে.মি.,2 সে.মি.,b
+Which one is the distance between two centres if two circles touch each other internally?,দুটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে কেন্দ্রদ্বয়ের দূরত্ব হবে কোনটি?,Sum of two radius,Radius of grater circle,Radius of lesser circle,Difference of two radius,ব্যাসার্ধদ্বয়ের সমষ্টি,বৃহত্তর বৃত্তের ব্যাসার্ধ,ক্ষুদ্রতর বৃত্তের ব্যাসার্ধ,ব্যাসার্ধদ্বয়ের অন্তর,d
+Which one is the value of 0.3 \times 0.\dot{6}?,0.3 \times 0.\dot{6} এর মান কোনটি?,0.1\dot{8},0.\dot{1}\dot{8},0.\dot{2},0.2,0.1\dot{8},0.\dot{1}\dot{8},0.\dot{2},0.2,d
+"U = \{1, 2, 3, 4, 5, 6\}
+A = \{1, 2, 3, 4\}
+How many subsets are there in A?","U= {1,2,3,4,5,6} 
+ A= {1,2,3,4}
+ A এর উপসেট কয়টি?",4,8,12,16,4,8,12,16,d
+"U = \{1, 2, 3, 4, 5, 6\}
+A = \{1, 2, 3, 4\}
+If A^{\prime}, then-
+i. element of D is 2
+ii. element of A \times D is 8
+iii. A \times D is a function
+Which one of the following is correct?","U= {1,2,3,4,5,6} 
+ A= {1,2,3,4}
+ D=A' হলে- 
+ i. D এর উপাদান 2টি
+ ii. A \times D এর উপাদান 8টি 
+ iii. A \times D ফাংশন 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If T^{x} = \frac{1}{2401}, what is the value of x?","T^{x} = \frac{1}{2401} হলে, x এর মান কত?",2,3,4,5,2,3,4,5,c
+"If \log_{a}N = P, then-
+i. N > 0
+ii. P > 0
+iii. a > 0, a \neq 1
+Which one of the following is correct?","\log_{a}N = P হলে-
+ i. N > 0
+ ii. P > 0
+ iii. a > 0, a \neq 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+Which one is the solution set of x^{2} + 5x - 6 = 0?,x^{2} + 5x - 6 = 0 এর সমাধান সেট কোনটি?,"\{-6, 1\}","\{6, -1\}","\{2, 3\}","\{3, 2\}","{-6,1}","{6,-1}","{2,3}","{3,2}",a
+"If the ratio of two numbers is 3 : 4 and their HCF is 3, what is LCM of the two numbers?",দুটি সংখ্যার অনুপাত 3:4। এদের গ.সা.গু 3 হলে সংখ্যা দুইটির ল.সা.গু কত?,4,9,12,36,4,9,12,36,d
+"If \frac{x}{y} = \frac{2}{3}, what is the value of \frac{6x + y}{3x + 2y}?","যদি \frac{x}{y} = \frac{2}{3} হয়, তবে \frac{6x + y}{3x + 2y} এর মান কত?",\frac{4}{5},\frac{14}{15},\frac{5}{4},\frac{20}{13},\frac{4}{5},\frac{14}{15},\frac{5}{4},\frac{20}{13},c
+"If p^{2} = 13 + \sqrt{168}, which one is the value of \frac{1}{P}?","p^{2} = 13 + \sqrt{168} হলে, \frac{1}{P} এর মান কোনটি?",\sqrt{13} + 42,\sqrt{7} + \sqrt{6},\sqrt{13} - 42,\sqrt{7} - \sqrt{6},\sqrt{13} + 42,\sqrt{7} + \sqrt{6},\sqrt{13} - 42,\sqrt{7} - \sqrt{6},d
+"If the height of a minar is 60\sqrt{3} metre and the length of its shadow is 60 metre, what is its angle of depression?",একটি মিনারের উচ্চতা 60\sqrt{3} মিটার এবং এর ছায়ার দৈর্ঘ্য 60 মিটার হলে অবনতি কোণ কত?,90\degree,60\degree,45\degree,30\degree,90\degree,60\degree,45\degree,30\degree,b
+What is the value of \frac{1 - \tan^{2}60\degree}{1 + \tan^{2}60\degree} + \sin^{2}30\degree?,\frac{1 - \tan^{2}60\degree}{1 + \tan^{2}60\degree} + \sin^{2}30\degree এর মান কত?,\frac{1}{2},\frac{1}{4},-\frac{1}{2},-\frac{1}{4},\frac{1}{2},\frac{1}{4},-\frac{1}{2},-\frac{1}{4},d
+"If \triangle{ABC} and \triangle{DEF}, \frac{AB}{DE} = \frac{AC}{DF} = \frac{BC}{EF} then-",\triangle{ABC} ও \triangle{DEF} এর \frac{AB}{DE} = \frac{AC}{DF} = \frac{BC}{EF} হলে-,\angle A = \angle E,\angle A = \angle B,\angle A = \angle F,\angle A = \angle D,\angle A = \angle E,\angle A = \angle B,\angle A = \angle F,\angle A = \angle D,d
+"If \cosec A - \cot A = \frac{1}{x}, then \cosec A + \cot A = ?","\cosec A - \cot A = \frac{1}{x} হলে, \cosec A + \cot A = কত?",-\frac{1}{x},\frac{1}{x},x,\frac{x^{2} +1}{x},-\frac{1}{x},\frac{1}{x},x,\frac{x^{2} +1}{x},c
+What is the characteristic of the common \log of 0.0035?,0.0035 এর সাধারণ লগের পূর্ণক কত?,3,1,\bar{2},\bar{3},3,1,\bar{2},\bar{3},d
+How many number of lines of symmetry has a circle?,বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা কত?,0,1,2,Unlimited,0,1,2,অসীম,d
+If \tan A = \frac{4}{3} then \sec A = ?,\tan A = \frac{4}{3} হলে \sec A = কত?,\frac{3}{5},\frac{5}{3},\frac{3}{4},\frac{4}{5},\frac{3}{5},\frac{5}{3},\frac{3}{4},\frac{4}{5},b
+2 + 3 + 4 + ..... + 50 = ?,2+3+4+…..+50= কত?,1274,1275,1325,2548,1274,1275,1025,2548,a
+"2x + y = 8 and 3x - 2y = 5 are two equation, (x, y) = ?","2x + y = 8 এবং 3x - 2y = 5 দুটি সমীকরণ (x, y) = ?","(2, 7)","(7, 2)","(2, 3)","(3, 2)","(2, 7)","(7, 2)","(2, 3)","(3, 2)",d
+"If the length of a rectangle is increased by 10% and the breadth is decreased by 10%, then what is the percentage of increase or decrease of the area of the rectangle?",একটি আয়তক্ষেত্রের দৈর্ঘ্য 10% বৃদ্ধি এবং প্রস্থ 10% হ্রাস পেলে আয়তক্ষেত্রের ক্ষেত্রফল শতকরা কত বৃদ্ধি বা হ্রাস পাবে?,1% decreased,1% increased,21% decreased,21% increased,1% হ্রাস,1% বৃদ্ধি,21% হ্রাস,21% বৃদ্ধি,a
+0.2\dot{8} \times 42.\dot{1}\dot{8} = ?,0.2\dot{8} \times 42.\dot{1}\dot{8} = কত?,1.3\dot{5}\dot{3},12.1\dot{8}\dot{5},13.1\dot{2}\dot{3},12.2\dot{5}\dot{5},1.3\dot{5}\dot{3},12.1\dot{8}\dot{5},13.1\dot{2}\dot{3},12.2\dot{5}\dot{5},b
+"If p and q is a integer, minimum what must be added to p^{2} + q^{2} so that the sum is a perfect square?",p ও q দুটি পূর্ণ সংখ্যা হলে p^{2} + q^{2} এর সাথে নিচের কোনটি যোগ করলে যোগফল একটি পূর্ণবর্গ সংখ্যা হবে?,-2pq,#NAME?,pq,4pq,- 2pq,#NAME?,pq,4pq,a
+"x + 3y = 1 and 2x + 6y = 2 two equation are-
+i. consistant
+ii. mutually dependent
+iii. has only unique solution
+Which one is correct?","x + 3y= 1 ও 2x + 6y=2 সমীকরণদ্বয়- 
+ i. সমঞ্জস
+ ii. পরষ্পর নির্ভরশীল 
+ iii. সমাধান আছে একটি? 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+The distance of the centre to the vertex of a regular hexagon is 6m. What is the area of hexagon in square m?,একটি সুষম ষড়ভূজের কেন্দ্র থেকে কৌণিক বিন্দুর দূরত্ব 6 মি. হলে এর ক্ষেত্রফল কত বর্গমিটার?,108\sqrt{3},54\sqrt{3},27\sqrt{3},9\sqrt{3},108\sqrt{3},54\sqrt{3},27\sqrt{3},9\sqrt{3},b
+"The area of a square, the area of the square drawn on its diagonal is-",কোনো বর্গেক্ষেত্রের ক্ষেত্রফল তার কর্ণের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের-,Half,Equal,Twice,Four times,অর্ধেক,সমান,দ্বিগুন,চারগুন,a
+"For which value of the angle of depression, length of a stick and length of its shadow is equal?",অবনিত কোণের মান কত ডিগ্রি হলে ১টি খুঁটির দৈর্ঘ্য ও ছায়ার দৈর্ঘ্য সমান হবে?,30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,b
+The diameter of a circle is 26 cm. Then what is the rea of the circle is in square cm. (approx),একটি বৃত্তের ব্যাস 26 সে.মি হলে এর ক্ষেত্রফল কত বর্গ সে.মি. ?,2123.72,530.93,163.36,81.63,2123.72,530.93,163.36,81.68,b
+The angle inscribed in a minor arc is-,কোন বৃত্তের উপচাপ অন্তলিখিত কোণ-,acute angle,right angle,obtuse angle,reflex angle,সূক্ষ্মকোণ,সমকোণ,স্থূলকোণ,প্রবৃদ্ধ কোণ,c
+At least how many independent data are needen to draw a quadrilateral?,সর্বনিম্ন কয়টি উপাত্ত জানা থাকলে একটি নির্দিষ্ট চতুর্ভূজ অঙ্কন সম্ভব?,6,5,4,3,6,5,4,3,b
+What is the volume of a cube which sides is 1 cm?,1 সে.মি. ধারাবিশিষ্ট একটি ঘনকের আয়তন কত ঘন সে.মি.?,1,3,6,9,1,3,6,9,a
+"How many proper subset of P = \{1, 3, 5, 7\}?","P= {1,3,5,7} সেটের প্রকৃত উপসেট সংখ্যা কত?",7,8,15,16,7,8,15,16,c
+"If x = 2 + \sqrt{3}, then \frac{1}{x} = ?",যদি x + 2 + \sqrt{3} হয় তবে \frac{1}{x} =কত?,1,\frac{1}{2 - \sqrt{3}},2 - \sqrt{3},7 - 4\sqrt{3},1,\frac{1}{2-\sqrt{3}},2-\sqrt{3},7-4\sqrt{3},c
+"If \log_{p} 324 = 4, what is the value of p?","\log_{p} 324 = 4 হলে, p = কত?",1,2\sqrt{3},3\sqrt{2},81,1,2\sqrt{3},3\sqrt{2},81,c
+How many roots of the equation (x - 4)^{2} = 0 have?,(x - 4)^{2} = 0 সমীকরণের মূল কতটি?,1,2,3,4,1,2,3,4,b
+64 + 32 + 16 +8 + ..... which is the 8th term of the series?,64 + 32 + 16 +8 + ..... ধারার অষ্টম পদ কত?,\frac{1}{2},\frac{1}{4},2,4,\frac{1}{2},\frac{1}{4},2,4,a
+"x^{2} - \sqrt{3}x + 1 = 0
+x + \frac{1}{x} = ?","x^{2} - \sqrt{3}x + 1 = 0
+x + \frac{1}{x} = ?",-\sqrt{3},-3,\sqrt{3},3,-\sqrt{3},-3,\sqrt{3},3,c
+"If x = \sqrt{3} + \sqrt{5}, lthen what is the value of \frac{1}{x}?","x = \sqrt{3} + \sqrt{5} হলে, \frac{1}{x} এর মান কত?",\frac{1}{2}(\sqrt{5} - \sqrt{3}),(\sqrt{3} - \sqrt{5}),(\sqrt{5} - \sqrt{3}),\frac{1}{2}(\sqrt{3} - \sqrt{5}),\frac{1}{2}(\sqrt{5} - \sqrt{3}),(\sqrt{3} - \sqrt{5}),(\sqrt{5} - \sqrt{3}),\frac{1}{2}(\sqrt{3} - \sqrt{5}),a
+Which of the following is the factorized form of 2\sqrt{2}x^{3} + 125.,2\sqrt{2}x^{3} + 125 এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?,(\sqrt{2}x + 5) (2x^{2} - 5\sqrt{2}x + 25),(\sqrt{2}x - 5) (2x^{2} + 5\sqrt{2}x + 25),(\sqrt{2}x + 5) (2x^{2} + 5\sqrt{2}x + 25),(\sqrt{2}x - 5) (2x^{2} - 5\sqrt{2}x + 25),(\sqrt{2}x + 5) (2x^{2} - 5\sqrt{2}x + 25),(\sqrt{2}x - 5) (2x^{2} + 5\sqrt{2}x + 25),(\sqrt{2}x + 5) (2x^{2} + 5\sqrt{2}x + 25),(\sqrt{2}x - 5) (2x^{2} - 5\sqrt{2}x + 25),a
+"If (x + y)^{2} = \sqrt[3]{27} and xy = 0 then-
+i. x^{2} + y^{2} = 3
+ii. x - y = \sqrt{3}
+iii. x^{3} + y^{3} = 3\sqrt{3}
+Which one is correct?","(x + y)^{2} = \sqrt[3]{27} এবং xy = 0 হলে-
+ i. x^{2} + y^{2} = 3
+ ii. x - y = \sqrt{3}
+ iii. x^{3} + y^{3} = 3\sqrt{3}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the \log of 144 to the base 2\sqrt{3}?,144 এর 2\sqrt{3} ভিত্তিক \log কত?,4,2\sqrt{3},2,\sqrt{3},4,2\sqrt{3},2,\sqrt{3},a
+What is the characteristics of common \log of the number 0.0000000037?,0.0000000037 এর সাধারণ log এর পূর্ণক কত?,\bar{11},\bar{10},\bar{9},\bar{8},\bar{11},\bar{10},\bar{9},\bar{8},c
+Which one of the following is the solution set of the equation \sqrt{4x - 3} + 5 = 2?,\sqrt{4x - 3} + 5 = 2 এর সমাধান সেট কোনটি?,\{\},\{0\},\{-3\},\{3\},{},{0},{-3},{3},a
+"If 4 + p + q + 32 is a geometric series, which one is the value of (p^{2} + q^{2})?",4+p+q+32 গুণোত্তর ধারাভূক্ত হলে (p^{3} + q^{3}) এর মান নিচের কোনটি?,80,264,320,576,80,264,320,576,c
+"\triangle{ABC} and \triangle{DEF} are similar and AB : DE = 2 : 3, \triangle{DEF} : triangle{ABC} = what?",\triangle ABC ও \triangle ABC সদৃশ এবং AB : DE = 2 : 3 হলে \triangle DEF : \triangle ABC = কত?,04:09,09:04,02:03,03:02,04:09,09:04,02:03,03:02,b
+The length of the diagonal of a rectangle is 15 meters and the width is 10 meters. What is the length of the rectangle?,"একটি আয়তক্ষেত্রের কর্ণের দৈর্ঘ্য 15 মিটার এবং প্রস্থ 10 মিটার হলে, ক্ষেত্রটির দৈর্ঘ্য কত মিটার?",25 m,5\sqrt{5} m,5 m,\sqrt{5} m,25 মিটার,5\sqrt{5} মিটার,5 মিটার,\sqrt{5} মিটার,b
+"The radius of a right circular cylinder is 3 cm and the height is 5 cm.
+What is the value of the cylinder?","একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ 3 সে.মি. এবং উচ্চতা 5 সে.মি. ।
+ 
+ বেলনটির আয়তন কত ঘন সে.মি.?",15\pi cm^{3},25\pi cm^{3},45\pi cm^{3},75\pi cm^{3},15 ঘন সে.মি.,25 ঘন সে.মি.,45 ঘন সে.মি.,75 ঘন সে.মি.,c
+"The radius of a right circular cylinder is 3 cm and the height is 5 cm.
+The cylinder-
+i. circumference of the base is 3\pi cm
+ii. area of the base 9\pi sq. cm
+iii. area of curved surface is 30\pi sq. cm
+Which one is correct?","একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ 3 সে.মি. এবং উচ্চতা 5 সে.মি. ।
+ 
+ বেলনটির-
+ i. ভূমির পরিধি 3\pi ঘন সে.মি.
+ ii. ভূমির ক্ষেত্রফল 9\pi ঘন সে.মি.
+ iii. বক্রতলে ক্ষেত্রফল 30\pi ঘন সে.মি.
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+How many maximum number of common tangents can be drawn on two circles?,দুইটি বৃত্তে সর্বোচ্চ কয়টি সাধারণ স্পর্শক অঙ্কন করা সম্ভব?,4,3,2,1,4,3,2,1,a
+Which one is the simple fraction of 0.8\dot{3}?,0.8\dot{3} কে সাধারণ ভগ্নাংশে প্রকাশ করলে নিচের কোন ভগ্নাংশটি পাওয়া যাবে?,\frac{5}{6},\frac{83}{90},\frac{83}{99},\frac{6}{5},\frac{5}{6},\frac{83}{90},\frac{83}{99},\frac{6}{5},a
+What is to be added to the product of 4 consecutive natural numbers become a perfect square?,চারটি ক্রমিক স্বাভাবিক সংখ্যার গুণফলে সাথে কত যোগ করলে যোগফল একটি পূর্ণবর্গ সংখ্যা হবে?,1,4,9,81,1,4,9,81,a
+"If the number of elements of any power set is 32, then what is the number of elements of that set?","কোনো সেটের শক্তি সেটের উপাদান সংখ্যা 32 হলে, ঐ সেটের উপাদান সংখ্যা কত?",64,32,8,5,64,32,8,5,d
+"U = \{1, 2, 3, 4, 5, 6\}, A = \{1, 3, 5\}, B = \{2, 4, 6\}
+Which one is the value of (A^{\prime} \cup B^{prime})?","U ={1,2,3,4,5,6}, A= {1,3,5}, B= {2,4,6} 
+ (A' \cup B') এর মান নিচের কোনটি?",\{\},"\{2, 4, 6\}","\{1, 3, 5\}","\{1, 2, 3, 4, 5, 6\}",{},"{2,4,6}","{1,3,5}","{1,2,3,4,5,6}",d
+"U = \{1, 2, 3, 4, 5, 6\}, A = \{1, 3, 5\}, B = \{2, 4, 6\}
+Which one is the value of (A\B)?","U ={1,2,3,4,5,6}, A= {1,3,5}, B= {2,4,6} 
+ A/B এর মান নিচের কোনটি?","\{1, 2, 3, 4, 5, 6\}","\{2, 4, 6\}","\{1, 3, 5\}",\{\},"{1,2,3,4,5,6}","{2,4,6}","{1,3,5}",{},c
+The length of the three line segment are given below. In which case it is not possible to draw a triangle?,নিচের তিনটি রেখাংশের দৈর্ঘ্য দেওয়া হলো। কোন ক্ষেত্রে ত্রিভূজ অঙ্কন করা সম্ভব?,"3 cm, 4 cm, 5 cm","4 cm, 5 cm, 10 cm","5 cm, 6 cm, 8 cm","8 cm, 3 cm, 9 cm","3 সে.মি., 4 সে.মি., 5 সে.মি.","4 সে.মি., 5 সে.মি., 10 সে.মি.","5 সে.মি., 6 সে.মি., 8 সে.মি.","8 সে.মি., 3 সে.মি., 9 সে.মি.",b
+"If \cosec \theta + \cot \theta = \frac{3}{2}, \cot \theta - \cosec \theta = what?","\cosec \theta + \cot \theta = \frac{3}{2} হলে, \cot \theta - \cosec \theta = কত?",-\frac{3}{2},-\frac{2}{3},\frac{2}{3},\frac{3}{2},-\frac{3}{2},-\frac{2}{3},\frac{2}{3},\frac{3}{2},b
+An item is sold at 20% loss. What is the ratio of selling price and cost price?,একটি দ্রব্য 20% ক্ষতিতে বিক্রয় করা হলো। বিক্রয়মূল্য ও ক্রয়মূল্যের অনুপাত কত?,01:05,04:05,06:05,05:04,01:05,04:05,06:05,05:04,b
+"The system of equation x + 3y = 1 and 2x + 6y = 2 is-
+i. consistent
+ii. mutually dependent
+iii. has infinite number of solutions
+Which one is correct?","x + 3y = 1; 2x + 6y = 2 সমীকরণ জোট-
+ i. সঙ্গতিপূর্ণ
+ ii. পরস্পর নির্ভরশীল 
+ iii. এর অসংখ্য সমাধান আছে
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one is simple fraction of 4.78?,4.78 এর সাধারণ ভগ্নাংশ নিচের কোনটি?,4\frac{71}{90},4\frac{78}{9},4\frac{78}{90},4\frac{75}{9},4\frac{71}{90},4\frac{78}{9},4\frac{78}{90},4\frac{75}{9},a
+g(y) = y^{2} - 13y + 40 and g(y) = 0. Find the value of y.,"g(y) = y^{2} - 13y + 40 এবং g(y) = 0 হলে, y এর মান কত?","(5, 8)","(-5, -8)","(-5, 8)","(5, 7)","(5,8)","(-5,-8)","(-5,8)","(5,7)",a
+What is the sum of 15 terms of the series 3 + 6 + 9 + .....?,3+6+9+…….. ধারার 15টি পদের সমষ্টি কত?,270,315,360,405,270,315,360,405,c
+"If M = \{3, 5, 7\}, N = \{4, 5, 7\}, then-
+i. M \cap N = \{5, 7\}
+ii. The number of element P(M \cup N) is 16
+iii. M\N = \{3, 5\}
+Which one is correct?","M= {3,5,7} , N= {4,5,7} হলে- 
+ i. M \cap N = \{5, 7\}
+ ii. P(M \cup N) এর উপাদান সংখ্যা 16
+ iii. M\N = \{3, 5\}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Which one is the range of-
+S = \{(3, 1), (3, 3), (4, 3), (5, 4)\}?","S={(3,1),(3,3),(4,3),(5,4)} এর রেঞ্জ কোনটি?","\{3, 3, 4\}","\{3, 4, 5\}","\{1, 3, 4\}","\{1, 4, 5\}","{3,3,4}","{3,4,5}","{1,3,4}","{1,4,5}",c
+How many symmetrical lines a rhombus has?,রম্বসের প্রতিসাম্য রেখার সংখ্যা কয়টি?,0,1,2,4,0,1,2,4,c
+\log_{36} 6 + \log_{\sqrt{6}} 6 = what?,\log_{36} 6 + \log_{\sqrt{6}} 6 = কত?,\frac{1}{\sqrt{6}},1,2\frac{1}{2},5,\frac{1}{\sqrt{6}},1,2\frac{1}{2},5,c
+a_{1}x + b_{1}y = c_{1}; a_{2}x + b_{2}y = c_{2} are two equation impose a condition to make them dependent?,a_{1}x + b_{1}y = c_{1}; a_{2}x + b_{2}y = c_{2} সমীকরণ জোটটি কোন শর্তে পরস্পর নির্ভরশীল হবে?,\frac{a_{1}}{a_{2}} \neq \frac{b_{1}}{b_{2}},\frac{a_{1}}{a_{2}} = \frac{b_{1}}{b_{2}} \neq \frac{c_{1}}{c_{2}},\frac{a_{1}}{a_{2}} = \frac{b_{1}}{b_{2}} = \frac{c_{1}}{c_{2}},\frac{a_{1}}{a_{2}} \neq \frac{b_{1}}{b_{2}} \neq \frac{c_{1}}{c_{2}},\frac{a_{1}}{a_{2}} \neq \frac{b_{1}}{b_{2}},\frac{a_{1}}{a_{2}} = \frac{b_{1}}{b_{2}} \neq \frac{c_{1}}{c_{2}},\frac{a_{1}}{a_{2}} = \frac{b_{1}}{b_{2}} = \frac{c_{1}}{c_{2}},\frac{a_{1}}{a_{2}} \neq \frac{b_{1}}{b_{2}} \neq \frac{c_{1}}{c_{2}},c
+"(x - 4)^{2} = x^{2} - 8x + 16, it is-
+i. and identity
+ii. an equation
+iii. satisfied for all the values of x
+Which one is correct?","(x - 4)^{2} = x^{2} - 8x + 16 এটি- 
+ i. একটি অভেদ 
+ ii. একটি সমীরণ 
+ iii. x এর সকল মানের জন্য সিদ্ধ হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the characteristics of the \log of the number 6.34?,6.34 সংখ্যাটির লগের পূর্ণক কত?,2,1,0,-1,2,1,0,-1,c
+Which one is rational number?,নিচের কোনটি মূলদ সংখ্যা?,\sqrt{3},\sqrt{8},\sqrt[3]{6},\sqrt[3]{8},\sqrt{3},\sqrt{8},\sqrt[3]{6},\sqrt[3]{8},d
+Which one of the following solution of the equation 2y^{2} - 4py?,2y^{2} = 4py এর সমাধান নিচের কোনিট?,"(0, 4p)","(0, 2p)","(0, -2p)","(2, 2p)","(0,4p)","(0,2p)","(0,-2p)","(2,2p)",b
+If a + b = \sqrt{3} and a - b = \sqrt{2} what is the value of ab?,a + b = \sqrt{3} এবং a - b = \sqrt{2} হলে ab এর মান কোনটি?,\frac{1}{4},\frac{1}{2},1,\frac{5}{4},\frac{1}{4},\frac{1}{2},1,\frac{5}{4},a
+"If p + \frac{1}{p} = 0, what is the value of \sqrt{2} \left ( \sqrt{p} + \frac{1}{\sqrt{p}} \right )?","p + \frac{1}{p} = 0 হলে, \sqrt{2} \left ( \sqrt{p} + \frac{1}{\sqrt{p}} \right ) এর মান কত?",0,1,2,4,0,1,2,4,c
+"Two circles touches each other at internally. If one of its diameter is 10 cm and radius of other circle is 4 cm, then what is the distance between the two centres of them?","দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করে। এদের ব্যাস 10 সে.মি এর অপরটির ব্যসার্ধ 4 সে.মি হলে, এদের কেন্দ্রদ্বয়ের মর্ধবর্তী দূরত্ব কত সে.মি.?",1,4,5,9,1,4,5,9,a
+To draw a triangle whaich is the value of rest two angles expect obtuse angle of obtuse angle triangle?,স্থূথকোণী ত্রিভূজের স্থূলকোন ছাড়া বাকি কোণ দুটি কত হলে ত্রিভূজ অঙ্কন সম্ভব?,30\degree and 60\degree,40\degree and 50\degree,45\degree and 45\degree,50\degree and 30\degree,30\degree ও 60\degree,40\degree ও 50\degree,45\degree ও 45\degree,50\degree ও 30\degree,d
+\cosec \theta \sqrt{\sec^{2} \theta - 1} = ?,\cosec \theta \sqrt{\sec^{2} \theta - 1} = ?,\sec \theta,\cos \theta,\sin \theta,\tan \theta,\sec \theta,\cos \theta,\sin \theta,\tan \theta,a
+What is the ratio between a diameter and circumference of a circle?,বৃত্তের ব্যাস ও পরিধির অনুপাত কোনটি?,1 : \pi,02:00,\pi : 1,\pi : 2,1 : \pi,2 : \pi,\pi : 1,\pi : 2,a
+The distance of the centre of the vertex of regular hexagon is 6 cm. What is the area of hexagon is square meter?,একটি সুষম ষড়ভূজের কেন্দ্র থেকে কৌণিক বিন্দুর দূরত্ব 6 মি. হলে এর ক্ষেত্রফল কত বর্গমিটার?,108\sqrt{3},54\sqrt{3},27\sqrt{3},9\sqrt{3},108\sqrt{3},54\sqrt{3},27\sqrt{3},9\sqrt{3},b
+Which one indicates the data included in each class when the data are classified?,উপাত্তসমূহ সারণিভুক্ত করা হলে প্রতি শ্রেণিতে যতগুলো উপাত্ত অন্তর্ভূক্ত হয় তার নির্দেশক নিচের কোনটি?,Class limit,Mid-point of the class,Number of classes,Class frequency,শ্রেণি সীমা,শ্রেণির মধ্যবিন্দু,শ্রেণি সংখ্যা,শ্রেণির গনসংখ্যা,d
+The radius of a circle inscribed in a square is 3 cm. What is the length of a side of the square?,"একটি বর্গের অর্ন্তবৃত্তের ব্যাসার্ধ 3 সে.মি হলে, বর্গের বাহুর দৈর্ঘ্য কত?",\sqrt{3} cm,\sqrt{6} cm,3 cm,6 cm,\sqrt{3} সে.মি.,\sqrt{6} সে.মি.,3 সে.মি,6 সে.মি,d
+"What is the median of the natural numbers from 1 to 22, which is divisible by 3?",1 থেকে 22 পর্যন্ত স্বাভাবিক সংখ্যার মধ্যে 3 দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কোনটি?,9,12,15,18,9,12,15,18,b
+"If P = \{3, 4, 5, 6\}, then how many proper. subsets of the set P.","P= {3,4,5,6} হলে, সেট P এর প্রকৃত উপসেট কয়টি?",4,15,16,17,4,15,16,17,b
+"If f(x) = x^{3} - x - 24, then what values of x, f(x) = 0?","f(x) = x^{3} - x - 24 হলে, x এর মান কোন মানের জন্য f(x) = 0 হবে?",2,3,4,6,2,3,4,5,b
+"U = \{1, 2, 3, 4, 5, 6\}, M = \{1, 2, 3, 4\} If N = M', then-
+i. element of N is 2
+ii. element of M \times N is 8
+M/N = \{\}
+Which one is correct?","U= {1,2,3,4,5,6}, M={1,2,3,4} N=M' হলে -
+ i. N এর উপাদান সংখ্যা 2টি
+ ii. M \times N এর উপাদান সংখ্য 8টি 
+ iii. M/n ={}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii," i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one is the factor of x^{3} - 2x - 4?,^{3} - 2x - 4 রাশির উৎপাদক কোনটি?,(x - 4),(x - 2),(x + 2),(x + 4),(x-4),(x-2),(x+2),(x+4),b
+"If x + \frac{1}{x} = 0, what is the value of \sqrt{2} \left ( \sqrt{x} + \frac{1}{\sqrt{x}} \right )?","x + \frac{1}{x} = 0 হলে, \sqrt{2} \left ( \sqrt{x} + \frac{1}{\sqrt{x}} \right ) এর মান কত?",0,1,2,4,0,1,2,4,c
+"If (x + y)^{2} = \sqrt[3]{27} and xy = 0, then-
+i. x^{2} + y^{2} = 3
+ii. x - y = \sqrt{3}
+iii. x^{3} + y^{3} = 3\sqrt{3}
+Which one is correct?","(x + y)^{2} = \sqrt[3]{27} এবং xy = 0 হলে- and xy = 0, then-
+ i. x^{2} + y^{2} = 3
+ ii. x - y = \sqrt{3}
+ iii. x^{3} + y^{3} = 3\sqrt{3}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"1 + 3 +5 + 7.....
+Which one is the rth term of the above series?","1+3+5+7+……….
+ ধারটির r তম পদ কত?",2r - 3,2r - 1,2r + 1,2r + 3,2r-3,2r-1,2r+1,2r+3,b
+"1 + 3 +5 + 7.....
+What is the sum of 1st nine terms of the above series?","1+3+5+7+……….
+ ধারাটির প্রথম 9 পদের সমষ্টি কত?",17,81,256,511,17,81,256,511,b
+\frac{7.2^{x + 1} - 13.2^{x}}{2^{x}} = ?,\frac{7.2^{x + 1} - 13.2^{x}}{2^{x}} = কত?,-2,-1,1,2,-2,-1,1,2,c
+Which one of the following is the angle inscribed under a minor are of a circle?,কোনো বৃত্তের উপচাপে অন্তলিখিত কোণ নিচের কোনটি?,Acute angle,Obtuse angle,Right angle,Straight angle,সূক্ষ্মকোণ,স্থূলকোণ,সমকোণ,সরলকোণ,b
+Which term of the series 32 + 16 + 8 + ..... is \frac{1}{4}?,32+16+8+……ধারাটির কোন পদ \frac{1}{4}?,6,7,8,9,6,7,8,9,c
+"x - 3 - 2\sqrt{2} = 0
+x - \frac{1}{x}?","x - 3 - 2\sqrt{2} = 0
+ 
+ x - \frac{1}{x} = কত?",0,2\sqrt{2},4\sqrt{2},6,0,2\sqrt{2},4\sqrt{2},6,c
+x^{3} + \frac{1}{x^{3}} = ?,"x - 3 - 2\sqrt{2} = 0
+ 
+ x^{3} + \frac{1}{x^{3}} = কত?",198,210,213,234,198,210,213,234,a
+"If f(x) = x^{3} + Px^{2} - 6x - 9, then for what value of P will f(-3) = 0?",যদি f(x) = x^{3} + Px^{2} - 6x - 9 হয় তবে p এর কোন মানের জন্য f(-3) = 0 হবে?,-4,-2,2,6,-4,-2,2,6,c
+How many ex-circle can be drawn with any triangle?,কোন ত্রিভূজের কয়টি বহিবৃত্ত আঁকা যায়?,4,3,2,1,4,3,2,1,b
+If \sin \theta = \frac{y}{x} then \cos \theta = ?,"\sin \theta = \frac{y}{x} হলে, \cos \theta = কত?",\frac{\sqrt{x^{2} - y^{2}}}{x},\frac{x}{\sqrt{x^{2} - y^{2}}},\frac{y}{\sqrt{x^{2} - y^{2}}},\frac{\sqrt{x^{2} - y^{2}}}{y},\frac{\sqrt{x^{2} - y^{2}}}{x},\frac{x}{\sqrt{x^{2} - y^{2}}},\frac{y}{\sqrt{x^{2} - y^{2}}},\frac{\sqrt{x^{2} - y^{2}}}{y},a
+If a = 6.5 and b = 3.5 then what is the value of a^{2} - 2ab + b^{2}?,"a = 6.5, b = 3.5 হলে a^{2} - 2ab + b^{2} এর মান কত?",3,9,10,100,3,9,10,100,b
+"7 + 13 + 19 + 25 + ..... is a series.
+Which one is the 20th term of the series?","7+13+19+25+……… একটি ধারা। 
+ ধারাটির 20 তম পদ কোনটি?",26,121,133,139,26,121,133,139,b
+What is the summation of first 30 terms of the series?,"7+13+19+25+……… একটি ধারা। 
+ ধারাটির 30টি পদের সমষ্টি কত?",3225,3000,2820,188,3225,3000,3820,188,c
+If \tan (\theta - 30\degree) = \sqrt{3} then what is the value of \sin \theta?,\tan (\theta - 30\degree) = \sqrt{3} হলে \sin \theta এর মান কত?,0,\frac{1}{2},\frac{\sqrt{3}}{2},1,0,\frac{1}{2},\frac{\sqrt{3}}{2},1,d
+What is the characteristic of the common \log of 0.00000538?,0.00000538 এর সাধারণ লগের পূর্ণক কত?,\bar{6},\bar{5},5,6,\bar{6},\bar{5},5,6,a
+If 3^{2x + 3} = 81 then what is the value of x?,3^{2x + 3} = 81 হলে x এর মান কত?,\frac{1}{2},1,\frac{7}{2},7,\frac{1}{2},1,\frac{7}{2},7,a
+Which one of the following is the roster method of \{x \in \mathbb{N}:x^{2}\geq 4 and x^{3} < 100\}?,\{x \in \mathbb{N}:x^{2}\geq 4 and x^{3} < 100\} সেটটির তালিকা পদ্ধতি নিচের কোনটি?,"\{2, 3, 4\}","\{2, 3, 5\}","\{3, 4, 5\}","\{3, 4, 6\}","\{2, 3, 4\}","\{2, 3, 5\}","\{3, 4, 5\}","\{3, 4, 6\}",a
+What is the \log of \sqrt[3]{3} to the base of 3?,\log of \sqrt[3]{3} এর 3 ভিত্তিক লগ কত?,\frac{1}{2},\frac{2}{3},\frac{3}{2},3,\frac{1}{2},\frac{2}{3},\frac{3}{2},3,c
+"If A = \{1, 3, 5, 7, 9\}, B = \{5, 7\}, which one of the follolwing is the number of elements of P(A - B)?","A= {1,3,5,7,9} B = {5,7} হলে P (A-B) এর উপাদান সংখ্যা নিচের কোনটি?",3,4,8,16,3,4,8,16,c
+Which one is the factor of a^{3} + 3\sqrt{3}?,a^{3} + 3\sqrt{3} এর একটি উৎপাদক কোনটি?,a^{2} - \sqrt{3}a + 3,a^{2} - \sqrt{3}a + 9,a^{2} + \sqrt{3}a + 3,a^{2} + \sqrt{3}a + 9,a^{2} - \sqrt{3}a + 3,a^{2} - \sqrt{3}a + 9,a^{2} + \sqrt{3}a + 3,a^{2} + \sqrt{3}a + 9,a
+If \cosec \theta = \frac{\sqrt{5}}{2} then what is the value of 2 \tan \theta?,"\cosec \theta = \frac{\sqrt{5}}{2} হলে, 2 \tan \theta এর মান কত?",\frac{1}{2},1,2,4,\frac{1}{2},1,2,4,d
+"If a + b = 6 and a - b = 4 then-
+i. a^{2} - b^{2} = 24
+ii. a^{2} + b^{2} = 26
+iii. 4ab = 20
+Which one is correct?","a+b = 6, a-b= 4 হলে-
+ i. a^{2} - b^{2} = 24
+ ii. a^{2} + b^{2} = 26
+ iii. 4ab = 20
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+The perimeter of an equilateral triangle is 12 cm. What is the area sq. cm?,একটি সমবাহু ত্রিভূজের পরিসীমা 12 সে.মি. হলে ক্ষেত্রফল কত বর্গ সে.মি.,36\sqrt{3},4\sqrt{3},3\sqrt{3},\sqrt{3},36\sqrt{3},4\sqrt{3},3\sqrt{3},\sqrt{3},b
+"The height of a cylinder is 8 cm and the diameter of the base is 12 cm.
+What is the area of the curved surface in square cm?","একটি বেলনের উচ্চতা 8সে.মি এবং ভূমির ব্যাস 12 সে.মি। 
+ বেলনটির বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সি.মি.?",37.7,50.27,301.59,603.19,37.7,50.27,301.59,603.19,c
+"The height of a cylinder is 8 cm and the diameter of the base is 12 cm.
+What is the volume of the cylinder in cubic cm?","একটি বেলনের উচ্চতা 8সে.মি এবং ভূমির ব্যাস 12 সে.মি। 
+ বেলনটির আয়তন কত ঘন সে.মি.?",3619.12,904.78,301.59,150.8,3619.12,904.78,301.59,150.8,b
+Length of three line segments in cm unit are given below. When a triangle may be drawn?,নিম্নে সে.মি এককে তিনটি রেখাংশের দৈর্ঘ্য দেওয়া আছে। কোন ক্ষেত্রে একটি ত্রিভূজ আঁকা সম্বব?,"2, 3, 2005","6, 7, 2008","4, 5, 10","7, 5, 2002","2,3,5","6,7,8","4,5,10","7,5,2",b
+Parallelogram inscribed in a circle is-,বৃত্তস্থ সামন্তরিক একটি-,rhombus,square,rectangle,trapezium,রম্বস,বর্গ,আয়ত,ট্রাপিজিয়াম,c
+Which one of the following is the continue proportion?,নিচের কোনটি ক্রমিক সমানুপাতি?,05:15:20,03:05:06,02:04:08,02:05:10,05:15:20,03:05:06,02:04:08,02:05:10,c
+"If 4\sec A = 5, then \sin A = ?",4sceA= 5 হলে sinA=?,\frac{25}{16},\frac{4}{5},\frac{3}{5},\frac{9}{25},\frac{25}{16},\frac{4}{5},\frac{3}{5},\frac{9}{25},c
+"\log_{a} x = 5 and \lof_{a} y = 3
+What is the value of \log_{a}(xy)?","\log_{a} x = 5 এবং \lof_{a} y = 3
+ ন\log_{a}(xy) = কত?",2,5,8,15,2,5,8,15,c
+"\log_{a} x = 5 and \lof_{a} y = 3
+What is the value of \log_(y}x?","\log_{a} x = 5 এবং \lof_{a} y = 3
+ \log_(y}x = কত?",\frac{3}{5},\frac{5}{3},8,15,\frac{3}{5},\frac{5}{3},8,15,b
+"If 9^{n + 1} = 243, what is the value of n?",9^{n + 1} = 243 হলে n = ?,\frac{5}{2},\frac{3}{2},\frac{2}{3},\frac{5}{9},\frac{5}{2},\frac{3}{2},\frac{2}{3},\frac{5}{9},b
+If the sie of a square is decreased by 10% what is the percentage of decrease of the area of square?,কোনো বর্গের বাহুর দৈর্ঘ্য 10% হ্রাস পেলে এর ক্ষেত্রফল শতকরা কত হ্রাস পাবে?,10%,19%,21%,30%,10%,19%,21%,30%,b
+"For the equation x^{2} - \frac{4}{x^{2}} = 0, -
+i. the highest degree of the variable is 4
+ii. two roots are (\sqrt{2}, - \sqrt{2})
+iii. the constant term is 4
+Which one is correct?","x^{2} - \frac{4}{x^{2}} = 0 সমীকরণটির -
+ i. চলকের সর্বোচ্চ ঘাত 4
+ ii. দুটি মূল (\sqrt{2}, - \sqrt{2})
+ iii. ধ্রুবক পদ 4
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one is the intersecting point of the equations 2x + y = 8 and 3x - 2y = 5?,2x + y = 8 এবং 3x - 2y = 5 সমীকরণদ্বয়ের ছেদ বিন্দুর স্থানান্তর কোনটি?,"(3, 2)","(2, 3)","(-3, 2)","(-2, 3)","(3,2)","(2,3)","(-3,2)","(-2,3)",a
+"The equations 2x - 5y = 3 and x - 1 = 3y -
+i. are inconsistent
+ii. are mutually independent
+iii. have unique solution
+Which one is correct?","2x - 5y = 3 ও x - 1 = 3y সমীকরণ জোটটি 
+ i. অসমঞ্জস 
+ ii. পরস্পর অনির্ভরশীল 
+ iii. একটি মাত্র সমাধান আছে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Which one of the following is the roster method of the set \{x \in N : x \leq 5 and x is prime\}?,{x \in \mathbb{N} : x মৌলিক সংখ্যা এবং x \leq 5} সেটটির তালিকা পদ্ধতি নিচের কোনটি?,"\{1, 3, 5\}","\{5, 7, 11\}","\{2, 3, 5\}","\{3, 5, 7\}","{1, 3, 5}","{5, 7, 11}","{2, 3, 5}","{3, 5, 7}",c
+What is the ratio between cost price and selling price at 25% profit?,25% লাভে ক্রয়মূল্য ও বিক্রয়মূল্যের অনুপাত কত?,01:04,04:03,05:04,04:05,01:04,04:03,05:04,04:05,d
+What is the value of 42.\dot{1}\dot{8} \times 0.2\dot{8}?,42.\dot{1}\dot{8} \times 0.2\dot{8} = কত?,0.1\dot{3}\dot{2},12.1\dot{8}\dot{5},13.2\dot{5}\dot{0},11.8\dot{1}\dot{0},0.1\dot{3}\dot{2},12.1\dot{8}\dot{5},13.2\dot{5}\dot{0},11.8\dot{1}\dot{0},b
+"If x + \frac{1}{x} = \sqrt{5} then-
+i. x^{2} - \sqrt{5}x + 1 = 0
+ii. x - \frac{1}{x} = 1
+iii. x^{2} + \frac{1}{x^{2}} = 5
+Which one is correct?","x + \frac{1}{x} = \sqrt{5} হলে-
+ i. x^{2} - \sqrt{5}x + 1 = 0
+ ii. x - \frac{1}{x} = 1
+ iii. x^{2} + \frac{1}{x^{2}} = 5
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Which one is the general term of the sequence \frac{1}{2}, \frac{2}{3}, \frac{3}{4}, .....?","\frac{1}{2}, \frac{2}{3}, \frac{3}{4}, ..... অনুক্রমটির সাধারণ পদ কোনটি?",\frac{1}{n},\frac{1}{2^{n}},\frac{1}{n + 1},\frac{n}{n + 1},\frac{1}{n},\frac{1}{2^{n}},\frac{1}{n + 1},\frac{n}{n + 1},d
+"If x^{2} - 8 = 2\sqrt{15}, what is the value of x?","x^{2} - 8 = 2\sqrt{15} হলে, x = কত?",\sqrt{3} + 5,3 + \sqrt{5},\sqrt{5} + \sqrt{3},\sqrt{5} - \sqrt{3},\sqrt{3} + 5,3 + \sqrt{5},\sqrt{5} + \sqrt{3},\sqrt{5} - \sqrt{3},c
+Which one is the ratio of right angled triangle?,কোনটি সমকোণী ত্রিভূজের কোণগুলোর অনুপাত?,06:13:18,01:05:09,03:05:10,07:08:15,06:13:18,01:05:09,03:05:10,07:08:15,d
+"\angle R is the right angle of the right angled triangle PQR and \sqrt{3}\tan P = 1.
+According to the above information-
+i. \sin (P + Q) = 1
+ii. PQ = 1 + \sqrt{3}
+iii. \cos P + \sin Q = \tan 60\degree
+Which one is correct?","\triangle PQR সমকোণী ত্রিভূজের \angle{R} সমকোণ। \sqrt{3} tanP = 1
+ উপরের জন্য অনুসারে-
+ i. \sin (P + Q) = 1
+ ii. PQ = 1 + \sqrt{3}
+ iii. \cos P + \sin Q = \tan 60\degree
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+The area of an equilateral triangle is 25\sqrt{3} square meter. What is the length of one side of the triangle?,একটি সমবাহু ত্রিভূজের ক্ষেত্রফল 25\sqrt{3} বর্গ মি. হলে ত্রিভূজটির বাহুর দৈর্ঘ্য কত মি.?,5 meter,10 meter,50 meter,100 meter,5,10,50,100,b
+"If f(x) = x^{4} - mx^{2} + 5 and f(-1) = 0, What is the value of m?",f(x) = x^{4} - mx^{2} + 5 এবং f(-1) = 0 হলে m = ?,6,4,1,-6,6,4,1,-6,a
+Thd difference of the digits of a number consisting of two digits is 3. The number obtained by interchanging the places of the digits is more by 2 than two times of the original number. What is the number?,দুই অঙ্কবিশিষ্ট সংখ্যার অঙ্কদ্বয়ের অন্তর 3। সংখ্যাটির অঙ্কদ্বয় স্থান বিনিময় করলে যে সংখ্যা পাওয়া যায় তা মূল সংখ্যাটির দ্বিগুন অপেক্ষা 2 বেশি। সংখ্যাটি কত?,25,36,41,63,25,36,41,63,a
+"If \sin \theta = \frac{1}{2}, then \tan \theta = ?","\sin \theta = \frac{1}{2} হলে, \tan \theta = ?",\frac{1}{\sqrt{3}},\frac{1}{\sqrt{2}},\frac{\sqrt{3}}{2},\sqrt{3},\frac{1}{\sqrt{3}},\frac{1}{\sqrt{2}},\frac{\sqrt{3}}{2},\sqrt{3},a
+0.\dot{4}\dot{5} = ?,0.\dot{4}\dot{5} = কত?,\frac{41}{99},\frac{5}{11},\frac{41}{90},\frac{1}{2},\frac{41}{99},\frac{5}{11},\frac{41}{90},\frac{1}{2},b
+In which quadrant the solution of equation 2x + y = 1 and x = -4 is present?,2x + y = 1 ও x = - 4 সমীকরণদ্বয়ের সমাধান বিন্দু কোন চর্তুভাগে অবস্থিত?,4th,3rd,2nd,1st,4th,3rd,2nd,1st,c
+"If 2^{x} = \frac{1}{8}, then x = ?","2^{x} = \frac{1}{8} হলে, x = কত?",-3,-\frac{1}{3},\frac{1}{3},3,-3,-\frac{1}{3},\frac{1}{3},3,a
+"When A = \{3, 4\} and B = \{1, 2, 3\}, then B\A = ?","A = {3,4} এবং B= {1,2,3} হলে B/A = কত?","\{1, 2\}","\{1, 3\}","\{2, 4\}","\{3, 4\}","\{1, 2\}","\{1, 3\}","\{2, 4\}","\{3, 4\}",a
+Which one is the factor of x^{3} - 2x - 4?,x^{2} - 2x - 4 রাশির উৎপাদক কোনটি?,(x - 4),(x - 2),(x + 2),(x + 4),(x - 4),(x - 2),(x + 2),(x + 4),b
+"If the common term of a series is \frac{1}{3^{n}}, then what is the 2nd term?",একটি অনুক্রমের সাধারণ পদ \frac{1}{3^{n}} হলে দ্বিতীয় পদ কত?,\frac{1}{6},\frac{1}{3},\frac{4}{9},\frac{1}{9},\frac{1}{6},\frac{1}{3},\frac{4}{9},\frac{1}{9},d
+"If p, q and r are in continued proportion, \frac{p^{2} + q^{2}}{q^{2} + r^{2}} = ?","p,q,r ক্রমিক সমানুপাতী হলে \frac{p^{2} + q^{2}}{q^{2} + r^{2}} = কত?",\frac{r}{p},\frac{p}{r},\frac{q}{p},\frac{q}{r},\frac{r}{p},\frac{p}{r},\frac{q}{p},\frac{q}{r},b
+Parallel two sides of a trapezium are 32m and 64m. It sarea is 768 square meter. What is the perpendicular distance between two parallel sides?,একটি ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয় 32 মিটার ও 64 মিটার এবং ক্ষেত্রফল 768 বর্গ মিটার হলে সমান্তরাল বাহুদ্বয়ের মধ্যবর্তী লম্বদূরত্ব কত মিটার,64 m,48 m,16 m,8 m,64 m,48 m,16 m,8 m,c
+"If 3(5x - 3) = 2(x + 2), then x = ?","3(5x - 3) = 2(x + 2) হলে, x = কত?",-2,-1,\frac{13}{17},1,-2,-1,\frac{13}{17},1,d
+What type of number is the square root of 0.0025?,0.0025 এর বর্গমূল কোন ধরনের সংখ্যা,Recurring decimal,Open ended non recurring decimal,Infinite decimal,Definite decimal,Recurring decimal,Open ended non recurring decimal,Infinite decimal,Definite decimal,d
+Which term of the series 256 + 128 + 64 + ..... is \frac{1}{4}?,256+128+64+……. ধারাটির কোন পদ \frac{1}{4}?,12,11,10,9,12,11,10,9,b
+With the help of which condition a rhombus is possible to costruct?,নিচের কোন তথ্য দেওয়ার থাকলে রম্বরস অঙ্কন করা সম্ভব?,Perimeter of a rhombus,Length of a diagonal and a side,Length of a diagon,Length of a side,রম্বসের পরিসীমা,একটি কর্ণ ও বাহুর দৈর্ঘ্য,একটি কর্ণের দৈর্ঘ্য,বাহুর দৈর্ঘ্য,b
+\log_{3}\left ( \sqrt[3]{3}.\sqrt{3} \right ) = ?,\log_{3}\left ( \sqrt[3]{3}.\sqrt{3} \right ) = কত?,\frac{1}{6},\frac{5}{6},\frac{1}{3},\frac{2}{3},\frac{1}{6},\frac{5}{6},\frac{1}{3},\frac{2}{3},b
+What is the factorzation of 35 - 2x - x^{2}?,35 - 2x - x^{2} এর উৎপাদকে বিশ্লেষিত রূপ কোনটি?,(7 - x) (5 + x),(7 - x) (5 - x),(7 + x) (5 - x),(7 + x) (5 + x),(7 - x) (5 + x),(7 - x) (5 - x),(7 + x) (5 - x),(7 + x) (5 + x),c
+What is then solution set of the equation y^{2} = \sqrt{7}y?,y^{2} = \sqrt{7}y সমীকরণের সমাধারন সেট নিচের কোনটি?,"\{0, -\sqrt{7}\}",\{\sqrt{7}\},"\{0, \sqrt{7}\}","\{0, 7\}","\{0, -\sqrt{7}\}",\{\sqrt{7}\},"\{0, \sqrt{7}\}","\{0, 7\}",c
+"x - 2y = 5 and 2x - 4y = 10 are-
+i. Two same equation
+ii. Two equations are dependent to each other
+iii. The two equations has a lot of solutions
+Which one is correct?","x-2y =5 ও 2x-4y =10-
+ i. সমীকরণ জোট সমঞ্জস
+ ii. সমীকরণ জোট পরস্পর নির্ভরশীল 
+ iii. সমীকরণ জোটটির অসংখ্য সমাধান আছে 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",d
+"If the rate of interest is Tk. 5, then what is the simple profit of Tk. 500 in 3 years?",বার্ষিক 5% হার মুনাফায় 5000 টাকার 3 বছরের সরল মুনাফা কত?,Tk. 15,Tk. 45,Tk. 60,Tk. 75,15,45,60,75,d
+Which one is a rational number?,নিচের কোনটি মূলদ সংখ্যা?,\frac{\sqrt{18}}{\sqrt{32}},\frac{\sqrt{3}}{\sqrt{2}},\frac{\sqrt{8}}{\sqrt{6}},\frac{1}{\sqrt{8}},\frac{\sqrt{18}}{\sqrt{32}},\frac{\sqrt{3}}{\sqrt{2}},\frac{\sqrt{8}}{\sqrt{6}},\frac{1}{\sqrt{8}},a
+How many highest number of common tangents can be drawn to two circles?,দুইটি বৃত্ত সর্বোচ্চ কয়টি সাধারণ সর্ম্পক আঁকা যায়?,1,2,3,4,1টি,2টি,3টি,4টি,d
+A parallelogram inscribed in a circle is-,বৃত্তেস্থ সামন্তরিক একটি?,rhombus,rectangle,square,trapezium,রম্বস,আয়ত,বর্গ,ট্রাপিজিয়াম,b
+"If \tan(\theta - 30\degree) = \sqrt{3}, then what is the value of \sin \theta?",tan (\theta - 30\degree) = \sqrt{3} হলে sin\theta এর মান কত?,0,\frac{1}{2},\frac{\sqrt{3}}{2},1,0,\frac{1}{2},\frac{\sqrt{3}}{2},1,d
+Two circles touch each other externally. Diameter of one of them is 10 cm and radius of other is 4 cm. What is the distance between the centres of the circles?,দুইটি বৃত্ত পরস্পর বহিঃস্পর্শ করে। এদের একটির ব্যাস 10 সে.মি এর অপরটির ব্যাসার্ধ 4 সে. মি। বৃত্তদ্বয়ের কেন্দ্রের মধ্যবর্তী দূরত্ব কত?,1 cm,6 cm,9 cm,14 cm,1 সে.মি,6 সে.মি,9 সে.মি,14 সে.মি,c
+"If radisus of a right circular cylinder is 3 cm and height is 7 cm, then what is the area of curved surface of the cylinder?",সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ 3 সে.মি এবং উচ্চতা 7 সে.মি হলে এর বক্রতলের ক্ষেত্রফল কত?,131.95 sq. cm,188.50 sq. cm,197.95 sq. cm,395.84 sq. cm,131.95 বর্গ সে.মি,188.50 বর্গ সে.মি,197.95 বর্গ সে.মি,395.84 বর্গ সে.মি,a
+"If length of side of an equilateral triangle is 4 cm, what is its height?",সমবাহু ত্রিভূজের বাহুর দেঘ্য 4 সে.মি. হলে এর উচ্চতা কত?,8\sqrt{3} cm,4\sqrt{3} cm,2\sqrt{3} cm,\sqrt{3} cm,8\sqrt{3} সে.মি.,4\sqrt{3} সে.মি.,2\sqrt{3} সে.মি.,\sqrt{3} সে.মি.,c
+"Length of three sides are given. In which case, a right angled triangle can be drawn?",তিনটি বাহুর দৈঘ্য দেওয়া আছে নিচের কোন ক্ষেত্রে সমকোনী ত্রিভূজ আঁকা সম্ভব?,"3 cm, 5 cm, 7 cm","5 cm, 7 cm, 9 cm","4 cm, 5 cm, 8 cm","6 cm, 8 cm, 10 cm","3 cm, 5cm , 7cm","5cm , 7cm, 9cm","4cm, 5cm, 8cm","6cm, 8cm, 10cm",d
+Where is the circumcentre of a right angled triangle located?,সমকোনী ত্রিভূজের পরিকেন্দ্র কোথায় অবস্থিত?,On the hypotenuse,On the perpendicular,Inside the triangle,Outside the triangle,অতিভূজের উপর,লম্বের উচর,ত্রিভূজের অভ্যন্তরে,ত্রিভূজের বহিভাগে,a
+Which one is the tabular form of the set \{x \in z:x^{2} - 9 = 10\}?,{x \epsilon \mathbb{Z} : x^{2} - 9 = 0} এর তালিকা পদ্ধতিতে প্রকাশিত রূপ কোনটি?,\phi,\{-3\},\{3\},"\{-3, 3\}",\varnothing,{- 3},{3},"{- 3, 3}",d
+"If x + \frac{1}{x} = 5, then-
+i. x^{2} - \frac{1}{x^{2}} = 5\sqrt{21}
+ii. x^{3} + \frac{1}{x^{3}} = 110
+iii. x^{2} - 5x + 1 = 0
+Which one is correct?","x + \frac{1}{x} = 5 হলে -
+ i. x^{2} - \frac{1}{x^{2}} = 5\sqrt{21}
+ ii. x^{3} + \frac{1}{x^{3}} = 110
+ iii. x^{2} - 5x + 1 = 0 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If (x - 2y, 3x + 2y) = (1, 19), which one is the value of (x, y)?","(x - 2y, 3x + 2y) = (1, 19) হলে (x, y) এর মান কোনটি?","(5, 2)","(2, 5)","(9, 4)","(4, 9)","(5,2)","(2,5)","(9,4)","(4,9)",a
+"In case of scientific form of a positive number a \times 10^{n}, which one of the following is the interval of 'a'?",যে কোনো ধনাত্মক সংখ্যার বৈজ্ঞানিক রূপ a \times 10^{a} এর ক্ষেত্রে a এর সীমা নিচের কোনটি?,1 < a < 10,1 < a \leq 10,1 \leq a <10,1 \leq a \leq 10,1 < a < 10,1 < a \leq 10,1 \leq a \leq 10,1 \leq a \leq 10,c
+Which one of the following is a factor of x^{3} - 2x^{2} - 5x + 6?,নিচের কোনটি x^{3} - 2x^{2} - 5x + 6 এর উৎপাদক?,x + 1,x - 2,x - 3,x + 3,x+1,x-2,x-3,x+3,c
+What is the sum of first 2(n + 1) terms of the series 4 - 4 + 4 - 4 + .....?,4-4+4-4+…………….. ধারাটির প্রথম 2(n + 1) সংখ্যক পদের সমষ্টি কত?,8,4,2,0,8,4,2,0,d
+What is the 15th term of the series - 8 - 3 + 2 + 7 + .....?,- 8-3+2+7+…….. ধারাটির 15 তম পদ কত,62,67,78,83,62,67,78,83,a
+What is the value of \log_{5}(\sqrt[3]{5}\cdot \sqrt{5})?,\log_{5}(\sqrt[3]{5}\cdot \sqrt{5}) এর মান কত?,\frac{6}{5},\frac{5}{6},\frac{1}{4},\frac{1}{6},\frac{6}{5},\frac{5}{6},\frac{1}{4},\frac{1}{6},b
+"If \frac{1}{25^{-x}} = 125, what is the value of x?",\frac{1}{25^{-x}} = 125 হলে এর মান কত?,3,\frac{3}{2},1,\frac{2}{3},3,\frac{3}{2},1,\frac{2}{3},b
+"What is the median of the numbers 13, 17, 14, 11, 9, 14?","13, 17, 14, 11, 9, 14 সংখ্যাগুলোর মধ্যক কত?",12.5,13,13.5,14,12.5,13,13.5,14,c
+"If A = \{a, b, c\} and B = \{a, b\} then-
+i. B \cup (A \cup B) = A \cap B
+ii. (A - B) \cup B = A
+iii. A = A \cap (A \cup B)
+Which one is correct?","A= {a,b,c} এবং B= {a,b} হলে- 
+ i. B \cup (A \cup B) = A \cap B
+ ii. (A - B) \cup B = A
+ iii. A = A \cap (A \cup B)
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+\sqrt{\frac{1}{\sec^{2}A - A}} = what?,\sqrt{\frac{1}{\sec^{2}A - A}}= কত?,\cot A,\tan A,\cos A,\sin A,cotA,tanA,cosA,sinA,a
+The volume of a cube is 24\sqrt{3} cm^{3}. What is the length of the side of the cube?,একটি ঘনকের আয়তন 24\sqrt{3} সে.মি হলে তার ধার কত সে.মি.,2\sqrt{3} cm,3\sqrt{3} cm,6\sqrt{3} cm,8\sqrt{3} cm,2\sqrt{3} সে.মি.,3\sqrt{3} সে.মি.,6\sqrt{3} সে.মি.,8\sqrt{3} সে.মি.,a
+The first and 7th terms of a geometric series are \frac{1}{\sqrt{3}} and 9\sqrt{3} respectively. What is the common ratio of the series?,কোন গুণোত্তর ধারার ১ম পদ \frac{1}{\sqrt{3} । ৭ম পদ 9\sqrt{3} হলে সাধারণ অনুপাত কত?,\sqrt{3},3,3\sqrt{3},27,\sqrt{3},3,3\sqrt{3},27,a
+How many ex-circle can be drawn on any triangle?,কোন ত্রিভুজের কয়টি বহিবৃত্ত আঁকা যায়?,1,2,3,4,1,2,3,4,c
+What is the simplify value of \frac{16^{a}-1}{4^{a}-1}?,\frac{16^{a}-1}{4^{a}-1} এর সরল মান কত?,2^{a}-1,2^{2a}-1,2^{a}+1,2^{2a}+1,2^{a}-1,2^{2a}-1,2^{a}+1,2^{2a}+1,d
+"If \cot\theta = \frac{\sqrt{16}}{3}, then what is the value of \cos\theta = ?","\cot\theta = \frac{\sqrt{16}}{3} হলে, \cos\theta এর মান কত?",\frac{3}{5},\frac{5}{3},\frac{4}{5},\frac{5}{4},\frac{3}{5},\frac{5}{3},\frac{4}{5},\frac{5}{4},c
+"If \cos 2\theta = \frac{1}{2}, then what is the value of \sin^{2} 2\theta?","\cos 2\theta = \frac{1}{2} হলে, \sin^{2} 2\theta = ?",\frac{1}{4},\frac{1}{3},\frac{3}{4},3,\frac{1}{4},\frac{1}{3},\frac{3}{4},3,c
+"If A = \Phi, B = {1}  then A \cup B = ?","A = \Phi, B = {1} হলে, A \cup B = ?",\phi,\{\phi\},\{1\},"\{1, \phi\}",\phi,\{\phi\},\{1\},"\{1, \phi\}",c
+"If f(x) = \frac{x}{2} + 1, then \left ( \frac{1}{x} \right ) = ?","f(x) = \frac{x}{2} + 1, হলে \left ( \frac{1}{x} \right ) = কত?",2x + 1,\frac{1}{x} + 2,\frac{1}{2x} + 1,\frac{2}{x} + 1,2x + 1,\frac{1}{x} + 2,\frac{1}{2x} + 1,\frac{2}{x} + 1,c
+"If a^{2} + frac{1}{a^{2}} = 11 -
+i. a - \frac{1}{a} = 3
+ii. \left (a + \frac{1}{a} \right)^{2} = 13
+iii. a^{3} - \frac{1}{a^{3}} = 18
+Which one is correct?","a^{2} + frac{1}{a^{2}} = 11 হলে-
+ i. a - \frac{1}{a} = 3
+ ii. \left (a + \frac{1}{a} \right)^{2} = 13
+ iii. a^{3} - \frac{1}{a^{3}} = 18
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the value of \log_{2\sqrt{2}} 8 + \log_{4} 2?,\log_{2\sqrt{2}} 8 + \log_{4} 2 এর মান কত?,\frac{5}{2},\frac{7}{2},4,5,\frac{5}{2},\frac{7}{2},4,5,a
+What will be the simple profit of Tk. 1500 in 3 years at simple interest 5 percent per annum?,5% হার মুনাফায় 1500 টকার 3 বছরের সরল মুনাফা কত টাকা?,Tk. 225,Tk. 1615,Tk. 1725,Tk. 1775,225টাকা,1615 টাকা,1725 টাকা,1775 টাকা,a
+"If 7 + x + y + 56 + is a geometric series then, what is the value of y?",7+x+y+56+……… গুনোত্তর ধারা হলে y এর মান কত?,2,14,28,56,2,14,28,56,c
+What is the characteristics of \log of the number 0.1000005?,0.1000005 এর লগের পূর্ণক কত?,\bar{1},\bar{5},\bar{6},\bar{8},1,5,6,8,a
+"If the area of a square is 16 cm^{2}, what is the length of diagonal of the square?",একটি বর্গের ক্ষেত্রফল 16 বর্গ সে.মি. হলে কর্ণের দের্ঘ্য কত হবে?,4 cm,4\sqrt{2} cm,8 cm,8\sqrt{2} cm,4 সে.মি.,4\sqrt{2} সে.মি.,8 সে.মি.,8\sqrt{2} সে.মি.,b
+"If two circle having 8 cm and 4 cm diameters touch each other externally, what is the distance between centres of the circle?",8 সে.মি. ও 4 সে.মি. ব্যাস বিশিষ্ট দুটি বৃত্ত বহিস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের মধ্যবর্তী দূরত্ব কত সে.মি. হবে?,2 cm,4 cm,6 cm,12 cm,2 সে.মি.,4 সে.মি.,6 সে.মি.,12 সে.মি.,c
+"If A = \{2, 4, 6, 8\} then-
+proper subset number is 15
+ii. A = \{x \in \mathbb{N}:x is even number and x \leq 8\}
+iii. in the set A the number of element is 4 by 2 divisible by 2 is 4
+Which one is correct?","A = {2,4,6,8} সেটটির-
+ i. প্রকৃত উপসেটের সংখ্যা 15
+ ii. A= {x \in \mathbb{N} : x, জোড়সংখ্যা এবং x \leq 8}
+ iii. A সেটে 2 দ্বারা বিভাজ্য উপাদন সংখ্যা 4টি 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the sum of first 50 natural numbers?,১ম 50 টি স্বাভাবিক সংখ্যার সমষ্টি কত?,1250,1275,2500,2550,1250,1275,2500,2550,b
+How many planes are there in a cube?,ঘনকের তল আছে কয়টি?,2,3,4,6,2,3,4,6,d
+"For a circle-
+i. the angle inscribed in the semi-circle is a straight angle
+ii. the perpendicular bisector of any chord passes through the centre of the circle
+iii. the middle points of equal chords of a circle are concyclic
+Which one is correct?","বৃত্তের ক্ষেত্রে-
+ i. অর্ধবৃত্তস্থ কোন এক সরল কোণ
+ ii. যেকোনো জ্যা এর লম্বদ্বিখন্ডক কেন্দ্রগামী 
+ iii. বৃত্তের সমান সমান জ্যা এর মধ্যবিন্দুগুলো সমবৃত্ত
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the general term of the series 3 + 9 + 27 + 81 + .....?,3+9+27+81+….. ধারাটির সাধারণ পদ কত?,3^{n - 2},3^{n + 1},3^{n + 2},3^{n},3^{n - 2},3^{n + 1},3^{n + 2},3^{n},d
+\frac{1}{\tan{A}} \sqrt{1 - \cos^{2}A} = ?,\frac{1}{\tan{A}} \sqrt{1 - \cos^{2}A} = কত?,\frac{\sin^{2}A}{\cos{A}},\frac{\cos^{2}A}{\sin A},\sin A,\cos A,\frac{\sin^{2}A}{\cos{A}},\frac{\cos^{2}A}{\sin A},\sin A,\cos A,d
+"If \frac{1}{a} = 3 + 2\sqrt{2}, then a - \frac{1}{a} = ?","\frac{1}{a} = 3 + 2\sqrt{2} হলে, a - \frac{1}{a} = ?",- 4\sqrt{2},-4,0,4\sqrt{2},- 4\sqrt{2},-4,0,4\sqrt{2},a
+"If x + y =\sqrt{7} and xy = 1, then x - y = ?","x + y =\sqrt{7} এবং xy = 1 হলে, x - y = ?",\sqrt{3},3,\sqrt{11},7,\sqrt{3},3,\sqrt{11},7,a
+What is the common difference of the series 14 + 10 + 6 + 2 + .....?,14+10+6+2+…… ধারাটির সাধারণ অন্তর কত?,2,4,-2,-4,2,4,-2,-4,d
+If a + b = \sqrt{6} and a - b = \sqrt{5} then what is the value of 4ab?,a + b = \sqrt{6} এবং a - b = \sqrt{5} হলে 4ab এর মান কত?,1,\frac{1}{2},11,\frac{11}{2},1,\frac{1}{2},11,\frac{11}{2},a
+Which one is the inscribed angle on the major arc?,কোন বৃত্তের অধিচাপে অন্তলিখিত কোণ নিচের কোনটি?,Acute angle,Right angle,Obtuse angle,Straight angle,সূক্ষ্মকোণ,সমকোণ,স্থূলকোণ,সরলকোণ,c
+What is the distance between two centres of the circles with radius 5 cm and 7 cm respectively when they touch each other internally?,5 সে.মি. ও 7 সে.মি. ব্যাসার্ধের দুটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের দূরত্ব কত?,2 cm,5 cm,7 cm,12 cm,2 সে.মি.,5 সে.মি.,7সে.মি.,12 সে.মি.,a
+What is the sum of first 2n terms of the series 1 - 1 + 1 - 1 + .....?,1-1+1-1+……. ধারাটির প্রথম 2n সংখ্যক পদের সমষ্টি কত?,0,1,2,2n,0,1,2,2n,a
+a^{n + 1} . a^{-n} = what?,a^{n + 1} . a^{-n} = কত?,a,a^{-1},a^{\frac{1}{n} + 1},a^{n + \frac{1}{n}},a,a^{-1},a^{\frac{1}{n} + 1},a^{n + \frac{1}{n}},a
+"For which from the following three sides, it is possiblke to draw a triangle?",নিচের কোন তিনটি বাহুর ক্ষেত্রে ত্রিভূজ অঙ্কন করা সম্বব?,"5 cm, 6 cm and 18 cm","6 cm, 7 cm and 18 cm","7 cm, 9 cm and 17 cm","6 cm, 9 cm and 13 cm","5 সে.মি. , 6 সে.মি. ও 18 সে.মি.","6 সে.মি. , 7 সে.মি. ও 18 সে.মি.","7 সে.মি. , 9 সে.মি. ও 17 সে.মি.","6 সে.মি. , 9 সে.মি. ও 13 সে.মি.",d
+What is the value of \log_{5} \sqrt[5]{5}?,\log_{5} \sqrt[5]{5} এর মান কত?,\frac{2}{3},\frac{3}{2},\frac{5}{2},\frac{3}{5},\frac{2}{3},\frac{3}{2},\frac{5}{2},\frac{3}{5},b
+What is the nth term of the series ar + ar^{3} + ar^{5} + .....?,ar + ar^{3} + ar^{5} + ..... ধারাটির n তম পদ কত?,ar^{n},ar^{n - 1},ar^{2n - 1},ar^{2n - 2},ar^{n},ar^{n - 1},ar^{2n - 1},ar^{2n - 2},c
+Which one of the following is the example of discrete variable?,নিচের কোনটি বিচ্ছিন্ন চলকের উদাহরণ?,Population,Age,Height,Temperature,জনসংখ্যা,বয়স,উচ্চতা,তাপমাত্রা,a
+"How many subsets of P = \{a, b, c\}?","P= {a,b,c} এর উপসেট কতটি?",3,6,7,8,3টি,6টি,7টি,8টি,d
+Which one of the following is a factor of 2p^{3} - p - 1?,নিচের কোনটি 2p^{2} - p - 1 এর একটি উৎপাদক?,p - 1,p + 1,2p - 1,p + 2,p-1,p+1,2p-1,p+2,a
+What is the characteristic of the common \log of 0.0625?,0.0625 সংখ্যাটি সাধারণ লগের পূর্ণক কত?,\bar{2},\bar{1},1,2,\bar{2},\bar{1},1,2,a
+"\tan(24 - 45\degree) = 1 = 3 \sin B
+What is the value of A?","tan (2A - 45\degree) = 1 = 3sinB
+ 
+ A এর মান কত?",30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,b
+"\tan(24 - 45\degree) = 1 = 3 \sin B
+\cos^{2} B = what?","tan (2A - 45\degree) = 1 = 3sinB
+ 
+ cos^{2}B = কত?",\frac{10}{9},\frac{8}{9},\frac{\sqrt{10}}{3},\frac{2\sqrt{2}}{3},\frac{10}{9},\frac{8}{9},\frac{\sqrt{10}}{3},\frac{2\sqrt{2}}{3},b
+"If f(x) = 3x^{2} + 4Kx then for what value of K, f(-2) = 0?",যদি f(x) = 3x^{2} + 4kx হয় তবে k এর কোন মানের জন্য f(-2) = 0 হবে?,\frac{3}{2},-\frac{3}{2},3,-3,\frac{3}{2},-\frac{3}{2},3,-3,a
+If the diameter of a circle is 10 cm then what is its circumference?,একটি বৃত্তের ব্যাস 10 সে.মি. হলে এর পরিধি কত?,31.42 cm (approx.),62.83 cm (approx.),78.54 cm (approx.),157.08 cm (approx.),31.42 সে.মি (প্রায়),62.83 সে.মি (প্রায়),78.54 সে.মি (প্রায়),157.08 সে.মি (প্রায়),a
+Where the circumcentre of a right angled triangle situated?,সমকোণী ত্রিভূজের পরিকেন্দ্র কোথায় অবস্থান করে?,Inside the triangle,Outside the triangle,On the hypotenuse,On the base,ত্রিভূজের অভ্যন্তরে,ত্রিভূজের বাইরে,অতিভূজের উপর,ভূমির উপর,c
+"For first n natural numbers-
+i. summation = \frac{n(n + 1)}{2}
+ii. sum of square = \frac{n^{2}(n + 1)^{2}}{2}
+iii. sum of cubes = \frac{n^{2}(n + 1)^{2}}{4}
+Which one is correct?","প্রথম n সংখ্যক স্বাভাবিক সংখ্যার-
+ i. সমষ্টি = \frac{n(n + 1)}{2}
+ ii. বর্গের সমষ্টি = \frac{n^{2}(n + 1)^{2}}{2}
+ iii. ঘনের সমষ্টি = \frac{n^{2}(n + 1)^{2}}{4}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+If the length of side of an equilateral triangle is 6 cm then what is the area of the triangle?,"সমবাহু ত্রিভূজের বাহুর দৈর্ঘ্য 6 সে.মি. হলে, এর ক্ষেত্রফল কত?",\sqrt{3} sq. cm,3\sqrt{3} sq. cm,9\sqrt{3} sq. cm,36\sqrt{3} sq. cm,\sqrt{3} বর্গ সে.মি.,3\sqrt{3} বর্গ সে.মি.,9\sqrt{3} বর্গ সে.মি.,36\sqrt{3} বর্গ সে.মি.,c
+"Which one is the domain of relation R = \{(-3^{\prime}, 2), (3^{\prime}, 3) (4^{\prime}, 3)\}?","R ={(-3,2),(3,3), (4,3)} অন্বয়ের ডোমেন নিচের কোনটি?","\{2, 3\}","\{3, 4\}","\{-3, 3, 4\}","\{2, -3, 3\}","{2,3}","{3,4}","{-3,3,4}","{2,3,3}",c
+Which one is the identity?,নিচের কোনটি অভেদ?,(x + 2)^{2} + (x - 2)^{2} - 2x^{2} + 8,(x + y)^{2} + (x - y)^{2} = 4xy,(x + y)^{2} - (x - y)^{2} = 2(x^{2} + y^{2}),(x + 4)^2 + (x - 4)^{2} = 2x^{2} + 16,(x + 2)^{2} + (x - 2)^{2} - 2x^{2} + 8,(x + y)^{2} + (x - y)^{2} = 4xy,(x + y)^{2} - (x - y)^{2} = 2(x^{2} + y^{2}),(x + 4)^2 + (x - 4)^{2} = 2x^{2} + 16,a
+"If the perimeter of a square is \frac{a}{2} unit, then which one is its area?",একটি বর্গের পরিসীমা \frac{a}{2} একক। এর ক্ষেত্রফল নিচের কোনটি?,\frac{a^{2}}{2} sq. unit,\frac{a^{2}}{4} sq. unit,\frac{a^{2}}{8} sq. unit,\frac{a^{2}}{64} sq. unit,\frac{a^{2}}{2} বর্গ একক,\frac{a^{2}}{4} বর্গ একক,\frac{a^{2}}{8} বর্গ একক,\frac{a^{2}}{64} বর্গ একক,d
+"If j, k, l and m are ordered proportional, then-
+i. \frac{j}{k} = \frac{l}{m}
+ii. \frac{j}{k} = \frac{k}{l}
+iii. \frac{k}{l} = \frac{l}{m}
+Which one of the following is correct?","j, k, l ও m ক্রমিক সমানুপাতী হলে-
+ i. \frac{j}{k} = \frac{l}{m}
+ ii. \frac{j}{k} = \frac{k}{l}
+ iii. \frac{k}{l} = \frac{l}{m}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"In \triangle{PQR}, if \angle Q = 90\degree and \angle P = 30\degree, then which one of then following is correct?","\triangle{PQR} এ, \angle Q = 90\degree এবং \angle P = 30\degree, হলে নিচের কোনটি সঠিক?",PR = \sqrt{2}QR,PR = \sqrt{3}PQ,PR = 2QR,PR = 3QR,PR = \sqrt{2}QR,PR = \sqrt{3}PQ,PR = 2QR,PR = 3QR,c
+To draw a triangle which is the value of rest two angles except obtuse angle of obtuse angle triangle?,স্থূলকোণী ত্রিভুজের স্থূলকোণ ছাড়া বাকি কোণ দুটি কত হলে ত্রিভুজ অংকন সম্ভব?,30\degree and 60\degree,40\degree and 50\degree,45\degree and 45\degree,50\degree and 30\degree,30\degree ও 60\degree,40\degree ও 50\degree,45\degree ও 45\degree,50\degree ও 30\degree,d
+"If \tan (\theta + 30\degree) = \sqrt{3}, then what is the value of \theta?","\tan (\theta + 30\degree) = \sqrt{3} হলে, \theta এর মান কত?",0\degree,30\degree,60\degree,90\degree,0\degree,30\degree,60\degree,90\degree,b
+The shadow of a stick is how many times of its length then the angle of elevation will be 30\degree?,কোনো দন্ডের ছায়ার দৈর্ঘ্যর কতগুন হলে উন্নতি কোণ 30\degree হবে?,\frac{1}{\sqrt{3}},\frac{1}{\sqrt{2}},\sqrt{2},\sqrt{3},\frac{1}{\sqrt{3}},\frac{1}{\sqrt{2}},\sqrt{2},\sqrt{3},d
+"The equations 2x - 3y = 8 and 4x - 6y = 7 are-
+i. dissimilar with cash other
+ii. depending with each other
+iii. having no solution
+Which one of the following is correct?","2x - 3y = 8 এবং 4x - 6y = 7 সমীকরণদ্বয়-
+ i. পরস্পর অসমঞ্জস
+ ii. পরস্পর নির্ভরশীল 
+ iii. এর কোনো সমাধান নেই
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"Which one is the median of the data 13, 11, 8, 9, 15, 5?","13, 11, 8, 9, 15, 5 সংখ্যাগুলোর মধ্যক কত?",8.5,9,10,10.5,8.5,9,10,10.5,c
+"In \triangle{ABC}, if AB = AC, then how many symmetry line of its?","\triangle ABC এ, AB = AC হলে এর প্রতিসম্য রেখা কতটি?",1,2,3,4,1টি,2টি,3টি,4টি,a
+How many steps have to follow to draw a circle inscribed in a square?,কোনো বর্গে অন্তবৃত্ত আঁকতে কয়টি ধাপ অনুসরণ করতে হয়?,2,3,4,5,2টি,3টি,4টি,5টি,b
+If one side of a equilateral triangle is produced to both sides. then what is the sum of two generated exterior angles?,"সমবাহু ত্রিভূজের একটি বাহুকে উভয় দিকে বর্ধিত করলে যে বহিঃস্থ কোণদ্বয় উৎপন্ন হয়, তাদের সমষ্টি কত?",120\degree,180\degree,240\degree,270\degree,120\degree,180\degree,240\degree,270\degree,c
+"If A = \frac{pi}{6}, then \tan 2A = What?","A = \frac{pi}{6} হলে, \tan 2A = কত?",\frac{\sqrt{3}}{2},\frac{1}{\sqrt{3}},1,\sqrt{3},\frac{\sqrt{3}}{2},\frac{1}{\sqrt{3}},1,\sqrt{3},d
+"If (\sqrt{3})^{2x +1} = (\sqrt[3]{\sqrt{3}})^{x - 1}, then x = what?","(\sqrt{3})^{2x +1} = (\sqrt[3]{\sqrt{3}})^{x - 1} হলে, x = কত?",-\frac{5}{4},-\frac{4}{5},\frac{4}{5},\frac{5}{4},-\frac{5}{4},-\frac{4}{5},\frac{4}{5},\frac{5}{4},b
+Which one is the approximate value up to 3 decimal places of the number 0.99973 .....?,0.99973…. সংখ্যাটির তিন দশমিক স্থান পর্যন্ত আসন্ন মান নিচের কোনটি?,0.999,0.999,1,0.1,0.99\dot{9},0.9\dot{9}9,1,0.10\dot{0},c
+"If A = \{x \in N : x^{2} < 25\}
+B = \{x \ni N : x is a prime number and x^{2} < 25\}
+C = \{x \ni N : x^{2} - 25\}, then (A \cap B) \cup C = what? ","A = \{x \in N : x^{2} < 25\}
+ B = \{x \in N : x মৌলিক সংখ্য ও x^{2} < 25\}
+ C = \{x \in N : x^{2} - 25\}, হলে (A \cap B) \cup C = কত?",\{\},"\{2, 3, 5\}","\{-5, 2, 3, 5\}","\{1, 2, 3, 4, 5\}",{ },"{2,3,5}","{-5,2,3,5}","{1,2,3,4,5}",b
+"If a^{2} + 1 - \sqrt{6}a = 0, then what is the value of a^{3} + \frac{1}{a^{3}}?","a^{2} + 1 - \sqrt{6}a = 0 হলে, a^{3} + \frac{1}{a^{3}} এর মান কত?",0,3\sqrt{3},3\sqrt{6},5\sqrt{6},0,3\sqrt{3},3\sqrt{6},5\sqrt{6},c
+"i. \log_{9} 3 = \frac{1}{2}
+ii. If 4^{2x + 1} = 2, then x = -\frac{1}{4}
+iii. The value of (3^{-1} + 6^{-1}) is \frac{1}{2}
+Which one of the following correct?","i. \log_{9} 3 = \frac{1}{2}
+ ii. 4^{2x + 1} = 2 হলে, x = -\frac{1}{4}
+ iii. (3^{-1} + 6^{-1}) এর মান \frac{1}{2}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"What is the constant term of the equation 4x^{3} - 5x - 2\sqrt{9} = 0, where x is a variable?",x চলকের জন্য 4x^{3} - 5x - 2\sqrt{9}। এ সমীকরণের ধ্রুবপদ কত?,-2,2,a,a - 2,-2,2,‍a,a-2,d
+Which one is the 10th term of the series 3 - 3 + 3 - 3 + .....?,3-3+3-3+…………. ধারাটির 10তম পদ নিচের কোনটি?,-30,-3,3,30,-30,-3,3,30,b
+"If f + g + h + k + 1 + ..... is a arithmetic series, then-
+i. h = \frac{g + f}{2}
+ii. k = \frac{h + 1}{2}
+iii. g = \frac{f + h}{2}
+Which one of the following is correct?","f+g+h+k+l+…………. সমান্তর ধারাভূক্ত হলে? 
+ i. h = \frac{g + f}{2}
+ ii. k = \frac{h + 1}{2}
+ iii. g = \frac{f + h}{2}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+Which one is a factor of a^{2} - 5a - 6?,a^{2} - 5a - 6 এর একটি উৎপাদক নিচের কোনটি?,a - 3,a - 2,a - 1,a + 1,a-3,a-2,a-1,a+1,d
+What is the compound principle of Tk. 500 in 3 years at the profit of 5%?,5% মুনাফায় 500 টাকার 3 বছরের চক্রবৃদ্ধি মূল কত টাকা?,Tk. 595,Tk. 578.81,Tk. 502.52,Tk. 575,595 টাকা,578.81 টাকা,502.52 টাকা,575 টাকা,b
+What is the characteristic of the common \log of 0.000345?,0.000345 এর সাধারণ লগের পুর্ণক কত?,3,4,\bar{4},\bar{5},3,4,\bar{4},\bar{5},c
+"If \frac{5}{5^{m}} = 1, m = what?","যদি \frac{5}{5^{m}} হয়, তবে m= কত?",-1,0,1,5,-1,0,1,5,c
+"5 + 15 + p + q + 405 is a geometric series.
+Find the value of p.","5+15+p+q+405 একটি গুনোত্তর ধারা। 
+ 
+ P এর মান কত?",15,20,35,45,15,20,35,45,d
+"5 + 15 + p + q + 405 is a geometric series.
+What is the sum of the first 4 terms of the series?","5+15+p+q+405 একটি গুনোত্তর ধারা।
+ 
+ ধারাটির প্রথম চারটি পদের সমষ্টি কত?",80,100,120,200,80,100,120,200,d
+"In a series 31 + 29 + 29 + 25 + .....
+i. common difference is -2
+ii. 12th term is 9
+iii. sum of 1st 5 terms is 135
+Which one is correct?","31+29+27+25+…. ধারার-
+ i. সাধারণ অন্তর -2
+ ii. 12 তম পদ 9
+ iii. প্রথম 5 পদের সমষ্টি 135
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"\cosec \theta = 2, \tan \theta = what?","cosec\theta = 2 হলে tan\theta, =কত?",\frac{2}{\sqrt{3}},\frac{\sqrt{3}}{2},\frac{1}{\sqrt{3}},\sqrt{3},\frac{2}{\sqrt{3}},\frac{\sqrt{3}}{2},\frac{1}{\sqrt{3}},\sqrt{3},c
+"If in a circle, angles subtended by same are at the centre is (2y + 10\degree) and (y + 110\degree) respectively. Find the value of y.",কোনো বৃত্তের একই চাপের উপর বৃত্তস্থ কোণ ও কেন্দ্রস্থ কোণের মান যথাক্রমের (2y+10) এবং (y+110) হলে y এর মান কত?,30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,a
+"If \sec \theta + \tan \theta = \frac{5}{2}, which is the value of \sec \theta - \tan \theta ?","যদি sec\theta + tan\theta = \frac{5}{2} হয়, তবে sec\theta - tan\theta এর মান কত?",\frac{5}{2},\frac{3}{5},\frac{5}{3},\frac{2}{5},\frac{5}{2},\frac{3}{5},\frac{5}{3},\frac{2}{5},d
+"If \frac{\sec x + \tan x}{\sec x - \tan x} = 3, then \sin x = what?","যদি \frac{secx + tanx}{secx - tanx} = 3 হয়, তবে sinx এর মান কত?",- \frac{1}{2},\frac{1}{2},1,2,- \frac{1}{2},\frac{1}{2},1,2,b
+What is the value of \frac{1 - \tan^{2}60\degree}{1 + \sin^{2}60\degree} + 2\sin^{2}60\degree?,\frac{1 - tan^{2} 60\degree}{1 + sin^{2} 60\degree} + 2sin^{2} 60\degree এর মান কত?,-1,\frac{5}{14},\frac{1}{2},1,-1,\frac{5}{14},\frac{1}{2},1,b
+The length of side of an equilateral triangle is 4 cm what is its area?,4 সে.মি. বাহুবিশিষ্ট সমবাহু ত্রিভূজের ক্ষেত্রফল কত বর্গ সে.মি.?,3/sqrt{3}cm^{2},4/sqrt{3}cm^{2},6/sqrt{3}cm^{2},9/sqrt{3}cm^{2},3/sqrt{3} বর্গ সে.মি.,4/sqrt{3} বর্গ সে.মি.,6/sqrt{3} বর্গ সে.মি.,9/sqrt{3} বর্গ সে.মি.,b
+What is the area of a square having the permeter 32\sqrt{2}cm?,32\sqrt{2} সে.মিটার পরিসীমবিশিষ্ট বর্গক্ষেত্রের ক্ষেত্রফল কত?,128 sq. cm,164 sq. cm,180 sq. cm,185 sq. cm,128 বর্গ সে.মি.,164 বর্গ সে.মি.,180 বর্গ সে.মি.,185 বর্গ সে.মি.,a
+"7 students can solve a mathematical problem by the following times (in minute)-
+2, 3, 5, 7, 7, 10, 15
+i. arithmetic mean is 7
+ii. 5th place number is median
+iii. value of mode is 7
+Which one is correct?","একটি গাণিতিক সমস্যার সমাধান করতে 7 জন শিক্ষর্থীর নিম্নে উল্লিখিত সময়(মিনিট) লাগে-
+ 2,3,5,7,7,10,15
+ i. সংখ্যাগুলোর গাণিতিক গড় 7
+ ii.সংখ্যাগুলোর মধ্যক হল ৫ম পদ 
+ iii. সংখ্যাগুলোর প্রচুরক 7
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"In case of expoments and logarithms-
+i. a^{-n} = \frac{1}{a^{n}}, where a \neq 0, n \in N
+ii. \frac{a^{m}}{a^{n}} = \frac{1}{a^{n - m}}, where \pi > m
+iii. \log (3 \times 4) = \log 3 - \log 4
+Which one is correct?","সূচক ও লগারিদমের ক্ষেত্রে-
+ i. a^{-n} = \frac{1}{a^{n}}, যেখানে a \neq 0, n \in N
+ ii. \frac{a^{m}}{a^{n}} = \frac{1}{a^{n - m}}, যখন \pi > m
+ iii. \log (3 \times 4) = \log 3 - \log 4
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If L = 48, F_{3} = 31, f_{m} = 25, h = 6 and n = 72, which is median?","যদি L = 48, F_{c} = 31, f_{m} = 25, h = 6 এবং n = 72 হলে মধ্যক কত?",48.5,49.2,50.2,51.2,48.2,49.2,50.2,51.2,b
+"If (a + b, 2) = (4, a - b), what is the value of (a, b)?","(a+b,2) =(4, a-b) হলে (a,b) এর মান কত?","(1, 3)","(4, 2)","(3, 1)","(2, 4)","(1,3)","(4,2)","(3,1)","(2,4)",c
+"If M = {1, 3}, N = {1, 2} and P = {3, 4}, what is the value of (M \cap N) \times P?","M= {1,3}, N= {1,2} এবং P={3,4} হলে (M \cap N) \times P এর মান নিচের কোনটি?","\{(1, 3), (2, 4)\}","\{(2, 3), (2, 4)\}","\{(1, 3), (1, 4)\}","\{(1, 2), (2, 3)\}","{(1,3), (2,4)}","{(2,3), (2,4)}","{(1,3), (1,4)}","{(1,2), (2,3)}",c
+"If P = \{2, 3, 5\} and Q = \{(x, y): x \in P, y \in F and \{y = x + 1\}, which one is the tabular form of Q set?","P= {2,3,5} এবং Q= {(x,y)}: x \in P, y \in P এবং y = x + 1} হলে Q সেটের তালিকা পদ্ধতিতে প্রকাশিত রূপ নিচের কোনটি?","Q = \{(3, 3)\}","Q = \{(5, 5)\}","Q = \{(3, 2)\}","Q = \{(2, 3)\}","Q={(3,3)}","Q={(5,5)}","Q={(3,2)}","Q={(2,3)}",d
+"If x + \frac{1}{x} = 5, then-
+i. \left ( x - \frac{1}{x} \right )^{2} = 21
+ii. x^{2} - 5x + 1 = 0
+iii. x^{3} + \frac{1}{x^{3}} = 25
+Which one is correct?","হলে-
+ i. \left ( x - \frac{1}{x} \right )^{2} = 21
+ ii. x^{2} - 5x + 1 = 0
+ iii. x^{3} + \frac{1}{x^{3}} = 25
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If 4y + \frac{4}{y} = 4\sqrt{3}, what is the value of y^{3} + \frac{1}{y^{3}}?",4y + \frac{4}{y} = 4\sqrt{3} হলে y^{3} + \frac{1}{y^{3}} এর মান কত?,0,1,3\sqrt{3},18\sqrt{3},0,1,3\sqrt{3},18\sqrt{3},a
+"a + b = 3 and ab = 2.
+(a - b)^{2} = what?","a + b = 3 এবং ab = 2
+ (a - b)^{3} = কত?",1,5,9,17,1,5,9,17,a
+"a + b = 3 and ab = 2.
+a^{3} + b^{3} = what?","a+b=3 এবং ab = 2
+ a^{3} + b^{3} = কত?",9,13,21,45,9,13,21,45,a
+"If 2 \log x - \log (2x - 1) = 0, what is the value of x?",2log x - log (2x - 1) = 0 হলে x এর মান কত?,-1,0,\frac{1}{2},1,-1,0,\frac{1}{2},1,d
+Which one is the solution set of 2x - 1 = \frac{1 - 2x}{x}?,2x - 1 = \frac{1 - 2x}{x} এর সমাধার সেট কোনটি?,"\left \{ \frac{1}{2}, 1 \right \}","\left \{ -1, -\frac{1}{2} \right \}","\left \{ -1, \frac{1}{2} \right \}","\left \{ 1, -\frac{1}{2} \right \}","\left \{ \frac{1}{2}, 1 \right \}","\left \{ -1, -\frac{1}{2} \right \}","\left \{ -1, \frac{1}{2} \right \}","\left \{ 1, -\frac{1}{2} \right \}",c
+"An Isosceles triangle perimeter 16 cm and base 6 cm, what is the height of it?",একটি সমদ্বিবাহু ত্রিভূজের পরিসীমা 16 সে.মি.। এর ভূমি 6 সে.মি. উচ্চতা কত?,12 cm,8 cm,6 cm,4 cm,12 সে.মি,8 সে.মি,6 সে.মি.,4 সে.মি.,d
+"In case of a triangle-
+i. the difference of any two side is greater than the third sid
+ii. the straight line joining the midpoint of any two side is parallel to the third side
+iii. two acute angles of right angle triangle are complementary angle to each other
+Which one is correct?","ত্রিভূজের ক্ষেত্র-
+ i. যেকোনো দুই বাহুর অন্তর তৃতীয় বাহু অপেক্ষ বৃহত্তর 
+ ii. যেকোন দুই বাহুর মধ্যবিন্দুর সংযোজক রেখাংশ তৃতীয় বাহুর সমান্তরাল 
+ iii. সমকোণী ত্রিভূজের সূক্ষ্মকোণদ্বয় পরস্পর পূরক কোণ
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the ratio between a diameter and circumference of a circle?,বৃত্তের ব্যাস ও পরিধির অনুপাত কোনটি?,1 : \pi,2 : \pi,\pi : 1,\pi : 2,1 : \pi,2 : \pi,\pi : 1,\pi : 2,a
+"If the length of a side of a square is increased three times, how many times is the area will be increased?",একটি বর্গের বাহুর দৈর্ঘ্য তিনগুন বাড়লে এর ক্ষেত্রফল কত গুণ বৃদ্ধি পাবে?,Three times,Six times,Eight times,fifteen times,3 গুন,6 গুন,4 গুন,15 গুন,d
+"The point (-2, -3) is on which equation?","(-2,-3) বিন্দুটি কোন সমীকরণের উপর অবস্থিত?",x - y = 1,2x + y = 7,x + 3y = 5,2x + 2y = - 6,x-y=1,2x+y=7,x+3y =5,2x+2y =6,a
+"If x : y = 2 : 3 and 2 : x = 1 : 2, then what is the value of y?",x:y=2 :3 এব্ং 2:x =1:2 হলে y= কত?,\frac{1}{3},\frac{3}{2},6,8,\frac{1}{3},\frac{3}{2},6,8,c
+What is the sum of the first n even numbers?,প্রথম n সংখ্যক স্বাভাবিক জোড় সংখ্যার সমষ্টি কত?,n^{2},2n^{2},n^{2} + n,2n + 1,n^{2},2n^{2},n^{2} + n,2n + 1,c
+"Cummulative frequency is essential-
+i. to determine mode
+ii. to determine median
+iii. to draw an ogive curve
+Which one is correct?","ক্রমযোজিত গনসংখ্যা প্রয়োজন -
+ i. প্রচুরক নির্ণয় 
+ ii. মধ্যক নির্ণয়ে
+ iii. অজিব রেখা নির্ণয়ে 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"What is the median of the natural numbers from 1 to 22, which is divisible by 3?",১ হতে ২২ পর্যন্ত স্বাভাবিক সংখ্যার মধ্যে ৩ দ্বারা বিভাজ্য সংখ্যাগুলোর মধ্যক কোনটি?,9,12,15,18,9,12,15,18,b
+What type of number \frac{2}{9} is?,\frac{2}{9} কোন ধরনের সংখ্যা?,Rational number,Irrational number,Natural number,Non terminating decimal,মূলদ,অমূলদ,স্বাভাবিক,অনাবৃত্ত দশমিক,a
+"If a = \sqrt{3} and b = \sqrt{12}, which one is irrational number?",a = \sqrt{3} এবং b = \sqrt{12} হলে নিচের কোনটি অমূলদ সংখ্যা?,a + b,ab,\frac{a}{b},\frac{b}{a},a + b,ab,\frac{a}{b},\frac{b}{a},a
+"If \{x \in N : x^{2} > 15 and x^{3} < 36\}, which one of the following is roster method?",{x \in \mathbb{N} : x^{2} > 15 এবং x^{3} < 36} সেটটির তালিাক রূপ কোনটি?,"\{4, 5, 6\}","\{1, 2, 3\}",\{3\},\phi,"\{4, 5, 6\}","\{1, 2, 3\}",\{3\},\phi,d
+"If x = \sqrt{2x - 1}, then what is the value of x?",x = \sqrt{2x - 1} হলে x এর মান কত?,2,1,0,-1,2,1,0,-1,b
+"The price of a pen 1 k. 48 on discount 20% from its real price.
+What is the real price of the pen?","একটি কলমের প্রকৃত মূল্যের 20% কমিশনে 48 টাকায় ক্রয় করা হলো। 
+ কলমের প্রকৃত মূল্য কত?",Tk. 96,Tk. 72,Tk. 60,Tk. 56,96 টাকা,72 টাকা,60 টাকা,56 টাকা,c
+what is the value of \sqrt{x^{3}} \times x^{\frac{1}{2}}?,\sqrt{x^{3}} \times x^{\frac{1}{2}} এর মান কত?,x^{\frac{3}{2}},x^{\frac{1}{4}},x^{\frac{2}{3}},x^{2},x^{\frac{3}{2}},x^{\frac{1}{4}},x^{\frac{2}{3}},x^{2},d
+How many number of lines of symmetry has a regular hexagon?,সুষম ষড়ভুজের কয়টি প্রতিসাম্য রেখা রয়েছে?,4,6,8,12,4,6,8,12,b
+"In case of the angle \theta = 0\degree, then-
+i. the value of \cosec \theta and \cot \theta are undefined
+ii. the edge line and the orgional line are the same ray
+iii. \sec \theta and \tan \theta are defined
+Which one is correct?","\theta = 0\degree কোণের ক্ষেত্রে- 
+ i. cosec\theta ও \cot\theta এর মান অসংজ্ঞায়িত
+ ii. প্রাস্তীয় বাহু ও আদি বাহু একই রশ্মি
+ iii. sec\theta ও \tan\theta এর মান সংজ্ঞায়িত
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"For a right angled triangle in case of drawing 30\degree angle its-
+i. Base > Perpendicular
+ii. Perpendicular = Base
+iii. Base < Hypotenuse
+Which one is correct?","সমকোণী ত্রিভূজের 30 কোণ অঙ্কনের ক্ষেত্রে-
+ i. ভূমি< লম্ব
+ ii. লম্ব = ভূমি 
+ iii. ভূমি < অতিভূজ
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+What is the value of a vertex angle of a regular pentagon?,সুষম পঞ্চভূজের একটি র্শীষ কোণ কত ডিগ্রি?,108\degree,110\degree,120\degree,144\degree,108\degree,110\degree,120\degree,144\degree,a
+"The perimeter of a square is 16 m, what is the length of its one diagonal?",একটি বর্গের পরিসীমা 16 মিটার। এর কর্ণের দৈর্ঘ্য কত?,2\sqrt{3} meter,3\sqrt{2} meter,3\sqrt{3} meter,4\sqrt{2} meter,2\sqrt{3} মি.,3\sqrt{2} মি.,3\sqrt{3} মি.,4\sqrt{2} মি.,d
+How many dimentiers of a place have?,তলের মাত্রা কয়টি?,Zero,One,Two,Three,শূণ্য,একটি,দুইটি,তিনটি,c
+"If \sin (A - B) = \frac{1}{2} and B = 30\degree,  then what is the value of A?",sin(A-B) = \frac{1}{2} এবং B = 30\degree হলে A এর মান কত?,0\degree,30\degree,45\degree,60\degree,0\degree,30\degree,45\degree,60\degree,d
+If the length of a side of an equilateral triangle is \sqrt{3} cm. then what is the area of it in square cm?,"কোনো সমবাহু ত্রিভূজের এক বাহুর দৈঘ্যূ 3 সে.মি, হলে এর ক্ষেত্রেফল কত বর্গ সে.মি.?",\frac{3}{4},\frac{3\sqrt{3}},\frac{9}{4},\frac{9\sqrt{3}},\frac{3}{4},\frac{3\sqrt{3}},\frac{9}{4},\frac{9\sqrt{3}},b
+If the volume of a cube is 24\sqrt{3} cubic cm. then what is the length o diagonal of it in cm?,একটি ঘনকের আয়তন 24\sqrt{3} ঘন সে.মি. হলে এর কর্ণের দৈর্ঘ্য কত সে.মি.?,6,2\sqrt{3},4,3,6,2\sqrt{3},4,3,a
+"If the height and the radius of base of a right circular cylinder are 2 m and 1 m respectively, then its-
+i. area of curved surface is 3\pi square metre
+ii. volume is 2\pi cubic metre.
+iii. area of base is \pi square metre?
+Which one  is correct?","একটি সমবৃত্তভূমিক বেলনের উচ্চতা 2 মিটার এবং ভূমির ব্যাসার্ধ 1 মিটার হলে এর-
+ i. বক্রতলে ক্ষেত্রফল 3\pi বর্গ মিটার 
+ ii. আয়তন 2\pi ঘন মিটার 
+ iii. ভূমির ক্ষেত্রফল \pi বর্গ মিটার 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What type of variable is G.P.A obtained in the examination?,পরীক্ষায় প্রাপ্ত জিপিএ কোন ধরনের চলক?,Discreate variable,Indiscreate variable,Unorganized variable,Organized variable,বিচ্ছিন্ন চলক,অবিচ্ছিন্ন চলক,অবিন্যস্ত চলক,বিন্যাস্ত চলক,b
+Cummulative frequency table is necessary to determine which of the following one?,নিচের কোনটি নির্ণেয়ের জন্য ক্রমযোজিত গনসংখ্যা সারণি প্রয়োজন?,Arithmetic mean Interval,Interval,Mode,Median,গাণিতিক গড়,ব্যবধি,প্রচুরক,মধ্যক,d
+"If H = \{a, b\}, then how many numbers of elements are there is P(H)?","H = {a, b} হলে P(H) এর উপাদান সংখ্যা কত?",2,3,4,6,2,3,4,6,c
+"If P(x) = x^{3} - 4x + 3, then P(2) = ?","P(x) = x^{3} - 4x + 3 হলে, P(2) = ?",0,2,3,4,0,2,3,4,c
+"If A = \{0, 2\}, B = \{-1, 0, 1}, then-
+i. numbers of proper subset of B\A are 3
+ii. A \cap B = \{0\}
+iii. A - B = \{2\}
+Which one is correct?","A = \{0, 2\}, B = \{-1, 0, 1} হলে-
+ i. B/A এর প্রকৃত উপসেট সংখ্যা 3
+ ii. A \cap B = \{0\}
+ iii. A - B = \{2\}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If x^{2} + \frac{1}{x^{2}} = 18, then x + \frac{1}{x}? ","x^{2} + \frac{1}{x^{2}} = 18 হলে, x + \frac{1}{x} = কত?",2\sqrt{5},4,\sqrt{14},2\sqrt{3},2\sqrt{5},4,\sqrt{14},2\sqrt{3},a
+The length of two sides of a triangle are 4 unit and 6 unit respectively. What is the length of third side to draw the triangle?,একটি ত্রিভূজের দুটি বাহুর দৈর্ঘ্য যথাক্রমে 4 একক ও 6 একক। তৃতীয় বাহুর দৈঘ্য কত একক হলে ত্রিভূজটি আঁকা যাবে?,11 unit,7 unit,2 unit,1 unit,11 একক,7 একক,2 একক,1 একক,b
+"\frac{a}{b} + \frac{b}{a} = 2
+a - b = ?","\frac{a}{b} + \frac{b}{a} = 2
+ 
+ a-b = কত?",0,1,ab,\sqrt{ab},0,1,‍ab,\sqrt{ab},a
+"\frac{a}{b} + \frac{b}{a} = 2
+Which of the following is the value of \left ( \frac{a}{b} \right )^{3} + \left ( \frac{b}{a} \right )^{3}?","\frac{a}{b} + \frac{b}{a} = 2
+ 
+ \left ( \frac{a}{b} \right )^{3} + \left ( \frac{b}{a} \right )^{3} এর মান নিচের কোনটি?",8,6,4,2,8,6,4,2,d
+"If \sqrt[n]{32} = 2, then what is the value of n?",\sqrt[n]{32} = 2 হলে n এর মান কত?,3,4,5,6,3,4,5,6,c
+"If the difference between two accute angles of a right angled triangle is 5\degree, then what is the value of the smallest angle?",সমকোণী ত্রিভূজের সূক্ষ্মকোণদ্বয়ের পার্থক্য 5 হলে ক্ষুদ্রতম কোণটির মান কত?,41.5\degree,42.5\degree,47.5\degree,48.5\degree,41.5\degree,42.5\degree,47.5\degree,48.5\degree,b
+"If 4^{x + 1} = 32, then x = ?",4^{x + 1} = 32 হলে x = কত?,1,\frac{1}{2},\frac{3}{2},\frac{7}{2},1,\frac{1}{2},\frac{3}{2},\frac{7}{2},c
+"A rhombus can be drawn if there is given-
+i. length of a side
+ii. length of a side and diagonal
+iii. length of a side and angle
+Which one is correct?","একটি রম্বস আঁকা যাবে যদি দেয়া থাকে- 
+ i. ১টি বাহুর দৈর্ঘ্য
+ ii. ১টি বাহু ও ১টি কর্ণের দৈর্ঘ্য 
+ iii. ১টি বাহু ও ‍১টি কোণ
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If C is the circumentre of equilateral triangle \triangle{PQR}, then \angle{QCR} = ?",\triangle PQR সমবাহু ত্রিভূজের পরিকেন্দ্র C হলে \angle{QCR} = কত?,45\degree,60\degree,90\degree,120\degree,45\degree,60\degree,90\degree,120\degree,d
+What type of angle is inscribed in a major are of a circle?,কোনো বৃত্তের অধিচাপে অন্তলিখিত কোণ কীরূপ?,acute angle,right angle,obtuse angle,reflex angle,সূক্ষ্মকোণ,সমকোণ,স্থূলকোণ,প্রবৃদ্ধ কোণ,a
+"What is the common ratio of the sequence \frac{1}{\sqrt{7}}, -1, /sqrt{7}.....?","\frac{1}{\sqrt{7}}, -1, /sqrt{7}..... অনুক্রমটির সাধারণ অনুপাত কত?",\frac{1}{\sqrt{7}},-\frac{1}{\sqrt{7}},\sqrt{7},-\sqrt{7},\frac{1}{\sqrt{7}},-\frac{1}{\sqrt{7}},\sqrt{7},-\sqrt{7},d
+Which is the fourth term of the geometric series 2 + p + q + 162?,2+p+q+r+162 গুনোত্তর ধারাটির চতুর্থ পদ কোনটি?,18,27,54,81,18,27,54,81,c
+"What is the sum of the first n terms of the series, 1 + 3 + 5 + .....?",1+3+5+…………. ধারাটির ১ম n সংখ্যক পদের যোগফল কোনটি?,\frac{n(n + 1)}{2},\left \{ \frac{n(n+1)}{2} \right \}^{2},\frac{n^{2}}{2},n^{2},\frac{n(n + 1)}{2},\left \{ \frac{n(n+1)}{2} \right \}^{2},\frac{n^{2}}{2},n^{2},d
+"If 4 \sin A = 3, then which is the value of \tan A?",4sinA= 3 হলে ‍tanA এর মান কোনটি?,\frac{\sqrt{7}}{3},\frac{3}{\sqrt{7}},\frac{4}{\sqrt{3}},\frac{\sqrt{3}}{4},\frac{\sqrt{7}}{3},\frac{3}{\sqrt{7}},\frac{4}{\sqrt{3}},\frac{\sqrt{3}}{4},b
+\sin \theta \sqrt{\cosec^{2} \theta - 1} = ?,\sin \theta \sqrt{\cosec^{2} \theta - 1} = কত?,\sin \theta,\cos \theta,\sin \theta. \cos \theta,\sec \theta,\sin \theta,\cos \theta,\sin \theta. \cos \theta,\sec \theta,b
+Which one is a factor of a^{2} + a -20?,a^{2} + a - 20 রাশির একটি উৎপাদক কোনটি?,a + 10,a + 2,a - 4,a - 5,a+10,a+2,a-4,a-5,c
+Find the simple profit of Tk. 5000 in 4 years at the rate of profit 5% per annum?,বার্ষিক 5% হার মুনাফায় 5000 টাকার 4 বছরের সরল মুনাফা কত?,Tk. 250,Tk. 500,Tk. 1000,Tk. 1500,250 টাকা,500 টাকা,1000 টাকা,1500 টাকা,c
+At how many maximum points a straight line can intersects a circle?,একটি সরলরেখা একটি বৃত্তকে সর্বাধিক কতটি বিন্দুতে ছেদ করতে পারে?,1,2,3,4,‍1টি,2টি,3টি,4টি,b
+If \cos A = \frac{1}{2} then what is the value of \sin^{2} A?,cosA = \frac{1}{2} হলে sin^{2}A এর মান কত?,\frac{1}{2},\frac{\sqrt{3}}{2},\frac{\sqrt{3}}{4},\frac{3}{4},\frac{1}{2},\frac{\sqrt{3}}{2},\frac{\sqrt{3}}{4},\frac{3}{4},d
+"x - \frac{1}{x} = 4
+What is the value of x^{3} - \frac{1}{x^{3}}?","x - \frac{1}{x} = 4
+ 
+ x^{3} - \frac{1}{x^{3}} হলে এর মান কত?",16,52,64,76,16,52,64,76,d
+"x - \frac{1}{x} = 4
+What is the value of x + \frac{1}{x}?","x - \frac{1}{x} = 4
+ 
+ x + \frac{1}{x} এর মান কত?",2\sqrt{3},2\sqrt{5},3\sqrt{2},4\sqrt{2},2\sqrt{3},2\sqrt{5},3\sqrt{2},4\sqrt{2},b
+If the length of side of a cube is 3 cm then what is the area of whole surface?,"একটি ঘনকের একধার 3 সে.মি হলে, এর সমগ্র পৃষ্ঠতলের ক্ষেত্রফল কত?",18 sq. cm,27 sq. cm,36 sq. cm,54 sq. cm,18 বর্গ সে.মি.,27 বর্গ সে.মি.,36 বর্গ সে.মি.,54 বর্গ সে.মি.,d
+"5 + 7 + 9 +11 + ..... -
+i. is an arithmetic series
+ii. the 21st term of the series is 45
+iii. the sum of first 8 terms of the series is 96
+Which one is correct?","5+7+9+11+………….
+ i. একটি সমান্তর ধারা 
+ ii. ধারাটির 21 তম পদ 45
+ iii. ধারাটির প্রথম আটটি পদের সমষ্টি 96
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+If one diagonal of a rhombus is 8 m and the area is 40 sq. m then what is the other diagonal?,একটি রম্বসের একটি কর্ণ 8 মিটার এবং ক্ষেত্রফল 40 বর্গমিটার হলে অপর কর্ণ কত?,5 m,8 m,10 m,20 m,5 মিটার,8 মিটার,10 মিটার,20 মিটার,c
+What is the value of \tah^{2} 60\degree - \sin^{2} 45\degree?,\tan^{2} 60\degree - \sin^{2} 45\degree এর মান কত?,\frac{5}{2},\frac{1}{3},\frac{1}{2},1,\frac{5}{2},\frac{1}{3},\frac{1}{2},1,a
+"What is the median at the data 10, 15, 11, 9, 12, 14, 18?","10, 15, 11, 9, 12, 14, 18, উপাত্তের মধ্যক কত?",11,12,14,15,11,12,14,15,b
+"If p^{2} + q^{2} = 3, pq = 3, then what is the value of (p + q)^{2}?","p^{2} + q^{2} = 3, pq = 3 হলে (p + q)^{2} এর মান কত?",3,9,11,15,3,9,11,15,b
+Which one is the factors of x^{2} + x - 2?,x^{2} + x - 2 এর উৎপাদকে বিশ্লেষিত রূপ কোনটি?,(x - 1)(x - 2),(x - 1)(x + 2),(x + 1)(x - 2),(x + 1)(x + 2),(x-1)(x-2),(x-1)(x+2),(x+1)(x-2),(x+1)(x+2),b
+How many ex-circle can be drawn in a triangle?,কোনো ত্রিভূজে কয়টি বহিবৃত্ত আঁকা যায়?,1,2,3,4,1টি,2টি,3টি,4টি,c
+What is the distance between two centres of the circles with radius 3 cm and 5 cm respectively when they touch internally?,3 সে.মি ও 5 সে.মি ব্যাসার্ধবিশিষ্ট দুইটি বৃত্ত পরস্পরকে অন্তঃস্পর্শ করলে তাদের কেন্দ্রদ্বয়ের দূরত্ব কত?,2 cm,3 cm,5 cm,8 cm,2 সে.মি.,3 সে.মি.,5 সে.মি,8 সে.মি,a
+"If \log_{5} p^{2} = -2, then what is the value of fp?","\log_{5} p^{2} = -2 হলে, p এর মান কত?",5,\frac{1}{5},-2,-10,5,\frac{1}{5},-2,-10,b
+"It is possible to draw a certain triangle when-
+i. two angles and their adjacent side given
+ii. three angles given
+iii. two angles and opposite side of any one angle given
+Which one is correct?","নির্দিষ্ট একটি ত্রিভূজ আঁকা সম্ভব যদি- 
+ i. দুইটি কোণ এবং এদের সংলগ্ন বাহু দেওয়া থাকলে। 
+ ii. তিনটি কোণ দেওয়া থাকলে। 
+ iii. দুইটি কোণ ও একটির বিপরীত বাহু দেওয়া থাকলে। 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+a^{-3} \times a^{5} = what,a^{-3} \times a^{5} = কত?,a^{2},a^{\frac{3}{5}},a^{\frac{5}{3}},a^{-15},a^{2},a^{\frac{3}{5}},a^{\frac{5}{3}},a^{-15},a
+Which one is the step deviation u_{1}?,ধাপ বিচ্যুতি u_{1} = কোনটি?,\frac{x_{i} - a}{h},\frac{x_{i} + a}{h},\frac{x_{i}}{h} + a,\frac{a - x_{i}}{h},\frac{x_{i} - a}{h},\frac{x_{i} + a}{h},\frac{x_{i}}{h} + a,\frac{a - x_{i}}{h},a
+"How many subsets of the set A = \{3, 4, 5\}?","A={3,4,5} সেটটির উপসেট্ কতটি?",3,6,7,8,3,6,7,8,d
+"B = \{x \in \mathbb{N}: 2 \leq x \leq 4\} then-
+i. number of prime number is 2 among the elements of set B.
+ii. number of elements of P(B) is 8
+iii. number of elements is 1 whose are divisible by 2 from the set B
+Which one is correct?","B = \{x \in \mathbb{N}: 2 \leq x \leq 4\} হলে- 
+ i. B সেটের উপাদানগুলোর মধ্যে মৌলিক সংখ্যা 2টি 
+ ii. P(B) এর উপাদান সংখ্যা 8টি 
+ iii. B সেটের উপাদানগুলোর মধ্যে 2 দ্বারা বিভাজ্য সংখ্যা 1টি। 
+ নিচেরে কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+If 3^{x-1} = 27 then what is the value of x?,3^{x - 1} = 27 হলে x এর মান কত?,4,6,9,27,4,6,9,27,a

@@ -1,0 +1,83 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,RECHECK,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,"Casein + H_{2}O\overset{A}{\rightarrow}Paracasein
+Which enzyme is activate in the 'A' marked part of the stem?","কেসিন + পানি \xrightarrow{A} প্যারাকেসিন
+ 
+ উদ্দীপকের A চিহ্নিত স্থানে ক্রিয়াশীল এনজাইম হলো-",Pepsin,Renin,Trypsin,Chymotrypsin,b,N,2021Rajshahi,1,পেপসিন,রেনিন,ট্রিপসিন,কাাইমোট্রিপসিন,খ,b,N,2021Rajshahi,0.8632512549,0,0,,"Which enzyme is activated in the 'A' marked part of the process when Casein reacts with H2O to form Paracasein?
+",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The enzyme activated in the 'A' marked part of the stem in the reaction ""Casein + H2O -> Paracasein"" is Renin.
+
+Now, let's provide a chain of thought to explain why Renin is the correct enzyme:
+
+1. Casein: Casein is a protein found in milk. It is the primary protein responsible for the white color of milk.
+
+2. Paracasein: Paracasein is a product of the enzymatic digestion of casein. It is a part of the curd formed when milk coagulates.
+
+3. Enzyme Activation: In this reaction, the enzyme that plays a key role in converting casein into paracasein is Renin. Renin is an enzyme produced by cells in the stomach lining. It acts on casein, causing it to coagulate or clot, leading to the formation of curd.
+
+4. Coagulation of Milk: The coagulation of milk is an essential step in cheese-making and plays a role in the digestion of milk proteins in infants.
+
+Based on this explanation, the correct answer is {{""Answer"": ""b""}}
+","রেনিন এমন একটি এনজাইম যা গাইনের মিল্ক প্রোটিন কেসিন টি প্রদান করে। রেনিন মিল্ক প্রোটিন কেসিন এর উপর প্রভাব ফেলে, এটি নিম্ন তাপমাত্রার দুধের প্রোটিন কেসিন কে কয়াগুলেট বা স্থির করার কাজ করে, যা দুধ স্থির বা স্থির হওয়ার সময় গ্রাস হয়।
+
+এই ব্যাখ্যা মোতাবেক, সঠিক উত্তর হল { ""Answer"": ""b"" }"
+1,Which teeth absent in milk teeth?,দুধ দাঁতে অনুপস্থিত থাকে কোনটি?,Incisor,Canine,Premolar,Molar,c,N,2021Rajshahi,1,ইনসিসর,কা্যনাইন,প্রিমোলার,মোলার,গ,c,N,2021Rajshahi,0.8612419526,0,0,,Which teeth are absent in milk teeth?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's establish a chain of thought to understand which teeth are absent in milk teeth (primary dentition):
+
+1. Primary Dentition: Milk teeth, also known as primary teeth or deciduous teeth, are the first set of teeth that develop in humans. They typically start to erupt during infancy and are eventually replaced by permanent teeth as a child grows.
+
+2. Types of Teeth: In primary dentition, there are different types of teeth, including incisors, canines, and molars. These are the counterparts of the same types of teeth found in the permanent dentition.
+
+3. Absent Teeth: The teeth that are **absent** in primary (milk) dentition are the premolars. Premolars are absent in the primary dentition and only appear in the permanent dentition, which develops later in life.
+
+So, based on this chain of thought, the correct answer is that premolars are the teeth absent in milk teeth, and the other types of teeth (incisors, canines, molars) are present in the primary dentition. Thus the correct answer is {{""Answer"": ""c""}}","আমরা যা বুঝতে সাহায্য করতে একটি চিনি মাধ্যম সুস্থি তালাশ করতে একটি চিনি মাধ্যম চিন্তার দাঁড়ি স্থাপন করতে দেই (প্রাথমিক দাঁত):
+
+1. প্রাথমিক দাঁত: মুষকদাঁত, যাকে প্রাথমিক দাঁত বা ডিসিডুয়াস দাঁত ও নামানো হয়, মানবদেহে উপস্থিত একে দিয়ে দ্বিতীয় দাঁত সেট হয়। সাধারণভাবে এগুলি শিশুদের বৃদ্ধি করতে শৈশবকালে উদ্ভূত হয় এবং একটি শিশু বড় হওয়ার সাথে সাথে স্থায়ী দাঁত দ্বারা প্রতিস্থাপন করা হয়।
+
+2. দাঁতের প্রকার: প্রাথমিক দাঁতে, বিভিন্ন প্রকারের দাঁত রয়েছে, যেমন ইনসাইজার, ক্যানাইন, এবং মোলার। এগুলি স্থায়ী দাঁতে পাওয়া দাঁতের একেকটি প্রতিস্থাপন।
+
+3. অনুপস্থিত দাঁত: প্রাথমিক (দুধের) দাঁতে অনুপস্থিত দাঁতগুলি হলো প্রিমোলার। প্রাথমিক দাঁতে প্রিমোলার অনুপস্থিত এবং এগুলি কেবল স্থায়ী দাঁতে প্রকাশিত হয়, যা পরবর্তীতে জীবনের পর্যাপ্ত অবস্থায় বিকাশ পায়।
+
+তাই, এই চিনি মাধ্যম সুস্থি তালাশ করতে, প্রাথমিক (দুধের) দাঁতে অনুপস্থিত দাঁত হলো যে প্রকারের দাঁত (ইনসাইজার, ক্যানাইন, মোলার) ও প্রাথমিক দাঁতে রয়েছে। সুতরাং সঠিক উত্তর হল {{""Answer"": ""c""}}"
+2,Which enzyme present in saliva?,লালারসে বিদ্যমান এনজাইম কোনটি?,Ptyalin,Renin,Pepsin,Trypsin,a,N,2021Rajshahi,1,টায়ালিন,রেনিন,পেপসিন,ট্রিপসিন,ক,a,N,2021Rajshahi,0.845301754,0,0,,Which enzyme is present in saliva?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The enzyme present in saliva is amylase, also known as ptyalin. It is responsible for the digestion of carbohydrates, specifically starches, into simpler sugars like maltose. So, the correct enzyme found in saliva is ptyalin (amylase).
+
+So, the correct answer is {{""Answer"": ""a""}}","লালায় উপস্থিত এনজাইমটি অ্যামিলেজ, যা অন্যান্য নামে টায়ালিন নামেও পরিচিত। এটি মূলত পাচনযোগ্য পদার্থ, স্পেসিফিক ভাবে শ্যান্টি সাদৃশ কার্বোহাইড্রেট, বিশেষভাবে স্টার্চ, দ্বারা একটি সহজ চিনি মাল্টোজের মতো সরল চিনির মধ্যে পাচন করে। তাই, মুখরসে প্রাপ্ত এনজাইমটি হলো টায়ালিন (অ্যামিলেজ)।
+
+সুতরাং, সঠিক উত্তর হল {{""Answer"": ""a""}}"
+3,"The functions of Bile is-
+ i. to emulsify
+ ii.activation of lipase
+ iii.decrease the peristalsis rate of colon
+ Which one is correct?","পিত্তরসের কাজ হলো-
+ i. ইমালসিফিকেশন করা
+ ii. লাইপেজকে সক্রিয়করণ
+ iii. কোলনের পেরিস্টাললসিস কমানো
+ নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",a,N,2021Rajshahi,1,i ও ii,i ও iii,ii ও iii,"i, ii, ও iii",ক,a,N,2021Rajshahi,0.9366111904,0,0,,"The functions of Bile is-
+ i. to emulsify
+ ii.activation of lipase
+ iii.decrease the peristalsis rate of colon
+ Which one is correct?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The correct functions of bile are:
+
+i. To emulsify: Bile emulsifies fat, breaking it down into smaller droplets. This increases the surface area of fat for better digestion by lipases.
+
+ii. Activation of lipase: Bile also activates pancreatic lipase, an enzyme responsible for the digestion of fats into fatty acids and glycerol.
+
+iii. Decrease the peristalsis rate of the colon: This statement is incorrect. Bile does not have a direct role in decreasing the peristalsis rate of the colon. Peristalsis is the muscular contractions that help move digested food through the intestines, and bile primarily aids in fat digestion.
+
+So, the correct option is {{""Answer"": ""a""}}","পিত্তের সঠিক কার্যক্রমগুলি হল দেখা যাক:
+
+i. এমালসিফাই করা: পিত্ত তেল এমালসিফাই করে, এটি তাকে ছোট ছোট টিপটিপিতে ভাঙতে সাহায্য করে। এটি তেলের উপভোক্তারণের জন্য একটি উত্তরণ্ড পৃষ্ঠক্ষেত্র বাড়ানো সম্ভব করে।
+
+ii. লিপেজের সক্রিয়করণ: পিত্ত আরও প্যানক্রিয়াস লিপেজ, একটি তেলের উপভোক্তারণের জন্য দায়বদ্ধ একটি এনজাইম চালনা করে, যা তেলগুলি স্ফুটন করে তা চিনি ও গ্লিসেরলের মধ্যে।
+
+iii. কলনের পেরিস্টালসিস হার কমাতে: এই বিবৃতি ভুল। পিত্তের কলনের পেরিস্টালসিস হার কমাতে সরাসরি কোনও কাজ নেই। পেরিস্টালসিস হ'ল মাংসপেশী সংকোচন যা পিচলা খাবারটি মোটানোর সাহায্য করে, এবং পিত্ত প্রাথমিকভাবে তেল পাচনে সাহায্য করে।
+
+সুতরাং, সঠিক বিকল্প হল {{""Answer"": ""a""}}
+"
+4,Which one is vestigial organ in man?,মানবদেহের নিষ্ক্রিয় অঙ্গ কোনটি?,Body hair,Canine teeth,Eye lids,Eye muscles,a,N,2021Rajshahi,1,গায়ের লোম,কর্তন দাঁত,চক্ষু পল্লব,চোখের পেশি,ক,a,N,2021Rajshahi,0.8766722048,0,0,,"Which of the following is a vestigial organ in humans: (a) Body hair, (b) Canine teeth, (c) Eyelids, or (d) Eye muscles?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The vestigial organ in humans among the options listed is ""Body hair."" 
+
+In humans, body hair has largely lost its original function of providing insulation and protection, which is still present in many other mammals. Body hair in humans is much finer and less extensive than that of our evolutionary ancestors, making it a vestigial structure.
+
+The other options (canine teeth, eyelids, and eye muscles) are not considered vestigial organs in humans as they all serve important functions in our physiology.
+
+So, the correct answer is {{""Answer"": ""a""}}","বিকল্পগুলির মধ্যে মানব শরীরের নিষ্ক্রিয় অঙ্গ হ'ল ""দেহের লোম।""
+মানবে, দেহের লোমের মূল কাজ যা এখনও বেশিরভাগ অন্যান্য প্রাণীবর্গে বিদ্যমান আছে, তা প্রদান এবং সুরক্ষার জন্য কিন্তু তা অধিকাংশ হারিয়ে গেছে। মানবে, শরীরের লোম বেশি ব্যাপক নয়, যা আমাদের বিবর্তন পূর্ববর্তী পূর্বজের অনেক ছিল, যা এটি একটি নিষ্ক্রিয় গঠন তৈরি করে।
+অন্যান্য বিকল্পগুলি (ক্যানাইন দাঁত, চোখের পাট, এবং চোখের মাংস) মানবে নিষ্ক্রিয় অঙ্গ হিসেবে গণ্য হয় না কারণ এগুলি সবাই আমাদের পরিপ্রেক্ষিতিতে গুরুত্বপূর্ণ কাজ করে এবং আমাদের শারীরিকতায় গুরুত্বপূর্ণ কাজ করে।
+সুতরাং, সঠিক উত্তর হ'ল {{""Answer"": ""a""}}"

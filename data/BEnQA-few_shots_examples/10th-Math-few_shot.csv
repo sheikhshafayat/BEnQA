@@ -1,0 +1,215 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+144,"If \log_{a} N = P, then-
+i. N > 0
+ii. P > 0
+iii. a > 0, a \neq 1
+Which one is correct?","Log_{a}N = P হলে- 
+ i. N > 0
+ ii. P > 0
+ iii. a > 0, a \neq 1
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",c,N,2022Cumilla,1,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",গ,c,N,2022Cumilla,0.90731973,0,0,,"If \log_{a} N = P, then-
+i. N > 0
+ii. P > 0
+iii. a > 0, a \neq 1
+Which one is correct?",Reasoning,"{""Answer"": ""Reasoning""}","If \(\log_{a} N = P\), then:
+
+i. N > 0: This is correct because the logarithm of a positive number to any positive base (a > 0, a ≠ 1) is always defined and yields a real value.
+
+ii. P > 0: This is not necessarily true. P can be greater than, less than, or equal to 0 depending on the values of a and N. So, this statement is not always correct.
+
+iii. a > 0, a ≠ 1: This is correct because logarithms are defined for positive bases (a > 0) other than 1 (a ≠ 1).
+
+So, the correct option is {{""Answer"": ""c""}}","যদি \(\log_{a} N = P\), তবে:
+
+i. N > 0: এটি সঠিক কারণ কোন ধনাত্মক শক্তির (a > 0, a ≠ 1) সাথে একটি সাধারণ সংখ্যা (N) এর লগারিদম সবসময় সংজ্ঞায় আসে এবং একটি বাস্তব মান দেয়।
+
+ii. P > 0: এটি প্রয়োজনীয়ভাবে সত্য নয়। P আমন্ত্রিত a এবং N এর মানের উপর নির্ভর করে, এবং a = 10 এবং N = 1 হলে, \(\log_{10} 1 = 0\), যা 0 এবং উচ্চতর নয়। তাই, এই বক্তব্য সবসময় সত্য নয়।
+
+iii. a > 0, a ≠ 1: এটি সত্য কারণ লগারিদমগুলি একটি সুন্দর শক্তির বাইরের সাধারণ বাইরে (a > 0) সংজ্ঞায় দেওয়া হয় (a ≠ 1)।
+
+সুতরাং, সঠিক বিকল্প হলো {{""Answer"": ""c""}}"
+0,"If the ratio of the two numbers is 3 : 5 and their H.C.F is 4, then what is the L.C.M of the numbers?",দুটি সংখ্যার অনুপাত 3:5 এবং এদের গসাগু 4 হলে সংখ্যা দুটির লসাগু কত?,12,15,20,60,d,N,2020Rajshahi,1,12,15,20,60,ঘ,d,N,2020Rajshahi,0.87829575,0,0,,"If the ratio between the two numbers is 3 : 5 and their highest common factor (H.C.F) is 4, what is the least common multiple (L.C.M) of the two numbers?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To solve this problem, let's use the given information systematically.
+
+Ratio of Two Numbers: If the ratio of two numbers is 3:5, this means if one number is 3x, the other is 5x, where x is a common factor for both.
+
+HCF (Highest Common Factor): The HCF of these two numbers is given as 4. Since HCF is the highest factor common to both numbers, in our case, x = 4.
+
+Calculating the Numbers: Using the value of x, the two numbers can be calculated as:
+
+First Number = 3x = 3 * 4 = 12
+Second Number = 5x = 5 * 4 = 20
+LCM (Least Common Multiple): The LCM of two numbers is given by the formula:
+
+LCM = Product of the two numbers / HCF of the two numbers
+
+So, LCM = 12*20/4 = 60
+​
+
+The LCM (Least Common Multiple) of the numbers is 60. Therefore, the correct answer is {{""Answer"": ""d""}}","এই সমস্যাটি সমাধান করতে, আসুন আমরা প্রদত্ত তথ্যগুলো ধাপে ধাপে দেখি।
+
+দুই সংখ্যার অনুপাত: যদি দুই সংখ্যার অনুপাত 3:5 হয়, তার মানে একটি সংখ্যা যদি 3x হয়, অন্যটি হল 5x, যেখানে x হল উভয় সংখ্যার জন্য একটি সাধারণ গুণনীয়।
+
+HCF (সর্বোচ্চ সাধারণ গুণনীয়): এই দুই সংখ্যার HCF হিসেবে 4 দেওয়া আছে। যেহেতু HCF হল উভয় সংখ্যার জন্য সর্বোচ্চ গুণনীয়, এই ক্ষেত্রে x = 4।
+
+সংখ্যাগুলি গণনা করা: x এর মান ব্যবহার করে, দুই সংখ্যা গণনা করা যায়:
+
+প্রথম সংখ্যা = 3x = 3 * 4 = 12
+দ্বিতীয় সংখ্যা = 5x = 5 * 4 = 20
+LCM (সর্বনিম্ন সাধারণ গুণনীয়): দুই সংখ্যার LCM নির্ণয় করা হয় এই সূত্র দ্বারা:
+
+LCM = দুই সংখ্যার গুণফল / দুই সংখ্যার HCF
+
+তাহলে, LCM = 12*20/4 = 60
+
+সংখ্যাগুলির LCM হল 60। তাই, সঠিক উত্তর হল {{""Answer"": ""d""}}"
+2,A boat is rowing towards the current per hour is 15 km and against the current goes 25 km in 5 hours. What is the speed of the current per hour?,একটি নৌকার দাঁড় বেয়ে স্রোতের অনুকূলে ঘন্টা 15 কি.মি এবং স্রোতের প্রতিকূলে 5 ঘন্টায় 25 কি.মি. যায়। স্রোতের বেগ ঘন্টায় কত কি.মি?,20,10,5,4,c,N,2020Rajshahi,1,20,10,5,4,গ,c,N,2020Rajshahi,0.933819477,0,0,,A boat rows at a speed of 15 km per hour when going with the current and 25 km when going against the current in 5 hours. What is the speed of the current per hour?,Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's denote the speed of the boat in still water as ""B"" km/h and the speed of the current as ""C"" km/h.
+
+When the boat is rowing with the current, its effective speed is (B + C) km/h, and when it's rowing against the current, its effective speed is (B - C) km/h.
+
+From the information given, we have two equations:
+
+When rowing with the current, the boat goes 15 km in 1 hour:
+B + C = 15
+
+When rowing against the current, the boat goes 25 km in 5 hours:
+B - C = 25/5 = 5
+
+Now, let's solve this system of equations. We can do this by adding the two equations together:
+
+(B + C) + (B - C) = 15 + 5
+
+This simplifies to:
+
+2B = 20
+
+Now, divide both sides by 2 to find the speed of the boat in still water (B):
+
+B = 20/2 = 10 km/h
+
+So, the speed of the boat in still water is 10 km/h. Now, we can use one of the original equations to find the speed of the current (C):
+
+B + C = 15
+
+10 + C = 15
+
+Subtract 10 from both sides:
+
+C = 15 - 10 = 5 km/h
+
+Therefore, the speed of the current is 5 km/h. The correct answer is {{""Answer"": ""c""}}","নৌকার স্থির পানিতে গতি ধরি ""B"" কিমি/ঘণ্টা এবং স্রোতের গতি হল ""C"" কিমি/ঘণ্টা।
+
+নৌকা যখন স্রোতের সাথে চলছে, তখন এর প্রভাবিত গতি হল (B + C) কিমি/ঘণ্টা, এবং যখন স্রোতের বিপরীতে চলছে, তখন এর গতি হল (B - C) কিমি/ঘণ্টা।
+
+প্রদত্ত তথ্য অনুযায়ী, আমাদের কাছে দুটি সমীকরণ আছে:
+
+স্রোতের সাথে চলাকালীন, নৌকা 1 ঘণ্টায় 15 কিমি যায়:
+B + C = 15
+
+স্রোতের বিপরীতে চলাকালীন, নৌকা ৫ ঘণ্টায় ২৫ কিমি যায়:
+B - C = ২৫/৫ = ৫
+
+এখন, আসুন এই দুটি সমীকরণ সমাধান করি। এটা করা যায় দুটি সমীকরণ যোগ করে:
+
+(B + C) + (B - C) = ১৫ + ৫
+
+এটা সরলীকৃত হয়:
+
+২B = ২০
+
+এখন, উভয় পাশে ২ দ্বারা ভাগ করে নৌকার স্থির পানিতে গতি (B) বের করি:
+
+B = ২০/২ = ১০ কিমি/ঘণ্টা
+
+তাহলে, নৌকার স্থির পানিতে গতি হল ১০ কিমি/ঘণ্টা। এখন, আমরা একটি মূল সমীকরণ ব্যবহার করে স্রোতের গতি (C) বের করতে পারি:
+
+B + C = ১৫
+
+১০ + C = ১৫
+
+দুই পাশ থেকে ১০ বিয়োগ করুন:
+
+C = ১৫ - ১০ = ৫ কিমি/ঘণ্টা
+
+তাহলে, স্রোতের গতি হল ৫ কিমি/ঘণ্টা। সঠিক উত্তর হল {{""Answer"": ""c""}}"
+3,"In any square, length of a side is x cm, then what is area of the square on the basis of diagonal?",কোনো বর্গের এক বাহুর দৈর্ঘ্য x সে.মি. হলে বর্গটির কর্ণের উপর অঙ্কিত বর্গের ক্ষেত্রফল কত বর্গ সে.মি.?,2x^{2},x^{2},x\sqrt(3},x\sqrt{2},a,N,2020Rajshahi,1,2x^{2},x^{2},x\sqrt(3},x\sqrt{2},ক,a,N,2020Rajshahi,0.918982663,0,0,,"In a square with a side length of x cm, what is the area of the square based on the diagonal?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To determine the area of a square using its diagonal, we start with the relationship between the side of the square (let's call it x) and its diagonal.
+
+In a square, the diagonal splits the square into two right-angled triangles. Using the Pythagorean theorem, we know that the square of the diagonal is equal to the sum of the squares of the two sides. So, if the diagonal is d, then:
+
+d² = x² + x²
+d² = 2x²
+
+the square value of the diagonal represents the area of the square on the basis of the diagonal of the original square. Therefore, {{""Answer"": ""a""}} is correct.","একটি বর্গের কর্ণের উপর অঙ্কিত ক্ষেত্রফল  নির্ধারণ করতে, আমরা শুরু করি বর্গের বাহু (ধরা যাক x) এবং এর কর্ণের মধ্যে সম্পর্ক দিয়ে।
+
+একটি বর্গকে কর্ণ বর্গকে দুটি সমকোণ ত্রিভুজে বিভক্ত করে। পাইথাগোরাসের উপপাদ্য অনুসারে, আমরা জানি যে বিকর্ণের বর্গ সমান হল দুটি পাশের বর্গের যোগফল। তাই, যদি কর্ণ হয় d, তবে:
+
+d² = x² + x²
+d² = 2x²
+
+কর্ণের বর্গমান প্রকৃতপক্ষে কর্ণের ভিত্তিতে নির্মিত বর্গের ক্ষেত্রফল। তাই,  {{""Answer"": ""a""}} সঠিক।"
+4,Which of the following is the solution of 2\cos^{2} \theta + 3\sin \theta - 3 = 0 where 0\degree < \theta < 90\degree.,"0\degree \leq \theta < 90\degree হলে, 2cos^{2}\theta + 3 sin \theta - 3 = 0 সমীকরণের সমাধান নিচের কোনটি?",0\degree,30\degree,45\degree,60\degree,b,N,2020Rajshahi,1,0\degree,30\degree,45\degree,60\degree,খ,b,N,2020Rajshahi,0.951939286,0,0,,"ParsingError{""Fixed"": ""Which of the following is the solution to the equation 2\cos^{2} \theta + 3\sin \theta - 3 = 0, where 0\degree < \theta < 90\degree?""}",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To solve the trigonometric equation \(2\cos^2 \theta + 3\sin \theta - 3 = 0\) for \(0^\circ < \theta < 90^\circ\), we can use the Pythagorean identity \(\sin^2 \theta + \cos^2 \theta = 1\). 
+
+First, let's express \(\cos^2 \theta\) in terms of \(\sin \theta\):
+
+\[\cos^2 \theta = 1 - \sin^2 \theta\]
+
+Substitute this into the given equation:
+
+\[2(1 - \sin^2 \theta) + 3\sin \theta - 3 = 0\]
+\[2 - 2\sin^2 \theta + 3\sin \theta - 3 = 0\]
+\[-2\sin^2 \theta + 3\sin \theta - 1 = 0\]
+
+This is a quadratic equation in terms of \(\sin \theta\). Let's solve it:
+
+\[-2\sin^2 \theta + 3\sin \theta - 1 = 0\]
+
+Let \(x = \sin \theta\), then the equation becomes:
+
+\[-2x^2 + 3x - 1 = 0\]
+
+We can solve this quadratic equation using the quadratic formula:
+
+\[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\]
+
+where \(a = -2\), \(b = 3\), and \(c = -1\). Let's calculate the roots.
+
+The solutions for the quadratic equation are \( \sin \theta = 0.5 \) and \( \sin \theta = 1.0 \). 
+
+However, since \( \sin \theta = 1.0 \) corresponds to \( \theta = 90^\circ \) and our range is \( 0^\circ < \theta < 90^\circ \), we exclude this solution. 
+
+Therefore, we consider \( \sin \theta = 0.5 \). The angle \( \theta \) for which \( \sin \theta = 0.5 \) in the range \( 0^\circ < \theta < 90^\circ \) is \( 30^\circ \).
+
+Hence, \( \theta = 30^\circ \) is the solution of the given equation within the specified range. So, the correct answer is {{""Answer"": ""b""}}","এই ত্রিকোণমিতি সমীকরণটি সমাধান করতে আমরা পিথাগোরিয়ান ত্রিকোণমিতিক  \(\sin^2 \theta + \cos^2 \theta = 1\) ব্যবহার করতে পারি।
+
+প্রথমে, আসুন \(\cos^2 \theta\) কে \(\sin \theta\) এর পরিপ্রেক্ষিপ্তে প্রকাশ করি:
+
+\(\cos^2 \theta = 1 - \sin^2 \theta\)
+
+এই সমীকরণে এই প্রতিস্থাপন করা হোক:
+
+\(2(1 - \sin^2 \theta) + 3\sin \theta - 3 = 0\)
+
+\(2 - 2\sin^2 \theta + 3\sin \theta - 3 = 0\)
+
+\(-2\sin^2 \theta + 3\sin \theta - 1 = 0\)
+
+এটি একটি সমীকরণের মধ্যে \(\sin \theta\) এর দ্বিঘাতাংকন। আসুন এটি সমাধান করি:
+
+\(-2\sin^2 \theta + 3\sin \theta - 1 = 0\)
+
+\(x = \sin \theta\) ধরা যাক, তাহলে সমীকরণটি হয়:
+
+\(-2x^2 + 3x - 1 = 0\)
+
+আমরা এই দ্বিঘাতাংকন সমীকরণটি দ্বিঘাতাংকন সূত্র ব্যবহার করে সমাধান করতে পারি:
+
+\(x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\)
+
+যেখানে \(a = -2\), \(b = 3\), এবং \(c = -1\)। আসুন মূল গুলি গণনা করা যাক।
+
+এই দ্বিঘাত সমীকরণের সমাধানগুলি হলো \( \sin \theta = 0.5 \) এবং \( \sin \theta = 1.0 \)। 
+
+তবে, যেহেতু \( \sin \theta = 1.0 \) হয় \( \theta = 90^\circ \) এবং আমাদের সীমানা হলো \( 0^\circ < \theta < 90^\circ \), সেই কারণে আমরা এই সমাধানটি বাদ দেই। 
+
+সুতরাং, আমরা \( \sin \theta = 0.5 \) বিবেচনা করতে থাকি। \(0^\circ < \theta < 90^\circ\) সীমানা মধ্যে \( \theta \) যে কোন কোণ হলে \( \sin \theta = 0.5 \) এর সমাধান হলো \( 30^\circ \)।
+
+অতএব, \( \theta = 30^\circ \) হলো প্রদত্ত সমীকরণের সমাধান। সুতরাং, সঠিক উত্তর হলো {{""Answer"": ""b""}}"

@@ -1,0 +1,142 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,If the phase difference between two points of a wave is \frac{11\pi}{2} then path difference between that points is-,একটি তরঙ্গের দুটি বিন্দুর দশাপার্থক্য \frac{11\pi}{2} হলে বিন্দুদ্বয়ের পথ পার্থক্য-,\frac{11\pi}{2},\frac{11\pi^{2}}{\lambda},\frac{11\pi}{4},\frac{11\pi^{2}}{4\lambda},c,N,2021Dhaka,1,\frac{11\pi}{2},\frac{11\pi^{2}}{\lambda},\frac{11\pi}{4},\frac{11\pi^{2}}{4\lambda},গ,c,N,2021Dhaka,0.9278191362,0,0,,"ParsingError{""Fixed"": ""If the phase difference between two points of a wave is \frac{11\pi}{2}, then what is the path difference between those points?""}",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the path difference between two points on a wave, given their phase difference, we can use the relationship between phase difference and path difference. The phase difference (\(\Delta \phi\)) is related to the path difference (\(\Delta x\)) and the wavelength (\(\lambda\)) of the wave by the formula:
+
+\[ \Delta \phi = \frac{2\pi}{\lambda} \Delta x \]
+
+Given the phase difference is \(\frac{11\pi}{2}\), we can rearrange the formula to solve for the path difference:
+
+\[ \frac{11\pi}{2} = \frac{2\pi}{\lambda} \Delta x \]
+
+Solving for \(\Delta x\), we get:
+
+\[ \Delta x = \frac{\lambda}{2\pi} \times \frac{11\pi}{2} \]
+
+\[ \Delta x = \frac{11\pi}{4} \lambda \]
+
+This result means that the path difference is \(\frac{11\pi}{4} \lambda\), which is not directly given in the provided options. However, if we consider that the options might have meant \(\frac{11\pi}{4}\) times the wavelength (\(\lambda\)), then the correct option would be \(\frac{11\pi}{4}\). Let's check if any of the options can be interpreted in this way. 
+
+Reviewing the options:
+
+1. \(\frac{11\pi}{2}\) - This is not in terms of wavelength.
+2. \(\frac{11\pi^2}{\lambda}\) - This is not the correct formula.
+3. \(\frac{11\pi}{4}\) - This is the correct interpretation if we consider it as \(\frac{11\pi}{4} \lambda\).
+4. \(\frac{11\pi^2}{4\lambda}\) - This also is not the correct formula.
+
+Therefore, the correct answer, interpreting the options generously, is {{""Answer"": ""c""}}.","তরঙ্গের দুটি বিন্দুর মধ্যে দশা পার্থক্য নির্ধারণ করতে, তাদের দশা পার্থক্য সম্পর্ক ও পথ পার্থক্য নির্ধারণ করতে আমরা দশা পার্থক্য এবং পথ পার্থক্যের মধ্যকার সম্পর্ক ব্যবহার করতে পারি। দশা পার্থক্য (\(\Delta \phi\)) ও তরঙ্গের তরঙ্গদৈর্ঘ্য (\(\lambda\)) দেওয়া সম্পর্কে সূত্র দ্বারা সম্পর্কিত আছে:
+
+\[ \Delta \phi = \frac{2\pi}{\lambda} \Delta x \]
+
+যেখানে দশা পার্থক্য দেওয়া আছে, আমরা পথ পার্থক্যের জন্য সমাধানে সম্পর্কিত সূত্র পুনর্বিন্যাস করতে পারি:
+
+\[ \frac{11\pi}{2} = \frac{2\pi}{\lambda} \Delta x \]
+
+পথ পার্থক্য এর জন্য সমাধান করতে, আমরা পাই:
+
+\[ \Delta x = \frac{\lambda}{2\pi} \times \frac{11\pi}{2} \]
+
+\[ \Delta x = \frac{11\pi}{4} \lambda \]
+
+এই ফলাফল মানে যে, পথ পার্থক্য হলো \(\frac{11\pi}{4} \lambda\), নির্ধারিত অপশনগুলোর মধ্যে সরাসরি দেওয়া হয় নি। তবে, যদি আমরা ধরে নেই যে উপাদানগুলি সামগ্রিকভাবে \(\frac{11\pi}{4}\) গুন করতে বলা হত, তবে সঠিক উপাদান হতে পারে \(\frac{11\pi}{4}\)। আসুন চেষ্টা করে দেখি কোন উপাদানগুলি এই উপকারণে প্রশ্ন প্রদান করে।
+
+উপলব্ধ উপাদানগুলি পুনর্বিন্যাস করা:
+
+1. \(\frac{11\pi}{2}\) - এটি তরঙ্গদৈর্ঘ্যের সাথে সম্পর্কিত নয়।
+2. \(\frac{11\pi^2}{\lambda}\) - এটি সঠিক সূত্র নয়।
+3. \(\frac{
+
+11\pi}{4}\) - এটি যদি আমরা এটি গুণ করতে মন্য হতাম, তবে এটি সঠিক ব্যাখ্যা হয় \(\frac{11\pi}{4} \lambda\)।
+4. \(\frac{11\pi^2}{4\lambda}\) - এটি সঠিক সূত্র নয়।
+
+অতএব, যদি আমরা উপাদানগুলি যত্নশীলভাবে ব্যাখ্যা করতে তা সম্পর্কে ধরি, তবে সঠিক উত্তর হল \(\frac{11\pi}{4}\)। সুতরাং, সঠিক উত্তর হল \(\{""Answer"": ""c""\}\)।
+"
+1,Which gate acts as an inverter?,কোন গেইট 'ইনভার্টার' এর ন্যায় আচরণ করে?,OR gate,NOT gate,AND gate,NOR gate,b,N,2021Dhaka,1,OR গেইট,NOT গেইট,AND গেইট,NOR গেইট,খ,b,N,2021Dhaka,0.9709850306,0,0,,Which gate functions as an inverter?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The gate that acts as an inverter is the NOT gate. The NOT gate, also known as an inverter, is a logic gate which implements logical negation. It takes a single input and outputs the opposite value; if the input is 1 (true), the output is 0 (false), and if the input is 0 (false), the output is 1 (true). So, the only correct answer is {{""Answer"": ""b""}}","যে গেট ইনভার্টার হিসেবে কাজ করে, তা হল নট গেট। নট গেট, যা একটি ইনভার্টার হিসেবে পরিচিত, একটি লজিক গেট যা লজিক্যাল নেগেশন বা বিপরীত কাজ করে। এটি একটি একক ইনপুট নেয় এবং বিপরীত মান আউটপুট দেয়; যদি ইনপুট 1 (সত্য) হয়, তবে আউটপুট 0 (মিথ্যা) হয়, এবং যদি ইনপুট 0 (মিথ্যা) হয়, তবে আউটপুট 1 (সত্য) হয়। সুতরাং, একমাত্র সঠিক উত্তর হল 
+{""Answer"":""b""}।"
+2,"If a wire is extended then-
+ i. specific resistance increases
+ ii. resistance increases
+ iii. resistance decreases
+ Which one is correct?","একটি তারকে টেনে লম্বা করলে-
+ i. আপেক্ষিক রোধ বৃদ্ধি পায়
+ ii. রোধ বৃদ্ধি পায়
+ iii. রোধ হ্রাস পায়
+ নিচের কোনটি সঠিক?",i,ii,i and ii,i and iii,b,N,2021Dhaka,1,i,ii,I ও ii,i ও iii,খ,b,N,2021Dhaka,0.9329859661,0,0,,"If a wire is extended, what happens to its resistance?
+
+Choices: (a) Specific resistance increases
+(b) Resistance increases
+(c) Specific resistance and resistance increase
+(d) Specific resistance increases and resistance decreases",Reasoning,"{""Answer"": ""Reasoning""}","When a wire is extended (its length is increased), the following changes occur:
+
+i. Specific Resistance Increases: The specific resistance (also known as resistivity) of a material depends on its intrinsic properties and does not change with a change in length. So, extending a wire does not affect its specific resistance. Therefore, statement i is incorrect.
+
+ii. Resistance Increases: When the length of a wire is increased, its resistance also increases. This is because resistance is directly proportional to the length of the wire according to the formula: \( R = \frac{{\rho \cdot L}}{A} \), where \( R \) is resistance, \( \rho \) is specific resistance (resistivity), \( L \) is length, and \( A \) is the cross-sectional area. If \( L \) increases, \( R \) increases. So, statement ii is correct.
+
+iii. Resistance Decreases: This statement is incorrect. Extending a wire leads to an increase in resistance, not a decrease.
+
+Based on this analysis, the correct answer is {{""Answer"": ""b""}}.","একটি তার যখন লম্বা করা হয়, তখন নিম্নলিখিত পরিবর্তন ঘটে:
+
+i. আপেক্ষিক রোধ বৃদ্ধি পায়: একটি উপাদানের আপেক্ষিক রোধ (যা স্পেসিফিক রেসিস্টেন্স হিসেবেও পরিচিত) তার অংশগত গুণধর্মের উপর নির্ভর করে এবং দৈর্ঘ্যের পরিবর্তনে পরিবর্তিত হয় না। সুতরাং, লম্বিত তার আপেক্ষিক রোধে কোনো প্রভাব রাখে না । সুতরাং, বিবৃতি i সঠিক নয়।
+
+ii. রোধ বৃদ্ধি পায়: একটি তারের দৈর্ঘ্য বাড়ালে, তার রোধও বাড়ে। এটি তারের রোধ তার দৈর্ঘ্যের সাথে সরাসরি সম্পর্কিত, সুতরাং বিবৃতি ii সঠিক।
+
+iii. রোধ হ্রাস পায়: এই বিবৃতি সঠিক নয়। একটি তারের দৈর্ঘ্য বৃদ্ধি পেলে, রোধ নামে না, বর্দ্ধিত হয়।
+
+এই বিশ্লেষণের আলোকে, সঠিক উত্তর হল ({""Answer"": ""b""})।
+"
+3,"The ratio of changed magnetic field and changed electric field is-
+ [Here, C = velocity of light]
+ i. c
+ ii. \frac{1}{c}
+ iii. \sqrt{\epsilon_{0} \mu_{0}}
+ Which one is correct?","পরিবর্তিত চৌম্বকক্ষেত্র ও পরিবর্তিত তড়িৎক্ষেত্রের অনুপাত- (এখানে, c = আলোর বেগ)
+ i. c
+ ii. \frac{1}{c}
+ iii. \sqrt{\epsilon_{0} \mu_{0}}
+ নিচের কোনটি সঠিক?",i,ii,i and iii,ii and iii,d,N,2021Dhaka,1,i,ii,i ও iii,ii ও iii,ঘ,d,N,2021Dhaka,0.9679900524,0,0,,"What is the ratio of the change in magnetic field to the change in electric field?
+[Here, C represents the velocity of light]
+
+i. c
+ii. 1/c
+iii. √(ε₀ μ₀)
+
+Which one is correct?
+Choices:
+(a) i
+(b) ii
+(c) i and iii
+(d) ii and iii",Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's analyze each option step by step.
+
+The ratio of the change in the magnetic field to the change in the electric field is given by:
+
+ΔB/ΔE = 1/c.
+
+So, statement (ii) is correct while statement (i) is not. Again, In an electromagnetic wave, the electric field (E) and the magnetic field (B) are perpendicular to each other and to the direction of propagation of the wave. The magnitudes of these fields are related by the speed of light (c) in vacuum, where 
+c is given by, c = 1/\sqrt{\epsilon_{0} \mu_{0}}. Inversing the relation gives, the ratio that matches with statement (ii). So, statement (iii) is also correct.
+
+Therefore, the correct answer is {{""Answer"": ""d""}}","আমরা প্রতিটি অপশনটি একটি পর্যাপন্নে বিশ্লেষণ করা যাক:
+
+চৌম্বকক্ষেত্রের পরিবর্তন ও তড়িৎক্ষেত্রের পরিবর্তনের অনুপাত নিম্নলিখিত সূত্রে দেওয়া আছে:
+
+ΔB/ΔE = 1/c.
+
+সুতরাং, কথন (ii) সঠিক কিন্ত (i) কথন নয়। আবার, একটি ইলেকট্রোম্যাগনেটিক তরঙ্গে, তড়িৎক্ষেত্র (E) এবং চৌম্বকক্ষেত্র (B) এক অপরের সাথে ও তরঙ্গের প্রসারণের দিকে অথবা পর্যাপন্নে সাথে সমমূল হয়। এই ক্ষেত্রে, আলোর বেগ, চৌম্বক ও তড়িতের সম্পর্ক হলো, c = 1/\sqrt{\epsilon_{0} \mu_{0}}। এটি উল্টিয়ে দিলে কথন (ii) সাথে মেলে। সুতরাং, কথন (iii) সঠিক।
+
+অতএব, সঠিক উত্তর হল {""Answer"": ""d""}।
+"
+4,The slope of isothermal line is how much steeper than adiabatic line?,সমোষ্ণ রেখার ঢাল রুদ্ধতাপীয় রেখার ঢাল অপেক্ষা কতগুণ খাড়া?,+ \frac{1}{\gamma},+ \gamma,- \frac{1}{\gamma},- \gamma,a,N,2021Dhaka,1,+ \frac{1}{\gamma},+ \gamma,- \frac{1}{\gamma},- \gamma,ক,a,N,2021Dhaka,0.905709858,0,0,,How much steeper is the slope of the isothermal line compared to the adiabatic line?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","In thermodynamics, the comparison between the slopes of isothermal and adiabatic lines in a Pressure-Volume (P-V) diagram is as follows:
+
+Isothermal Process: For an isothermal process, where the temperature of the system remains constant, the slope of the isothermal curve in a P-V diagram is given by the formula: (dP/dV)isothermal = -P/V.
+
+Adiabatic Process: In an adiabatic process, where no heat is exchanged with the surroundings, the slope of the adiabatic curve in a P-V diagram is steeper than that of the isothermal curve. The slope is given by the formula: (dP/dV)adiabatic = -gamma * P/V, where gamma is the heat capacity ratio (Cp/Cv).
+
+When comparing these two slopes, the slope asked by the question is  -P/V / -gamma * P/V = 1 / gamma.
+
+Therefore, the correct answer is {{""Answer"": ""a""}}","তাপগতিবিদ্যায়, চাপ-আয়তন (P-V) চিত্রে সমোষ্ণ এবং রুদ্ধতাপীয় রেখার ঢালের মধ্যে তুলনা নিম্নরূপ:
+
+সমোষ্ণ প্রক্রিয়া: সমোষ্ণ প্রক্রিয়ায়, যেখানে সিস্টেমের তাপমাত্রা স্থির থাকে, P-V চিত্রে সমোষ্ণ কার্ভের ঢাল নির্দেশিত হয় সূত্র অনুসারে: (dP/dV)isothermal = -P/V।
+
+রুদ্ধতাপীয় প্রক্রিয়া: রুদ্ধতাপীয় প্রক্রিয়ায়, যেখানে পরিবেশের সাথে কোনো তাপ আদান-প্রদান হয় না, P-V চিত্রে রুদ্ধতাপীয় কার্ভের ঢাল সমোষ্ণ কার্ভের চেয়ে খাড়া। ঢাল দেওয়া হয় সূত্র অনুসারে: (dP/dV)adiabatic = -gamma * P/V, যেখানে গামা হল তাপ ধারণক্ষমতার অনুপাত (Cp/Cv)।
+
+এই দুই ঢাল তুলনা করলে, প্রশ্নে উল্লিখিত ঢাল হল -P/V / -gamma * P/V = 1 / gamma।
+
+সুতরাং, সঠিক উত্তর হল {{""Answer"": ""a""}}
+"

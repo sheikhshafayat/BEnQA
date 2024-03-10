@@ -1,0 +1,1118 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+An arrow throws into a wall losses half its velocity after penetrating 3 inches. How far will it penetrate before coming to rest?,একটি তীর একটি দেয়ালের ভিতর 3 ইঞ্চি ঢুকার পর তার অর্ধেক বেগ হারায়। তীরটির বেগ শূন্য হওয়ার পূর্বে দেয়ালের ভিতর আর কত ইঞ্চি ঢুকবে?,\frac{1}{2},\frac{1}{3},\frac{2}{3},1,\frac{1}{2},\frac{1}{3},\frac{2}{3},1,d
+What is the value of \sqrt[4]{- 49} ?,\sqrt[4]{- 49} এর মান কোনটি?,\pm \sqrt{7}i,\pm \sqrt{\frac{7}{2}} (1 \pm i),\pm \frac{7}{2} ( \pm i),\frac{7}{\sqrt{2}} (1 \pm 2i),\pm \sqrt{7}i,\pm \sqrt{\frac{7}{2}} (1 \pm i),\pm \frac{7}{2} ( \pm i),\frac{7}{\sqrt{2}} (1 \pm 2i),b
+"If \alpha, \beta, \gamma be the roots of the equation 3x^{3} - 1 = 0, then \alpha^{3} + \beta^{3} + \gamma^{3} = ?","3x^{3} - 1 = 0 সমীকরণের মূলত্রয় \alpha, \beta, \gamma হলে \alpha^{3} + \beta^{3} + \gamma^{3} = ?",-1,0,\frac{1}{3},1,-1,0,\frac{1}{3},1,d
+"If \frac{1}{2 + i} be the one of the roots of a quadratic equation, then the equation will be-",কোনো দ্বিঘাত সমীকরণের একটি মূল \frac{1}{2 + i} হলে সমীকরণটি হবে-,9x^{2} - 12x + 5 = 0,5x^{2} - 4x + 1 = 0,5x^{2} + 14x + 1 = 0,25x^{2} - 20x + 3 = 0,9x^{2} - 12x + 5 = 0,5x^{2} - 4x + 1 = 0,5x^{2} + 14x + 1 = 0,25x^{2} - 20x + 3 = 0,b
+"If 3 be the one of the roots of x^{2} - kx + 2 = 0, then-
+ i. another root will be \frac{2}{3}
+ ii. the value of k will be \frac{11}{3}
+ iii. discriminant of the equation will be 7
+ Which one is correct?","x^{2} - kx + 2 = 0, সমীকরণের একটি মূল 3 হলে-
+ i. অপর মূল \frac{2}{3}
+ ii. k এর মান \frac{11}{3}
+ iii. প্রদত্ত সমীকরণের নিশ্চায়ক = 7
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+What is the value of p if one of the roots of the equation (p^{2} - 4)x^{2} + 4px + (4p + 1) = 0 is the multiplicative inverse of the other?,p^{2} - 4)x^{2} + 4px + (4p + 1) = 0 সমীকরণের মূলদ্বয় পরস্পর গৌণিক বিপরীত হলে p এর মান কত?,"- 1, 5","1, 5","- 2, - 2","- 3, 1","- 1, 5","1, 5","- 2, - 2","- 3, 1",a
+"If \alpha, \beta be the roots of the equation \frac{1}{x} - \frac{1}{x - p} = \frac{1}{q}, then-
+ i. \alpha + \beta = p
+ ii. \alpha\beta = pq 
+ iii. \frac{1}{\alpha} + \frac{1}{\beta} = \frac{1}{q}
+ Which one is correct?","\frac{1}{x} - \frac{1}{x - p} = \frac{1}{q} সমীকরণের মূলদ্বয় \alpha, \beta হলে-
+ i. \alpha + \beta = p
+ ii. \alpha\beta = pq 
+ iii. \frac{1}{\alpha} + \frac{1}{\beta} = \frac{1}{q}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+The focus of the parabola y^{2} + 4x + 2y - 8 = 0 is-,y^{2} + 4x + 2y - 8 = 0 পরাবৃত্তের উপকেন্দ্র হবে-,"\left ( \frac{9}{4}, -1 \right )","\left ( \frac{9}{4}, -2 \right )","\left ( \frac{5}{4}, -1 \right )","\left ( \frac{13}{4}, -1 \right )","\left ( \frac{9}{4}, -1 \right )","\left ( \frac{9}{4}, -2 \right )","\left ( \frac{5}{4}, -1 \right )","\left ( \frac{13}{4}, -1 \right )",c
+Taking the axes of the ellipse as the x and y axes what is the length of minor axis whose majors axis = 12 unit and ecentricity = \frac{1}{3}?,"স্থানাঙ্কের অক্ষদ্বয়কে উপবৃত্তের অক্ষ বিবেচনা করে, বৃহৎ অক্ষের দৈর্ঘ্য 12 একক এবং উৎকেন্দ্রিকতা = \frac{1}{3} হলে ক্ষুদ্রাক্ষের দৈর্ঘ্য কত?",4\sqrt{2},8\sqrt{2},9\sqrt{2},4\sqrt{6},4\sqrt{2},8\sqrt{2},9\sqrt{2},4\sqrt{6},b
+"If the parabola y^{2} = 6x touches the line y = mx + c, then-
+ i. c = \frac{3}{2m}
+ ii. both the parabola and straight line passes through origin
+ iii. co-ordinates of touch point \left ( \frac{3}{m^{2}}, \frac{3}{m} \right )
+ Which one is correct?","y^{2} = 6x পরাবৃত্তটি y = mx + c, রেখাকে স্পর্শ করলে-
+ i. c = \frac{3}{2m}
+ ii. পরাবৃত্ত ও সরলরেখার সমীকরণ উভয়ই মূলবিন্দুগামী
+ iii. স্পর্শ বিন্দুর স্থানাঙ্ক \left ( \frac{3}{m^{2}}, \frac{3}{m} \right )
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",b
+"16y^{2} - 9x^{2} = 144
+ 
+ What is the eccentricity of the conic?","16y^{2} - 9x^{2} = 144
+ 
+ কণিকটির উৎকেন্দ্রিকতা কত?",\frac{5}{3},\frac{5}{4},\frac{\sqrt{7}}{3},\frac{\sqrt{7}}{4},\frac{5}{3},\frac{5}{4},\frac{\sqrt{7}}{3},\frac{\sqrt{7}}{4},a
+"16y^{2} - 9x^{2} = 144
+ 
+ Then conic's-
+ i. equation of asymptotes y = \pm \frac{3}{4}x
+ ii. equation of directrix 5y \pm 9 = 0
+ iii. parametric equations: x = 3sec\theta, y = 4 tan\theta
+ Which one is correct?","16y^{2} - 9x^{2} = 144
+ 
+ কণিকটির-
+ i. অসীমতট রেখার সমীকরণ y = \pm \frac{3}{4}x
+ ii. নিয়ামক রেখার সমীকরণ 5y \pm 9 = 0
+ iii. পরামিতিক সমীকরণ x = 3sec\theta, y = 4 tan\theta
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+sincot^{-1} tancos^{-1} \frac{3}{4} = ?,sincot^{-1} tancos^{-1} \frac{3}{4} = কত?,\frac{3}{4},\frac{5}{4},\frac{4}{3},\frac{3}{\sqrt{7}},\frac{3}{4},\frac{5}{4},\frac{4}{3},\frac{3}{\sqrt{7}},a
+"Which is the general solution of the equation cos 3\theta = \frac{1}{2}, where n, being any integer?",n একটি পূর্ণসংখ্যা হলে cos 3\theta = \frac{1}{2} সমীকরণের সাধারণ সমাধান কোনটি?,(6n - 1) \frac{\pi}{9},\frac{2n\pi}{3} + \frac{\pi}{3},\frac{2n\pi}{3} + \frac{\pi}{9},(2n + 1) \frac{\pi}{6},(6n - 1) \frac{\pi}{9},\frac{2n\pi}{3} + \frac{\pi}{3},\frac{2n\pi}{3} + \frac{\pi}{9},(2n + 1) \frac{\pi}{6},c
+General solution of secx = sec(x + \pi) is:,secx = sec(x + \pi) এর সাধারণ সমাধানঃ,(2n + 1)\frac{\pi}{2},(4n + 1)\frac{\pi}{2},n\pi + )\frac{\pi}{4},n\pi + )\frac{3\pi}{4},(2n + 1)\frac{\pi}{2},(4n + 1)\frac{\pi}{2},n\pi + )\frac{\pi}{4},n\pi + )\frac{3\pi}{4},a
+What is the value of i^{-65}?,i^{-65} এর মান কত?,-1,1,- i,i,-1,1,- i,i,c
+What is the argument of - 3 - \sqrt{3}i?,- 3 - \sqrt{3}i জটিল সংখ্যাটির আর্গুমেন্ট কত?,\frac{\pi}{6},\frac{\pi}{3},\frac{4\pi}{3},\frac{7\pi}{6},\frac{\pi}{6},\frac{\pi}{3},\frac{4\pi}{3},\frac{7\pi}{6},d
+"If z = x + iy, then-
+ i. |z| = |\overline{z}|
+ ii. z.\overline{z} = |z|^{2}
+ iii. arg(\overline{z}) = arg(z)
+ Which one is correct?","z = x + iy হলে-
+ i. |z| = |\overline{z}|
+ ii. z.\overline{z} = |z|^{2}
+ iii. arg(\overline{z}) = arg(z)
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If x = 1 + \sqrt{2}i, then 2x^{3} - 3x^{2} + 4x + 1 = ?",x = 1 + \sqrt{2}i হলে 2x^{3} - 3x^{2} + 4x + 1 এর মান কত?,4,2,1,-2,4,2,1,-2,d
+"If \alpha and \beta are roots of x^{2} + x + 1 = 0, then what is the value of \Sigma\alpha^{2}?","x^{2} + x + 1 = 0 সমীকরণের মূলদ্বয় \alpha, \beta হলে, \Sigma\alpha^{2} এর মান কত?",-3,-1,0,1,-3,-1,0,1,b
+"If one root of quadratic equation is \frac{1}{\sqrt{2} + 1}, then what is another one?","দ্বিঘাত সমীকরণের একটি মূল \frac{1}{\sqrt{2} + 1} হলে, অপর মূল কোনটি?",\sqrt{2} + 1,- \sqrt{2} - 1,\sqrt{2} - 1,- \sqrt{2} + 1,\sqrt{2} + 1,- \sqrt{2} - 1,\sqrt{2} - 1,- \sqrt{2} + 1,b
+"2x - x^{2} + k = 0 is a quadratic equation.
+ 
+ If x + 3 is a factor of the equation, then what is the value of k?","2x - x^{2} + k = 0 একটি দ্বিঘাত সমীকরণ।
+ 
+ সমীকরণটির একটি উৎপাদক x + 3 হলে k এর মান কত?",-15,-3,3,15,-15,-3,3,15,d
+"2x - x^{2} + k = 0 is a quadratic equation.
+ 
+ If the roots of the equation are real, then-","2x - x^{2} + k = 0 একটি দ্বিঘাত সমীকরণ।
+ 
+ সমীকরণটির মূলদ্বয় বাস্তব হলে-",k \leq - 1,k \geq - 1,k < - 1,k > - 1,k \leq - 1,k \geq - 1,k < - 1,k > - 1,b
+WHat is the eccentricity of the conic x^{2} = 2y?,x^{2} = 2y কণিকের উৎকেন্দ্রতা কত?,0,\frac{1}{2},1,2,0,\frac{1}{2},1,2,c
+What is the distance between focus of the ellipse 3x^{2} + 4y^{2} = 12?,3x^{2} + 4y^{2} = 12 উপবৃত্তের উপকেন্দ্রদ্বয়ের দূরত্ব কত?,2,\sqrt{3},1,\frac{2}{\sqrt{3}},2,\sqrt{3},1,\frac{2}{\sqrt{3}},a
+"If the straight line x + y + k = 0 touches the parabola y^{2} = 2x, then k = ?",x + y + k = 0 রেখাটি y^{2} = 2x পরাবৃত্তকের স্পর্শ করলে k এর মান কত?,2,\frac{1}{2},- \frac{1}{2},-2,2,\frac{1}{2},- \frac{1}{2},-2,b
+"In hyperbola \frac{(y + 2)^{2}}{4} - \frac{x^{2}}{5} = 1-
+ i. coordinate of vertex (-2, 0)
+ ii. length of transverse axis is 4
+ iii. length of latus rectum is 5
+ Which one is correct?","\frac{(y + 2)^{2}}{4} - \frac{x^{2}}{5} = 1 অধিবৃত্তের-
+ i. কেন্দ্রের স্থানাঙ্ক (-2, 0)
+ ii. আড় অক্ষের দৈর্ঘ্য 4
+ iii. উপকেন্দ্রিক লম্বের দৈর্ঘ্য 5
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Which one is the equation of asymptotes of hyperbola \frac{x^{2}}{9} - \frac{y^{2}}{16} = 1?,\frac{x^{2}}{9} - \frac{y^{2}}{16} = 1 অধিবৃত্তের অসীমতটের সমীকরণ কোনটি?,y = \pm \frac{4}{3}x,x = \pm \frac{4}{3}y,y = \pm \frac{5}{4} x,x = \pm \frac{5}{4}y,y = \pm \frac{4}{3}x,x = \pm \frac{4}{3}y,y = \pm \frac{5}{4} x,x = \pm \frac{5}{4}y,a
+What is the value of tan \left ( cos^{-1} \frac{1}{\sqrt{3}} \right )?,\left ( cos^{-1} \frac{1}{\sqrt{3}} \right ) এর মান কত?,\frac{1}{2},\frac{1}{\sqrt{2}},\sqrt{2},2,\frac{1}{2},\frac{1}{\sqrt{2}},\sqrt{2},2,c
+What is the value of cot^{-1}2 - cot^{-1}5?,cot^{-1}2 - cot^{-1}5 এর মান কোনটি?,cot^{-1}3,cot^{-1}\frac{11}{3},cot^{-1}\frac{11}{7},cot^{-1}\frac{9}{7},cot^{-1}3,cot^{-1}\frac{11}{3},cot^{-1}\frac{11}{7},cot^{-1}\frac{9}{7},b
+"If n is an integer, then which one is the general solution of 2cos2\theta - 1 = 0?",n একটি পূর্ণসংখ্যা হলে 2cos2\theta - 1 = 0 সমীকরণের সাধারণ সমাধান কোনটি?,2n\pi \pm \frac{\pi}{3},n\pi \pm \frac{\pi}{3},2n\pi \pm \frac{\pi}{6},n\pi \pm \frac{\pi}{6},2n\pi \pm \frac{\pi}{3},n\pi \pm \frac{\pi}{3},2n\pi \pm \frac{\pi}{6},n\pi \pm \frac{\pi}{6},d
+"Extrauneous roots-
+ i. does not satisfy trigonometric equation
+ ii. are obtained by squaring equations
+ iii. are obtained by applying square root
+ Which one is correct?","অবাস্তব মূল ত্রিকোণমিতিক সমীকরণকে-
+ i. সিদ্ধ করে না
+ ii. বর্গ করলে পাওয়া যায়
+ iii. বর্গমূল করলে পাওয়া যায়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+For which angle the resultant of 6N and 8N will be 2\sqrt{13} N?,"6N এবং 8N বল দুটির মধ্যবর্তী কোণ কত হলে, লব্ধি 2\sqrt{13} N হবে?",30\degree,60\degree,90\degree,120\degree,30\degree,60\degree,90\degree,120\degree,d
+"If three forces acting at point be in equilibrium, then the resultant of any two forces will be ___ to third force.
+ i. equal
+ ii. parallel
+ iii. opposite
+ Which one is correct?","কোনো বিন্দুতে ক্রিয়ারত তিনটি বল সাম্যবস্থায় থাকলে যেকোনো দুটি বলের লব্ধি তৃতীয় বলের-
+ i. সমান
+ ii. সমান্তরাল
+ iii. বিপরীতমুখী
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"Two unlike parallel forces of magnitude 45N and 15N act at point A and B. Their resultant act at point C. If AC = 5, then AB = ?",A ও B বিন্দুতে ক্রিয়ারত 45N ও 15N বিসাদৃশ সমান্তরাল বলের লব্ধি C বিন্দুতে ক্রিয়া করে। AC = 5 হলে AB = কত?,5 m,10 m,15 m,20 m,5 m,10 m,15 m,20 m,b
+"If a person can directly cross a streamless river of width 450 meter in 15 minutes, what will be the velocity of swimmer in km/hour?","এক ব্যক্তি 450 মিটার চওড়া একটি স্রোতহীন নদী সাঁতার দিয়ে ঠিক সোজাসুজিভাবে 15 মিনিটে পার হলে, সাঁতারুর বেগ কত কি.মি./ঘন্টা?",\frac{1}{2},\frac{9}{5},3,\frac{9}{2},\frac{1}{2},\frac{9}{5},3,\frac{9}{2},b
+An object is fallen freely from the upper position of 5 second. In last 3 second the object is fallen how much feet?,একটি বস্তু উপর থেকে মুক্তভাবে 5 সেকেন্ডে পড়ল। বস্তুটি শেষের 3 সেকেন্ডে কত ফুট পড়েছিল?,336,256,192,128,336,256,192,128,a
+"If a particle is projected vertically upward from the ground with an initial velocity 3 m/s, then whet will be the greatest height?",ভূমি হতে 3 মি./সে. আদিবেগে একটি বস্তু উলম্বভাবে উপরের দিকে নিক্ষেপ করলে বস্তুটি সর্বাধিক কত মিটার উপরে উঠবে?,\frac{6}{g} m,\frac{3}{g} m,\frac{9}{2g}m,\frac{9}{g} m,\frac{6}{g} m,\frac{3}{g} m,\frac{9}{2g}m,\frac{9}{g} m,c
+"If a particle is projected at an angle \alpha with horizon and initial velocity is u then-
+ i. time of flight is \frac{2usin\alpha}{g}
+ ii. maximum range \frac{u^{2}}{g}
+ iii. greates height is \frac{u^{2}sin^{2}\alpha}{2g}
+ Which one is correct?","u আদিবেগে আনুভূমিকের সাথে \alpha কোণে একটি বস্তু প্রক্ষিপ্ত হলে-
+ i. বিচরণকাল \frac{2usin\alpha}{g}
+ ii. বৃহত্তম পাল্লা \frac{u^{2}}{g}
+ iii. সর্বাধিক উচ্চতা \frac{u^{2}sin^{2}\alpha}{2g}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"The roots of x^{2} - 8x + c = 0 are-
+ i. equal if c = 8
+ ii. complex if e > 16
+ iii. real if c \leq 16
+ Which one is correct?","x^{2} - 8x + c = 0 এর মূলদ্বয়-
+ i. সমান হবে যদি c = 8 হয়
+ ii. জটিল হবে যদি e > 16 হয়
+ iii. বাস্তব হবে যদি c \leq 16 হয়
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",b
+"z = 3i
+ 
+ Which point is formed by \overline{z}?","z = 3i
+ 
+ \overline{z} দ্বারা গঠিত বিন্দু কোনটি?","(0, -3)","(0, 3)","(-3, 0)","(3, 0)","(0, -3)","(0, 3)","(-3, 0)","(3, 0)",a
+"z = 3i
+ 
+ What is the general argument of \overline{z}?","z = 3i
+ 
+ \overline{z} এর সাধারণ আর্গুমেন্ট কত?",2n\pi + \frac{\pi}{2},2n\pi - \frac{\pi}{2},n\pi + \frac{\pi}{2},n\pi - \frac{\pi}{2},2n\pi + \frac{\pi}{2},2n\pi - \frac{\pi}{2},n\pi + \frac{\pi}{2},n\pi - \frac{\pi}{2},b
+9x^{2} - 24xy + 12y^{2} - 48x - 24y + 36 = 0 represents-,9x^{2} - 24xy + 12y^{2} - 48x - 24y + 36 = 0 সমীকরণটি কী নির্দেশ করে?,Circle,Parabola,Ellipse,Hyperbola,বৃত্ত,পরাবৃত্ত,উপবৃত্ত,অধিবৃত্ত,d
+What is the value of (\sqrt{-3}) \times (\sqrt{-1}) = ?,\sqrt{-3} \times \sqrt{-1} এর মান কোনটি?,\sqrt{3i},\pm \sqrt{3},- \sqrt{3},\sqrt{3},\sqrt{3i},\pm \sqrt{3},- \sqrt{3},\sqrt{3},c
+"If the resultant of two forces are maximum, then what is the angle between them?","দুটি বলের লব্ধি হতে বৃহত্তম হলে, তাদের মধ্যবর্তী কোণ কত?",180\degree,90\degree,- 180\degree,0\degree,180\degree,90\degree,- 180\degree,0\degree,d
+What is the coordinate of the focus of parabola x^{2} = - 3y?,x^{2} = - 3y পরাবৃত্তটির উপকেন্দ্রের স্থানাঙ্ক কত?,"\left ( - \frac{3}{4}, 0 \right )","\left ( \frac{3}{4}, 0 \right )","\left (0, - \frac{3}{4} \right )","\left (0, \frac{3}{4} \right )","\left ( - \frac{3}{4}, 0 \right )","\left ( \frac{3}{4}, 0 \right )","\left (0, - \frac{3}{4} \right )","\left (0, \frac{3}{4} \right )",c
+"If cot^{-1} p = cosec^{-1} \frac{3}{2}, then p = ?","cot^{-1} p = cosec^{-1} \frac{3}{2} হলে, p = ?",\frac{2}{\sqrt{5}},\frac{3}{\sqrt{5}},\frac{\sqrt{5}}{3},\frac{\sqrt{5}}{2},\frac{2}{\sqrt{5}},\frac{3}{\sqrt{5}},\frac{\sqrt{5}}{3},\frac{\sqrt{5}}{2},d
+Two like parallel forces with magnitude 12N and 8N act at two ends of a body of 15m long. How much distance the resultant act away from the greater force?,12N ও 8N দুটি সদৃশ সমান্তরাল বল 15m লম্বা একটি হালকা দণ্ডের দুই প্রান্তে ক্রিয়া করলে বৃহত্তম বল হতে লব্ধি কত দূরে ক্রিয়া করে?,2 m,4 m,6 m,8 m,2 m,4 m,6 m,8 m,c
+"If s = t^{3} + 3t^{2} + 6, then what is the acceleration after 2 sec?","যদি s = t^{3} + 3t^{2} + 6 হয়, তবে 2sec পরে এর ত্বরণ কত?",6 m/sec^{2},12 m/sec^{2},18 m/sec^{2},24 m/^{2},6 m/sec^{2},12 m/sec^{2},18 m/sec^{2},24 m/^{2},c
+What is the solution of the equation tan3\theta = 1?,tan3\theta = 1 সমীকরণের সমাধান কোনটি?,\frac{n\pi}{3} + \frac{\pi}{12},\frac{n\pi}{3} + \frac{\pi}{6},\frac{3n\pi}{3} + \frac{\pi}{12},n\pi,\frac{n\pi}{3} + \frac{\pi}{12},\frac{n\pi}{3} + \frac{\pi}{6},\frac{3n\pi}{3} + \frac{\pi}{12},n\pi,a
+"If sec\theta = - 2 and \frac{\pi}{2} < \theta, then what is the value of \theta?","যদি sec\theta = - 2 এবং \frac{\pi}{2} < \theta হয়, তবে \theta এর মান কত?",- \frac{2\pi}{3},\frac{2\pi}{3},- \pi,\pi,- \frac{2\pi}{3},\frac{2\pi}{3},- \pi,\pi,b
+How much forces is to be imposed to make the velocity 15 m/sec by 5 sec to a static particle of weight 33 kg?,কী পরিমাণ বল 33kg ভরের একটি স্থির বস্তুর উপর প্রয়োগ করলে 5 sec এ তার বেগ 15 m/sec হবে?,11 N,33 N,66 N,99 N,11 N,33 N,66 N,99 N,d
+"9x^{2} - 16y^{2} is a equation of hyperbola.
+ 
+ Which one is the length of latus rectum of hyperbola?","9x^{2} - 16y^{2} একটি অধিবৃত্তের সমীকরণ।
+ 
+ অধিবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য কোনটি?",\frac{9}{8},\frac{9}{2},\frac{32}{5},\frac{32}{9},\frac{9}{8},\frac{9}{2},\frac{32}{5},\frac{32}{9},b
+"9x^{2} - 16y^{2} is a equation of hyperbola.
+ 
+ WHich one is the equation of directrix?","9x^{2} - 16y^{2} একটি অধিবৃত্তের সমীকরণ।
+ 
+ নিয়ামক রেখার সমীকরণ কোনটি?",x = \frac{16}{5},y = \frac{16}{5},x = \pm \frac{16}{5},y = \pm \frac{16}{5},x = \frac{16}{5},y = \frac{16}{5},x = \pm \frac{16}{5},y = \pm \frac{16}{5},c
+A stone is dropped from the top of a building with 54meters height. How much time is required to fall on the gount?,54 মিটার উঁচু দালানের ছাদ থেকে একটি পাথর খাড়া নিচের ছেড়ে দিলে ভূমিতে পড়তে কত সময় লাগবে?,3.32 sec,3.34 sec,3.36 sec,3.38 sec,3.32 sec,3.34 sec,3.36 sec,3.38 sec,a
+What is the value of tancot^{-1} tancos^{-1} x = ?,tancot^{-1} tancos^{-1} x এর মান কোনটি?,\sqrt{1 - x^{2}},\frac{\sqrt{1 - x^{2}}}{x},\frac{x}{\sqrt{1 - x^{2}}},\frac{1}{\sqrt{1 - x^{2}}},\sqrt{1 - x^{2}},\frac{\sqrt{1 - x^{2}}}{x},\frac{x}{\sqrt{1 - x^{2}}},\frac{1}{\sqrt{1 - x^{2}}},c
+A particle starting from the rest with acceleration 3 cm/sec^{2}. What is the velocity after 1 minute?,একটি কণা স্থিরাবস্থা হতে 3 cm/sec^{2}. ত্বরণে চলতে শুরু করলে 1 মিনিট পর তার বেগ কত হবে?,3 cm/sec,60 cm/sec,120 cm/sec,180 cm/sec,3 cm/sec,60 cm/sec,120 cm/sec,180 cm/sec,d
+"If x + iy = i^{-2021} + 2(\omega)^{-2019}, then \frac{y}{x} = ?","x + iy = i^{-2021} + 2(\omega)^{-2019} হলে, \frac{y}{x} = ?",\frac{1}{2},- \frac{1}{2},2,-2,\frac{1}{2},- \frac{1}{2},2,-2,b
+"If 2 + i is a root of x^{2} + mx + n = 0, which one is the value of m and n?","x^{2} + mx + n = 0 সমীকরণের একটি মূল 2 + i হলে m, n এর মান কত?","m = 4, n = 5","m = -4, n = 5","m = -4, n = -5","m = 4, n = -5","m = 4, n = 5","m = -4, n = 5","m = -4, n = -5","m = 4, n = -5",b
+What is the area of the conic 9x^{2} + 7y^{2} = 63?,9x^{2} + 7y^{2} = 63 কণিকের ক্ষেত্রফল কত?,7\pi,9\pi,7\sqrt{3}\pi,3\sqrt{7}\pi,7\pi,9\pi,7\sqrt{3}\pi,3\sqrt{7}\pi,d
+Which one is value of tan^{-1} + cot^{-1} \frac{1}{3}?,tan^{-1} + cot^{-1} \frac{1}{3} এর মান কোনটি?,\frac{\pi}{4},\frac{3\pi}{4},\frac{5\pi}{4},- \frac{\pi}{4},\frac{\pi}{4},\frac{3\pi}{4},\frac{5\pi}{4},- \frac{\pi}{4},b
+The roots of the equation 3x^{2} - 6x + 4 = 0 are-,3x^{2} - 6x + 4 = 0 সমীকরণের মূলদ্বয়-,real and equal,real and unequal,complex and equal,complex and unequal,বাস্তব ও সমান,বাস্তব ও অসমান,জটিল ও সমান,জটিল ও অসমান,d
+"Three forces 2N, \sqrt{5}N, 3N acting at a point and area in equilibrium. What is the angle between the smaller forces?","2N, \sqrt{5}N এবং 3N বলত্রয় কোনো বিন্দুতে ক্রিয়া করে ভারসাম্য সৃষ্টি করে। ক্ষুদ্রতম বলদ্বয়ের অন্তর্গত কোণ কোনটি?",30\degree,60\degree,90\degree,180\degree,30\degree,60\degree,90\degree,180\degree,c
+A particle started to move with the uniform accelearation and crossed the distance 16 metre by 4 second What distance will it cross at 5th second?,স্থিরাবস্থা হতে সমত্বরণে চলমান একটি কণা 4 সেকেন্ডে 16 মিটার দূরত্ব অতিক্রম করে। 5ম সেকেন্ডে কণাটি কত দূরত্ব অতিক্রম করবে?,9 metre,11 metre,18 metre,22 metre,9 মিটার,11 মিটার,18 মিটার,22 মিটার,a
+What is the value of i^{-49}?,i^{-49} এর মান কোনটি?,- i,i,-1,1,- i,i,-1,1,a
+Polar form of -1 + i is-,-1 + i এর পোলার আকার-,\sqrt{2} \left ( cos\frac{\pi}{4} + i sin \frac{\pi}{4} \right ),\sqrt{2} \left ( cos\frac{\pi}{4} - i sin \frac{\pi}{2} \right ),\sqrt{2} \left ( cos\frac{3\pi}{4} - i sin \frac{3\pi}{4} \right ),\sqrt{2} \left ( cos\frac{3\pi}{4} + i sin \frac{3\pi}{4} \right ),\sqrt{2} \left ( cos\frac{\pi}{4} + i sin \frac{\pi}{4} \right ),\sqrt{2} \left ( cos\frac{\pi}{4} - i sin \frac{\pi}{2} \right ),\sqrt{2} \left ( cos\frac{3\pi}{4} - i sin \frac{3\pi}{4} \right ),\sqrt{2} \left ( cos\frac{3\pi}{4} + i sin \frac{3\pi}{4} \right ),d
+What is the greater heights of the particle which is thrown vertically with velocity of 9.8 metre/sec?,9.8 মি./সে. বেগে খাড়া উপরের দিকে নিক্ষেপিত কোনো বস্তুর সর্বোচ্চ উচ্চতা কত?,2.0 metre,4.9 metre,9.8 metre,19.6 metre,2.0 মিটার,4.9 মিটার,9.8 মিটার,19.6 মিটার,b
+"If \frac{1}{1 + i} is a root of a quadratic equation, what is the other root of the equation?",একটি দ্বিঘাত সমীকরণের একটি মূল \frac{1}{1 + i} হলে অপর মূলটি কত?,\frac{1}{1 - i},\frac{1 - i}{2},\frac{1 + i}{2},1 - i,\frac{1}{1 - i},\frac{1 - i}{2},\frac{1 + i}{2},1 - i,c
+"Two equal forces \sqrt{6} N act at a point inclined at an angle 60\degree, find their resultant?","\sqrt{6} N মানের দুইটি সমান বল 60\degree কোণে এক বিন্দুতে ক্রিয়াশীল হলে, তাদের লব্ধির মান কত?",2\sqrt{6}N,2\sqrt{3} N,18N,3\sqrt{2} N,2\sqrt{6}N,2\sqrt{3} N,18N,3\sqrt{2} N,d
+"If \alpha, \beta, \gamma are the roots of the equation x^{3} - \frac{1}{3}x - 15 = 0, then-
+ i. \Sigma \alpha = 0
+ ii. \Sigma \alpha \beta = - \frac{1}{3}
+ iii. \alpha \beta \gamma = 15
+ Which one is correct?","x^{3} - \frac{1}{3}x - 15 = 0 সমীকরণের মূলগুলি \alpha, \beta, \gamma হলে-
+ i. \Sigma \alpha = 0
+ ii. \Sigma \alpha \beta = - \frac{1}{3}
+ iii. \alpha \beta \gamma = 15
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"The eq^{n}. of the conic is 9x^{2} + 25y^{2} = 225.
+ 
+ What is the coordinates of the foci?","9x^{2} + 25y^{2} = 225
+ 
+ উদ্দীপকের কণিকের উপকেন্দ্রের স্থানাঙ্ক কোনটি?","(\pm 4, 0)","(\pm 5, 0)","(0, \pm 4)","(0, \pm 5)","(\pm 4, 0)","(\pm 5, 0)","(0, \pm 4)","(0, \pm 5)",a
+"The eq^{n}. of the conic is 9x^{2} + 25y^{2} = 225.
+ 
+ What is the distance between the directrices?","9x^{2} + 25y^{2} = 225
+ 
+ উদ্দীপকের কণিকের নিয়ামকদ্বয়ের মধ্যবর্তী দূরত্ব কত?",\frac{25}{4},\frac{25}{2},4,8,\frac{25}{4},\frac{25}{2},4,8,b
+Which one is the general solution of tan5\theta. tan4\theta = 1?,tan5\theta. tan4\theta = 1 সমীকরণের সাধারণ সমাধান কোনটি?,(2n + 1)\frac{\pi}{9},(2n - 1)\frac{\pi}{9},(2n + 1)\frac{\pi}{18},(2n - 1)\frac{\pi}{18},(2n + 1)\frac{\pi}{9},(2n - 1)\frac{\pi}{9},(2n + 1)\frac{\pi}{18},(2n - 1)\frac{\pi}{18},c
+What is the value of \theta for sin2\theta + 3sin\theta = 0?,"sin2\theta + 3sin\theta = 0 হলে, \theta এর মান কোনটি?",(2n + 1)\frac{\pi}{2},(4n + 1)\frac{\pi}{2},(2n + 1) \pi,n\pi,(2n + 1)\frac{\pi}{2},(4n + 1)\frac{\pi}{2},(2n + 1) \pi,n\pi,d
+What is the equations of directrices of the parabola x^{2} + 5y = 0?,x^{2} + 5y = 0 পরাবৃত্তের নিয়ামকের সমীকরণ কোনটি?,4y + 5 = 0,4x + 5 = 0,4y - 5 = 0,4x - 5 = 0,4y + 5 = 0,4x + 5 = 0,4y - 5 = 0,4x - 5 = 0,c
+"x^{2} - 5x + k = 0 is a quadratic equation whose roots are \alpha, \beta .
+ 
+ For what value of k, the roots of the equation will be equal and real?","x^{2} - 5x + k = 0 সমীকরনের মূলদ্বয় \alpha, \beta 
+ 
+ k এর মান কত হলে সমীকরণটির মূলদ্বয় বাস্তব ও সমান হবে?",k = 4,k = \frac{25}{4},k < \frac{25}{4},k > \frac{25}{4},k = 4,k = \frac{25}{4},k < \frac{25}{4},k > \frac{25}{4},b
+"x^{2} - 5x + k = 0 is a quadratic equation whose roots are \alpha, \beta .
+ 
+ If k = 6, then what is the equation whose roots are \alpha + 2 and \beta + 2.","x^{2} - 5x + k = 0 সমীকরনের মূলদ্বয় \alpha, \beta 
+ 
+ k = 6 হলে, \alpha + 2 and \beta + 2 মূলবিশিষ্ট সমীকরণ নিচের কোনটি?",x^{2} - 9x + 20 = 0,x^{2} + 9x + 20 = 0,x^{2} + 9x - 20 = 0,x^{2} - 9x - 20 = 0,x^{2} - 9x + 20 = 0,x^{2} + 9x + 20 = 0,x^{2} + 9x - 20 = 0,x^{2} - 9x - 20 = 0,a
+"What is the focal distance of the point (2, 6) on the parabola y^{2} = 18x?","y^{2} = 18x পরাবৃত্তের উপরস্থ (2, 6) বিন্দুর উপকেন্দ্রিক দূরত্ব কত?",\frac{3}{2},\frac{5}{2},\frac{21}{2},\frac{13}{2},\frac{3}{2},\frac{5}{2},\frac{21}{2},\frac{13}{2},d
+What is represented by |z - 1| = 5 where z = x + iy?,z = x + iy হলে |z - 1| = 5 সমীকরণটি কী নির্দেশ করে?,Straight line,Circle,Parabola,Ellipse,সরলরেখা,বৃত্ত,পরাবৃত্ত,উপবৃত্ত,b
+"R is the resultant of two forces P and Q which are acting at a point inclined at an angle \alpha, then-
+ i. R = P + Q, \alpha = 90\degree
+ ii. R = P ~ Q, \alpha = 180\degree
+ iii. Q = P, R = 2Pcos \frac{\alpha}{2}
+ Which one is correct?","একই বিন্দুতে \alpha কোণে ক্রিয়ারত P ও Q বলের লব্ধি R হলে-
+ i. R = P + Q যখন \alpha = 90\degree
+ ii. R = P ~ Q যখন \alpha = 180\degree
+ iii. Q = P হলে R = 2Pcos \frac{\alpha}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the principle argument of (1 - i\sqrt{3})?,- 1 - i\sqrt{3} এর মুখ্য আর্গুমেন্ট কত?,- \frac{2\pi}{3},\frac{2\pi}{3},- \frac{4\pi}{3},\frac{4\pi}{3},- \frac{2\pi}{3},\frac{2\pi}{3},- \frac{4\pi}{3},\frac{4\pi}{3},a
+A train moving with velocity 30 ms^{-1} creates a retardation of 5 ms^{-2} applying brake. What distance will it achieve in 4th second?,একটি ট্রেন 30 মি./সে. বেগে চলা অবস্থায় ব্রেক করে 5 মি./সে. মন্দন সৃষ্টি করা হলো। চতুর্থ সেকেন্ডে এটি কত দূরত্ব অতিক্রম করবে?,12.5 m,14.5 m,15.5 m,18.5 m,12.5 মি.,14.5 মি.,15.5 মি.,18.5 মি.,a
+A body is thrown vertically upwards with velocity u. What is the difference of time of remaining the body at height h?,u বেগে খাড়া উপরের দিকে নিক্ষিপ্ত একটি বস্তু h উচ্চতায় আসার দুটি সময়ের পার্থক্য কত?,\sqrt{u^{2} - 2gh},\frac{2}{g}\sqrt{u^{2} - 2gh},\frac{g}{2}\sqrt{u^{2} - 2gh},g\sqrt{u^{2} - 2gh},\sqrt{u^{2} - 2gh},\frac{2}{g}\sqrt{u^{2} - 2gh},\frac{g}{2}\sqrt{u^{2} - 2gh},g\sqrt{u^{2} - 2gh},b
+"If a projectile has horizontal range R, time of flight T, maximum height H and angle of projection \alpha, then
+ i. R = 4H cos\alpha
+ ii. H = \frac{gT^{2}}{8}
+ iii. \alpha = tan^{-1} \left ( \frac{gT^{2}}{2R} \right )
+ Which one is correct?","কোনো প্রক্ষেপকের আনুভূমিক পাল্লা R, বিচরণকাল T, সর্বাধিক উচ্চতা H এবং প্রক্ষেপ কোণ \alpha হলে-
+ i. R = 4H cos\alpha
+ ii. H = \frac{gT^{2}}{8}
+ iii. \alpha = tan^{-1} \left ( \frac{gT^{2}}{2R} \right )
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If a stone is thrown vertically upward from the ground, it comes back to the point of projection in 5 seconds. What is the velocity of fall of the stone?",একটি পাথরকে ভূমি থেকে খাড়া উপরের দিকে নিক্ষেপ করা হলে এটি 5 সেকেন্ড পরে নিক্ষেপণ বিন্দুতে ফিরে আসে। পাথরটির ভূমিতে পতন বেগ কত?,18.56 ms^{-1},24.5 ms^{-1},25.57 ms^{-1},22.40 ms^{-1},18.56 ms^{-1},24.5 ms^{-1},25.57 ms^{-1},22.40 ms^{-1},b
+Find the value of i^{7} + i^{8} + i^{11} + i^{13}?,i^{7} + i^{8} + i^{11} + i^{13} এর মান কত?,-1,1,- i,0,-1,1,- i,0,d
+"x = \sqrt[3]{1}
+ 
+ Sum of the roots of the equation is-","x = \sqrt[3]{1} একটি সমীকরণ।
+ 
+ সমীকরণের মূলগুলোর যোগফল-",\omega,\omega^{2},0,1,\omega,\omega^{2},0,1,c
+"x = \sqrt[3]{1}
+ 
+ Product of the roots of the equation is-","x = \sqrt[3]{1} একটি সমীকরণ।
+ 
+ সমীকরণের মূলগুলোর যোগফল-",-1,0,1,1 + i,\omega,\omega^{2},0,1,c
+"If z_{1} = 1 + i and z_{2} = 2 + i, then modulus of z_{1}\overline{z}_{2} is-",z_{1} = 1 + i এবং z_{2} = 2 + i হলে z_{1}\overline{z}_{2} এর মডুলাস-,tan^{-1}2,2\sqrt{5},5\sqrt{2},\sqrt{10},tan^{-1}2,2\sqrt{5},5\sqrt{2},\sqrt{10},d
+"If the roots of a quadratic equation are rational and unequal, then the discriminant is-
+ i. perfect square
+ ii. positive number
+ iii. negative number
+ Which one is correct?","কোনো দ্বিঘাত সমীকরণের মূলদ্বয় মূলদ ও অসমান হলে পৃথায়ক হবে-
+ i. পূর্ণবর্গ
+ ii. ধনাত্মক সংখ্যা
+ iii. ঋণাত্মক সংখ্যা
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"The roots of the equation 3x^{2} - 5x + 1 = 0 are \alpha, \beta.
+ 
+ The equation with roots \alpha^{2}, \beta^{2} is-","3x^{2} - 5x + 1 = 0 সমীকরণের মূল \alpha ও \beta.
+ 
+ \alpha^{2} ও \beta^{2} মূলবিশিষ্ট সমীকরণ-",9x^{2} + 19x + 1 = 0,9x^{2} - 19x + 1 = 0,9x^{2} + 19x - 1 = 0,9x^{2} - 19x - 1 = 0,9x^{2} + 19x + 1 = 0,9x^{2} - 19x + 1 = 0,9x^{2} + 19x - 1 = 0,9x^{2} - 19x - 1 = 0,b
+"If the roots of the equation 3x^{3} - 1 = 0 are \aplha, \beta, \gamma, then the value of \alpha^{3} + \beta^{3} + \gamma^{3} is-","3x^{3} - 1 = 0 এর মূলগুলো \aplha, \beta, \gamma হলে, \alpha^{3} + \beta^{3} + \gamma^{3} এর মান-",-1,0,\frac{1}{3},1,-1,0,\frac{1}{3},1,d
+sin \left ( \frac{\pi}{2} cos^{-1}x \right ) = ?,sin \left ( \frac{\pi}{2} cos^{-1}x \right ) = কত?,sinx,x,1 - x,1 + x,sinx,x,1 - x,1 + x,b
+"In the equation, 2sin^{-1}x = sin^{-1}y if x = \frac{\sqrt{3}}{2}, then what is the value of y?","2sin^{-1}x = sin^{-1}y সমীকরণে x = \frac{\sqrt{3}}{2} হলে, y এর মান কত?",\frac{1}{2},\frac{1}{\sqrt{2}},\frac{\sqrt{3}}{2},1,\frac{1}{2},\frac{1}{\sqrt{2}},\frac{\sqrt{3}}{2},1,c
+"cot\theta = k, the solution is \theta = n\pi + \alpha
+ 
+ If k = \frac{1}{\sqrt{3}}, then \alpha = ?","cot\theta = k সমীকরণটির সমাধান \theta = n\pi + \alpha
+ 
+ k = \frac{1}{\sqrt{3}} হলে \alpha = কত?",\frac{\pi}{6},\frac{\pi}{4},\frac{\pi}{3},\frac{\pi}{2},\frac{\pi}{6},\frac{\pi}{4},\frac{\pi}{3},\frac{\pi}{2},c
+"cot\theta = k, the solution is \theta = n\pi + \alpha
+ 
+ If k = 1 and \frac{\pi}{4} < \theta < 2\pi, then \theta = ?","cot\theta = k সমীকরণটির সমাধান \theta = n\pi + \alpha
+ 
+ k = 1 এবং \frac{\pi}{4} < \theta < 2\pi হলে, \theta এর মান কত?",\frac{3\pi}{2},\frac{5\pi}{4},\frac{3\pi}{4},\frac{\pi}{2},\frac{3\pi}{2},\frac{5\pi}{4},\frac{3\pi}{4},\frac{\pi}{2},b
+What is the transverse axis of the hyperbola \frac{y^{2}}{16} - \frac{x^{2}}{25} = 1?,\frac{y^{2}}{16} - \frac{x^{2}}{25} = 1 অধিবৃত্তের আড় অক্ষ নিচের কোনটি?,x-axis,y-axis,Parallel to the x-axis,Parallel to the y-axis,x অক্ষ,y অক্ষ,x অক্ষের সমান্তরাল,y অক্ষের সমান্তরাল,b
+What is the eccentricity of the conic x^{2} = 16y?,x^{2} = 16y কণিকের উৎকেন্দ্রিকতা কত হবে?,e = 1,e = 0,e > 1,0 < e < 1,e = 1,e = 0,e > 1,0 < e < 1,a
+"For the ellipse \frac{x^{2}}{100} + \frac{y^{2}}{36} = 1-
+ i. eccentricity = \frac{4}{5}
+ ii. coordinates of the foci = \left ( 0, \pm \frac{24}{5} \right )
+ iii. distance between the directrices = 25
+ Which one is correct?","\frac{x^{2}}{100} + \frac{y^{2}}{36} = 1 উপবৃত্তটির
+ i. উৎকেন্দ্রিকতা = \frac{4}{5}
+ ii. উপকেন্দ্রদ্বয়ের স্থানাঙ্ক = \left ( 0, \pm \frac{24}{5} \right )
+ iii. নিয়ামক দুইটির দূরত্ব = 25
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"Considering the axes of the ellipse as x and y axes respectively, length of the minor axis = 2 units and eccentricity = \frac{1}{\sqrt{5}}.
+ 
+ What unit is the length of major axis?","স্থানাঙ্কের অক্ষদ্বয়কে উপবৃত্তের অক্ষ ধরে ক্ষুদ্রাক্ষের দৈর্ঘ্য 2 একক এবং উৎকেন্দ্রিকতা \frac{1}{\sqrt{5}} ।
+ 
+ বৃহৎ অক্ষের দৈর্ঘ্য কত একক?",\sqrt{5},\frac{3}{\sqrt{5}},\frac{2}{\sqrt{5}},\frac{1}{\sqrt{5}},\sqrt{5},\frac{3}{\sqrt{5}},\frac{2}{\sqrt{5}},\frac{1}{\sqrt{5}},a
+"Considering the axes of the ellipse as x and y axes respectively, length of the minor axis = 2 units and eccentricity = \frac{1}{\sqrt{5}}.
+ 
+ What is the equation of ellipse?","স্থানাঙ্কের অক্ষদ্বয়কে উপবৃত্তের অক্ষ ধরে ক্ষুদ্রাক্ষের দৈর্ঘ্য 2 একক এবং উৎকেন্দ্রিকতা \frac{1}{\sqrt{5}} ।
+ 
+ উপবৃত্তের সমীকরণ নিচের কোনটি?",3x^{2} + 5y^{2} = 5,4x^{2} + 3y^{2} = 5,2x^{2} + 3y^{2} = 5,4x^{2} + 5y^{2} = 5,3x^{2} + 5y^{2} = 5,4x^{2} + 3y^{2} = 5,2x^{2} + 3y^{2} = 5,4x^{2} + 5y^{2} = 5,d
+Two forces of same magnitude P acting at a point have also the resultant equal to P. What is the angle between the line of action of the forces?,P মানের দুইটি সমান বলের লব্ধি P হলে বলদ্বয়ের মধ্যবর্তী কোণ কত?,0\degree,30\degree,60\degree,120\degree,0\degree,30\degree,60\degree,120\degree,d
+"The two equal forces of magnitude \sqrt{7} acting at a point at an angle 120\degree -
+ i. the resultant = \sqrt{7} units
+ ii. the resultant makes an angle 60\degree with the force \sqrt{7} units
+ iii. the resultant is less than the sum of the forces
+ Which one is correct?","120\degree কোণে আনত \sqrt{7} এককের দুইটি সমান বল একই বিন্দু হতে ক্রিয়ারত-
+ i. লব্ধির মান \sqrt{7} একক
+ ii. লব্ধি \sqrt{7} একক বলের সাথে 60\degree কোণ উৎপন্ন করে
+ iii. লব্ধি বলদ্বয়ের যোগফল অপেক্ষা ক্ষুদ্রতর
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"Two like parallel forces 8N and 6N act at two points at a distance of 21 units on a rigid body. If the forces be interchanged in position, then what length the point of action of the resultant will be displaced?",8 ও 6 একক মানের দুইটি সমমুখী সমান্তরাল বল 21 একক দূরত্বে একটি অনড় বস্তুর উপর ক্রিয়ারত। বলদ্বয় অবস্থান বিনিময় করলে লব্ধির ক্রিয়াবিন্দু কত একক দূরত্বে সরে যাবে?,1 unit,2 units,3 units,4 units,1 একক,2 একক,3 একক,4 একক,c
+Which one is the quadratic equation having root \sqrt{3} - 1?,\sqrt{3} - 1 মূলবিশিষ্ট দ্বিঘাত সমীকরণ কোনটি?,x^{2} - 2x - 2 = 0,x^{2} + 2x - 2 = 0,x^{2} - 2\sqrt{3}x + 2 = 0,x^{2} + 2\sqrt{3}x + 2 = 0,x^{2} - 2x - 2 = 0,x^{2} + 2x - 2 = 0,x^{2} - 2\sqrt{3}x + 2 = 0,x^{2} + 2\sqrt{3}x + 2 = 0,b
+"The roots will be real of the quadratic equation if-
+ i. discriminant is zero
+ ii. discriminant is positive
+ iii. discriminant is negative
+ Which one is correct?","দ্বিঘাত সমীকরণের মূলগুলো বাস্তব হবে যদি-
+ i. পৃথায়ক শূন্য হয়
+ ii. পৃথায়ক ধনাত্মক হয়
+ iii. পৃথায়ক ঋণাত্মক হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+The roots of the equation x^{2} + 5x - 7 = 0 are-,x^{2} + 5x - 7 = 0 সমীকরণের মূলগুলো-,real and rational,real and irrational,complex,real and equal,বাস্তব ও মূলদ,বাস্তব ও অমূলদ,জটিল,বাস্তব ও সমান,b
+"If the two roots of the equation 2x^{2} - 5x + c = 0 are multiplicative inverse to each other, then waht is the value of c?",2x^{2} - 5x + c = 0 সমীকরণের মূলদ্বয় পরস্পর গুণাত্মক বিপরীত হলে c এর মান কত?,\frac{1}{2},- \frac{1}{2},-2,2,\frac{1}{2},- \frac{1}{2},-2,2,d
+What is the summation of the roots of the equation 2x^{3} - x^{2} - 5x - 2 = 0?,2x^{3} - x^{2} - 5x - 2 = 0 সমীকরণের মূলত্রয়ের সমষ্টি কত?,- \frac{5}{2},\frac{1}{2},-2,2,- \frac{5}{2},\frac{1}{2},-2,2,b
+"If \alpha, \beta and \gamma are three roots of the equation x^{3} - px^{2} + 1 = 0, then what is the value of \Sigma \alpha^{2}?","x^{3} - px^{2} + 1 = 0 সমীকরণের মূলত্রয় \alpha, \beta ও \gamma হলে \Sigma \alpha^{2} এর মান কত?",p^{2},p^{2} - 2q,- p^{2},- q,p^{2},p^{2} - 2q,- p^{2},- q,a
+"3x^{2} - 4y + 6x - 5 = 0 is a parabola.
+ 
+ Which one is the focus of the parabola?","3x^{2} - 4y + 6x - 5 = 0 একটি পরাবৃত্ত।
+ 
+ পরাবৃত্তের ফোকাস কোনটি?","\left ( -1, - \frac{5}{3} \right )","\left ( 0, - \frac{1}{3} \right )","\left ( 0, \frac{1}{3} \right )","(-1, -2)","\left ( -1, - \frac{5}{3} \right )","\left ( 0, - \frac{1}{3} \right )","\left ( 0, \frac{1}{3} \right )","(-1, -2)",a
+"3x^{2} - 4y + 6x - 5 = 0 is a parabola.
+ 
+ Which one is the equation of the directrix of the parabola?","3x^{2} - 4y + 6x - 5 = 0 একটি পরাবৃত্ত।
+ 
+ পরাবৃত্তটির নিয়ামক রেখা কোনটি?",3y + 2 = 0,3y + 5 = 0,3y + 7 = 0,3y - 7 = 0,3y + 2 = 0,3y + 5 = 0,3y + 7 = 0,3y - 7 = 0,c
+"In the ellipse 3x^{2} + 4y^{2} = 1-
+ i. Eccentricity = \frac{1}{2}
+ ii. Foci (\pm 2\sqrt{3}, 0)
+ iii. Length of latus rectum = \frac{\sqrt{3}}{2}
+ Which one is correct?","3x^{2} + 4y^{2} = 1 উপবৃত্তের-
+ i. উৎকন্দ্রিকতা = \frac{1}{2}
+ ii. উপকেন্দ্র (\pm 2\sqrt{3}, 0)
+ iii. উপকেন্দ্রিক লম্বের দৈর্ঘ্য = \frac{\sqrt{3}}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+Which one is the equation of the directrix of the ellipse 9x^{2} + 16y^{2} = 144?,9x^{2} + 16y^{2} = 144 উপবৃত্তের নিয়ামক রেখা কোনটি?,\sqrt{7}x \pm 16 = 0,\sqrt{7}x \pm 12 = 0,\sqrt{7}y \pm 16 = 0,\sqrt{7}y \pm 12 = 0,\sqrt{7}x \pm 16 = 0,\sqrt{7}x \pm 12 = 0,\sqrt{7}y \pm 16 = 0,\sqrt{7}y \pm 12 = 0,a
+"If the line y = 3x + c touches the ellipse 3x^{2} + 4y^{2} = 12, what is the value of c?",y = 3x + c রেখাটি 3x^{2} + 4y^{2} = 12 উপবৃত্তটিকে স্পর্শ করলে c এর মান কত?,\pm 5,\pm \sqrt{7},\pm \sqrt{31},\pm \sqrt{39},\pm 5,\pm \sqrt{7},\pm \sqrt{31},\pm \sqrt{39},d
+Which one is the eccentricity of hyperbola x^{2} - 8y^{2} = 2?,x^{2} - 8y^{2} = 2 অধিবৃত্তের উৎকেন্দ্রিকতা কোনটি?,\frac{3}{\sqrt{2}},\frac{3}{2\sqrt{2}},\frac{\sqrt{3}}{\sqrt{2}},\frac{\sqrt{7}}{2\sqrt{2}},\frac{3}{\sqrt{2}},\frac{3}{2\sqrt{2}},\frac{\sqrt{3}}{\sqrt{2}},\frac{\sqrt{7}}{2\sqrt{2}},b
+What is the length of latus rectum of hyperbola 4x^{2} - 9y^{2} - 1 = ?,4x^{2} - 9y^{2} - 1 = 0 অধিবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য কত?,-9,\frac{4}{9},\frac{3}{2},\frac{8}{3},9,\frac{4}{9},\frac{3}{2},\frac{8}{3},b
+"If f(x) = tan^{-1}x -
+ i. 2f(x) = tan^{-1} \frac{2x}{1 - x^{2}}
+ ii. 2f(x) = sin^{-1} \frac{2x}{1 - x^{2}}
+ iii. 2f(x) = cos^{-1} \frac{1 - x^{2}}{1 + x^{2}}
+ Which one is correct?","যদি f(x) = tan^{-1}x হলে-
+ i. 2f(x) = tan^{-1} \frac{2x}{1 - x^{2}}
+ ii. 2f(x) = sin^{-1} \frac{2x}{1 - x^{2}}
+ iii. 2f(x) = cos^{-1} \frac{1 - x^{2}}{1 + x^{2}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+tan \left ( tan^{-1} \frac{1}{3} + tan^{-1} \frac{1}{5} \right ) = what?,tan \left ( tan^{-1} \frac{1}{3} + tan^{-1} \frac{1}{5} \right ) = কত?,\frac{1}{8},\frac{1}{2},\frac{8}{15},\frac{4}{7},\frac{1}{8},\frac{1}{2},\frac{8}{15},\frac{4}{7},d
+sec^{2} (tan^{-1}2) + cosec^{2}(cot^{-1}3) = what?,sec^{2} (tan^{-1}2) + cosec^{2}(cot^{-1}3) = কত?,5,7,11,15,5,7,11,15,d
+"If sin^{-1}x + cos^{-1}x = \theta, then what is the value of sin\theta?",sin^{-1}x + cos^{-1}x = \theta হলে sin\theta এর মান কত?,0,1,2x,2x\sqrt{1 - x^{2}},0,1,2x,2x\sqrt{1 - x^{2}},b
+Which one is the general solution of the equation cos2\theta = \frac{1}{2}? (n is an integer),cos2\theta = \frac{1}{2} সমীকরণের সাধারণ সমাধান কোনটি? (n একটি পূর্ণসংখ্যা),2n\pi \pm \frac{\pi}{6},2n\pi \pm \frac{\pi}{3},n\pi \pm \frac{\pi}{6},n\pi \pm \frac{\pi}{3},2n\pi \pm \frac{\pi}{6},2n\pi \pm \frac{\pi}{3},n\pi \pm \frac{\pi}{6},n\pi \pm \frac{\pi}{3},c
+"If cot2x cotx = 1, then x = what?",cot2x cotx = 1 হলে x = কত?,(2n + 1) \frac{\pi}{2},(2n + 1) \frac{\pi}{6},(2n + 1) \frac{\pi}{3},(2n \pm 1) \frac{\pi}{2},(2n + 1) \frac{\pi}{2},(2n + 1) \frac{\pi}{6},(2n + 1) \frac{\pi}{3},(2n \pm 1) \frac{\pi}{2},b
+What is the resultant when two equal forces P act at a point at an angle 60\degree?,দুটি সমান বল P পরস্পর 60\degree কোণে কোনো বিন্দুতে ক্রিয়া করলে এদের লব্ধি কত হবে?,3P,2P,\sqrt{3}P,\sqrt{2}P,3P,2P,\sqrt{3}P,\sqrt{2}P,c
+Two forces P and Q acting at a point at an angle 45\degree. Resultant of the forces 16N makes an angle 30\degree along the direction of force P. What is the value of Q force?,"P ও Q মানের দুটি বল পরস্পর 45\degree কোনো একটি বিন্দুতে ক্রিয়ারত। এদের লব্ধি 16N, P বলেরসাথে 30\degree কোণ উৎপন্ন করে। Q বলের মান কত?",8\sqrt{2}N,4\sqrt{2}N,32\sqrt{2}N,8N,8\sqrt{2}N,4\sqrt{2}N,32\sqrt{2}N,8N,a
+\sqrt{2}P is a resultant of two equal forces P. What is the angle between them?,দুটি সমান বল P এর লব্ধি \sqrt{2}P । বল দুটির মধ্যবর্তী কোণ কত?,0\degree,45\degree,90\degree,180\degree,0\degree,45\degree,90\degree,180\degree,c
+"Three forces \sqrt{37}N,3N and 4N acting at an object are in equilibrium. What is the angle between the forces 3N and 4N?","\sqrt{37}N,3N এবং 4N মানের তিনটি বল একটি বস্তুর উপর ক্রিয়া করে ভারসাম্য সৃষ্টি করে। 3N ও 4N বলদ্বয়ের মধ্যবর্তী কোণ কত?",30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,c
+"If f(x) = cosec (cot^{-1}x), then f(2) = ?",f(x) = cosec (cot^{-1}x) হলে f(2) এর মান কত?,\frac{1}{\sqrt{5}},\frac{1}{3},\sqrt{5},3,\frac{1}{\sqrt{5}},\frac{1}{3},\sqrt{5},3,c
+"Two forces 10N and 5N act at a point and angle between them is 120\degree.
+ 
+ What is the angle between the resultant and greatest force of them is-","10N ও 5N মানের বলদ্বয় একটি বিন্দুতে পরস্পর 120\degree কোণে ক্রিয়াশীল।
+ 
+ লব্ধি বলের ক্রিয়ারেখা বৃহত্তর বলটির সাথে কত কোণে অবস্থান করে?",30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,a
+"Three co-planar forces P, \sqrt{3}P, P acting at a point are equilibrium. The angle between first and second force will be-","এক বিন্দুতে ক্রিয়ারত তিনটি বল P, \sqrt{3}P, P সাম্যবস্থায় থাকলে প্রথমোক্ত বল দুইটির মধ্যবর্তী কোণ কত?",30\degree,60\degree,120\degree,150\degree,30\degree,60\degree,120\degree,150\degree,d
+The value of sin(2sin^{-1}x) is-,নিচের কোনটি sin(2sin^{-1}x) এর মান?,2x\sqrt{x^{2} -1},2x\sqrt{1 - x^{2}},\frac{2x}{1 - x^{2}},\frac{2x}{1 + x^{2}},2x\sqrt{x^{2} -1},2x\sqrt{1 - x^{2}},\frac{2x}{1 - x^{2}},\frac{2x}{1 + x^{2}},b
+If one root of the quadratic equation x^{2} - kx - 6 = 0 is -6 then another root is-,x^{2} - kx - 6 = 0 সমীকরণের একটি মূল -6 হলে অপর মূলটি কত?,-5,-1,1,5,-5,-1,1,5,c
+"Two unlike parallel forces of magnitude 42N and 24N acting at the point A and B respectively on a rigid body. If the resultant act at the point C beside the line BA, the ratio AB : BC will be-",কোনো জড় বস্তুর উপর A ও B বিন্দুতে যথাক্রমে 42N এবং 24N মানের দুইটি অসদৃশ সমান্তরাল বল ক্রিয়ারত আছে। যদি তাদের লব্ধির ক্রিয়াবিন্দু BA এর বর্ধিতাংশকে C বিন্দুতে ছেদ করে তবে AB : BC = কত?,3 : 7,4 : 7,7 : 3,7 : 4,3 : 7,4 : 7,7 : 3,7 : 4,a
+"For what values of p, 2x^{2} - px + 8 will be perfect square?",2x^{2} - px + 8 রাশিটি একটি পূর্ণবর্গ হলে p এর মান কত?,\pm 2\sqrt{2},\pm 4,\pm 4\sqrt{2},\pm 8,\pm 2\sqrt{2},\pm 4,\pm 4\sqrt{2},\pm 8,d
+"9x^{2} - 4y^{2} + 36 = 0 is an equation of a hyperbola.
+ 
+ Length of transverse axis?","9x^{2} - 4y^{2} + 36 = 0 একটি অধিবৃত্তের সমীকরণ।
+ 
+ অধিবৃত্তটির আড় অক্ষের দৈর্ঘ্য কত?",4,6,8,18,4,6,8,18,b
+"9x^{2} - 4y^{2} + 36 = 0 is an equation of a hyperbola.
+ 
+ Coordinates of the foci?","9x^{2} - 4y^{2} + 36 = 0 একটি অধিবৃত্তের সমীকরণ।
+ 
+ অধিবৃত্তটির উপকেন্দ্রের স্থানাঙ্ক কত?","(\pm \sqrt{13}, 0)","(\pm \sqrt{5}, 0)","(0, \pm \sqrt{5})","(0, \pm \sqrt{13})","(\pm \sqrt{13}, 0)","(\pm \sqrt{5}, 0)","(0, \pm \sqrt{5})","(0, \pm \sqrt{13})",d
+The general solution of 2 cos2\theta + 1 = 0 will be-,2 cos2\theta + 1 = 0 এর সাধারণ সমাধান কোনটি?,"2n\pi \pm \frac{\pi}{6}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{\pi}{3}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{2\pi}{3}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{5\pi}{6}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{\pi}{6}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{\pi}{3}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{2\pi}{3}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{5\pi}{6}, n \epsilon \mathbb{Z}",c
+"If the roots of the equation x^{3} - 4x + 3 = 0 are a, b, c then the value of \Sigma a is-","x^{3} - 4x + 3 = 0 সমীকরণের মূলগুলো a, b, c হলে \Sigma a এর মান কত হবে?",-4,-3,0,4,-4,-3,0,4,c
+"If \alpha and \beta are roots of x^{2} + x + 2 = 0, then what is the value of\frac{1}{\alpha} + \frac{1}{\beta} is-",যদি x^{2} + x + 2 = 0 সমীকরণের মূলদ্বয় \alpha ও \beta হয় তবে \frac{1}{\alpha} + \frac{1}{\beta} এর মান কত?,-1,- \frac{1}{2},\frac{1}{2},2,-1,- \frac{1}{2},\frac{1}{2},2,b
+"p = cos\theta, q = sin\theta
+ 
+ The value of sec\theta is-","p = cos\theta, q = sin\theta
+ 
+ sec\theta এর মান কোনটি?",\frac{1}{\sqrt{1 - q^{2}},\sqrt{1 - q^{2}},\frac{1}{\sqrt{q^{2} - 1},\sqrt{q^{2} - 1},\frac{1}{\sqrt{1 - q^{2}},\sqrt{1 - q^{2}},\frac{1}{\sqrt{q^{2} - 1},\sqrt{q^{2} - 1},a
+"p = cos\theta, q = sin\theta
+ 
+ What is the solution of the equation p - \sqrt{3}q = 0?","p = cos\theta, q = sin\theta
+ 
+ p - \sqrt{3}q = 0 এর সাধারণ সমাধান কোনটি?","n\pi - \frac{\pi}{6}, n \epsilon \mathbb{Z}","n\pi - \frac{\pi}{2}, n \epsilon \mathbb{Z}","n\pi + \frac{\pi}{6}, n \epsilon \mathbb{Z}","n\pi + \frac{\pi}{2}, n \epsilon \mathbb{Z}","n\pi - \frac{\pi}{6}, n \epsilon \mathbb{Z}","n\pi - \frac{\pi}{2}, n \epsilon \mathbb{Z}","n\pi + \frac{\pi}{6}, n \epsilon \mathbb{Z}","n\pi + \frac{\pi}{2}, n \epsilon \mathbb{Z}",c
+"If one root of the equation 3x^{2} - px + 4 = 0 is three times of the other root, then the value of p is-",3x^{2} - px + 4 = 0 সমীকরণের একটি মূল অপরটির তিনগুণ হলে p এর মান কত?,\pm 3,\pm 2\sqrt{2},\pm 6,\pm 8,\pm 3,\pm 2\sqrt{2},\pm 6,\pm 8,d
+"The ellipse \frac{(1 - x)^{2}}{9} + \frac{y^{2}}{16} = 1 has-
+ i. center (1, 0)
+ ii. foci (0, \pm 7)
+ iii. the length of the major axis 8
+ Which one is correct?","\frac{(1 - x)^{2}}{9} + \frac{y^{2}}{16} = 1 উপবৃত্তটির-
+ i. কেন্দের স্থানাঙ্ক (1, 0)
+ ii. উপকেন্দ্রের স্থানাঙ্ক (0, \pm 7)
+ iii. বৃহৎ অক্ষের দৈর্ঘ্য 8
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"The resultant of two equal forces acting at a point magnitude 7N is 7N, which is the angle between them?","একই বিন্দুতে ক্রিয়ারত 7N মানের দুইটি সমান বলের লব্ধি 7N, বলদ্বয়ের অন্তর্ভুক্ত কোণ কত?",30\degree,60\degree,90\degree,120\degree,30\degree,60\degree,90\degree,120\degree,d
+"Two parallel forces 3 and 6 unit acting at the point P and Q respectively and distance between them is 4. Two parallel forces-
+ i. if like, resultant = 9 units
+ ii. if unike, resultant = 3 units
+ iii. if unlike and resultant act at a point R then QR = 4
+ Which one is correct?","4 একক দূরত্বে P ও Q বিন্দুতে ক্রিয়ারত 3 ও 6 একক সমান্তরাল বলদ্বয়-
+ i. সদৃশ হলে লব্ধি 9 একক
+ ii. অসদৃশ হলে লব্ধি 3 একক
+ iii. অসদৃশ এবং লব্ধি R বিন্দুগামী হলে QR = 4
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"f(x) = 1 + 3x - 2x^{2}
+ 
+ What is the maximum value of f?","f(x) = 1 + 3x - 2x^{2}
+ 
+ f এর গরিষ্ঠ মান কত?",- \frac{17}{8},- \frac{1}{8},\frac{1}{8},\frac{17}{8},- \frac{17}{8},- \frac{1}{8},\frac{1}{8},\frac{17}{8},d
+"f(x) = 1 + 3x - 2x^{2}
+ 
+ If \alpha and \beta are the roots of the equation f(x) = 0 then the equation whose roots are - \alpha and - \beta is-","f(x) = 1 + 3x - 2x^{2}
+ 
+  f(x) = 0 এর মূলদ্বয় \alpha ও \beta হলে - \alpha ও - \beta মূলবিশিষ্ট সমীকরণ নিচের কোনটি?",2x^{2} - 3x + 1 = 0,2x^{2} + 3x - 1 = 0,2x^{2} - 3x - 1 = 0,2x^{2} + 3x + 1 = 0,2x^{2} - 3x + 1 = 0,2x^{2} + 3x - 1 = 0,2x^{2} - 3x - 1 = 0,2x^{2} + 3x + 1 = 0,b
+4x^{2} + y^{2} = 1 represents a conic. The value of eccentricity is-,4x^{2} + y^{2} = 1 দ্বারা নির্দেশিত কণিকটির উৎকেন্দ্রিকতা কত?,\frac{2}{\sqrt{5}},\frac{2}{\sqrt{3}},\frac{\sqrt{3}}{2},\frac{\sqrt{5}}{2},\frac{2}{\sqrt{5}},\frac{2}{\sqrt{3}},\frac{\sqrt{3}}{2},\frac{\sqrt{5}}{2},c
+If the roots 2x^{2} - kx + 2 = 0 are real and unequal then the value of k is-,2x^{2} - kx + 2 = 0 সমীকরণের মূলদ্বয় বাস্তব ও অসমান হলে k এর মান কত?,"(-4, 4)","(-4, 4]","(- \propto, - 4) \cup (4, \propto)","(-\propto, -4] \cup [4, \propto)","(-4, 4)","(-4, 4]","(- \propto, - 4) \cup (4, \propto)","(-\propto, -4] \cup [4, \propto)",c
+"The parametric coordinate of any point on the hyperbola is (4sec\theta, 6tan\theta). The equation of hyperbola will be-","একটি অধিবৃত্তের উপর যেকোনো বিন্দুর পরামিতিক স্থানাঙ্ক (4sec\theta, 6tan\theta), অধিবৃত্তটির সমীকরণ-",16x^{2} + 25y^{2} = 400,16x^{2} - 25y^{2} = 400,9x^{2} - 4y^{2} = 144,4x^{2} - 9y^{2} = 144,16x^{2} + 25y^{2} = 400,16x^{2} - 25y^{2} = 400,9x^{2} - 4y^{2} = 144,4x^{2} - 9y^{2} = 144,c
+The length of ratus rectum of the conic x^{2} - 8y^{2} = 2 is-,x^{2} - 8y^{2} = 2 কণিকটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য-,\frac{\sqrt{3}}{2},\sqrt{\frac{3}{2}},\frac{1}{2\sqrt{2}},\frac{1}{2},\frac{\sqrt{3}}{2},\sqrt{\frac{3}{2}},\frac{1}{2\sqrt{2}},\frac{1}{2},c
+"The conic px^{2} - 16y^{2} = 144 passes through the point (\pm 4, 0).
+ 
+ The value of p is-","px^{2} - 16y^{2} = 144 কণিকটি (\pm 4, 0) বিন্দুগামী।
+ 
+ p এর মান-",-9,-4,4,9,-9,-4,4,9,d
+"The conic px^{2} - 16y^{2} = 144 passes through the point (\pm 4, 0).
+ 
+ Coordinates of focus-","px^{2} - 16y^{2} = 144 কণিকটি (\pm 4, 0) বিন্দুগামী।
+ 
+ p এর মান-","(0, \pm 4)","(\pm 4, 0)","(0, \pm 5)","(\pm 5, 0)",-9,-4,4,9,d
+What is the resultant of two equal forces of magnitudes P acting at an angle 120\degree?,120\degree কোণে ক্রিয়ারত P মানের সমান দুইটি বলের লব্ধির মান-,P,2P,3P,4P,P,2P,3P,4P,a
+"If \sqrt{37} N be the resultant of forces 3N and 4N acting at an angle 2\alpha, then the angle between the forces is-",2\alpha কোণে ক্রিয়ারত 3N ও 4N বলের লব্ধির মান \sqrt{37} N হলে বলদ্বয়ের মধ্যবর্তী কোণের পরিমাণ-,30\degree,45\degree,60\degree,120\degree,30\degree,45\degree,60\degree,120\degree,c
+"If two unlike parallel forces 5N and 7N act at two points along the same line on a rigid body, then their resultant is-",5N ও 7N মানের বিসদৃশ সমান্তরাল বল কোনো জড়বস্তুর উপর একই সরলরেখায় দুইটি বিন্দুতে ক্রিয়া করলে উহাদের লব্ধির মান-,1N,2N,3N,5N,1N,2N,3N,5N,b
+"Three forces 5N, 7N and 8N acting at a point on a particle are in equilibrium. Angle between the forces 5N and 8N is-","5N, 7N এবং 8N মানের তিনটি বল একটি বস্তুর উপর ক্রিয়া করে ভারসাম্য বজায় রাখে। 5N ও 8N বলদ্বয়ের মধ্যবর্তী কোণ-",60\degree,90\degree,120\degree,210\degree,60\degree,90\degree,120\degree,210\degree,c
+"In case of two parallel forces P and Q (P > Q)-
+ i. the resultant is P + Q when the forces are like parallel
+ ii. the resultant is P - Q when the forces are unlike parallel
+ iii. the line of actions of resultant and P are parallel
+ Which one is correct?","P ও Q (P > Q)-
+ i. সদৃশ হলে বলদ্বয়ের লব্ধি P + Q
+ ii. বিসদৃশ হলে বলদ্বয়ের লব্ধি P - Q 
+ iii. বলদ্বয়ের লব্ধি P এর দিকের সাথে সমান্তরাল
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+For which values of k are the roots of the equation x^{2} + (2k + 4)x + 8k + 1 = 0 equal?,k এর মান কত হলে x^{2} + (2k + 4)x + 8k + 1 = 0 সমীকরণের মূলদ্বয় সমান হয়?,"- 3, - 1","0, 3","- 1, 3","1, 3","- 3, - 1","0, 3","- 1, 3","1, 3",d
+"If the roots of the equation x^{2} - 5x + c = 0 are consecutive integers, then the value of c is-",x^{2} - 5x + c = 0 সমীকরণের মূলদ্বয় ক্রমিক পূর্ণসংখ্যা হলে c এর মান-,5,6,7,8,5,6,7,8,b
+"If the roots of the equation x^{2} - 3x + 5 = 0 are \alpha and \beta, then the equation whose roots are \frac{1}{\alpha}, \frac{1}{\beta} is-","x^{2} - 3x + 5 = 0 সমীকরণের মূলদ্বয় \alpha, \beta হলে \frac{1}{\alpha} ও \frac{1}{\beta} মূলবিশিষ্ট সমীকরণটি-",6x^{2} - 3x + 1 = 0,5x^{2} - 3x - 1 = 0,5x^{2} - 3x + 1 = 0,3x^{2} - 5x + 1 = 0,6x^{2} - 3x + 1 = 0,5x^{2} - 3x - 1 = 0,5x^{2} - 3x + 1 = 0,3x^{2} - 5x + 1 = 0,c
+The quadratic equation with root 1 - \sqrt{- 1} is-,1 - \sqrt{- 1} মূলবিশিষ্ট দ্বিঘাত সমীকরণটি-,x^{2} - 2x + 2 = 0,x^{2} + 2x - 2 = 0,x^{2} - 2x - 2 = 0,x^{2} + 2x + 2 = 0,x^{2} - 2x + 2 = 0,x^{2} + 2x - 2 = 0,x^{2} - 2x - 2 = 0,x^{2} + 2x + 2 = 0,a
+"If the roots of x^{3} + 2x + 3 = 0 are a, b, c then the value of \Sigma{a} is-","x^{3} + 2x + 3 = 0 সমীকরণের মূলত্রয় a, b, c হলে \Sigma{a} এর মান-",-2,0,1,3,-2,0,1,3,b
+"In equation x^{2} + 4x + 16 = 0-
+ i. roots are complex
+ ii. sum of roots - 4
+ iii. product of roots 16
+ Which one is correct?","x^{2} + 4x + 16 = 0 সমীকরণের-
+ i. মূলদ্বয় জটিল
+ ii. মূলদ্বয়ের যোগফল - 4
+ iii. মূলদ্বয়ের গুণফল 16
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If f(\theta) = cos\theta, f(\theta) = f(\alpha) and n \epsilon \mathbb{Z}, then the value of \theta is-","f(\theta) = cos\theta, f(\theta) = f(\alpha) এবং n \epsilon \mathbb{Z} হলে, \theta এর মান-",2n\pi \pm \alpha,n\pi \pm \alpha,n\pi + (-1)^{n} \alpha,n\pi - (- 1)^{n} \alpha,2n\pi \pm \alpha,n\pi \pm \alpha,n\pi + (-1)^{n} \alpha,n\pi - (- 1)^{n} \alpha,a
+The general solution of 2 sin2\theta = 1 is-,2 sin2\theta = 1 সমীকরণটির সাধারণ সমাধান-,"n\pi - (- 1)^{n} \frac{\pi}{6}, n \epsilon \mathbb{Z}","n\pi + (- 1)^{n} \frac{\pi}{6}, n \epsilon \mathbb{Z}","\frac{n\pi}{2} - (- 1)^{n} \frac{\pi}{12}, n \epsilon \mathbb{Z}","\frac{n\pi}{2} + (- 1)^{n} \frac{\pi}{12}, n \epsilon \mathbb{Z}","n\pi - (- 1)^{n} \frac{\pi}{6}, n \epsilon \mathbb{Z}","n\pi + (- 1)^{n} \frac{\pi}{6}, n \epsilon \mathbb{Z}","\frac{n\pi}{2} - (- 1)^{n} \frac{\pi}{12}, n \epsilon \mathbb{Z}","\frac{n\pi}{2} + (- 1)^{n} \frac{\pi}{12}, n \epsilon \mathbb{Z}",d
+The value of sin \left ( 2 tan^{-1} \frac{1}{2} \right ) is-,sin \left ( 2 tan^{-1} \frac{1}{2} \right ) এর মান-,\frac{\sqrt{3}}{5},\frac{\sqrt{3}}{4},\frac{4}{5},\frac{5}{4},\frac{\sqrt{3}}{5},\frac{\sqrt{3}}{4},\frac{4}{5},\frac{5}{4},c
+The parametric coordinates of the ellipse \frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 is-,\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 উপবৃত্তটির পরামিতিক স্থানাঙ্ক-,"(a sec\theta, bcosec\theta)","(b sec\theta, a cosec\theta)","(a cos\theta, b sin\theta)","(a sin\theta, b cos\theta)","(a sec\theta, bcosec\theta)","(b sec\theta, a cosec\theta)","(a cos\theta, b sin\theta)","(a sin\theta, b cos\theta)",c
+Domain of f(x) = cos^{-1}x is-,f(x) = cos^{-1}x এর ডোমেন-,"[-1, 1]","(-1, 1]","(-1, 1)","[-1, 1)","[-1, 1]","(-1, 1]","(-1, 1)","[-1, 1)",a
+"In the case of inverse circular function-
+ i. cos^{-1}x + cos^{-1}y = cos^{-1} \{xy - \sqrt{(1 - x^{2}) (1 - y^{2})}\}
+ ii. 2tan^{-1}x = cos^{-1} \frac{2x}{1 - x^{2}}
+ iii. sin^{-1}x + cos^{-1}x = \frac{\pi}{2}
+ Which one is correct?","বিপরীত বৃত্তীয় ফাংশনের ক্ষেত্রে-
+ i. cos^{-1}x + cos^{-1}y = cos^{-1} \{xy - \sqrt{(1 - x^{2}) (1 - y^{2})}\}
+ ii. 2tan^{-1}x = cos^{-1} \frac{2x}{1 - x^{2}}
+ iii. sin^{-1}x + cos^{-1}x = \frac{\pi}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+The vertex of the conic (y - 2)^{2} = 4x is-,(y - 2)^{2} = 4x কণিকটির শীর্ষবিন্দু-,"(0, 2)","(2, 0)","(1, 0)","(0, 1)","(0, 2)","(2, 0)","(1, 0)","(0, 1)",a
+The equation of the latus rectum of the parabola (x -3)^{2} = - 4(y - 4) is-,(x -3)^{2} = - 4(y - 4) পরাবৃত্তটির উপকেন্দ্রিক লম্বের সমীকরণ-,y + 3 = 0,y - 3 = 0,x + 3 = 0,x - 3 = 0,y + 3 = 0,y - 3 = 0,x + 3 = 0,x - 3 = 0,b
+"If the eccentricity of the conic \frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 is zero, then the name of the curve is-",\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 কণিকটির উৎকেন্দ্রিকতা শূন্য হলে বক্ররেখাটির নাম-,ellipse,Circle,parabola,Hyperbola,উপবৃত্ত,বৃত্ত,পরাবৃত্ত,অধিবৃত্ত,b
+"If u and a are constant, then the graph of v^{2} = u^{2} + 2as will be-",u ও v ধ্রুবক হলে v^{2} = u^{2} + 2as এর লেখচিত্র হবে-,Straight line,Parabola,hyperbola,Ellipse,সরলরেখা,পরাবৃত্ত,অধিবৃত্ত,উপবৃত্ত,b
+The equations of the directrices of the conic 3x^{2} + 2y^{2} = 12 are-,3x^{2} + 2y^{2} = 12 কণিকটির নিয়ামকরেখার সমীকরণ-,2x = \pm \sqrt{3},x = \pm 2\sqrt{3},y = \pm 2\sqrt{3},y = \pm 3\sqrt{2},2x = \pm \sqrt{3},x = \pm 2\sqrt{3},y = \pm 2\sqrt{3},y = \pm 3\sqrt{2},d
+What is the condition for common root of the two of the equations a_{1}x^{2} + b_{1}x + c_{1} = 0 and a_{2}x^{2} + b_{2}x + c_{2} = 0?,a_{1}x^{2} + b_{1}x + c_{1} = 0 এবং a_{2}x^{2} + b_{2}x + c_{2} = 0 সমীকরণের উভয় মূলই সাধারণ হওয়ার শর্ত-,a_{1}b_{2} = a_{2}b_{1},(a_{1}b_{2} - a_{2}b_{1}) = (c_{1}a_{2} - c_{2}a_{1})^{2},a_{1} + a_{2} = b_{1} + b_{2} = c_{1} + c_{2},\frac{a_{1}}{a_{2}} = \frac{b_{1}}{b_{2}} = \frac{c_{1}}{c_{2}},a_{1}b_{2} = a_{2}b_{1},(a_{1}b_{2} - a_{2}b_{1}) = (c_{1}a_{2} - c_{2}a_{1})^{2},a_{1} + a_{2} = b_{1} + b_{2} = c_{1} + c_{2},\frac{a_{1}}{a_{2}} = \frac{b_{1}}{b_{2}} = \frac{c_{1}}{c_{2}},d
+"If y = mx + c is the tangent of the parabola y^{2} = 4ax, then what is the co-ordinate of the tangent point?",y = mx + c রেখাটি y^{2} = 4ax পরাবৃত্তকে স্পর্শ করলে স্পর্শ বিন্দুর স্থানাঙ্ক-,"\left (\frac{a}{m^{2}}, \frac{2a}{m} \right )","\left (\frac{a}{m^{2}}, \frac{m}{2a} \right )","\left (\frac{2a}{m}, \frac{a}{m^{2}} \right )","\left (\frac{m^{2}}{a}, \frac{2a}{m} \right )","\left (\frac{a}{m^{2}}, \frac{2a}{m} \right )","\left (\frac{a}{m^{2}}, \frac{m}{2a} \right )","\left (\frac{2a}{m}, \frac{a}{m^{2}} \right )","\left (\frac{m^{2}}{a}, \frac{2a}{m} \right )",a
+"For the parabola, x^{2} = - 12y -
+ i. co-ordinate of focus (0, -3)
+ ii. equation of the directrix, y - 3 = 0
+ iii. equation of latus rectum, y + 3 = 0
+ Which one is correct?","x^{2} = - 12y পরাবৃত্তের
+ i. উপকেন্দ্রের স্থানাঙ্ক (0, -3)
+ ii. নিয়ামকের সমীকরণ y - 3 = 0
+ iii. উপকেন্দ্রিক লম্বের সমীকরণ y + 3 = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"25x^{2} - 16y^{2} + 400 = 0 is a hyperbola.
+ 
+ What is the transverse axis and conjugate axis length respectively?","25x^{2} - 16y^{2} + 400 = 0 একটি অধিবৃত্তের সমীকরণ।
+ 
+ অধিবৃত্তটির আড় অক্ষ ও অনুবন্ধী অক্ষের দৈর্ঘ্য যথাক্রমে-","10, 8","8, 10","5, 4","4, 5","10, 8","8, 10","5, 4","4, 5",a
+"25x^{2} - 16y^{2} + 400 = 0 is a hyperbola.
+ 
+ Which one of the following is the equation of directrices?","25x^{2} - 16y^{2} + 400 = 0 একটি অধিবৃত্তের সমীকরণ।
+ 
+ নিয়ামক রেখার সমীকরণ কোনটি?",y = \pm \frac{16}{\sqrt{41}},y = \pm \frac{25}{\sqrt{39}},y = \pm \frac{25}{\sqrt{41}},y = \pm \frac{\sqrt{41}}{25},y = \pm \frac{16}{\sqrt{41}},y = \pm \frac{25}{\sqrt{39}},y = \pm \frac{25}{\sqrt{41}},y = \pm \frac{\sqrt{41}}{25},c
+"What is the eccentricity of the ellipse, 3x^{2} + 5y^{2} = 15?",3x^{2} + 5y^{2} = 15 উপবৃত্তের উৎকেন্দ্রিকতা হবে-,\sqrt{\frac{3}{5}},\sqrt{\frac{5}{3}},\sqrt{\frac{5}{2}},\sqrt{\frac{2}{5}},\sqrt{\frac{3}{5}},\sqrt{\frac{5}{3}},\sqrt{\frac{5}{2}},\sqrt{\frac{2}{5}},d
+"Three forces P, \sqrt{3}P, P acting at a point in equilibrium, then what is the angle of the first two forces?","তিনটি বল P, \sqrt{3}P, P সাম্যবস্থায় থাকলে প্রথম দুটি বলের মধ্যবর্তী কোণের মান কত?",60\degree,90\degree,120\degree,150\degree,60\degree,90\degree,120\degree,150\degree,d
+A car is moving with the velocity 8 kmh^{-1}. In which direction an object is thrown from the car with 16 kmh^{-1} that the motion of the object will make right angle with the velocity of the car?,একটি গাড়ি ঘন্টায় 8 কি.মি. বেগে চলছে। গাড়ি থেকে 16 কি.মি. বেগে একটি বস্তুকে কোনদিকে নিক্ষেপ করলে বস্তুর গতিপথ গাড়ির সাথে সমকোণ তৈরি করবে?,30\degree,45\degree,100\degree,120\degree,30\degree,45\degree,100\degree,120\degree,d
+"An object is projected with the velocity u at an angle \alpha to the horizon-
+ i. the path of a projectile in vacum is a parabola
+ ii. if horizontal range R is maximum, then R = \frac{u^{2}}{g}
+ iii. time of flight of the object is \frac{usin\alpha}{g}
+ Which one is correct?","u গতিবেগে অনুভূমিকের সাথে \alpha কোণে একটি বস্তুকণা প্রক্ষিপ্ত হলে-
+ i. বায়ুশূন্য স্থানে বস্তুকণাটির গতিপথ একটি পরাবৃত্ত
+ ii. আনুভূমিক পাল্লা R হলে, R = \frac{u^{2}}{g}
+ iii. বস্তুকণাটির বিচরণকাল = \frac{usin\alpha}{g}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If n \epsilon \mathdd{N}, then the value of i^{8n+5}?","n \epsilon \mathdd{N} হলে, i^{8n+5} এর মান কত?",1,-1,i,- i,1,-1,i,- i,c
+What is the square root of \frac{1}{3} i?,\frac{1}{3} i এর বর্গমূল কোনটি?,\pm \frac{1}{\sqrt{3}} (1 + i),\pm \frac{1}{\sqrt{3}} (1 - i),\pm \frac{1}{\sqrt{6}} (1 + i),\pm \frac{1}{\sqrt{6}} (1 - i),\pm \frac{1}{\sqrt{3}} (1 + i),\pm \frac{1}{\sqrt{3}} (1 - i),\pm \frac{1}{\sqrt{6}} (1 + i),\pm \frac{1}{\sqrt{6}} (1 - i),c
+"For conjugate of a complex number-
+ i. \overline{z_{1} + z_{2}} = \overline{z_{1}} + \overline{z_{2}}
+ ii. \overline{z} = z
+ iii. \overline{z_{1}z_{2}} = \overline{z_{1}}.\overline{z_{2}}
+ Which one is correct?","অনুবন্ধী জটিল সংখ্যার ক্ষেত্রে
+ i. \overline{z_{1} + z_{2}} = \overline{z_{1}} + \overline{z_{2}}
+ ii. \overline{z} = z
+ iii. \overline{z_{1}z_{2}} = \overline{z_{1}}.\overline{z_{2}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If \omega is the cube root of unity, then what is the value of (1 + \omega - \omega^{2}) (\omega + \omega^{2} - 1) (\omega^{2} + 1 - \omega} = ?","এককের একটি কাল্পনিক ঘনমূল \omega হলে, (1 + \omega - \omega^{2}) (\omega + \omega^{2} - 1) (\omega^{2} + 1 - \omega} এর মান কত?",-8,8,0,1,-8,8,0,1,a
+Which of the following is not polynomial?,নিচের কোনটি বহুপদী রাশি নয়?,ax^{2} + 2hxy + by^{2},2x^{2} + 3xy + y^{2},2x^{2} + y^{2} + 2gx + 2fy + c,2x^{2} + \frac{3y}{x} + y^{2},ax^{2} + 2hxy + by^{2},2x^{2} + 3xy + y^{2},2x^{2} + y^{2} + 2gx + 2fy + c,2x^{2} + \frac{3y}{x} + y^{2},d
+"\gamma, \delta are two root of the equation x^{2} - 5x + 6 = 0.
+ 
+ Which one of the following is true for the two roots of the above equation?","x^{2} - 5x + 6 = 0 সমীকরণের মূলদ্বয় \gamma, \delta
+ 
+ সমীকরণটির মূলদ্বয়ের ক্ষেত্রে নিচের কোনটি সঠিক?",Two roots are real and equal,Two roots are irrational,Two roots are rational and unequal,Two roots are complex,মূলদ্বয় বাস্তব ও সমান,মূলদ্বয় অমূলদ,মূলদ্বয় মূলদ ও অসমান,মূলদ্বয় জটিল,c
+"\gamma, \delta are two root of the equation x^{2} - 5x + 6 = 0.
+ 
+ If \gamma > \delta, then the value of \gamma - \delta = ?","x^{2} - 5x + 6 = 0 সমীকরণের মূলদ্বয় \gamma, \delta
+ 
+ \gamma > \delta হলে \gamma - \delta = কত?",1,3,4,5,1,3,4,5,a
+What is the angle made by the latus rectum of the parabola x^{2} + 4x + 2y = 0 with the x-axis?,x^{2} + 4x + 2y = 0 পরাবৃত্তটির উপকেন্দ্রিক লম্ব x-অক্ষের সাথে কত কোণ তৈরি করে?,\frac{\pi}{2},\pi,\frac{\pi}{4},0,\frac{\pi}{2},\pi,\frac{\pi}{4},0,d
+"For inverse trigonometric functions-
+ i. domain of sin^{-1}x is [-1, 1]
+ ii. the range of cos^{-1}x is [0, \pi]
+ iii. domain of tan^{-1}x is (-\infty, \infty)
+ Which one is correct?","বিপরীত ত্রিকোণমিতিক ফাংশনের ক্ষেত্রে-
+ i. sin^{-1}x এর ডোমেন [-1, 1]
+ ii. cos^{-1}x এর রেঞ্জ [0, \pi]
+ iii. tan^{-1}x এর ডোমেন (-\infty, \infty)
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the value of sincot^{-1} tancos^{-1}x?,sincot^{-1} tancos^{-1}x এর মান কত?,x,x^{2},x^{3},0,x,x^{2},x^{3},0,a
+"If cos\theta + sin\theta = \sqrt{2}, then the value of \theta-",cos\theta + sin\theta = \sqrt{2} হলে \theta এর মান-,2n\pi,(2n + 1)\pi,2n\pi + \frac{\pi}{4},(2n - 1)\pi,2n\pi,(2n + 1)\pi,2n\pi + \frac{\pi}{4},(2n - 1)\pi,c
+"For inverse trigonometric functions-
+ i. sin^{-1}x + sin^{-1}y = sin^{-1} \{x\sqrt{1 - y^{2}} + y\sqrt{1 - x^{2}}\}
+ where -1 \leq x, y \leq 1 and x^{2} + y^{2} \leq 1
+ ii. cos^{-1}x + cos^{-1}y = cos^{-1} \{xy - \sqrt{(1-x^{2})(1-y^{2})}\}
+ where -1 \leq x, y \leq 1 and x + y \geq 1
+ iii. tan^{-1}x + tan^{-1}y = tan^{-1} \frac{x + y}{1 - xy}
+ where x > 0, y > 0 and 0 \leq xy \leq 1
+ Which one is correct?","বিপরীত বৃত্তীয় ফাংশনের ক্ষেত্রে-
+ i. sin^{-1}x + sin^{-1}y = sin^{-1} \{x\sqrt{1 - y^{2}} + y\sqrt{1 - x^{2}}\}
+ যেখানে -1 \leq x, y \leq 1 এবং x^{2} + y^{2} \leq 1
+ ii. cos^{-1}x + cos^{-1}y = cos^{-1} \{xy - \sqrt{(1-x^{2})(1-y^{2})}\}
+ যেখানে -1 \leq x, y \leq 1 এবং x + y \geq 1
+ iii. tan^{-1}x + tan^{-1}y = tan^{-1} \frac{x + y}{1 - xy}
+ যেখানে x > 0, y > 0 এবং 0 \leq xy \leq 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If n is an integer, then which one is the general solution of sin2\theta = \frac{1}{2} is-","n একটি পূর্ণসংখ্যা হলে, sin2\theta = \frac{1}{2} সমীকরণের সাধারণ সমাধান-",\frac{n\pi}{2} + (-1)^{n} \frac{\pi}{12},\frac{n\pi}{2} + (-1)^{n} \frac{\pi}{6},n\pi + (-1)^{n} \frac{\pi}{12},n\pi + (-1)^{n} \frac{\pi}{6},\frac{n\pi}{2} + (-1)^{n} \frac{\pi}{12},\frac{n\pi}{2} + (-1)^{n} \frac{\pi}{6},n\pi + (-1)^{n} \frac{\pi}{12},n\pi + (-1)^{n} \frac{\pi}{6},a
+If \alpha and \beta are roots of 2x^{2} - 3x + 1 = 0 then \alpha^{-1} + \beta^{-1} = ?,2x^{2} - 3x + 1 = 0 সমীকরণের দুইটি মূল \alpha ও \beta হলে \alpha^{-1} + \beta^{-1} = কত?,\frac{1}{3},3,\frac{4}{3},\frac{3}{4},\frac{1}{3},3,\frac{4}{3},\frac{3}{4},b
+What is the sum of square of roots of equation mx^{2} - x + n = 0? (Where m \neq 0),mx^{2} - x + n = 0 সমীকরণের মূলদ্বয়ের বর্গের সমষ্টি কত? যেখানে m \neq 0),\frac{2mn -1}{m^{2}},\frac{1 - 2mn}{m^{2}},\frac{2n - 1}{m^{2}},\frac{1 - 2n}{m^{2}},\frac{2mn -1}{m^{2}},\frac{1 - 2mn}{m^{2}},\frac{2n - 1}{m^{2}},\frac{1 - 2n}{m^{2}},b
+What is the equation whose roots are 1 less from the roots of the equation 2x^{2} - 5x - 3 = 0,2x^{2} - 5x - 3 = 0 সমীকরণের মূলদ্বয় হতে 1 কম মূলবিশিষ্ট সমীকরণ কোনটি?,2x^{2} - x + 4 = 0,2x^{2} + x + 6 = 0,2x^{2} - x - 6 = 0,2x^{2} + 9x + 4 = 0,2x^{2} - x + 4 = 0,2x^{2} + x + 6 = 0,2x^{2} - x - 6 = 0,2x^{2} + 9x + 4 = 0,c
+"If tan^{-1}x + cot^{-1}x = \frac{\pi}{2} then-
+ i. x \leq - 1
+ ii. x = 0
+ iii. x > 0
+ Which one is correct?","যদি tan^{-1}x + cot^{-1}x = \frac{\pi}{2} হয়, তবে-
+ i. x \leq - 1
+ ii. x = 0
+ iii. x > 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+That is the value of tan^{2} \left ( sec^{-1} \frac{1}{2} \right )?,tan^{2} \left ( sec^{-1} \frac{1}{2} \right ) এর মান কোনটি?,- \frac{3}{4},\frac{3}{4},- \frac{1}{2},\frac{3}{2},- \frac{3}{4},\frac{3}{4},- \frac{1}{2},\frac{3}{2},a
+cot^{-1}3 = ?,cot^{-1}3 = কত?,sin^{-1} \frac{3}{\sqrt{10}},cos^{-1} \frac{1}{\sqrt{10}},\frac{1}{2} tan^{-1} \frac{3}{5},\frac{1}{2} sin^{-1} \frac{3}{5},sin^{-1} \frac{3}{\sqrt{10}},cos^{-1} \frac{1}{\sqrt{10}},\frac{1}{2} tan^{-1} \frac{3}{5},\frac{1}{2} sin^{-1} \frac{3}{5},d
+"If the parabola y^{2} = 12ax passes through the point (3, -2) then waht is the length of latus rectum?","y^{2} = 12ax পরাবৃত্তটি t (3, -2) বিন্দুগামী হলে পরাবৃত্তটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য কত?",\frac{4}{3},\frac{9}{4},\frac{4}{9},\frac{2}{3},\frac{4}{3},\frac{9}{4},\frac{4}{9},\frac{2}{3},a
+"16y^{2} - 25x^{2} = 400 is an equation of conic.
+ 
+ What is the eccentricity of the conic?","16y^{2} - 25x^{2} = 400 একটি কণিকের সমীকরণ।
+ 
+ কণিকটির উৎকেন্দ্রিকতা কোনটি?",\frac{3}{4},\frac{3}{5},\frac{\sqrt{41}}{4},\frac{\sqrt{41}}{5},\frac{3}{4},\frac{3}{5},\frac{\sqrt{41}}{4},\frac{\sqrt{41}}{5},d
+"16y^{2} - 25x^{2} = 400 is an equation of conic.
+ 
+ What is the equation of latus rectum?","16y^{2} - 25x^{2} = 400 একটি কণিকের সমীকরণ।
+ 
+ কণিকটির উপকেন্দ্রিক লম্বের সমীকরণ কত?",x = \pm \sqrt{41},y = \pm \sqrt{41},x = \pm 3,y = \pm 3,x = \pm \sqrt{41},y = \pm \sqrt{41},x = \pm 3,y = \pm 3,b
+"What is the solution of \sqrt{3} tan x + 1 = 0 in the interval [0\degree, 180\degree]?","[0\degree, 180\degree] ব্যবধিতে \sqrt{3} tan x + 1 = 0 সমীকরণের সমাধান কোনটি?",30\degree,60\degree,120\degree,150\degree,30\degree,60\degree,120\degree,150\degree,d
+If sin^{3}\theta + sin\theta cos^{2}\theta = - 1 then which one of the following is correct?,sin^{3}\theta + sin\theta cos^{2}\theta = - 1 হলে নিচের কোনটি সত্য?,\theta = n\pi,\theta = (2n + 1)\pi,\theta = (4n - 1) \frac{\pi}{2},\theta = (4n + 1) \frac{\pi}{2},\theta = n\pi,\theta = (2n + 1)\pi,\theta = (4n - 1) \frac{\pi}{2},\theta = (4n + 1) \frac{\pi}{2},c
+If the resultant R of forces P and \sqrt{2} P is perpendicular to P then what is the angle between them?,"কোনো বিন্দুতে ক্রিয়ারত P ও \sqrt{2} P বলদ্বয়ের লব্ধি R, P বলের উপর লম্ব হলে তাদের অন্তর্গত কোণ কত?",45\degree,60\degree,120\degree,135\degree,45\degree,60\degree,120\degree,135\degree,d
+If three equal parallel like forces act at three vertices of the tiangle then the resultant passes through-,কোন ত্রিভুজের শীর্ষবিন্দুতে তিনটি সমান সদৃশ সমান্তরাল বল ক্রিয়া করলে তাদের লব্ধি-,Orthocenter,Incentre,Circumcentre,Centroid,লম্বকেন্দ্র গামী,অন্তঃকেন্দ্র গামী,পরিকেন্দ্র গামী,ভরকেন্দ্র গামী,d
+"2 is a root of 4x^{2} + kx + 2 = 0.
+ 
+ What is value of k?","4x^{2} + kx + 2 = 0 সমীকরণের একটি মূল 2 ।
+ 
+ k এর মান কত?",-5,-18,-9,-10,-5,-18,-9,-10,c
+"3 is a root of 4x^{2} + kx + 2 = 0.
+ 
+ The roots of the equation are-","4x^{2} + kx + 2 = 0 সমীকরণের একটি মূল 2 ।
+ 
+ সমীকরণটির মূলদ্বয়-",real and equal,real and unequal,Complex,Rational,বাস্তব ও সমান,বাস্তব ও অসমান,জটিল,মূলদ,b
+"If a, b, c are roots of 6x^{3} + 3x^{2} + 2 = 0 the \Sigma a^{2}b^{2} = ?","6x^{3} + 3x^{2} + 2 = 0 ত্রিঘাত সমীকরণটির মূলত্রয় a, b ও c হলে \Sigma a^{2}b^{2} এর মান কোনটি?",- \frac{1}{3},3,\frac{4}{3},\frac{3}{4},- \frac{1}{3},3,\frac{4}{3},\frac{3}{4},a
+If tan^{-1}\ \frac{1}{\sqrt{3}} + tan^{-1}x = \frac{\pi}{2} then x = ?,tan^{-1}\ \frac{1}{\sqrt{3}} + tan^{-1}x = \frac{\pi}{2} হলে x = ?,\frac{1}{\sqrt{3}},- \frac{1}{\sqrt{3}},\sqrt{3},- \sqrt{3},\frac{1}{\sqrt{3}},- \frac{1}{\sqrt{3}},\sqrt{3},- \sqrt{3},c
+Which one is solution of -2 (cos^{2}x - sin^{2}x) = 1?,-2 (cos^{2}x - sin^{2}x) = 1 এর সমাধান নিচের কোনটি?,n\pi \pm \frac{\pi}{3},n\pi \pm \frac{\pi}{6},2n\pi \pm \frac{\pi}{3},2n\pi \pm \frac{\pi}{6},n\pi \pm \frac{\pi}{3},n\pi \pm \frac{\pi}{6},2n\pi \pm \frac{\pi}{3},2n\pi \pm \frac{\pi}{6},a
+"In parabola (x - 2)^{2} = 16 (y + 3)-
+ i. focus (3, 1)
+ ii. equation of directrix, y - 7 = 0
+ iii. equation of axis, x - 2 = 0
+ Which one is correct?","(x - 2)^{2} = 16 (y + 3) পরাবৃত্তের-
+ i. উপকেন্দ্র (3, 1)
+ ii. নিয়ামকের সমীকরণ, y - 7 = 0
+ iii. অক্ষরেখার সমীকরণ, x - 2 = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"What is the eccentricity of the ellipse, 3x^{2} + y^{2} = 4?",3x^{2} + y^{2} = 4 উপবৃত্তটির উৎকেন্দ্রিকতা কত?,\sqrt{\frac{2}{3}},\frac{\sqrt{2}}{3},2\sqrt{\frac{2}{3}},\frac{2\sqrt{2}}{3},\sqrt{\frac{2}{3}},\frac{\sqrt{2}}{3},2\sqrt{\frac{2}{3}},\frac{2\sqrt{2}}{3},a
+Two equal forces are acting at a point at 120\degree which are in equilibrium by another force of 9N at the point. The value of each equal forces is-,কোনো বিন্দুতে 120\degree কোণে ক্রিয়ারত দুইটি সমান বলকে একই বিন্দুতে ক্রিয়ারত 9N বলের সাহায্যে ভারসাম্যে রাখা হয়েছে। সমান বলদ্বয় কত?,9\sqrt{3}N,9N,3\sqrt{3}N,3N,9\sqrt{3}N,9N,3\sqrt{3}N,3N,b
+What is the coordinate of the foci of the conic 25y^{2} + 7x^{2} - 175 = 0.,25y^{2} + 7x^{2} - 175 = 0 কণিকটির উপকেন্দ্রের স্থানাঙ্ক কোনটি?,"(0, \pm 4\sqrt{2})","(\pm 4\sqrt{2}, 0)","(0, \pm 3\sqrt{2})","(\pm 3\sqrt{2}, 0)","(0, \pm 4\sqrt{2})","(\pm 4\sqrt{2}, 0)","(0, \pm 3\sqrt{2})","(\pm 3\sqrt{2}, 0)",d
+For what value of k the line 2y - 4x - k = 0 will be the tangent of parabola y^{2} = 10x?,k এর মান কত হলে 2y - 4x - k = 0 রেখাটি y^{2} = 10x পরাবৃত্তের স্পর্শক হবে?,\frac{5}{4},\frac{4}{5},\frac{5}{2},\frac{2}{5},\frac{5}{4},\frac{4}{5},\frac{5}{2},\frac{2}{5},c
+"If two forces 8N and 6N are acting at a point having angle \alpha then-
+ i. the largest value of tangent = 14N
+ ii. the lowest value of tangent = 2N
+ iii. if \alpha = \frac{\pi}{2} then resultant is 10N
+ Which one is correct?","8N ও 6N মানের দুইটি বল কোনো বিন্দুতে \alpha কোণে ক্রিয়ারত থাকলে-
+ i. লব্ধির বৃহত্তম মান = 14N
+ ii. লব্ধির ক্ষুদ্রতম মান = 2N
+ iii. \alpha = \frac{\pi}{2} হলে লব্ধির মান = 10N
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"cotk = \frac{1}{2} then, what is the value of cot tan^{-1} sec sin^{-1} cotk?",cotk = \frac{1}{2} হলে cot tan^{-1} sec sin^{-1} cotk এর মান কত?,\frac{1}{2},\frac{2}{\sqrt{3}},\frac{\sqrt{3}}{2},2,\frac{1}{2},\frac{2}{\sqrt{3}},\frac{\sqrt{3}}{2},2,c
+The vertex of the parabola y^{2} = 4x + 8y is-,y^{2} = 4x + 8y পরাবৃত্তের শীর্ষবিন্দু-,"(4, 4)","(-4, 4)","(-4, -4)","(4, -4)","(4, 4)","(-4, 4)","(-4, -4)","(4, -4)",b
+Which is the value of c when line y = 3x + c is the tangent to the ellipse \frac{x^{2}}{5} + \frac{y^{2}}{3} = 1?,y = 3x + c রেখাটি \frac{x^{2}}{5} + \frac{y^{2}}{3} = 1 উপবৃত্তের স্পর্শক হলে c এর মান কত?,\pm 2\sqrt{7},\pm 3\sqrt{26},\pm 6\sqrt{6},\pm 4\sqrt{4},\pm 2\sqrt{7},\pm 3\sqrt{26},\pm 6\sqrt{6},\pm 4\sqrt{4},d
+What is the length of conjugate axis of the hyperbola \frac{x^{2}}{16} - \frac{y^{2}}{9} = 1?,\frac{x^{2}}{16} - \frac{y^{2}}{9} = 1 অধিবৃত্তের (hyperbola) অনুবন্ধী অক্ষের দৈর্ঘ্য কত?,4,5,6,8,4,5,6,8,c
+What is the vertex of the hyperbola 4y^{2} - 9x^{2} = 36?,4y^{2} - 9x^{2} = 36 অধিবৃত্তের শীর্ষবিন্দু কত?,"(\pm 3, 0)","(0, \pm 3)","(\pm 2, 0)","(0, \pm 2)","(\pm 3, 0)","(0, \pm 3)","(\pm 2, 0)","(0, \pm 2)",b
+"For the ellipse 9x^{2} + 4y^{2} = 36-
+ i. eccentricity \frac{\sqrt{5}}{3}
+ ii. co-ordinates of foci are (0, \pm \sqrt{5})
+ iii. length of major axis = 6 units
+ Which one is correct?","9x^{2} + 4y^{2} = 36 উপবৃত্তের-
+ i. উৎকেন্দ্রিকতা \frac{\sqrt{5}}{3}
+ ii. উপকেন্দ্রের স্থানাঙ্ক (0, \pm \sqrt{5})
+ iii. বৃহৎ অক্ষের দৈর্ঘ্য = 6 একক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"Two equivalent forces of magnitude P act along OX and OY. The angle of inclination between the forces is 90\degree.
+ 
+ Which one is the angle that subtended by the resultant of the forces OX?","P মানের দুইটি সমান বল OX ও OY বরাবর ক্রিয়া করে। বল দুইটির মধ্যবর্তী কোণ 90\degree ।
+ 
+ বল দুইটির লব্ধি OX এর সাথে কত কোণ উৎপন্ন করে?",15\degree,30\degree,45\degree,90\degree,15\degree,30\degree,45\degree,90\degree,c
+"Two equivalent forces of magnitude P act along OX and OY. The angle of inclination between the forces is 90\degree.
+ 
+ What is the magnitude of the resultant of forces?","P মানের দুইটি সমান বল OX ও OY বরাবর ক্রিয়া করে। বল দুইটির মধ্যবর্তী কোণ 90\degree ।
+ 
+ বল দুইটির লব্ধির মান কত?",\sqrt{2}P,\sqrt{3}P,2P,3P,\sqrt{2}P,\sqrt{3}P,2P,3P,a
+"Two parallel forces of magnitudes 9 and 5 act at the points A and B respectively whose distance is 5 units-
+ i. if unlike parallel, then resultant is 4 units
+ ii. if like parallel and resultant act on a point C then BC = \frac{45}{14} units
+ iii. if like parallel, then resultant is 14 units
+ Which one is correct?","5 একক দূরত্বে A ও B বিন্দুতে ক্রিয়ারত 9 এবং 5 একক মানের সমান্তরাল বলদ্বয়-
+ i. অসদৃশ হলে লব্ধির মান 4 একক
+ ii. সদৃশ এবং লব্ধি C বিন্দুতে ক্রিয়ারত হলে BC = \frac{45}{14} একক
+ iii. সদৃশ হলে লব্ধির মান 14 একক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"Three like parallel forces of magnitude P, Q and R are acting at A, B and C respectively which are the three angular points of \Delta ABC. If the resultant of the forces passes through the centroid of the triangle-","\Delta ABC এর কৌণিক বিন্দু A, B ও C তে যথাক্রমে P, Q এবং R মানের তিনটি সদৃশ সমান্তরাল বল ক্রিয়াশীল। লব্ধি ত্রিভুজের ভরকেন্দ্রগামী হলে-",P : Q : R = sinA : sinB : sinC,P : Q : R = tanA : tanB : tanC,P : Q : R = sin2A : sin2B : sin2C,P : Q : R = 1 : 1 : 1,P : Q : R = sinA : sinB : sinC,P : Q : R = tanA : tanB : tanC,P : Q : R = sin2A : sin2B : sin2C,P : Q : R = 1 : 1 : 1,d
+Which one is the equation of directrix of the conic x^{2} + 3y^{2} = 3?,x^{2} + 3y^{2} = 3 কণিকের নিয়ামকের সমীকরণ কোনটি?,\sqrt{2}x = \pm 3,2x = \pm 3,x = \pm \sqrt{2},x = \pm 2,\sqrt{2}x = \pm 3,2x = \pm 3,x = \pm \sqrt{2},x = \pm 2,a
+"Three forces of magnitude 2, 2 and 2\sqrt{2} unit acting at a particle are in equilibrium. What is the angle between 2 and 2 unit forces.","2, 2 এবং 2\sqrt{2} একক মানের বলত্রয় একটি বস্তুর উপর ক্রিয়া করে ভারসাম্য সৃষ্টি করে। 2 এবং 2 একক বলদ্বয়ের মধ্যবর্তী কোণ কত?",45\degree,90\degree,135\degree,180\degree,45\degree,90\degree,135\degree,180\degree,b
+If the roots of the equation x^{2} - 4x + 3 = 0 are \alpha and \beta then the value of \frac{1}{\alpha} + frac{1}{\beta} is-,যদি x^{2} - 4x + 3 = 0 সমীকরণের মূলদ্বয় \alpha এবং \beta হয় তবে \frac{1}{\alpha} + frac{1}{\beta} এর মান-,\frac{4}{3},\frac{3}{4},\frac{-4}{3},\frac{-3}{4},\frac{4}{3},\frac{3}{4},\frac-4}{3},\frac{-3}{4},a
+Which is the quadratic equation whose one root is 2 + i?,2 + i মূলবিশিষ্ট দ্বিঘাত সমীকরণ কোনটি?,x^{2} - 4x + 5 = 0,x^{2} + 4x - 3 = 0,x^{2} - 4x + 3 = 0,x^{2} + 4x - 5 = 0,x^{2} - 4x + 5 = 0,x^{2} + 4x - 3 = 0,x^{2} - 4x + 3 = 0,x^{2} + 4x - 5 = 0,a
+"If the roots of the equation x^{3} - 2x^{2} + 4 = 0 are p, q, r then the value of pqr is-","x^{3} - 2x^{2} + 4 = 0 এর মূলগুলো p, q, r হলে pqr এর মান-",-2,-4,2,4,-2,-4,2,4,b
+Which one of the following nature the roots of the equation x^{2} + x + 1 = 0 is-,x^{2} + x + 1 = 0 সমীকরণের মূলদ্বয়ের প্রকৃতি নিচের কোনটি?,real and unequal,complex,irrational,real and equal,বাস্তব ও অসমান,অবাস্তব,অমূলদ,বাস্তব ও সমান,b
+"x^{2} + 2x - p = 0 is a quadratic equation.
+ 
+ What is the value of p when product of the roots of the equation is 4?","x^{2} + 2x - p = 0 একটি দ্বিঘাত সমীকরণ।
+ 
+ সমীকরণের মূলদ্বয়ের গুণফল 4 হলে p এর মান কত?",4,2,-4,-2,4,2,-4,-2,c
+"x^{2} + 2x - p = 0 is a quadratic equation.
+ 
+ What are the value of roots, when one root is double of other?","x^{2} + 2x - p = 0 একটি দ্বিঘাত সমীকরণ।
+ 
+ সমীকরণের একটি মূল অপরটির দ্বিগুণ হলে মূলদ্বয় কত?","\frac{-2}{3}, \frac{4}{3}","\frac{-2}{3}, \frac{-4}{3}","\frac{-4}{3}, \frac{2}{3}","\frac{2}{3}, \frac{4}{3}","\frac{-2}{3}, \frac{4}{3}","\frac{-2}{3}, \frac{-4}{3}","\frac{-4}{3}, \frac{2}{3}","\frac{2}{3}, \frac{4}{3}",b
+What is the value of sec^{2} (tan^{-1}) - cosec^{2}(cot^{-1}3)?,sec^{2} (tan^{-1}) - cosec^{2}(cot^{-1}3) এর মান কত?,5,15,\sqrt{5} - \sqrt{10},-5,5,15,\sqrt{5} - \sqrt{10},-5,d
+What is the general solution of 2sin\frac{\theta}{2} - 1 = 0?,2sin\frac{\theta}{2} - 1 = 0 এর সাধারণ সমাধান কোনটি?,2n\pi - \frac{\pi}{3},2n\pi + \frac{\pi}{3},n\pi + (-1)^{n} \frac{\pi}{6},2n\pi + (-1)^{n} \frac{\pi}{3},2n\pi - \frac{\pi}{3},2n\pi + \frac{\pi}{3},n\pi + (-1)^{n} \frac{\pi}{6},2n\pi + (-1)^{n} \frac{\pi}{3},d
+"If f(x) = sin^{-1}x then-
+ i. f(x) + f(\sqrt{1 - x^{2}}) = \frac{\pi}{2}
+ ii. cosec \{f(x)\} = \frac{1}{x}
+ iii. f(1) = \frac{\pi}{2}
+ Which one is correct?","f(x) = sin^{-1}x হলে-
+ i. f(x) + f(\sqrt{1 - x^{2}}) = \frac{\pi}{2}
+ ii. cosec \{f(x)\} = \frac{1}{x}
+ iii. f(1) = \frac{\pi}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the general solution of the equation cos\theta + \sqrt{3} sin\theta = 2?,cos\theta + \sqrt{3} sin\theta = 2 সমীকরণের সাধারণ সমাধান কোনটি?,2n\pi - \frac{\pi}{3},2n\pi + \frac{\pi}{3},2n\pi +\frac{\pi}{6},2n\pi - \frac{\pi}{6},2n\pi - \frac{\pi}{3},2n\pi + \frac{\pi}{3},2n\pi +\frac{\pi}{6},2n\pi - \frac{\pi}{6},b
+For which values of k the roots of the equation kx^{2} + 4x + 4 = 0 will be complex number?,k এর মান কত হলে kx^{2} + 4x + 4 = 0 সমীকরণের মূলদ্বয় জটিল হবে?,k > 4,k < 4,k > 1,k > 16,k > 4,k < 4,k > 1,k > 16,c
+For which condition that sum of the roots of the equation x^{3} + px^{2} + qx - r = 0 being zero?,কী শর্তে x^{3} + px^{2} + qx - r = 0 সমীকরণের দুটি মূলের সমষ্টি শূন্য হবে?,pr = q,pq + r = 0,qr = p,r = p,pr = q,pq + r = 0,qr = p,r = p,b
+"If x^{2} - 5x + 6 = 0 and x^{2} + x - 12 = 0 are the two quadatic equation, then-
+ i. the roots of those equations are rational
+ ii. common root is 3
+ iii. the sum of the roots of the 1st equation is 5
+ Which one is correct?","x^{2} - 5x + 6 = 0 এবং x^{2} + x - 12 = 0 সমীকরণদ্বয়ের-
+ i. প্রতিটির মূলদ্বয় মূলদ
+ ii. সাধারণ মূল 3
+ iii. প্রথম সমীকরণের মূলদ্বয়ের সমষ্টি 5
+ নিচের কোনটি সঠিক?",i,ii,i and iii,"i, ii and iii",i,ii,i ও iii,"i, ii ও iii",d
+"Two roots of the equation x^{2} + x + 1 = 0 are \alpha^{-1} and \beta^{-1}.
+ 
+ What is the value of (\alpha - \beta)?","x^{2} + x + 1 = 0 এর মূলদ্বয় \alpha^{-1} ও \beta^{-1} হলে-
+ 
+ (\alpha - \beta) এর মান কত?",1,\sqrt{3}i,-1,1 + 3i,1,\sqrt{3}i,-1,1 + 3i,b
+"Two roots of the equation x^{2} + x + 1 = 0 are \alpha^{-1} and \beta^{-1}.
+ 
+ What is the value of \alpha?","x^{2} + x + 1 = 0 এর মূলদ্বয় \alpha^{-1} ও \beta^{-1} হলে-
+ 
+ \alpha এর মান কত?",1 - i,1 + i,- \frac{1}{2} \pm \frac{\sqrt{3}}{2} i,\frac{1}{2} \pm \frac{\sqrt{5}}{2},1 - i,1 + i,- \frac{1}{2} \pm \frac{\sqrt{3}}{2} i,\frac{1}{2} \pm \frac{\sqrt{5}}{2},c
+"If the values of x are real, then what is maximum value of -4x^{2} + 4ax + b^{2}?",x এর মান বাস্তব হলে -4x^{2} + 4ax + b^{2} এর সর্বোচ্চ মান-,a^{2} + b^{2},a + b,a^{2} - b^{2},a - b,a^{2} + b^{2},a + b,a^{2} - b^{2},a - b,a
+Which of the following is the name of the equation 7x^{2} + 7y^{2} - 2xy - 30x + 50y + 103 = 0?,7x^{2} + 7y^{2} - 2xy - 30x + 50y + 103 = 0 সমীকরণটি নিচের কোনটি বোঝায়?,circle,ellipse,parabola,Hyperbola,বৃত্ত,উপবৃত্ত,পরাবৃত্ত,অধিবৃত্ত,b
+What is the equation of the asymptotes of the hyperbola \frac{x^{2}}{16} - \frac{y^{2}}{9} = 1?,\frac{x^{2}}{16} - \frac{y^{2}}{9} = 1 অধিবৃত্তের অসীমতটের সমীকরণ-,\frac{x^{2}}{16} - \frac{y^{2}}{9} = 0,\frac{x^{2}}{16} + \frac{y^{2}}{9} = 0,y = \pm \frac{3}{4}x,x = \pm \frac{5}{4}y,\frac{x^{2}}{16} - \frac{y^{2}}{9} = 0,\frac{x^{2}}{16} + \frac{y^{2}}{9} = 0,y = \pm \frac{3}{4}x,x = \pm \frac{5}{4}y,c
+"If x^{2} = 4 - 4y^{2} be an equation of ellipse-
+ i. parametric coordinates of the ellipse is (2cos\theta, sin\theta)
+ ii. the minor axis lies along x-axis
+ iii. distance between the foci is 2\sqrt{3}
+ Which one is correct?","x^{2} = 4 - 4y^{2} উপবৃত্তের-
+ i. পরামিতিক স্থানাঙ্ক (2cos\theta, sin\theta)
+ ii. ক্ষুদ্রাক্ষ x-অক্ষ বরাবর
+ iii. ফোকাসদ্বয়ের দূরত্ব 2\sqrt{3}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+What is the value of x if sinx = cos x?,sinx = cos x হয় তবে x এর মান কত?,\frac{\pi}{3},\frac{5\pi}{4},\frac{5\pi}{6},\frac{\pi}{2},\frac{\pi}{3},\frac{5\pi}{4},\frac{5\pi}{6},\frac{\pi}{2},b
+What is the value of sin^{-1} \frac{2}{5} + sin^{-1} \frac{\sqrt{21}}{5}?,sin^{-1} \frac{2}{5} + sin^{-1} \frac{\sqrt{21}}{5} এর মান কত?,\pi,\frac{\pi}{2},2\pi,\frac{\pi}{4},\pi,\frac{\pi}{2},2\pi,\frac{\pi}{4},b
+What is the value of x if 3sec^{-1} (2) = cos^{-1}x?,3sec^{-1} (2) = cos^{-1}x হলে x এর মান কত?,\frac{1}{3},- \frac{1}{3},\frac{1}{2},-1,\frac{1}{3},- \frac{1}{3},\frac{1}{2},-1,d
+"For an inverse trigonometric circular function-
+ i. complimentary angle of sin^{-1} \frac{1}{2} is cos^{-1} \frac{1}{2}
+ ii. cosec^{-1} \frac{1}{x} = sec^{-1} \frac{1}{\sqrt{1 - x^{2}}}
+ iii. tan^{-1}x + tan^{-1}y = tan^{-1} \frac{x + y}{1 - xy} when xy > 1
+ Which one is correct?","বিপরীত বৃত্তীয় ফাংশনের ক্ষেত্রে-
+ i. sin^{-1} \frac{1}{2} এর পূরক কোণ cos^{-1} \frac{1}{2}
+ ii. cosec^{-1} \frac{1}{x} = sec^{-1} \frac{1}{\sqrt{1 - x^{2}}}
+ iii. tan^{-1}x + tan^{-1}y = tan^{-1} \frac{x + y}{1 - xy} যখন xy > 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"tan^{-1}3 = A, tan^{-1}2 = B and A + B + C = \pi
+ 
+ Which of the following is the value of A + B?","tan^{-1}3 = A, tan^{-1}2 = B এবং A + B + C = \pi
+ 
+ A + B এর মান নিচের কোনটি?",\frac{\pi}{4},\frac{\pi}{2},\frac{3\pi}{4},\frac{3\pi}{2},\frac{\pi}{4},\frac{\pi}{2},\frac{3\pi}{4},\frac{3\pi}{2},c
+"tan^{-1}3 = A, tan^{-1}2 = B and A + B + C = \pi
+ 
+ Which of the following relation is true?","tan^{-1}3 = A, tan^{-1}2 = B এবং A + B + C = \pi
+ 
+ নিচের কোন সম্পর্কটি সত্য?",A - B = \frac{\pi}{4},cot B = 2,cot^{-1}2 = \frac{\pi}{2} + B,cot^{-1}2 = \frac{\pi}{2} - B,A - B = \frac{\pi}{4},cot B = 2,cot^{-1}2 = \frac{\pi}{2} + B,cot^{-1}2 = \frac{\pi}{2} - B,d
+The vertical and horizontal resolved parts of a force are 4N and 3N. The force is-,একটি বলের আনুভূমিক ও উলম্ব অংশের মান 4N ও 3N হলে বলটির মান-,5N,10N,2\sqrt{3}N,7N,5N,10N,2\sqrt{3}N,7N,a
+A weight of \sqrt{3} kg is supported by two forces. One of which is horizontal and the other one inclined at 30\degree to the horizon. What are the magnitude of these forces?,\sqrt{3} kg ওজনের একটি বস্তুকে দুটি বল দ্বারা টেনে রাখা হয়েছে। একটি আনুভূমিক এবং অপরটি অনুভূমিকের সাথে 30\degree কোণে ক্রিয়ারত হলে বলদ্বয় কত কেজি ওজন?,"3\sqrt{5}, 10","2\sqrt{3}, \sqrt{3}","5\sqrt{3}, 10","3, 2\sqrt{3}","3\sqrt{5}, 10","2\sqrt{3}, \sqrt{3}","5\sqrt{3}, 10","3, 2\sqrt{3}",d
+"The smallest resultant of the two forces is 1N and if they act at right angle, their resultant is 5N. The greatest resultant of the two forces is-",একই বিন্দুতে ক্রিয়ারত দুটি বলের ক্ষুদ্রতম লব্ধি 1N এবং বল দুটি লম্বভাবে ক্রিয়াশীল হলে লব্ধির মান 5N । বলদ্বয় দ্বারা বৃহত্তম লব্ধির মান-,5N,2N,7N,3N,5N,2N,7N,3N,c
+"If the resultant of the forces Q and 2Q acting on a particle is right angle with Q then-
+ i. angle between forces is 120\degree
+ ii. the resultant is \sqrt{3}Q unit
+ iii. the resolved part of 2Q along Q is the positive value of 3Q
+ Which one is correct?","কোনো বিন্দুতে ক্রিয়ারত Q ও 2Q মানের বলদ্বয়ের লব্ধি Q বলের ক্রিয়ারেখার উপর লম্ব হলে-
+ i. বলদ্বয়ের মধ্যবর্তী কোণ 120\degree
+ ii. লব্ধির মান \sqrt{3}Q একক
+ iii. Q বলের দিক বরাবর 2Q বলের ধনাত্মক লম্বাংশ 3Q
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If a particle is projected vertically upward from the ground with an initial velocity u, then-
+ i. greatest height is \frac{u^{2}}{g}
+ ii. time to reach the highest point is \frac{u}{g}
+ iii. time of flight is \frac{2u}{g}
+ Which one is correct?","u বেগে ভূমি হতে খাড়া উপরের দিকে নিক্ষিপ্ত বস্তুকণার-
+ i. সর্বাধিক উচ্চতা \frac{u^{2}}{g}
+ ii. সর্বাধিক উচ্চতায় পৌঁছার সময় \frac{u}{g}
+ iii. বিচরণকাল \frac{2u}{g}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+The modulus and argument of -i are respectively-,-i এর মডুলাস ও আর্গুমেন্ট-,1 and 0,1 and - \frac{\pi}{2},1 and \pi,1 and \frac{\pi}{2},1 ও 0,1 ও - \frac{\pi}{2},1 ও \pi,1 ও \frac{\pi}{2},b
+Roots of the equation x^{2} - 5x + 4 = 0 are-,x^{2} - 5x + 4 = 0 সমীকরণের মূলদ্বয়-,real and equal,real and unequal,irrational,complex,বাস্তব ও সমান,বাস্তব ও অসমান,অমূলদ,জটিল,b
+"If \omega is one imaginary cube root of unity, then the value of \frac{2}{\omega^{13} + \omega^{26}} is-",এককের একটি জটিল ঘনমূল \omega হলে \frac{2}{\omega^{13} + \omega^{26}} এর মান-,\text{- 2},\text{- 1},0,2,\text{- 2},\text{- 1},0,2,a
+"Among three roots of \sqrt[3]{1}-
+ i. sum of the roots = 0
+ ii. two roots are complex
+ iii. one root is equal to the square of the another root
+ Which one is correct?","\sqrt[3]{1}- এর মূলত্রয়ের-
+ i. যোগফল শূন্য
+ ii. দুইটি জটিল
+ iii. একটি মূল অপর একটি মূলের বর্গের সমান
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+The value of sin^{2} \left ( cos^{-1} \frac{1}{2} \right ) - cos^{2} \left ( sin^{-1} \frac{\sqrt{3}}{2} \right ) is-,sin^{2} \left ( cos^{-1} \frac{1}{2} \right ) - cos^{2} \left ( sin^{-1} \frac{\sqrt{3}}{2} \right ) এর মান-,\text{- 1},- \frac{1}{2},\frac{1}{2},1,\text{- 1},- \frac{1}{2},\frac{1}{2},1,c
+"If an object moving with uniform acceleration 4 m/s^{2} and velocity of 20 m/s, then the distance cross by it at 5th second-",20 m/s বেগে ও 4 m/s^{2} সমত্বরণে চলমান বস্তুকণার 5-তম সেকেন্ডে অতিক্রান্ত দূরত্ব-,36 m,38 m,42 m,150 m,36 m,38 m,42 m,150 m,b
+"P and Q (P > Q) forces acting a point 'O' at an angle \alpha -
+ i. if \alpha = 0, then the resultant will be gratest
+ ii. if \alpha = 180\degree, then the resultant will be smallest
+ iii. sum of the resolved part of them along the direction of P is P + Q cos\alpha
+ Which one is correct?","P ও Q (P > Q) বলদ্বয় 'O' বিন্দুতে পরস্পর \alpha কোণে ক্রিয়াশীল-
+ i. \alpha = 0 হলে লব্ধি বৃহত্তম হবে
+ ii. \alpha = 180\degree হলে লব্ধি ক্ষুদ্রতম হবে
+ iii. P বলের ক্রিয়ারেখা বরাবর তাদের লম্বাংশের যোগফল P + Q cos\alpha
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Solution of sinx = - \frac{1}{2} in the interval - \pi \leq x \leq \pi is-,- \pi \leq x \leq \pi ব্যবধিতে sinx = - \frac{1}{2} সমীকরণের সমাধান-,"- \frac{\pi}{6}, \frac{-5\pi}{6}","- \frac{\pi}{6}, \frac{5\pi}{6}","\frac{\pi}{6}, \frac{-5\pi}{6}","\frac{\pi}{6}, \frac{5\pi}{6}","- \frac{\pi}{6}, \frac{-5\pi}{6}","- \frac{\pi}{6}, \frac{5\pi}{6}","\frac{\pi}{6}, \frac{-5\pi}{6}","\frac{\pi}{6}, \frac{5\pi}{6}",a
+The value of cosec^{2} (sec^{-1}\sqrt{5}) is-,cosec^{2} (sec^{-1}\sqrt{5}) এর মান-,\frac{5}{4},\frac{4}{5},\frac{\sqrt{5}}{2},\frac{2}{\sqrt{5}},\frac{5}{4},\frac{4}{5},\frac{\sqrt{5}}{2},\frac{2}{\sqrt{5}},a
+"If cos2\theta = -1, then",cos2\theta = -1 হলে-,"\theta = (2n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z}","\theta = (2n + 1) \pi, n \epsilon \mathbb{Z}","\theta = (4n - 1) \frac{\pi}{2}, n \epsilon \mathbb{Z}","\theta = (4n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z}","\theta = (2n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z}","\theta = (2n + 1) \pi, n \epsilon \mathbb{Z}","\theta = (4n - 1) \frac{\pi}{2}, n \epsilon \mathbb{Z}","\theta = (4n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z}",a
+The equation of the major axis of the ellipse \frac{x^{2}}{16} + \frac{y^{2}}{9} = 1 is-,\frac{x^{2}}{16} + \frac{y^{2}}{9} = 1 উপবৃত্তের বৃহৎ অক্ষের সমীকরণ-,x = 0,y = 0,x = 4,y = 0,x = 0,y = 0,x = 4,y = 0,d
+The value of tan^{-1} \frac{5}{4} + cot^{-1} \frac{5}{4} is-,tan^{-1} \frac{5}{4} + cot^{-1} \frac{5}{4} এর মান-,0,\pi,\frac{\pi}{2},tan^{-1}\frac{9}{40},0,\pi,\frac{\pi}{2},tan^{-1}\frac{9}{40},c
+"For the equation x^{3} - 2x^{2} - 2x + 4 = 0-
+ i. one root is 2
+ ii. two roots are irrational
+ iii. the product of three roots is 4
+ Which one is correct?","x^{3} - 2x^{2} - 2x + 4 = 0 সমীকরণের
+ i. একটি মূল 2
+ ii. দুইটি মূল অমূলদ
+ iii. মূলত্রয়ের গুণফল 4
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Roots of the equation 2x^{2} - x - K = 0 will be complex, when-",2x^{2} - x - K = 0 সমীকরণের মূলদ্বয় জটিল হবে যখন-,K > - \frac{1}{8},K < \frac{1}{8},K > \frac{1}{8},K < - \frac{1}{8},K > - \frac{1}{8},K < \frac{1}{8},K > \frac{1}{8},K < - \frac{1}{8},d
+"If i^{2} = - 1, then the value of \frac{- i - i^{-5}}{2i^{-5} + i} is-","i^{2} = - 1 হলে, \frac{- i - i^{-5}}{2i^{-5} + i} এর মান-",\text{- 2},0,\frac{1}{2},2,\text{- 2},0,\frac{1}{2},2,b
+"If the roots of 5x^{3} - 3x + 2 = 0 are \alpha, \beta, \gamma, then the value of \alpha + \beta + \gamma is?","5x^{3} - 3x + 2 = 0 এর মূলত্রয় \alpha, \beta, \gamma হলে \alpha + \beta + \gamma = ?",- \frac{3}{5},- \frac{2}{5},0,\frac{3}{5},- \frac{3}{5},- \frac{2}{5},0,\frac{3}{5},c
+"One root of the equation ax^{2} + bx + c = 0 will be zero, when-",ax^{2} + bx + c = 0 সমীকরণের একটি মূল শূন্য হবে যখন-,a = 0,b = 0,c = 0,b = c = 0,a = 0,b = 0,c = 0,b = c = 0,c
+"The equation of the parabola is y^{2} = 32x - 64.
+ 
+ Focus of the parabola is-","y^{2} = 32x - 64 একটি পরাবৃত্তের সমীকরণ।
+ 
+ পরাবৃত্তটির উপকেন্দ্রের স্থানাঙ্ক-","(8, 0)","(0, 8)","(0, 10)","(10, 0)","(8, 0)","(0, 8)","(0, 10)","(10, 0)",d
+"The equation of the parabola is y^{2} = 32x - 64.
+ 
+ The equation of the directrix of the parabola is-","y^{2} = 32x - 64 একটি পরাবৃত্তের সমীকরণ।
+ 
+ পরাবৃত্তটির উপকেন্দ্রের স্থানাঙ্ক-",x - 6 = 0,x + 8 = 0,x - 10 = 0,x + 6 = 0,"(8, 0)","(0, 8)","(0, 10)","(10, 0)",d
+How long will it take to drop a stone from the roof of a 19.6 metre high building?,19.6 মিটার উঁচু দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ভূমিতে পড়তে কত সময় লাগবে?,1 sec,1.41 sec,2 sec,2.82 sec,1 sec,1.41 sec,2 sec,2.82 sec,c
+How much distance the resultant acts away from the smaller force of two like parallel forces 10N and 5N those are acted on two sides of a stick of length 15 metre?,10N এবং 5N দুইটি সদৃশ সমান্তরাল বল 15 মিটার লম্বা একটি হালকা দণ্ডের দুই প্রান্তে কার্যকর হলে ক্ষুদ্রতর বল থেকে লব্ধি কত দূরে ক্রিয়া করবে?,5 metre,10 metre,15 metre,30 metre,5 মিটার,10 মিটার,15 মিটার,30 মিটার,b
+"If z = x + iy, then |z| = 5 represents-","z = x + iy হলে, |z| = 5 সমীকরণটি প্রকাশ করে-",Straight line,Circle,parabola,Ellipse,সরলরেখা,বৃত্ত,পরাবৃত্ত,উপবৃত্ত,b
+"What is the focal distance of the point (4, 8) on the parabola y^{2} = 16x?","y^{2} = 16x পরাবৃত্তের উপরস্থ (4, 8) বিন্দুর উপকেন্দ্রিক দূরত্ব কত?",20,16,12,8,20,16,12,8,d
+Which one is the general solution of tan\theta + 1 = 0?,tan\theta + 1 = 0 এর সাধারণ সমাধান কোনটি?,(4n - 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},(4n + 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},(8n - 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},(8n + 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},(4n - 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},(4n + 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},(8n - 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},(8n + 1) \frac{\pi}{4}; n \epsilon \mathbb{Z},a
+A partilce started to move from rest and crossed 6 metre in 2 seconds. What is the distance crossed at 3rd second?,স্থিরাবস্থা থেকে যাত্রা করে একটি কণা 2 সেকেন্ডে 6 মিটার অতিক্রম করলে তৃতীয় সেকেন্ডে কত পথ অতিক্রম করবে?,4.5 metre,7.5 metre,13.5 metre,15 metre,4.5 মিটার,7.5 মিটার,13.5 মিটার,15 মিটার,b
+A particle is thrown at an initial velocity 9.8 ms^{-1} with an angle 30\degree with the ground. What is the maximum height of the particle?,9.8 ms^{-1} আদিবেগে ভূমির সাথে 30\degree কোণে একটি বস্তুকণা নিক্ষেপ করা হলো। কণাটির সর্বোচ্চ উচ্চতা কত?,0.25 m,1.225 m,2.45 m,4.9 m,0.25 m,1.225 m,2.45 m,4.9 m,b
+Which one is the eccentricity of hyperbola 2y^{2} - x^{2} = 1?,2y^{2} - x^{2} = 1 অধিবৃত্তের উৎকেন্দ্রিকতা কোনটি?,\sqrt{\frac{3}{2}},\sqrt{3},\frac{3}{2},3,\sqrt{\frac{3}{2}},\sqrt{3},\frac{3}{2},3,b
+"Three velocities 3 ms^{-1}, 4ms^{-1} and 5 ms^{-1} are acting on a particle and make it static. What is the angle between smaller two velocities?","একটি কণার উপর 3 ms^{-1}, 4ms^{-1} এবং 5 ms^{-1} বেগ তিনটি ক্রিয়া করায় কণাটি সাম্যবস্থায় আছে। ক্ষুদ্রতর বেগ দুইটির মধ্যবর্তী কোণ কত?",0\degree,60\degree,90\degree,120\degree,0\degree,60\degree,90\degree,120\degree,c
+"P(x) + x^{2} - Kx + 9 is a quadratic polynomial, where K is a constant.
+ 
+ If K = 2, then what is the minimum value of P(x)?","P(x) + x^{2} - Kx + 9একটি দ্বিঘাত বহুপদী, যেখানে K একটি ধ্রুবক।
+ 
+ K = 2 হলে, P(x) এর ক্ষুদ্রতম মান কত?",-10,-8,8,10,-10,-8,8,10,c
+"If \alpha, \beta and \gamma are the roots of 3x^{3} - 6x + 8 = 0, then what is the value of \Sigma \alpha?","3x^{3} - 6x + 8 = 0 সমীকরণের মূলদ্বয় \alpha, \beta ও \gamma হলে \Sigma \alpha এর মান কত?",-6,-2,0,2,-6,-2,0,2,c
+What is the principle argument of \sqrt{3} - i?,\sqrt{3} - i এর মূখ্য আর্গুমেন্ট কত?,- \frac{\pi}{6},\frac{\pi}{6},- \frac{5\pi}{6},\frac{7\pi}{6},- \frac{\pi}{6},\frac{\pi}{6},- \frac{5\pi}{6},\frac{7\pi}{6},c
+"In the ellipse 4x^{2} + y^{2} = 4-
+ i. the length of the major axis is 4
+ ii. the length of the latus rectum is 1
+ iii. the coordinates of the focii are (0, \pm\sqrt{2})
+ Which one is correct?","4x^{2} + y^{2} = 4 উপবৃত্তের ক্ষেত্রে-
+ i. বৃহৎ অক্ষের দৈর্ঘ্য 4
+ ii. উপকেন্দ্রিক লম্বের দৈর্ঘ্য 1
+ iii. উপকেন্দ্রদ্বয়ের স্থানাঙ্ক (0, \pm\sqrt{2})
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Two forces of magnitude 2N and 3N are acting at a point with an angle of 60\degree.
+ 
+ What is the magnitude of resultant of the forces?","2N ও 3N মানের বলদ্বয় 60\degree কোণে একটি বিন্দুতে ক্রিয়ারত।
+ 
+ বলদ্বয়ের লব্ধির মান কত?",\sqrt{7}N,\sqrt{19}N,7N,19N,\sqrt{7}N,\sqrt{19}N,7N,19N,b
+"If i^{2} = - 1, then value of i^{-39} is-","i^{2} = - 1 হলে, i^{-39} এর মান-",-1,1,- i,i,-1,1,- i,i,d
+Which one is the quadratic equation having root 1 - \sqrt{-3}?,1 - \sqrt{-3} মূলবিশিষ্ট দ্বিঘাত সমীকরণ কোনটি?,x^{2} - 2x - 4 = 0,x^{2} - 2x + 4 = 0,x^{2} + 2x - 4 = 0,x^{2} + 2x + 4 = 0,x^{2} - 2x - 4 = 0,x^{2} - 2x + 4 = 0,x^{2} + 2x - 4 = 0,x^{2} + 2x + 4 = 0,b
+"If z = i - 1, then-
+ i. \overline{z} = - i - 1
+ ii. |z| = \sqrt{2}
+ iii. polar form of z is cos\frac{\pi}{4} - i sin\frac{\pi}{4}
+ Which one is correct?","z = i - 1 হলে-
+ i. \overline{z} = - i - 1
+ ii. |z| = \sqrt{2}
+ iii. z এর পোলার আকার cos\frac{\pi}{4} - i sin\frac{\pi}{4}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"y^{2} = 1 - x is an equation of parabola.
+ 
+ Which one is the vertex of the parabola?","y^{2} = 1 - x একটি পরাবৃত্তের সমীকরণ।
+ 
+ পরাবৃত্তটির শীর্ষবিন্দু কোনটি?","(-1, 0)","(1, 0)","(0, -1)","(0, 1)","(-1, 0)","(1, 0)","(0, -1)","(0, 1)",b
+"y^{2} = 1 - x is an equation of parabola.
+ 
+ Which one is the equation of the directrix of the parabola?","y^{2} = 1 - x একটি পরাবৃত্তের সমীকরণ।
+ 
+ পরাবৃত্তটির নিয়ামক রেখা কোনটি?",x = 0,x - 2 = 0,4x - 3 = 0,4x - 5 = 0,x = 0,x - 2 = 0,4x - 3 = 0,4x - 5 = 0,d
+Which of the following forces acting at the same time in a point cannot be expressed by the three sides of a triangle in the same order and direction for their equilibrium?,একটি বিন্দুতে একই সময়ে ক্রিয়ারত নিচের কোন বলত্রয়কে তাদের সাম্যবস্থার জন্য একটি ত্রিভুজের তিনটি বাহু দ্বারা একই ক্রমে মানে ও দিকে প্রকাশ করা সম্ভব নয়?,"1N, 2N and 3N","2N, 3N and 4N","3N, 4N and 5N","3N, 5N and 7N","1N, 2N ও 3N","2N, 3N ও 4N","3N, 4N ও 5N","3N, 5N ও 7N",a
+What is the value of sin^{2} \left cos^{-1} \frac{1}{2} \right )?,sin^{2} \left cos^{-1} \frac{1}{2} \right ) এর মান কত?,\frac{1}{4},\frac{1}{2},\frac{3}{4},1,\frac{1}{4},\frac{1}{2},\frac{3}{4},1,c
+Which quadratic equation has a root \frac{1}{1 + \sqrt{- 2}}?,নিচের কোন দ্বিঘাত সমীকরণের একটি মূল \frac{1}{1 + \sqrt{- 2}}?,2x^{2} - 3x + 1 = 0,2x^{2} - 3x - 1 = 0,3x^{2} - 2x + 1 = 0,3x^{2} - 2x - 1 = 0,2x^{2} - 3x + 1 = 0,2x^{2} - 3x - 1 = 0,3x^{2} - 2x + 1 = 0,3x^{2} - 2x - 1 = 0,c
+"Two parallel forces 18N and 12N acting at the point A and B respectively and resultant acts the point C where AB = 15 metres-
+ i. if the forces are unlike then the magnitude of their resultant is 6N
+ ii. if the forces are like then BC = 9 metres
+ iii. if the forces are unlike then AC = 30 metres
+ Which one is correct?","দুইটি সমান্তরাল বল 18N এবং 12N যথাক্রমে A ও B বিন্দুতে ক্রিয়ারত এবং তাদের লব্ধি C বিন্দুতে ক্রিয়াশীল। AB = 15 মিঃ
+ i. যদি বলদ্বয় অসদৃশ হয় তাহলে লব্ধির মান 6N
+ ii. বলদ্বয় সদৃশ হলে BC = 9 মিটার
+ iii. বলদ্বয় অসদৃশ হলে AC = 30 মিটার
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+"If p, q, r are the roots of the equation 2x^{3} - 3x - 5 = 0, what is value of \frac{1}{p} + \frac{1}{q} + \frac{1}[r}?","2x^{3} - 3x - 5 = 0 সমীকরণের মূলত্রয় p, q, r । \frac{1}{p} + \frac{1}{q} + \frac{1}[r} এর মান কত?",- \frac{3}{5},\frac{3}{5},- \frac{3}{2},\frac{2}{5},- \frac{3}{5},\frac{3}{5},- \frac{3}{2},\frac{2}{5},a
+"4(cos^{2}x + sinx) = 5 is a trigonometric equation.
+ 
+ What is the value of x?","4(cos^{2}x + sinx) = 5 একটি ত্রিকোণমিতিক সমীকরণ।
+ 
+ x এর মান কত?","2n\pi \pm \frac{\pi}{3}, n \epsilon \mathbb{Z}","n\pi + (-1)^{n} \frac{\pi}{3}, n \epsilon \mathbb{Z}","n\pi + (-1)^{n} \frac{\pi}{6}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{\pi}{6}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{\pi}{3}, n \epsilon \mathbb{Z}","n\pi + (-1)^{n} \frac{\pi}{3}, n \epsilon \mathbb{Z}","n\pi + (-1)^{n} \frac{\pi}{6}, n \epsilon \mathbb{Z}","2n\pi \pm \frac{\pi}{6}, n \epsilon \mathbb{Z}",b
+"4(cos^{2}x + sinx) = 5 is a trigonometric equation.
+ 
+ What is the value of x, when 0 < x < 2\pi?","4(cos^{2}x + sinx) = 5 একটি ত্রিকোণমিতিক সমীকরণ।
+ 
+ x এর মান কত, যখন 0 < x < 2\pi?","\frac{\pi}{3}, \frac{5\pi}{3}","\frac{\pi}{6}, \frac{5\pi}{6}","\frac{\pi}{3}, \frac{2\pi}{3}","\frac{\pi}{6}, \frac{11\pi}{6}","\frac{\pi}{3}, \frac{5\pi}{3}","\frac{\pi}{6}, \frac{5\pi}{6}","\frac{\pi}{3}, \frac{2\pi}{3}","\frac{\pi}{6}, \frac{11\pi}{6}",b
+"For the equation 4x^{2} + 4x - 1 = 0-
+ i. roots are real and unequal
+ ii. one root is \frac{\sqrt{2} - 1}{2}
+ iii. roots are complex and unequal
+ Which one is correct?","4x^{2} + 4x - 1 = 0 সমীকরণে-
+ i. মূলদ্বয় বাস্তব ও অসমান
+ ii. একটি মূল \frac{\sqrt{2} - 1}{2}
+ iii. মূলদ্বয় জটিল ও অসমান
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",a
+"\frac{(x - 2)^{2}}{2} + \frac{(y - 1)^{2}}{8} = 1 is an equation of ellipse.
+ 
+ The length of latus rectum of the ellipse is-","\frac{(x - 2)^{2}}{2} + \frac{(y - 1)^{2}}{8} = 1 একটি উপবৃত্তের সমীকরণ।
+ 
+ উপকেন্দ্রিক লম্বের দৈর্ঘ্য-",\frac{1}{\sqrt{2}},\sqrt{2},2\sqrt{2},8,\frac{1}{\sqrt{2}},\sqrt{2},2\sqrt{2},8,b
+"\theta = (2n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z}, if-","\theta = (2n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z} যদি-",cot\theta = 0,cos\theta + 1 = 0,sin\theta = 1,cos\theta = 1,cot\theta = 0,cos\theta + 1 = 0,sin\theta = 1,cos\theta = 1,a
+For what values of k will the polynomial (k - 1)x^{2} - (k + 2)x + 4 be a perfect square?,k-এর কোন মানের জন্য (k - 1)x^{2} - (k + 2)x + 4 রাশিটি পূর্ণবর্গ হবে?,"- 10, 2","10, -2","2, 10","- 2, - 10","- 10, 2","10, -2","2, 10","- 2, - 10",c
+The components of the force P makes angle 15\degree and 45\degree with P. Which one is the components of P?,P বলের উপাংশদ্বয় P এর সাথে 15\degree ও 45\degree কোণ উৎপন্ন করে। P বলের একটি উপাংশ কোনটি?,\frac{\sqrt{2}P}{\sqrt{3}},\frac{2P}{\sqrt{3}},\frac{\sqrt{3}P}{\sqrt{2}},\frac{\sqrt{3}P}{2},\frac{\sqrt{2}P}{\sqrt{3}},\frac{2P}{\sqrt{3}},\frac{\sqrt{3}P}{\sqrt{2}},\frac{\sqrt{3}P}{2},a
+"For the conic x^{2} = 2y -
+ i. coordinate of focus is \left ( 0, \frac{1}{2} \right )
+ ii. equation of the axis is y = 0
+ iii. equation of the directrix 2y + 1 = 0
+ Which one is correct?","x^{2} = 2y কণিকের জন্য-
+ i. উপকেন্দ্রের স্থানাংক \left ( 0, \frac{1}{2} \right )
+ ii. অক্ষের সমীকরণ y = 0
+ iii. নিয়ামকের সমীকরণ 2y + 1 = 0
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+Which relation is correct?,কোন সম্পর্কটি সঠিক?,2tan^{-1}x = sin^{-1}\frac{2x}{1 - x^{2}},3tan^{-1}x = tan^{-1}\frac{x^{3} - 3x}{1 - 3x^{2}},2cos^{-1}x = cos^{-1}(1 - 2x^{2}),3sin^{-1}x = sin^{-1} (3x - 4x^{3}),2tan^{-1}x = sin^{-1}\frac{2x}{1 - x^{2}},3tan^{-1}x = tan^{-1}\frac{x^{3} - 3x}{1 - 3x^{2}},2cos^{-1}x = cos^{-1}(1 - 2x^{2}),3sin^{-1}x = sin^{-1} (3x - 4x^{3}),d
+9x^{2} - 16y^{2} + 18x - 48y = 0 is an equation of-,9x^{2} - 16y^{2} + 18x - 48y = 0 সমীকরণটি একটি-,circle,ellipse,parabola,Hyperbola,বৃত্ত,উপবৃত্ত,পরাবৃত্ত,অধিবৃত্ত,d
+"Three forces 5N, 7N and 8N acting at a point in different lines in equilibrium. What is the angle between the forces 8N and 5N?","একই বিন্দুতে ক্রিয়ারত তিনটি বল 5N, 7N ও 8N ভিন্ন ভিন্ন রেখা বরাবর ক্রিয়া করে সাম্যাবস্থায় থাকে। 8N ও 5N বলদ্বয়ের মধ্যবর্তী কোণ কোনটি?",60\degree,120\degree,cos^{-1} \left ( \frac{1}{7} \right ),cos^{-1} \left ( - \frac{1}{7} \right ),60\degree,120\degree,cos^{-1} \left ( \frac{1}{7} \right ),cos^{-1} \left ( - \frac{1}{7} \right ),b
+"If -4 is a root of x^{2} - 7x + p = 0, what is the value of p?","x^{2} - 7x + p = 0 সমীকরণের একটি মূল -4 হলে, p এর মান কত?",-60,-44,44,60,-60,-44,44,60,b
+Two forces P and 30N acting at a point have resultant 25N which is perpendicular to the line P. What is the value of P?,"একই বিন্দুতে ক্রিয়ারত P ও 30N বলদ্বয়ের লব্ধি 25N, P বলের ক্রিয়ারেখার উপর লম্ব। P এর মান কত?",10\sqrt{5}N,10\sqrt{3},5\sqrt{11}N,5\sqrt{15},10\sqrt{5}N,10\sqrt{3},5\sqrt{11}N,5\sqrt{15},c
+"\alpha and \beta are the roots of 5x^{2} - 7x - 3 = 0.
+ 
+ Which one is the equation having roots \alpha + \beta and \alpha \beta?","5x^{2} - 7x - 3 = 0 সমীকরণের মূল \alpha ও \beta 
+ 
+ কোন সমীকরণের মূল \alpha + \beta এবং \alpha \beta?",25x^{2} - 20x - 21 = 0,25x^{2} - 20x + 21 = 0,25x^{2} + 20x - 21 = 0,25x^{2} + 20x + 21 = 0,25x^{2} - 20x - 21 = 0,25x^{2} - 20x + 21 = 0,25x^{2} + 20x - 21 = 0,25x^{2} + 20x + 21 = 0,a
+"\alpha and \beta are the roots of 5x^{2} - 7x - 3 = 0.
+ 
+ What is the value of \alpha (\alpha > \beta)?","5x^{2} - 7x - 3 = 0 সমীকরণের মূল \alpha ও \beta 
+ 
+ \alpha এর মান কত (যদি \alpha > \beta হয়)?",- \frac{1}{10} (7 + \sqrt{109}),\frac{1}{10} (- 7 + \sqrt{109}),\frac{1}{10} (7 - \sqrt{109}),\frac{1}{10} (7 + \sqrt{109}),- \frac{1}{10} (7 + \sqrt{109}),\frac{1}{10} (- 7 + \sqrt{109}),\frac{1}{10} (7 - \sqrt{109}),\frac{1}{10} (7 + \sqrt{109}),d
+"A rod AB of 30 meter long 20kg weight is suspended at A and P kg weight is suspended at B. The resultant acts the point C and length of AC is 20 meter, What is the value of P?",30 মিটার লম্বা AB রডের A প্রান্তে 20kg ওজন এবং B প্রান্তে P kg ওজন ঝুলানো আছে। তাদের লব্ধি C বিন্দুতে ক্রিয়াশীল। AC এর দৈর্ঘ্য 20 মিটার হলে P এর মান কত?,15kg,20kg,30kg,40kg,15kg,20kg,30kg,40kg,d
+Which one is the equation of the directrix of parabola (x - 4)^{2} = - 4(y - 5)?,(x - 4)^{2} = - 4(y - 5) পরাবৃত্তের নিয়ামকের সমীকরণ নিচের কোনটি?,x = 4,y = 6,x = 5,y = 5,x = 4,y = 6,x = 5,y = 5,b
+"The parabola y^{2} = -12x has-
+ i. the length of latus rectum is 16 unit
+ ii. the equation of axis is y = 0
+ iii. the equation of directrix is x = 3
+ Which one is correct?","y^{2} = -12x পরাবৃত্তের-
+ i. উপকেন্দ্রিক লম্বের দৈর্ঘ্য 16 একক
+ ii. অক্ষের সমীকরণ y = 0
+ iii. নিয়ামকের সমীকরণ x = 3
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",b
+"8x^{2} + 3y^{2} = 1 is an equation of ellipse.
+ 
+ What is the length of latus rectum of the ellipse?","8x^{2} + 3y^{2} = 1 একটি উপবৃত্তের সমীকরণ।
+ 
+ উপবৃত্তটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য নিচের কোনটি?",\frac{\sqrt{2}}{3},\frac{\sqrt{3}}{2},\frac{2\sqrt{2}}{3},\frac{\sqrt{3}}{4},\frac{\sqrt{2}}{3},\frac{\sqrt{3}}{2},\frac{2\sqrt{2}}{3},\frac{\sqrt{3}}{4},d
+"8x^{2} + 3y^{2} = 1 is an equation of ellipse.
+ 
+ Which is the coordinates of vertices of the ellipse?","8x^{2} + 3y^{2} = 1 একটি উপবৃত্তের সমীকরণ।
+ 
+ উপবৃত্তটির শীর্ষবিন্দুর স্থানাঙ্ক নিচের কোনটি?","\left ( 0, \pm \frac{1}{\sqrt{3}} \right )","\left ( \pm \frac{1}{\sqrt{3}}, 0 \right )","\left ( 0, \pm \frac{2}{\sqrt{3}} \right )","\left ( \pm \frac{2}{\sqrt{3}}, 0 \right )","\left ( 0, \pm \frac{1}{\sqrt{3}} \right )","\left ( \pm \frac{1}{\sqrt{3}}, 0 \right )","\left ( 0, \pm \frac{2}{\sqrt{3}} \right )","\left ( \pm \frac{2}{\sqrt{3}}, 0 \right )",a
+What is the distance between two foci of the hyperbola x^{2} - y^{2} = 18?,x^{2} - y^{2} = 18 অধিবৃত্তের ফোকাসদ্বয়ের মধ্যবর্তী দূরত্ব কত?,6,12,16,18,6,12,16,18,b
+What is the value of resultant when two forces of magnitude 3P and 5P acts perpendicularly to each other?,3P ও 5P মানের দুইটি বল পরস্পর লম্বভাবে ক্রিয়া করে। তাদের লব্ধির মান কত?,3P,2\sqrt{2}P,\sqrt{34}P,\sqrt{43}P,3P,2\sqrt{2}P,\sqrt{34}P,\sqrt{43}P,c
+"If two equals forces of size \sqrt{5} units and having an angle between the forces 120\degree act from the same point, then-
+ i. the resultant is \sqrt{5} units
+ ii. resultant makes an angle 60\degree with the force of \sqrt{5} units
+ iii. resultant is less than the sum of the forces
+ Which one is correct?","যদি \sqrt{5} এককের দুইটি সমান বল 120\degree কোণে এক বিন্দুতে কাজ করে, তাহলে
+ i. তাদের লব্ধি \sqrt{5} একক
+ ii. \sqrt{5} একক বলের সাথে লব্ধি 60\degree কোণ উৎপন্ন করে
+ iii. লব্ধি বলদ্বয়ের যোগফল অপেক্ষা ছোট
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"Three forces P, \sqrt{3}P, P acting at a point in equilibrium, then what is the angle between P and \sqrt{3}P?","P, \sqrt{3}P, P বল তিনটি সাম্যবস্থায় আছে। P ও \sqrt{3}P বলের মধ্যবর্তী কোণ কত?",90\degree,120\degree,130\degree,150\degree,90\degree,120\degree,130\degree,150\degree,d
+If a cricket ball is striked by a bat with velocity 20 metre/second inclined at an angle 60\degree from the ground. What will be the time of flight of the ball?,একজন ক্রিকেটার একটি ক্রিকেট বলকে আনুভূমিকের সাথে 60\degree কোণে 20 মিটার/সে. বেগে আঘাত করলে বলটির বিচরণকাল কত?,\frac{10}{g} sec,\frac{10\sqrt{3}}{g} sec,\frac{20}{g} sec,\frac{20\sqrt{3}}{g} sec,\frac{10}{g} সে.,\frac{10\sqrt{3}}{g} সে.,\frac{20}{g} সে.,\frac{20\sqrt{3}}{g} সে.,d
+A body is projected with initial velocity 19.6 metre/second inclined at an angle 45\degree to the horizon. What will be the greatest height it will reach?,19.6 মিটার/সে. আদিবেগে ভূমির সাথে 45\degree কোণে একটি বস্তুকণা শূন্যে নিক্ষেপ করা হলে সর্বাধিক কত মিটার উচ্চতায় উঠবে?,9.8 metres,11.025 metress,10 metres,12 metres,9.8 মিটার,11.025 মিটার,10 মিটার,12 মিটার,a
+"If a projectile is projected with velocity 30 metre/second and horizontal range is 60 metres, then what will be the angle of projection?",30 মিটার\সেকেন্ড বেগে নিক্ষিপ্ত প্রক্ষেপকের পাল্লা 60 মিটার হলে নিক্ষেপণ কোণ কত হবে?,20.39\degree,25\degree,30\degree,32.35\degree,20.39\degree,25\degree,30\degree,32.35\degree,a
+Which is the argument of - 1 + i?,- 1 + i এর আর্গুমেন্ট কত?,\frac{\pi}{4},- \frac{\pi}{4},\frac{3\pi}{4},\frac{5\pi}{4},\frac{\pi}{4},- \frac{\pi}{4},\frac{3\pi}{4},\frac{5\pi}{4},c
+"If x = \frac{1}{2} (-1 + \sqrt{3}) and y = \frac{1}{2} (-1 - \sqrt{-3}), what is the value of 1 - x - y + xy?",x = \frac{1}{2} (-1 + \sqrt{3}) এবং y = \frac{1}{2} (-1 - \sqrt{-3}) হলে 1 - x - y + xy? এর মান কত?,-2,2,3,-3,-2,2,3,-3,c
+What is the square root of 8 + 4\sqrt{5} i?,8 + 4\sqrt{5} i এর বর্গমূল কোনটি?,\pm (3 - 2i),\pm (\sqrt{10} - \sqrt{2i}),\pm (\sqrt{10} + \sqrt{2i}),\pm (3 + 2i),\pm (3 - 2i),\pm (\sqrt{10} - \sqrt{2i}),\pm (\sqrt{10} + \sqrt{2i}),\pm (3 + 2i),c
+Which is the quadratic equation of the following whose one root is \sqrt{-5} - 1?,\sqrt{-5} - 1 মূলবিশিষ্ট দ্বিঘাত সমীকরণ নিচের কোনটি?,x^{2} + 2x + 6 = 0,x^{2} + x + 3 = 0,x^{2} + 2x - 6 = 0,x^{2} + x - 3 = 0,x^{2} + 2x + 6 = 0,x^{2} + x + 3 = 0,x^{2} + 2x - 6 = 0,x^{2} + x - 3 = 0,a
+For what values of p the roots of the equation x^{2} + px + 1 = 0 will be complex?,p এর কীরূপ মানের জন্য x^{2} + px + 1 = 0 সমীকরণের মূলদ্বয় জটিল হবে?,- 2 \leq p \leq 2,- 4 < p \leq 4,- 2 < p < 2,- 4 \leq p < 4,- 2 \leq p \leq 2,- 4 < p \leq 4,- 2 < p < 2,- 4 \leq p < 4,c
+"If \alpha, \beta, \gamma are the roots of the equation 3x^{3} - 1 = 0, then what is the value of \alpha^{3} + \beta^{3} + \gamma^{3} ?","3x^{3} - 1 = 0 সমীকরণের মূলগুলো \alpha, \beta, \gamma হলে \alpha^{3} + \beta^{3} + \gamma^{3} এর মান কত?",-1,1,-3,3,-1,1,-3,3,b
+"The equation of x^{2} - 2x + 4 = 0-
+ i. sum of the roots is 3
+ ii. product of the roots is 4
+ iii. roots are complex
+ Which one is correct?","x^{2} - 2x + 4 = 0 সমীকরণটির-
+ i. মূলদ্বয়ের যোগফল = 3
+ ii. মূলদ্বয়ের গুণফল = 4
+ iii. মূলগুলো জটিল সংখ্যা
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",b
+Which is the value of tan \left ( tan^{-1} \frac{1}{3} + tan^{-1} \frac{1}{2} \right )?,tan \left ( tan^{-1} \frac{1}{3} + tan^{-1} \frac{1}{2} \right )এর মান কত?,2,1,3,5,2,1,3,5,b
+"What is the value of x, if tan(cos^{-1}x) = sin(tan^{-1}2)?",tan(cos^{-1}x) = sin(tan^{-1}2) হলে x এর মান কত?,\frac{\sqrt{5}}{3},\frac{\sqrt{3}}{2},\frac{1}{\sqrt{3}},\frac{3}{\sqrt{5}},\frac{\sqrt{5}}{3},\frac{\sqrt{3}}{2},\frac{1}{\sqrt{3}},\frac{3}{\sqrt{5}},a
+"What is the value of arc tan \left \{ sin \left ( arc\, cos \frac{\sqrt{2}}{\sqrt{3}} \right ) \right \}?","arc tan \left \{ sin \left ( arc\, cos \frac{\sqrt{2}}{\sqrt{3}} \right ) \right \} এর মান কত?",\frac{\pi}{2},\frac{\pi}{3},\frac{\pi}{4},\frac{\pi}{6},\frac{\pi}{2},\frac{\pi}{3},\frac{\pi}{4},\frac{\pi}{6},d
+"What is the general solution of the equation cos3\theta = \frac{1}{2}, n is an integer number?",n একটি পূর্ণসংখ্যা হলে cos3\theta = \frac{1}{2} সমীকরণের সাধারণ সমাধান কোনটি?,\frac{2}{3}n\pi - \frac{\pi}{9},\frac{2}{3}n\pi + \frac{\pi}{9},n\pi \pm \frac{\pi}{9},\frac{2}{3}n\pi \pm \frac{\pi}{9},\frac{2}{3}n\pi - \frac{\pi}{9},\frac{2}{3}n\pi + \frac{\pi}{9},n\pi \pm \frac{\pi}{9},\frac{2}{3}n\pi \pm \frac{\pi}{9},d
+"What is the value of \theta , when cosec\theta + cot\theta = \sqrt{3}? (0 < \theta < 2\pi).",cosec\theta + cot\theta = \sqrt{3}? হলে \theta এর মান কত? (0 < \theta < 2\pi),\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{3},\frac{\pi}{6},\frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{3},\frac{\pi}{6},c
+"f(x) = tanx and g(x) = sin^{-1}x.
+ 
+ What is the value of g(y) + g(\sqrt{1 - y^{2}})?","f(x) = tanx এবং g(x) = sin^{-1}x.
+ 
+ g(y) + g(\sqrt{1 - y^{2}}) এর মান নিচের কোনটি?",\pi,2\pi,\frac{\pi}{2},\frac{\pi}{3},\pi,2\pi,\frac{\pi}{2},\frac{\pi}{3},c
+"f(x) = tanx and g(x) = sin^{-1}x.
+ 
+ What is the value of x, if f(x) f(2x) = 1?","f(x) = tanx এবং g(x) = sin^{-1}x.
+ 
+ f(x) f(2x) = 1 হলে x এর মান কত?",n\pi \pm \frac{\pi}{6}; n \epsilon \mathbb{Z},n\pi \pm \frac{\pi}{3}; n \epsilon \mathbb{Z},2n\pi \pm \frac{\pi}{3}; n \epsilon \mathbb{Z},2n\pi \pm \frac{\pi}{6}; n \epsilon \mathbb{Z},n\pi \pm \frac{\pi}{6}; n \epsilon \mathbb{Z},n\pi \pm \frac{\pi}{3}; n \epsilon \mathbb{Z},2n\pi \pm \frac{\pi}{3}; n \epsilon \mathbb{Z},2n\pi \pm \frac{\pi}{6}; n \epsilon \mathbb{Z},a
+"If the line y = 2x + c touches the parabola y^{2} = 8x, then what is the value of c?",y = 2x + c রেখাটি y^{2} = 8x পরাবৃত্তকে স্পর্শ করলে c এর মান কত?,1,2,4,8,1,2,4,8,a
+"y^{2} + 2x - 2 = 0 is a conic.
+ 
+ Which is the co-ordinate of vertex?","y^{2} + 2x - 2 = 0 একটি কণিক।
+ 
+ শীর্ষবিন্দুর স্থানাঙ্ক কোনটি?","(-1, 0)","\left ( \frac{1}{2}, 0 \right )","\left ( \frac{1}{2}, 0 \right )","(1, 0)","(-1, 0)","\left ( \frac{1}{2}, 0 \right )","\left ( \frac{1}{2}, 0 \right )","(1, 0)",d
+"y^{2} + 2x - 2 = 0 is a conic.
+ 
+ Which is the equation of directrix?","y^{2} + 2x - 2 = 0 একটি কণিক।
+ 
+ নিয়ামক রেখার সমীকরণ কোনটি?",2x - 1 = 0,2x - 3 = 0,2x + 1 = 0,2x + 3 = 0,2x - 1 = 0,2x - 3 = 0,2x + 1 = 0,2x + 3 = 0,b
+"For ellipse 2x^{2} + 3y^{2} = 6-
+ i. length of major axis is 2\sqrt{3} units
+ ii. lenght of minor axis is 2\sqrt{2} units
+ iii. length of latus rectum is 4\sqrt{3} units
+ Which one is correct?","2x^{2} + 3y^{2} = 6 কণিকের-
+ i. বৃহদাক্ষের দৈর্ঘ্য 2\sqrt{3} একক
+ ii. ক্ষুদ্রতম অক্ষের দৈর্ঘ্য 2\sqrt{2} একক
+ iii. উপকেন্দ্রিক লম্বের দৈর্ঘ্য 4\sqrt{3}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+The equation 2x^{2} + 3y^{2} - 4x - 12y + 8 = 0 is-,2x^{2} + 3y^{2} - 4x - 12y + 8 = 0 সমীকরণটি-,circle,Parabola,hyperbola,Ellipse,বৃত্তের,পরাবৃত্তের,অধিবৃত্তের,উপবৃত্তের,d
+A conic has eccentricity \sqrt{2}. The conic is-,একটি কণিকের উৎকেন্দ্রিকতা \sqrt{2} । কণিকটি একটি-,circle,ellipse,hyperbola,parabola,বৃত্ত,উপবৃত্ত,অধিবৃত্ত,পরাবৃত্ত,c
+Which one of the following is the eccentricity of the conic \frac{y^{2}}{2} - \frac{x^{2}}{3} = 1?,\frac{y^{2}}{2} - \frac{x^{2}}{3} = 1 কণিকের উৎকেন্দ্রিকতা নিচের কোনটি?,\sqrt{\frac{5}{2}},\sqrt{\frac{2}{3}},\sqrt{\frac{5}{3}},\sqrt{\frac{3}{2}},\sqrt{\frac{5}{2}},\sqrt{\frac{2}{3}},\sqrt{\frac{5}{3}},\sqrt{\frac{3}{2}},a
+Which of the following is correct?,নিচের কোনটি সঠিক?,cos^{-1} \frac{4}{5} = tan^{-1} \frac{5}{4},cos^{-1} \frac{4}{5} = sin^{-1} \frac{3}{5},cos^{-1} \frac{4}{5} = cosec^{-1} \frac{3}{5},cos^{-1} \frac{4}{5} = tan^{-1} \frac{4}{3},cos^{-1} \frac{4}{5} = tan^{-1} \frac{5}{4},cos^{-1} \frac{4}{5} = sin^{-1} \frac{3}{5},cos^{-1} \frac{4}{5} = cosec^{-1} \frac{3}{5},cos^{-1} \frac{4}{5} = tan^{-1} \frac{4}{3},b
+What is the value of tan^{2} \left ( cos^{-1} \frac{\sqrt{3}}{2} \right ) ?,tan^{2} \left ( cos^{-1} \frac{\sqrt{3}}{2} \right ) এর মান কত?,\frac{\sqrt{3}}{2},\frac{2}{\sqrt{3}},\frac{1}{\sqrt{3}},\frac{1}{3},\frac{\sqrt{3}}{2},\frac{2}{\sqrt{3}},\frac{1}{\sqrt{3}},\frac{1}{3},d
+"i. tan^{-1}x + cot^{-1}x = \pi
+ ii. tan^{-1} \frac{x}{\sqrt{1-x^{2}} = sec^{-1} \frac{1}{\sqrt{1 - x^{2}}
+ iii. cos^{-1}x + cos^{-1}y = cos^{-1} \{xy - \sqrt{(1 - y^{2})(1 - x^{2})}\}
+ Which one is correct?","i. tan^{-1}x + cot^{-1}x = \pi
+ ii. tan^{-1} \frac{x}{\sqrt{1-x^{2}} = sec^{-1} \frac{1}{\sqrt{1 - x^{2}}
+ iii. cos^{-1}x + cos^{-1}y = cos^{-1} \{xy - \sqrt{(1 - y^{2})(1 - x^{2})}\}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If sin\theta = \frac{\sqrt{3}}{2}, then what is \theta?","sin\theta = \frac{\sqrt{3}}{2} হলে, \theta = কত?",n\pi + (-1)^{n} \frac{\pi}{6}; n \epsilon \mathbb{Z},2n\pi + (-1)^{n} \frac{\pi}{6}; n \epsilon \mathbb{Z},n\pi + (-1)^{n} \frac{\pi}{3}; n \epsilon \mathbb{Z},2n\pi + (-1)^{n} \frac{\pi}{3}; n \epsilon \mathbb{Z},n\pi + (-1)^{n} \frac{\pi}{6}; n \epsilon \mathbb{Z},2n\pi + (-1)^{n} \frac{\pi}{6}; n \epsilon \mathbb{Z},n\pi + (-1)^{n} \frac{\pi}{3}; n \epsilon \mathbb{Z},2n\pi + (-1)^{n} \frac{\pi}{3}; n \epsilon \mathbb{Z},c
+"If cos\theta = \frac{1}{\sqrt{2}}, then what is \theta?","cos\theta = \frac{1}{\sqrt{2}}, হলে \theta = কত?",2n\pi + \frac{\pi}{4} ; n \epsilon \mathbb{Z},2n\pi \pm \frac{\pi}{4} ; n \epsilon \mathbb{Z},2n\pi - \frac{\pi}{4} ; n \epsilon \mathbb{Z},n\pi \pm \frac{\pi}{4} ; n \epsilon \mathbb{Z},2n\pi + \frac{\pi}{4} ; n \epsilon \mathbb{Z},2n\pi \pm \frac{\pi}{4} ; n \epsilon \mathbb{Z},2n\pi - \frac{\pi}{4} ; n \epsilon \mathbb{Z},n\pi \pm \frac{\pi}{4} ; n \epsilon \mathbb{Z},b
+For what value of a the roots of the equation ax^{2} - x + 4 = 0 are equal?,a এর কোন মানের জন্য ax^{2} - x + 4 = 0 সমীকরণের মূলদ্বয় সমান হবে?,\frac{1}{16},- \frac{1}{16},\frac{1}{4},- \frac{1}{4},\frac{1}{16},- \frac{1}{16},\frac{1}{4},- \frac{1}{4},a
+"P and Q are two forces.
+ 
+ What is the angle between the forces in case of minimum value of the resultant?","P ও Q দুইটি বল।
+ 
+ ক্ষুদ্রতম লব্ধির ক্ষেত্রে বলদ্বয়ের মধ্যবর্তী কোণ কত?",0\degree,90\degree,120\degree,180\degree,0\degree,90\degree,120\degree,180\degree,d
+"P and Q are two forces.
+ 
+ What is the maximum value of the resultant?","P ও Q দুইটি বল।
+ 
+ বলদ্বয়ের বৃহত্তম লব্ধি কত?",P^{2} + Q^{2},\sqrt{P^{2} + Q^{2}},P - Q,P + Q,P^{2} + Q^{2},\sqrt{P^{2} + Q^{2}},P - Q,P + Q,b
+"If one root of the equation x^{2} - 2x - 3 = 0 is 3, then what is the other root?",x^{2} - 2x - 3 = 0 সমীকরণের একটি মূল 3 হলে অপর মূল কোনটি?,-1,-2,-3,-5,-1,-2,-3,-5,a
+"Three equal forces act at a point. If they are in equilibrium, then what is the angle between them?","এক বিন্দুতে ক্রিয়ারত তিনটি সমান বল সাম্যবস্থা সৃষ্টি করলে, এদের মধ্যবর্তী কোণ কোনটি?",180\degree,120\degree,90\degree,60\degree,180\degree,120\degree,90\degree,60\degree,b
+What is the sum of roots of the equation 3x^{2} - 9x - 5 = 0?,3x^{2} - 9x - 5 = 0 সমীকরণের মূলদ্বয়ের যোগফল কত?,-9,\frac{-5}{3},\frac{5}{3},3,-9,\frac{-5}{3},\frac{5}{3},3,d
+"Root of the equation x^{2} + 3x - 4 = 0 are-
+ i. equal
+ ii. real and unequal
+ iii. rational
+ Which one is correct?","x^{2} + 3x - 4 = 0 সমীকরণের মূলদ্বয়-
+ i. সমান
+ ii. বাস্তব ও অসমান
+ iii. মূলদ
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Which one is the parametric co-ordinate of the parabola y^{2} = 4ax?,y^{2} = 4ax পরাবৃত্তের পরামিতিক স্থানাঙ্ক কোনটি?,"(at^{2}, 2at)","(-at^{2}, 2at)","(2at, at^{2})","(-2at, at^{2})","(at^{2}, 2at)","(-at^{2}, 2at)","(2at, at^{2})","(-2at, at^{2})",a
+Which one of the following is the quadratic equation of root 2 + 3i?,2 + 3i মূলবিশিষ্ট দ্বিঘাত সমীকরণ নিচের কোনটি?,x^{2} + 4x + 13 = 0,x^{2} - 4x + 13 = 0,x^{2} + 4x - 13 = 0,x^{2} - 4x - 13 = 0,x^{2} + 4x + 13 = 0,x^{2} - 4x + 13 = 0,x^{2} + 4x - 13 = 0,x^{2} - 4x - 13 = 0,b
+"If \alpha, \beta, \gamma are roots of the equation 2x^{3} - 4x^{2} + 6x + 1 = 0, then what is the value of \Sigma \alpha \beta?","2x^{3} - 4x^{2} + 6x + 1 = 0 সমীকরণের মূলগুলো \alpha, \beta, \gamma হলে \Sigma \alpha \beta এর মান কোনটি?",2,3,4,6,2,3,4,6,d
+Which of the following is the limit of principal value of sin^{-1}x?,sin^{-1}x এর মুখ্যমানের সীমা নিচের কোনটি?,"\left ( - \frac{\pi}{2}, \frac{\pi}{2} \right ]","\left [ - \frac{\pi}{2}, \frac{\pi}{2} \right )","\left [ - \frac{\pi}{2}, \frac{\pi}{2} \right ]","\left ( - \frac{\pi}{2}, \frac{\pi}{2} \right )","\left ( - \frac{\pi}{2}, \frac{\pi}{2} \right ]","\left [ - \frac{\pi}{2}, \frac{\pi}{2} \right )","\left [ - \frac{\pi}{2}, \frac{\pi}{2} \right ]","\left ( - \frac{\pi}{2}, \frac{\pi}{2} \right )",c
+"If 2tan^{-1}\sqrt{2} = \theta, then-
+ i. tan\frac{\theta}{2} = \sqrt{2}
+ ii. cot\theta = - \frac{1}{2\sqrt{2}}
+ iii. sin\theta = \frac{2\sqrt{2}}{3}
+ Which one is correct?","2tan^{-1}\sqrt{2} = \theta হলে-
+ i. tan\frac{\theta}{2} = \sqrt{2}
+ ii. cot\theta = - \frac{1}{2\sqrt{2}}
+ iii. sin\theta = \frac{2\sqrt{2}}{3}
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",d
+Two forces 5N and 7N acting at a point in opposite direction. Which direction of the resultant of two forces acting?,5N ও 7N মানের দুইটি বল পরস্পর বিপরীত দিকে ক্রিয়াশীল। এদের লব্ধি কোন দিকে ক্রিয়া করবে?,The action of force is at parallel with 7N,The action of force is at parallel with 7N,The action of force is at perpendicular with 5N,The action of force is the line of 5N,7N বলের ক্রিয়ারেখার সাথে লম্ব বরাবর,7N বলের ক্রিয়ারেখার সমান্তরাল বরাবর,5N বলের ক্রিয়ারেখার সাথে লম্ব বরাবর,5N বলের ক্রিয়ারেখা বরাবর,b
+The equation of the directrix of the hyperbola \frac{y^{2}}{4} - \frac{x^{2}}{16} = 1 -,\frac{y^{2}}{4} - \frac{x^{2}}{16} = 1 অধিবৃত্তের নিয়ামক রেখার সমীকরণ-,\sqrt{5}x = \pm 4,\sqrt{5}x = \pm 2,\sqrt{5}y = \pm 2,\sqrt{5}y = \pm 4,\sqrt{5}x = \pm 4,\sqrt{5}x = \pm 2,\sqrt{5}y = \pm 2,\sqrt{5}y = \pm 4,c
+"If x = sincos^{-1}y, what is the value of x^{2} + y^{2}?","x = sincos^{-1}y হলে, x^{2} + y^{2} এর মান হবে-",\pi,1,-1,0,\pi,1,-1,0,b
+"\alpha and \beta are the roots of the equation 7x^{2} - 5x - 3 = 0.
+ 
+ Which is the value of \Sigma \alpha^{2} = ?","7x^{2} - 5x - 3 = 0 সমীকরণের মূলদ্বয় \alpha ও \beta ।
+ 
+ \Sigma \alpha^{2} এর মান কোনটি?",\frac{67}{49},\frac{11}{7},\frac{-59}{49},\frac{-17}{49},\frac{67}{49},\frac{11}{7},\frac{-59}{49},\frac{-17}{49},a
+"\alpha and \beta are the roots of the equation 7x^{2} - 5x - 3 = 0.
+ 
+ Which is the equation of the roots \alpha + \beta and \alpha\beta?","7x^{2} - 5x - 3 = 0 সমীকরণের মূলদ্বয় \alpha ও \beta ।
+ 
+ \alpha + \beta ও \alpha\beta মূলবিশিষ্ট সমীকরণ কোনটি?",49x^{2} - 56x - 15 = 0,49x^{2} - 56x + 15 = 0,49x^{2} - 14x - 15 = 0,49x^{2} - 14x + 15 = 0,49x^{2} - 56x - 15 = 0,49x^{2} - 56x + 15 = 0,49x^{2} - 14x - 15 = 0,49x^{2} - 14x + 15 = 0,c
+"If the square resultant of the two equal forces is the product of that two forces, what is the angle between the forces?","সমমানের দুটি বলদ্বয়ের লব্ধির বর্গ, বলদ্বয়ের গুণফলের সমান হলে উহাদের মধ্যবর্তী কোণ কত?",\frac{\pi}{3},\frac{2\pi}{3},\frac{-2\pi}{3},\frac{-\pi}{3},\frac{\pi}{3},\frac{2\pi}{3},\frac{-2\pi}{3},\frac{-\pi}{3},b
+Which is the equation of directrix of y^{2} = - x?,y^{2} = - x এর দিকাক্ষের সমীকরণ কোনটি?,4x - 1 = 0,4x + 1 = 0,4y - 1 = 0,4y + 1 = 0,4x - 1 = 0,4x + 1 = 0,4y - 1 = 0,4y + 1 = 0,a
+"With the help of 9N force is acting equilibrium in 60\degree two same forces acting in a point, what is the same force?",কোনো বিন্দুতে 60\degree কোণে ক্রিয়ারত দুটি সমান বলকে একই বিন্দুতে ক্রিয়ারত 9N বলের সাহায্যে সাম্যবস্থায় রাখলে সমান বল কত?,\sqrt{3}N,3\sqrt{3}N,3N,9N,\sqrt{3}N,3\sqrt{3}N,3N,9N,b
+Which is the value of \frac{1}{2}cosec^{-1} \left ( \frac{1 + x^{2}}{2x} \right )?,\frac{1}{2}cosec^{-1} \left ( \frac{1 + x^{2}}{2x} \right )এর মান কোনটি?,2tan^{-1}x,tan^{-1}x,\frac{1}{2}sin^{-1}x,\frac{1}{2}tan^{-1}x,2tan^{-1}x,tan^{-1}x,\frac{1}{2}sin^{-1}x,\frac{1}{2}tan^{-1}x,b
+"Which is the equation of the tangent of the parabola y^{2} = 8x at (2, 4)?","(2, 4) বিন্দুতে y^{2} = 8x পরাবৃত্তের স্পর্শকের সমীকরণ কোনটি?",x + y - 2 = 0,x - y - 2 = 0,x - y + 2 = 0,x = 0,x + y - 2 = 0,x - y - 2 = 0,x - y + 2 = 0,x = 0,c
+Nature of roots of the equation x^{2} + x + 1 = 0.,x^{2} + x + 1 = 0 সমীকরণের মুলগুলোর প্রকৃতি-,real and equal,real and unequal,Imaginary and unequal,Imaginary and equal,বাস্তব ও সমান,বাস্তব ও অসমান,অবাস্তব ও অসমান,অবাস্তব ও সমান,c
+Which one is the length of transverse axis of the hyperbola \frac{y^{2}}{2} - \frac{x^{2}}{3} = 1?,\frac{y^{2}}{2} - \frac{x^{2}}{3} = 1 অধিবৃত্তের আড় অক্ষের দৈর্ঘ্য কোনটি?,6 unit,4 unit,2\sqrt{3} unit,2\sqrt{2} unit,6,4,2\sqrt{3},2\sqrt{2},d
+What is the value of tan \left ( sin^{-1}\frac{1}{2} \right )?,tan \left ( sin^{-1}\frac{1}{2} \right ) এর মান কত?,\sqrt{3},\frac{1}{\sqrt{3}},- \sqrt{3},- \frac{1}{\sqrt{3}},\sqrt{3},\frac{1}{\sqrt{3}},- \sqrt{3},- \frac{1}{\sqrt{3}},b
+"The equation is: 25x^{2} + y^{2} = 25
+ 
+ i. Co-ordinate of centre (0, 0)
+ ii. Length of the latus rectum \frac{5}{2}
+ iii. Length of the major axis 10
+ Which one is correct?","25x^{2} + y^{2} = 25
+ 
+ i. কেন্দ্রের স্থানাঙ্ক (0, 0)
+ ii. উপকেন্দ্রিক লম্বের দৈর্ঘ্য \frac{5}{2}
+ iii. বৃহৎ অক্ষের দৈর্ঘ্য 10
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i ও ii,ii ও iii,i ও iii,"i, ii ও iii",c
+"The equation is: 25x^{2} + y^{2} = 25
+ 
+ What is the co-ordinate of focus?","25x^{2} + y^{2} = 25
+ 
+ উপকেন্দ্রের স্থানাঙ্ক কোনটি?","(0, \pm 2\sqrt{6})","\left ( \pm \frac{2\sqrt{6}}{5}, 0 \right )","\left ( \pm \frac{\sqrt{26}}{5}, 0 \right )","(0, \pm \sqrt{26})","(0, \pm 2\sqrt{6})","\left ( \pm \frac{2\sqrt{6}}{5}, 0 \right )","\left ( \pm \frac{\sqrt{26}}{5}, 0 \right )","(0, \pm \sqrt{26})",a
+In which the equation of the root is -i+2?,-i+2 মূলবিশিষ্ট সমীকরণ কোনটি?,x^{2} - 4x + 3 = 0,x^{2} + 4x + 3 = 0,x^{2} + 4x + 5 = 0,x^{2} - 4x + 5 = 0,x^{2} - 4x + 3 = 0,x^{2} + 4x + 3 = 0,x^{2} + 4x + 5 = 0,x^{2} - 4x + 5 = 0,d
+"When \theta = (2n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z} and prove-","\theta = (2n + 1) \frac{\pi}{2}, n \epsilon \mathbb{Z} হবে যখন-",cos\theta = 0,sin\theta = 0,cos\theta = 1,sin\theta = 1,cos\theta = 0,sin\theta = 0,cos\theta = 1,sin\theta = 1,a
+Which one is the length of latus rectum of 9x^{2} + 4y^{2} = 36?,9x^{2} + 4y^{2} = 36 এর উপকেন্দ্রিক লম্বের দৈর্ঘ্য কোনটি?,3,9,\frac{3}{8},\frac{8}{3},3,9,\frac{3}{8},\frac{8}{3},d
+What is the value of \frac{\pi}{4} + tan^{-1}2 + tan^{-1}3?,\frac{\pi}{4} + tan^{-1}2 + tan^{-1}3 এর মান-,- \frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{2},0,- \frac{\pi}{2},\frac{\pi}{4},\frac{\pi}{2},0,d
+If 3 is the one root of x^{2} - 4x + k = 0 then what is the value of others?,x^{2} - 4x + k = 0 সমীকরণের একটি মূল 3 হলে অন্যটি-,1,3,-3,-4,1,3,-3,-4,a

@@ -1,0 +1,263 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,"The kinetic energy of two object are equal. If the mass of first one is 4 times of other, then what is the ratio of momentum between them?",দুুটি বস্তুর গতিশক্তি সমান। প্রথমটির ভর অন্যটির চারগুণ হলে এদের ভরবেগের অনুপাত কত?,2 : 1,4 : 1,1 : 2,1 : 4,a,N,2022Dinajpur,1,2 : 1,4 : 1,1 : 2,1 : 4,ক,a,N,2022Dinajpur,0.9534613407,0,0,,"The kinetic energy of two objects is equal. If the mass of the first one is four times that of the other, what is the ratio of their momenta?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To solve this problem, we need to understand the relationship between kinetic energy and momentum.
+
+The formula for kinetic energy (KE) is:
+
+\[ KE = \frac{1}{2} m v^2 \]
+
+where \( m \) is mass and \( v \) is velocity.
+
+The formula for momentum (p) is:
+
+\[ p = m v \]
+
+We are given that the kinetic energies of two objects are equal. Let's denote the mass of the first object as \( 4m \) (since it's four times the mass of the other), and the mass of the second object as \( m \). Their velocities are \( v_1 \) and \( v_2 \) respectively.
+
+The equality of kinetic energies can be written as:
+
+\[ \frac{1}{2} (4m) v_1^2 = \frac{1}{2} m v_2^2 \]
+
+Simplifying this, we get:
+
+\[ 4m v_1^2 = m v_2^2 \]
+
+Now, let's compare their momenta. The momentum of the first object is \( p_1 = 4m v_1 \) and the momentum of the second object is \( p_2 = m v_2 \).
+
+To find the ratio of their momenta, we need to find a relation between \( v_1 \) and \( v_2 \). From the kinetic energy equation, we can derive this relation:
+
+\[ 4 v_1^2 = v_2^2 \]
+\[ v_1^2 = \frac{v_2^2}{4} \]
+\[ v_1 = \frac{v_2}{2} \]
+
+Substituting this back into the momentum equations:
+
+\[ p_1 = 4m \cdot \frac{v_2}{2} = 2m v_2 \]
+\[ p_2 = m v_2 \]
+
+Now, the ratio of their momenta \( \frac{p_1}{p_2} \) is:
+
+\[ \frac{2m v_2}{m v_2} = 2 \]
+
+So, the ratio of their momenta is 2:1, thus {{""Answer"": ""a""}} is the correct option.","এই সমস্যা সমাধান করতে, আমাদের গতি শক্তি এবং ভরবেগ মধ্যে সম্পর্ক বোঝা দরকার।
+
+গতি শক্তির (KE) সূত্র হল:
+
+KE = (1/2) m v^2
+
+যেখানে m হল ভর এবং v হল বেগ।
+
+ভরবেগের (p) সূত্র হল:
+
+p = m v
+
+আমরা জানি যে দুটি বস্তুর গতি শক্তি সমান। আসুন প্রথম বস্তুর ভরকে 4m (কারণ এটি অন্যটির চারগুণ) এবং দ্বিতীয় বস্তুর ভরকে m দিয়ে চিহ্নিত করা যাক, এবং তাদের বেগগুলি হল v1 এবং v2 নির্দেশ করে।
+
+গতি শক্তির সমান্যতা লেখা যায়:
+
+(1/2) (4m) v1^2 = (1/2) m v2^2
+
+এটি সরলীকরণ করলে, আমরা পেতে:
+
+4m v1^2 = m v2^2
+
+এখন, তাদের ভরবেগ তুলনা করা হতে হবে। প্রথম বস্তুর ভরবেগ হল p1 = 4m v1 এবং দ্বিতীয় বস্তুর ভরবেগ হল p2 = m v2।
+
+তাদের ভরবেগের অনুপাত খুঁজে বের করতে, আমরা একটি সংম্পর্ক খুঁজে বের করতে হবে v1 এবং v2 মধ্যে। গতি শক্তি সূত্র থেকে এই সম্পর্কটি পেতে হলে:
+
+4 v1^2 = v2^2
+v1^2 = (v2^2)/4
+v1 = v2/2
+
+এই পরে ভরবেগ সমীকরণে প্রতিস্থাপন করতে:
+
+p1 = 4m * (v2/2) = 2m v2
+p2 = m v2
+
+এখন, তাদের ভরবেগের অনুপাত হল (p1/p2):
+
+(2m v2) / (m v2) = 2
+
+তাহলে, তাদের ভরবেগের অনুপাত হল 2:1, তাই {{""Answer"": ""a""}} সঠিক উত্তর।
+
+"
+1,"Which one is the raito of angular velocities of hour, minute and second hands of a wall watch?","একটি দেয়াল ঘড়ির ঘণ্টা, মিনিট ও সেকেন্ডের কাঁটার কৌণিক বেগের অনুপাত কত?",1 : 12 : 720,2 : 12 : 720,12 : 1 : 720,720 : 12 : 1,a,N,2022Dinajpur,1,1:24:00,2:24:00,12:13:00,720:12:01,ক,a,N,2022Dinajpur,0.9278809178,0,0,,"What is the ratio of the angular velocities of the hour, minute, and second hands of a wall watch?",Reasoning,"{""Answer"": ""Reasoning""}","To find the ratio of the angular velocities of the hour, minute, and second hands of a clock, we need to understand how fast each hand moves.
+
+1. Second Hand: The second hand completes one full rotation (360 degrees) in 60 seconds.
+
+2. Minute Hand: The minute hand also completes one full rotation in 60 minutes (or 3600 seconds).
+
+3. Hour Hand: The hour hand completes one full rotation in 12 hours (or 720 minutes or 43200 seconds).
+
+The angular velocity is the angle covered per unit time. Since all the hands cover 360 degrees in their respective time periods, their angular velocities can be compared directly by their time periods.
+
+The ratio of their angular velocities (hour hand:minute hand:second hand) can be found by inverting the ratio of the times they take to complete one rotation (since angular velocity is inversely proportional to the time taken for a fixed angle). 
+
+- For the second hand, the time is 60 seconds.
+- For the minute hand, the time is 3600 seconds.
+- For the hour hand, the time is 43200 seconds.
+
+Thus, the ratio of their angular velocities is:
+
+\[ \text{Hour hand : Minute hand : Second hand} = \frac{1}{43200} : \frac{1}{3600} : \frac{1}{60} \]
+
+To simplify, divide each part by the smallest number (1/43200):
+
+\[ = 1 : \frac{43200}{3600} : \frac{43200}{60} \]
+\[ = 1 : 12 : 720 \]
+
+So, the ratio of the angular velocities of the hour, minute, and second hands of a clock is 1 : 12 : 720.
+
+","ঘড়ির ঘণ্টা, মিনিট ও সময়ের কৌণিক দ্রুতির অনুপাত খুঁজে বের করতে, আমাদের প্রতিটি কাঁটা কীভাবে দ্রুত চলে তা বোঝা দরকার।
+সেকেন্ড হ্যান্ড: সেকেন্ড হ্যান্ডটি 60 সেকেন্ডে একটি পূর্ণ ঘোরন (360 ডিগ্রি) সম্পূর্ণ করে।
+মিনিট হ্যান্ড: মিনিট হ্যান্ডটি সম্পূর্ণ ঘোরন একটি সম্পূর্ণ করে 60 মিনিটে (বা 3600 সেকেন্ডে)।
+ঘড়ের হ্যান্ড: ঘড়ির হ্যান্ডটি 12 ঘণ্টায় (বা 720 মিনিট অথবা 43200 সেকেন্ডে) একটি পূর্ণ ঘোরন সম্পূর্ণ করে।
+কৌণিক দ্রুতি হল প্রতি ইউনিট সময়ে যে কৌণিক ঘুর্ণ্ন হয়। এই সময়ের অনুপাত তাদের কৌণিক দ্রুতি নির্ধারণ করে তা সমীকরণ দ্বারা তুলনা করা যেতে পারে (কারণ কৌণিক দ্রুতি একটি নির্দিষ্ট কৌণিকের জন্য সময় নেয়)।
+তাদের কৌণিক দ্রুতির অনুপাত (ঘড়ি হ্যান্ড: মিনিট হ্যান্ড: সেকেন্ড হ্যান্ড) একটি ঘোরন সম্পূর্ণ করতে তাদের সময়ের অনুপাত তুলনা করতে হবে (কারণ কৌণিক দ্রুতি একটি নির্দিষ্ট কৌণিকের জন্য সময় নেয়)। সেকেন্ড হ্যান্ডের জন্য সময় হল 60 সেকেন্ড। মিনিট হ্যান্ডের জন্য সময় হল 3600 সেকেন্ড। ঘড়ি হ্যান্ডের জন্য সময় হল 43200 সেকেন্ড।
+তাহলে, তাদের কৌণিক দ্রুতির অনুপাত হল:
+ঘড়ি হ্যান্ড : মিনিট হ্যান্ড : সেকেন্ড হ্যান্ড = 1/43200 : 1/3600 : 1/60
+সাধারণ করতে, প্রতিটি অংশ নিয়ে সর্বনিম্ন সংখ্যা (1/43200) দিয়ে ভাগ করুন:
+= 1 : (43200/3600) : (43200/60)
+= 1 : 12 : 720
+তাহলে, সঠিক উত্তর হচ্ছে {{""Answer"": ""a""}}
+"
+2,An object of mass m falls on the ground from a height 'h' At which height from the ground the kinetic energy will be 3 times of the potential energy of the body?,m ভরেের একটি বস্তু h উচ্চতা থেকে ভূমিতে পড়লো। ভূমি থেকে কত উচ্চতায় গতিশক্তি বিভশক্তির তিনগুণ হবে?,\frac{2h}{3},\frac{h}{2},\frac{h}{3},\frac{h}{4},d,N,2022Dinajpur,1,\frac{2h}{3},\frac{h}{2},\frac{h}{3},\frac{h}{4},ঘ,d,N,2022Dinajpur,0.9013095157,0,0,,"At what height from the ground will the kinetic energy of an object of mass m be three times the potential energy of the body, when it falls from a height 'h'?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find the height at which the kinetic energy of a falling object is three times its potential energy, we use the principles of energy conservation and the formulas for kinetic and potential energy.
+
+The potential energy (PE) at a height \( h \) is given by:
+
+\[ PE = mgh \]
+
+where \( m \) is the mass of the object, \( g \) is the acceleration due to gravity, and \( h \) is the height.
+
+The kinetic energy (KE) of the object is given by:
+
+\[ KE = \frac{1}{2} mv^2 \]
+
+As the object falls, its potential energy decreases while its kinetic energy increases, but the total mechanical energy (sum of potential and kinetic energy) remains constant (assuming no air resistance).
+
+At the point where the kinetic energy is three times the potential energy, we have:
+
+\[ KE = 3 \times PE \]
+
+Substituting the formulas for KE and PE, we get:
+
+\[ \frac{1}{2} mv^2 = 3 \times mgh' \]
+
+Here, \( h' \) is the height at which KE is three times PE. Note that \( v^2 \) can be expressed in terms of \( h \) and \( h' \) using the conservation of energy:
+
+The total mechanical energy at height \( h \) is all potential energy:
+
+\[ PE_{\text{total at height } h} = mgh \]
+
+The total mechanical energy at height \( h' \) is the sum of KE and PE:
+
+\[ PE_{\text{total at height } h'} = \frac{1}{2} mv^2 + mgh' \]
+
+Since the total mechanical energy remains constant:
+
+\[ mgh = \frac{1}{2} mv^2 + mgh' \]
+
+Now, substituting \( \frac{1}{2} mv^2 \) from the KE = 3PE equation:
+
+\[ mgh = 3 \times mgh' + mgh' \]
+\[ mgh = 4mgh' \]
+
+Simplifying this, we get:
+
+\[ h = 4h' \]
+
+So, \( h' \), the height at which KE is three times the PE, is:
+
+\[ h' = \frac{h}{4} \]
+
+Therefore, the correct answer is {{""Answer"": ""d""}}","একটি পতিত বস্তুর স্থিতি শক্তি গতি শক্তির তিনগুণ হতে সেই উচ্চতা নির্ধারণ করতে, আমরা শক্তি সংরক্ষণের নীতি এবং গতি এবং সংরক্ষণশীল শক্তির জন্য সূত্রের সরণী ব্যবহার করি।
+
+একটি উচ্চতায় স্থিতি শক্তি (PE) হল:
+
+\[ PE = mgh \]
+
+যেখানে \( m \) বস্তুর ভর, \( g \) গুরুত্বকেন্দ্রীভূত ত্বরণ, এবং \( h \) উচ্চতা।
+
+বস্তুর গতি শক্তি (KE) হল:
+
+\[ KE = \frac{1}{2} mv^2 \]
+
+যখন বস্তু পতন করে, তার স্থিতি শক্তি কমতে থাকে এবং তার গতি শক্তি বেড়ে যায়, কিন্তু মোট যান্ত্রিক শক্তি (স্থিতি এবং গতি শক্তির যোগফল) সংরক্ষিত থাকে (যদি কোনও বায়ু প্রতিরোধ না থাকে তাহলে)।
+
+যে স্থানে গতি শক্তি স্থিতি শক্তির তিনগুণ তা, সেখানে আমাদের অবশ্যই আছে:
+
+\[ KE = 3 \times PE \]
+
+KE এবং PE এর সূত্রগুলি প্রতিস্থাপন করলে, আমরা পাই:
+
+\[ \frac{1}{2} mv^2 = 3 \times mgh' \]
+
+এখানে, \( h' \) হল যে উচ্চতা যে খানে KE হল PE তিনগুণ। মন্তব্য করা জরুরি যে, \( v^2 \) শক্তি সংরক্ষণ ব্যবহার করে \( h \) এবং \( h' \) এর সমীকরণে প্রকাশ করা যেতে পারে:
+
+উচ্চতা \( h \) এ সর্বনিম্ন স্থিতি শক্তি সমপূর্ণ শক্তি:
+
+\[ PE_{\text{height } h \text{ উচ্চতা }} = mgh \]
+
+
+
+উচ্চতা \( h' \) এ সর্বনিম্ন গতি এবং স্থিতি শক্তির সমুদ্রণ:
+
+\[ PE_{\text{height } h' \text{ উচ্চতা }} = \frac{1}{2} mv^2 + mgh' \]
+
+যেহেতু সর্বমোট যান্ত্রিক শক্তি সংরক্ষিত থাকে:
+
+\[ mgh = \frac{1}{2} mv^2 + mgh' \]
+
+এখন, গতি শক্তি হল \( 3 \times PE \) সমীকরণ থেকে \( \frac{1}{2} mv^2 \) প্রতিস্থাপন করতে:
+
+\[ mgh = 3 \times mgh' + mgh' \]
+\[ mgh = 4mgh' \]
+
+এটি সরলীকরণ করলে, আমরা পেতে:
+
+\[ h = 4h' \]
+
+অতএব, \( h' \), যে উচ্চতায় KE স্থিতি PE এর তিনগুণ, তা হল:
+
+\[ h' = \frac{h}{4} \]
+
+অতএব, সঠিক উত্তর হল {{""Answer"": ""d""}}
+"
+3,Which force is responsible for beta decay?,বিটা ক্ষয়ের জন্য কোন বল দায়ী?,Gravitational force,Weak nuclear force,Strong nuclear force,Electromagnetic force,b,N,2022Dinajpur,1,মহাকর্ষ,দুর্বল নিউক্লিয় বল,সবল নিউক্লিয় বল,তাড়িৎ চৌম্বক বল,খ,b,N,2022Dinajpur,0.9318851198,0,0,,Which force is responsible for beta decay?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Beta decay is a nuclear decay process that involves the conversion of a neutron into a proton, an electron (beta-minus particle), and an antineutrino. The force responsible for beta decay is the weak nuclear force.
+
+In beta decay, a neutron in the nucleus is transformed into a proton by emitting a beta-minus particle (an electron) and an antineutrino. The weak nuclear force governs this interaction, as it is responsible for processes involving the changing of one type of quark into another within the nucleus. The other forces listed (gravitational force, strong nuclear force, and electromagnetic force) do not play a significant role in beta decay.
+
+So, the correct answer is {{""Answer"": ""b""}}.","বিটা ক্ষয় একটি নিউক্লিয়ার ক্ষয় অবসরণ প্রক্রিয়া, যা একটি নিউট্রনকে একটি প্রোটন, একটি ইলেকট্রন (বিটা মাইনাস কণিকা), এবং একটি প্রতিনিউট্রিনো বদলে দেয়। বিটা ক্ষয়ে যে বাইরে প্রবৃদ্ধির সূচনা তার জন্য দায়ী বলা হয় দূুর্বল নিউক্লিয়ার বল।
+
+বিটা ক্ষয়ে, নিউক্লিয়ারের নিউট্রনটি একটি প্রোটনে পরিণত হয়, একটি বিটা মাইনাস কণিকা (একটি ইলেকট্রন) এবং একটি প্রতিনিউট্রিনো সহযোগী করে। এই প্রতিক্রিয়া নিয়ে দলিল করে শুধু বিটা ক্ষয় বলে হয়, কারণ এটি নিউক্লিয়ারের ভিতরে এক ধরণের কুয়ার্কের পরিবর্তনে জরুরি প্রক্রিয়াগুলির জন্য দায়ী। অন্য বলগুলো (গুরুত্বপূর্ণ গুরুত্বপূর্ণ বল, শক্তিশালী নিউক্লিয়ার বল, এবং বৈদ্যুতিক বল) বিটা ক্ষয়ে গুরুত্বপূর্ণ ভূমিকা পালন করে না।
+অতএব, সঠিক উত্তর হল {{""Answer"": ""b""}}।
+"
+287,"When the maximum displacement coccur by the particle in simple harmonic motion is-
+ i. minimum velocity
+ ii. Maximum acceleration
+ iii. Maximum force
+ Which one is correct?","সরল ছন্দিত স্পন্দনসম্পন্ন কোনো কণার সরণ সর্বোচ্চ হবে যখন-
+i. বেগ সর্বনিম্ন
+ii. ত্বরণ সর্বোচ্চ
+iii. বল সর্বোচ্চ
+নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",d,N,2022Jashore,1,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",ঘ,d,N,2022Jashore,0.9162606794,0,0,,"When the maximum displacement coccur by the particle in simple harmonic motion is-
+ i. minimum velocity
+ ii. Maximum acceleration
+ iii. Maximum force
+ Which one is correct?",Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's analyze the statements related to the maximum displacement in simple harmonic motion:
+
+1. Minimum Velocity: The maximum displacement in simple harmonic motion occurs at the extreme points of the oscillation, where the particle momentarily comes to rest before changing direction. At these points, the velocity is momentarily zero, making statement i correct.
+
+2. Maximum Acceleration: The acceleration is maximum when the particle is at the extreme points of the oscillation. This is because the restoring force is at its maximum value when the displacement is maximum. So, statement ii is correct.
+
+3. Maximum Force: The force acting on the particle in simple harmonic motion is directly proportional to its displacement from the equilibrium position and is given by Hooke's Law (F = -kx, where k is the spring constant). Therefore, when the displacement is maximum, the force is also maximum. So, statement iii is correct.
+
+Based on this analysis, all three statements (i, ii, and iii) are correct. Therefore, the correct answer is {{""Answer"": ""d""}}.","সরল ছন্দিত গতিতে সর্বাধিক সরণের সাথে সম্পর্কিত নিম্নলিখিত বিবৃতিগুলি বিশ্লেষণ করা যাক:
+
+1. সর্বনিম্ন বেগ: সরল ছন্দিত গতিতে সর্বাধিক সরণ পয়েন্টগুলিতে পার্টিকল ক্ষণিকভাবে চরম বিন্দুতে এসে থামে, এটির আগে দিকে পরিবর্তন হয়। এই পয়েন্টগুলিতে বেগ ক্ষণিকভাবে শূন্য হয়, যা বিবৃতি i সঠিক করে।
+
+2. সর্বাধিক ত্বরণ: ত্বরণ সর্বাধিক যখন পার্টিকলটি ছন্দন গতির সর্বাধিক সরণে থাকে। এটির কারণ, ফিরে যাওয়া বল যখন সরণ সর্বাধিক হয় তখন এটি সর্বাধিক মানে থাকে। তাহলে, বিবৃতি ii সঠিক।
+
+3. সর্বাধিক বল: সরল ছন্দিত গতিতে পার্টিকলে কাজ করা বল সর্বমোট সম্যাপনের দিকে এবং এটি হুকের সূত্র (F = -kx, যেখানে k হল স্প্রিং স্থিরতা) দেওয়া দ্বারা সর্বাধিক মান প্রাপ্ত করে। তাহলে, যখন সরণ সর্বাধিক হয়, বলটি সম্পর্কেও সর্বাধিক। তাহলে, বিবৃতি iii সঠিক।
+
+এই বিশ্লেষণের আধারে, সমস্ত তিনটি বিবৃতি (i, ii, এবং iii) সঠিক। সুতরাং, সঠিক উত্তর হল {{""Answer"": ""d""}}।
+"

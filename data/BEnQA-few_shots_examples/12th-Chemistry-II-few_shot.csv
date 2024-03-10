@@ -1,0 +1,106 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,In case of ideal gas \left ( \frac{dE}{dV} \right )_{r} = ?,আদর্শ গ্যাসের ক্ষেত্রে \left ( \frac{dE}{dV} \right )_{r} = ?,0,0.5,1,1.5,a,N,2021Jashore,1,0,1,0.5,1.5,ক,a,N,2021Jashore,0.9316671734,0,0,,"ParsingError{""Fixed"": ""What is the value of \left ( \frac{dE}{dV} \right )_{r} in the case of an ideal gas?""}",Procedural and Application,"{""Answer"": ""Procedural and Application""}","In the case of an ideal gas, the internal energy (E) is only a function of temperature (T) and not the volume (V) or pressure (P). This is because ideal gases follow the ideal gas law, which is given by:
+
+PV = nRT
+
+Where:
+P = pressure
+V = volume
+n = number of moles
+R = ideal gas constant
+T = temperature
+
+Since internal energy (E) is only a function of temperature (T), the partial derivative of E with respect to V at constant temperature (dT = 0) is zero:
+
+(dE/dV)_r = 0
+
+So, the correct answer is {{""Answer"": ""a""}}","আদর্শ গ্যাসের ক্ষেত্রে, অভ্যন্তরীণ শক্তি (E) কেবলমাত্র তাপমাত্রা (T) এর একটি ফাংশন এবং আয়তন (V) বা চাপ (P) এর নয়। এর কারণ হলো আদর্শ গ্যাসগুলি আদর্শ গ্যাসের সূত্র অনুসরণ করে, যা দেওয়া হয়েছে:
+
+PV = nRT
+
+যেখানে:
+P = চাপ
+V = আয়তন
+n = মোলের সংখ্যা
+R = আদর্শ গ্যাস ধ্রুবক
+T = তাপমাত্রা
+
+যেহেতু অভ্যন্তরীণ শক্তি (E) কেবলমাত্র তাপমাত্রা (T) এর একটি ফাংশন, সুতরাং স্থির তাপমাত্রায় (dT = 0) V এর সাপেক্ষে E এর আংশিক অন্তর শূন্য:
+
+(dE/dV)_r = 0
+
+তাই, সঠিক উত্তর হলো {{""Answer"": ""a""}}"
+1,Which one of the following is an oxidation-reduction half cell?,নিচের কোনটি জারণ-বিজারণ অর্ধকোষ?,"Pl, Cl_{2}Cl^{-}","Hg, Hg_{2}SO_{4}/SO_{4}^{2-}","Au, Sn^{2+}/Sn^{4+}",NiNi^{2+},c,N,2021Jashore,1,"Pt, Cl_{2}/Cl^{-}","Hg, Hg_{2}SO_{4}/SO_{4}^{2-}","Au, Sn^{2+}/Sn^{4+}",Ni/Ni^{2+},গ,c,N,2021Jashore,0.8783902769,0,0,,Which one of the following is an oxidation-reduction half cell?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's check each option step by step.
+
+1. Pt, Cl₂/Cl⁻:
+Platinum (Pt) is used as an inert electrode in redox reactions but doesn't undergo a redox change. This pair doesn't represent a redox process involving Pt.
+
+2. Hg, Hg₂SO₄/SO₄²⁻:
+Sulfate ions (SO₄²⁻) don't undergo a redox reaction. Mercury in Hg₂SO₄ doesn't change its oxidation state concerning sulfate ions.
+
+3. Au, Sn²⁺/Sn⁴⁺:
+Gold (Au) and tin (Sn) are different metals in different oxidation states. Not a standard redox half cell representation.
+
+4. Ni/Ni²⁺:
+This is a valid redox half cell where nickel undergoes a change in oxidation state, either oxidized to Ni²⁺ or reduced from Ni²⁺ to Ni.
+
+Therefore, the correct answer is {{""Answer"": ""c""}}","প্রতিটি অপশন ধাপে ধাপে দেখি।
+
+1. Pt, Cl₂/Cl⁻:
+প্লাটিনাম (Pt) রেডক্স বিক্রিয়ায় নিষ্ক্রিয় ইলেক্ট্রোড হিসেবে ব্যবহৃত হয় কিন্তু এটি রেডক্স এ যায় না। এই জুটি Pt জড়িত রেডক্স প্রক্রিয়া প্রতিনিধিত্ব করে না।
+
+2. Hg, Hg₂SO₄/SO₄²⁻:
+সালফেট আয়ন (SO₄²⁻) কোনো রেডক্স বিক্রিয়া  হয় না। Hg₂SO₄-এ পারদের জারণ অবস্থা সালফেট আয়নের উপস্থিতিতে পরিবর্তিত হয় না।
+
+3. Au, Sn²⁺/Sn⁴⁺:
+সোনা (Au) এবং টিন (Sn) ভিন্ন ধাতু যা ভিন্ন ভিন্ন জারণ অবস্থায় আছে। এটি রেডক্স অর্ধ কোষের প্রতিনিধিত্ব করে না। 
+
+4. Ni/Ni²⁺:
+এটি একটি বৈধ রেডক্স অর্ধ কোষ যেখানে নিকেল তার জারণ অবস্থায় পরিবর্তন  হয়, হয় Ni থেকে Ni²⁺ পর্যন্ত অক্সিডাইজড বা Ni²⁺ থেকে Ni পর্যন্ত রিডিউসড।
+
+অতএব, সঠিক উত্তর হলো {{""Answer"": ""c""}}
+"
+2,Of which one both valency and oxidation value is zero?,কোনটির যোজনী ও জারণমান উভয় শূন্য?,CH_{2}Cl_{2},MgO,Ne,F,c,N,2021Jashore,1,CH_{2}Cl_{2},MgO,Ne,F,গ,c,N,2021Jashore,0.8789160344,0,0,,Which of the following has both valency and oxidation value equal to zero?,Reasoning,"{""Answer"": ""Reasoning""}","The element for which both valency and oxidation state are zero is Ne (Neon). Neon is a noble gas and exists in its elemental form with no charge or change in oxidation state.
+
+So, the only correct option is {{""Answer"": ""c""}}","এখানে যে মৌলিক পদার্থের জন্য উভয় যোজনী এবং জারণ সংখ্যা শূন্য তা হল নিয়ন (Ne)। নিয়ন একটি নিষ্ক্রিয় গ্যাস এবং এটি তার মৌলিক রূপে কোনো চার্জ বা জারিত/বিজারিত হয় না। 
+তাই, একমাত্র সঠিক বিকল্প হল {{""Answer"": ""c""}}
+"
+134,"The name of C_{2}H_{5} - O - C_{2}H_{5} compound is-
+i. ether
+ii. diethyl ether
+iii. ethoxy ethane
+Which one is correct?","C_2H_5-O-C_2H_5 যৌগটির নাম-
+ i. ইথার
+ ii. ডাইইথাইল ইথার
+ iii. ইথোক্সি ইথেন 
+ নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",d,N,2022Mymensingh,1,i ও ii,ii ও iii,i ও iii,"i, ii ও iii",ঘ,d,N,2022Mymensingh,0.9620339235,0,0,,"The name of C_{2}H_{5} - O - C_{2}H_{5} compound is-
+i. ether
+ii. diethyl ether
+iii. ethoxy ethane
+Which one is correct?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The compound with the formula C_{2}H_{5} - O - C_{2}H_{5} is an ether commonly known as diethyl ether. It can also be referred to as ethoxy ethane in terms of its IUPAC nomenclature. Thus, the correct names for this compound are:
+
+i. ether
+ii. diethyl ether
+iii. ethoxy ethane
+
+So, the correct answer is {{""Answer"": ""d""}}","যে যৌগের সূত্র হল C_{2}H_{5} - O - C_{2}H_{5}, তা একটি ইথার যা সাধারণত ডাইইথাইল ইথার নামে পরিচিত। এটি এর IUPAC নামকরণ অনুযায়ী ইথোক্সি ইথেন নামেও পরিচিত। সুতরাং, এই যৌগের জন্য সঠিক নামগুলি হল:
+
+i. ইথার
+ii. ডাইইথাইল ইথার
+iii. ইথোক্সি ইথেন
+
+তাই, সঠিক উত্তর হল {{""Answer"": ""d""}}"
+4,What is the acceptable limit of BOD in suitable drinking water?,পান করার উপযোগী পানিতে BOD এর গ্রহণযোগ্য মাত্রা কত?,1-2 ppm,2-3 ppm,4-6 ppm,8-9 ppm,a,N,2021Jashore,1,1-2 ppm,2-3 ppm,4-6 ppm,8-9 ppm,ক,a,N,2021Jashore,0.9788167021,0,0,,What is the acceptable limit of BOD in suitable drinking water?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The acceptable limit of Biochemical Oxygen Demand (BOD) in suitable drinking water is typically very low. BOD is a measure of the amount of organic matter in the water, with higher values indicating a greater degree of pollution. For drinking water, the BOD should ideally be as low as possible. Among the options provided:
+
+1-2 ppm
+2-3 ppm
+4-6 ppm
+8-9 ppm
+The most suitable range would be 1-2 ppm. This low level of BOD indicates a minimal presence of organic pollutants, which is desirable for safe drinking water. Higher BOD values, like 4-6 ppm or 8-9 ppm, are more indicative of polluted or untreated water, which is not suitable for drinking. So, the answer is {{""Answer"": ""a""}}","জৈব-রাসায়নিক অক্সিজেন চাহিদা (BOD) অনুযায়ী, পানীয় জলের জন্য গ্রহণযোগ্য সীমা খুবই কম হওয়া উচিত। BOD হলো জলে জৈব পদার্থের পরিমাণের একটি মাপ। উচ্চ মানের BOD জলে দূষণের বেশি পরিমাণ নির্দেশ করে। পানীয় জলের জন্য BOD যতটা সম্ভব কম হওয়া উচিত। প্রদত্ত বিকল্পগুলির মধ্যে:
+
+- 1-2 ppm
+- 2-3 ppm
+- 4-6 ppm
+- 8-9 ppm
+
+সবচেয়ে উপযুক্ত সীমা হল 1-2 ppm। এই কম BOD মান জলে জৈব দূষণের ন্যূনতম উপস্থিতি নির্দেশ করে, যা নিরাপদ পানীয় জলের জন্য কাম্য। উচ্চ BOD মান, যেমন 4-6 ppm বা 8-9 ppm, দূষিত বা অপরিশোধিত জলের ইঙ্গিত দেয়, যা পান করার জন্য উপযুক্ত নয়। তাই, সঠিক উত্তর হচ্ছে {{“Answer”: “a”}}"

@@ -1,0 +1,114 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+202,"The value of the weight of an object-
+ i. depends on its mass 
+ ii. Difference in different places 
+ iii. Is maximum in pole region 
+ Which on is correct?","বস্তুর ওজনের মান- 
+ i. বস্তুর ভরের উপর নির্ভরশীল 
+ ii. স্থানভেদে ভিন্ন হয় 
+ iii. মেরু অঞ্চলে সবচেয়ে বেশি
+ নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",d,N,2019Rajshahi,1,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",ঘ,d,N,2019Rajshahi,0.8968722507,0,0,,"The value of the weight of an object-
+ i. depends on its mass 
+ ii. Difference in different places 
+ iii. Is maximum in pole region 
+ Which on is correct?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The value of the weight of an object:
+
+i. Depends on its mass: This statement is correct. Weight is the force of gravity acting on an object, and it is directly proportional to the object's mass. The weight (W) of an object can be calculated using the formula W = m * g, where 'm' is the mass of the object and 'g' is the acceleration due to gravity. So, the weight depends on the mass.
+
+ii. Differs in different places: This statement is correct. The weight of an object varies depending on its location on Earth or any other celestial body. It is because the acceleration due to gravity (g) is different at different locations. For example, the weight of an object is less on the Moon compared to Earth due to the Moon's lower gravitational acceleration.
+
+iii. Is maximum in the pole region: This statement is correct. The weight of an object is the maximum in the pole region.
+
+So, the correct option is {{""Answer"": ""d""}}","একটি বস্তুর ওজনের মান:
+
+i. এটি তার ভরের উপর নির্ভর করে: এই কথনটি সঠিক। ওজন একটি বস্তুতে প্রত্যাঘাত করে, এবং এটি তার ভরের সাথে সরাসরি সমর্পিত। একটি বস্তুর ওজন (W) গণনা করা যেতে পারে সূত্র W = m * g ব্যবহার করে, যেখানে 'm' বস্তুর ভর এবং 'g' গ্রবিটেশনাল ত্বরণ। তাহলে, ওজন ভরের উপর নির্ভর করে।
+
+ii. বিভিন্ন স্থানে পার্থক্য আছে: এই কথনটি সঠিক। একটি বস্তুর ওজন পৃথিবী বা অন্য কোনও গ্রহের উপর অবস্থানের উপর নির্ভর করে। এটি তার অবস্থানের মধ্যে গ্রবিটেশনাল ত্বরণ (g) বিভিন্ন অবস্থানে বিভিন্ন হতে পারে। উদাহরণস্বরূপ, একটি বস্তুর ওজন চন্দ্রমার উপরে পৃথিবীর সংক্ষিপ্ত গ্রবিটেশনাল ত্বরণের কারণে পৃথিবীতের চেয়ে কম।
+
+iii. উপদেশে সর্বাধিক: এই কথনটি সঠিক। একটি বস্তুর ওজন উপদেশ অঞ্চলে সবচেয়ে বেশি।
+
+অতএব, সঠিক বিকল্প হল {{""Answer"": ""d""}}"
+0,Through which membrane both solute and solvent can pass?,কোন পর্দা দিয়ে দ্রাব ও দ্রাবক উভয়েই চলাচল করতে পারে?,Polythene,Cell wall,Cell membrance,Membrance of fish potka,b,N,2019Barishal,1,পলিথিন,কোষপ্রচীর,কোষপর্দা,মাছের পটকার পদ,খ,b,N,2019Barishal,0.8685349927,0,0,,Through which membrane can both solute and solvent pass?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's analyze each option step by step.
+
+(a) Polythene: It is an example of an impermeable membrane which does not allow both solute and solvent passing through it.
+
+(b) Cell wall: It is an example of an permeable membrane which allows both solutes and solvents to pass through it.
+
+(c) Cell membrane: It is an example of a semi-permeable membrane, which allows solvents but solutes pass through it when there is a concentration gradient between solutions.
+
+(d) Membrane of Fish Potka: Fish Potka or Swim Bladder has a semi-permeable membrane which only allows solvent to pass through it to maintain buoyancy of the fish.
+
+Therefore, {{""Answer"": ""b""}} is correct.","অপশনগুলি ধাপে ধাপে বিশ্লেষণ করা যাক। 
+
+(a) পলিথিন: এটি একটি অভেদ্য পর্দার উদাহরণ যা দ্রব ও দ্রাবক উভয়কেই প্রবেশ করতে দেয় না।
+
+(b) কোষ প্রাচীর: এটি একটি ভেদ্য ঝিল্লির উদাহরণ যা দ্রব ও দ্রাবক উভয়কেই প্রবেশ করতে দেয়।
+
+(c) কোষ ঝিল্লি: এটি একটি অর্ধভেদ্য ঝিল্লির উদাহরণ, যা দ্রবকে প্রবেশ করতে দেয় না কিন্তু দ্রাবককে প্রবেশ করতে দেয় যখন দ্রবণের মধ্যে ঘনত্বের পার্থক্য থাকে।
+
+(d) মাছের পটকার ঝিল্লি: মাছের পটকা একটি অর্ধ-ভেদ্য ঝিল্লি রয়েছে যা শুধুমাত্র দ্রাবক প্রবেশ করতে দেয় মাছের ভারসাম্য বজায় রাখার জন্য।
+
+সুতরাং, সঠিক উত্তর হল {{""Answer"": ""b""}}।"
+1,What is the value of eletric current passes through a resistance of 5 Ohm which is kept at at the potential difference of 10 Volt.,১০ ভোল্ট বিভব পার্থক্য রাখা ৫ ওহাম রোধের মধ্য দিয়ে প্রবাহিত তড়িৎ প্রবাহের মান কত?,0.5 amperre,2 ampere,5 ampere,15 ampere,b,N,2019Barishal,1,০.৫ অ্যাম্পিয়ার,২ অ্যাম্পিয়ার,৫ অ্যাম্পিয়ার,১৫ অ্যাম্পিয়ার,খ,b,N,2019Barishal,0.8094517339,0,0,,What is the value of electric current passing through a resistance of 5 Ohm when it is kept at a potential difference of 10 Volt?,Procedural and Application,"{""Answer"": ""Procedural and Application""}","To find electric current pass through a resistor at a constant potential difference, we can use Ohm's Law, which states that V=IR, where V is the potential difference, I is the current, and R is the resistance.
+
+We have, 
+V = 10  Volt
+R = 5 Ohm
+
+We arrange Ohm's Law in terms of I and solve it:
+I = V/R
+I = 10/5 amperes = 2 amperes
+
+Based on the options given, the correct answer is {{""Answer"": ""b""}}","স্থির বিভব পার্থক্যে রাখা একটি রেজিস্ট্যান্সের মধ্য দিয়ে কী পরিমাণ তড়িৎ প্রবাহিত হয় নির্ণয় করতে আমরা ওহমের সূত্র ব্যবহার করতে পারি, যা হল V=IR, যেখানে V হল বিভব পার্থক্য, I হল প্রবাহ, এবং R হল রেজিস্ট্যান্স।
+
+আমাদের দেওয়া আছে,
+V = 10 ভোল্ট
+R = 5 ওহম
+
+আমরা ওহমের সূত্রকে I এর সাপেক্ষে সাজাই ও সমাধান করি:
+I = V/R
+I = 10/5 অ্যাম্পিয়ার = 2 অ্যাম্পিয়ার
+
+প্রদত্ত বিকল্পগুলির ভিত্তিতে, সঠিক উত্তর হল {{""Answer"": ""b""}}।"
+2,Which process helps to open the petals of water lily?,শাপলা ফুল ফুটতে কোন প্রক্রিয়া সাহায্য করে?,Diffusion,Osmosis,Transpiration,Imbibition,b,N,2019Barishal,1,ব্যাপন,অভিস্রবণ,প্রস্বেদন,ইমবাইবিশন,খ,b,N,2019Barishal,0.8764885771,0,0,,What process helps in opening the petals of a water lily?,Procedural and Application,"{""Answer"": ""Procedural and Application""}","Let's analyze each option step by step.
+
+(a) Diffusion: Essential for gas exchange in plants, but not for opening flower petals.
+
+(b) Osmosis: Causes cells in the petals to absorb water, increasing turgor pressure, leading to the opening of the petals. 
+
+(c) Transpiration: Involved in water movement within the plant, but not directly in the mechanical process of opening petals.
+
+(d) Imbibition: Involved in pulling minerals closer by lateral roots by absorving liquids, which does not have have any connection with the petal opening mechanism.
+
+Therefore, {{""Answer"": ""b""}} is correct.","প্রদত্ত অপশনগুলি ধাপে ধাপে বিশ্লেষণ করা যাক। 
+
+(a) ব্যাপন: গাছপালায় গ্যাসীয় বিনিময়ের জন্য জরুরি, কিন্তু ফুলের পাপড়ি খোলার জন্য নয়।
+
+(b) ওসমোসিস: পাপড়ির কোষে পানি শোষণের কারণে শোষণ চাপ বৃদ্ধি পায়, যা পাপড়ি খোলাকে ত্বরাণিত করে। 
+
+(c) ট্রান্সপিরেশন: গাছের মধ্যে পানির চলাচলে জড়িত, কিন্তু সরাসরি পাপড়ি খোলার যান্ত্রিক প্রক্রিয়ায় নয়।
+
+(d) ইমবাইবিশন: পার্শ্ব শিকড় দ্বারা তরল শোষণ করে খনিজ পদার্থ আকর্ষণ করার জন্য জড়িত, যার ফুলের পাপড়ি খোলার প্রক্রিয়ার সাথে কোনো সম্পর্ক নেই।
+
+সুতরাং, সঠিক উত্তর হল {{""Answer"": ""b""}}।"
+3,Which one's valency is three?,কোনটির যোজনী তিন?,Nitrate,Carbonate,Phosphate,Ammonium,c,N,2019Barishal,1,নাইট্রেট,কার্বনেট,ফসফেট,অ্যামোনিয়াম,গ,c,N,2019Barishal,0.8931416617,0,0,,Which element has a valency of three?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's analyze each option step by step.
+
+(a) Nitrate (NO₃⁻): The nitrate ion has a valency of 1, which combines with one positively charged ion.
+
+(b) Carbonate (CO₃²⁻): The carbonate ion has a valency of 2, which bonds with two positively charged ions.
+
+(c) Phosphate (PO₄³⁻): The phosphate ion has a valency of 3, which combines with three positively charged ions.
+
+(d) Ammonium (NH₄⁺): The ammonium ion has a valency of 1, which can combine with one negatively charged ion.
+
+Based on the options given, the correct answer is {{""Answer"": ""c""}}","প্রদত্ত অপশনগুলি ধাপে ধাপে বিশ্লেষণ করা যাক।
+
+(a) নাইট্রেট (NO₃⁻): নাইট্রেট আয়নের যোজনী 1, যা একটি ধনাত্মক চার্জযুক্ত আয়নের সাথে যুক্ত হয়।
+
+(b) কার্বোনেট (CO₃²⁻): কার্বোনেট আয়নের যোজনী 2, যা দুটি ধনাত্মক চার্জযুক্ত আয়নের সাথে যুক্ত হয়।
+
+(c) ফসফেট (PO₄³⁻): ফসফেট আয়নের যোজনী 3, যা তিনটি ধনাত্মক চার্জযুক্ত আয়নের সাথে যুক্ত হয়।
+
+(d) অ্যামোনিয়াম (NH₄⁺): অ্যামোনিয়াম আয়নের যোজনী 1, যা একটি ঋণাত্মক চার্জযুক্ত আয়নের সাথে যুক্ত হয়।
+
+প্রদত্ত বিকল্পগুলির ভিত্তিতে, সঠিক উত্তর হল {{""Answer"": ""c""}}।"

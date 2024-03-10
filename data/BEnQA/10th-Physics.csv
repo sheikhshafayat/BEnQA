@@ -1,0 +1,808 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+What type of mirror is used as the rear view mirror in the vehicles?,গাড়ির রিয়ার ভিউ মিরর হিসাবে কোন ধরনের দর্পণ ব্যবহৃত হয়?,Concave,Convex,Plain,Convergent,অবতল,উত্তল,সমতল,অভিসারী,b
+"A toy car of mass 1kg is moving on a frictionless floor at 1ms^{-1} velocity. You push the car towards its motion with 1N force.
+ 
+ In this incident after 5s-
+  i. the kinetic energy of the toy car will be 18J
+  ii. amount of work done by you is 17.5J
+  iii. difference of energy is 17.53 
+ Which one is correct?","ঘর্ষণবিহীন কোনো মেঝেতে 1 ms^{-1} বেগে গতিশীল 1 kg ভরের খেলনা গাড়ির গতির দিকে তুমি 1 N বলে ধাক্কা দিলে।
+ 
+ উক্ত ঘটনার 5 s পর-
+ i. গাড়িটির গতিশক্তি হবে 18 J
+ ii. তোমার কৃতকাজ 17.5 J
+ iii. শক্তির পরিবর্তন 17.5 J
+ নিচের কোনটি সঠিক?",i,ii,iii,"I,ii and iii",i,ii,iii,"I,ii and iii",d
+Vernier constant is-,ভার্নিয়ার ধ্রুবক হচ্ছে-,The difference between the length of the smallest division of the main scale and one division of vemier scale,The ratio of the length of the smallest division of the main scale and one division of vernier scale,The length of one division of vemier scale,The length of the smallest division of the main scale,মূল স্কেলের ক্ষুদ্রতম একভাগ ও ভার্নিয়ার স্কেলের এক ভাগের দৈর্ঘ্যের পার্থক্য,মূল স্কেলের ক্ষুদ্রতম এক ভাগ ও ভার্নিয়ার স্কেলের এক ভাগের দৈর্ঘ্যের অনুপাত,ভার্নিয়ার স্কেলের এক ভাগের দৈর্ঘ্য,মূল স্কেলের ক্ষুদ্রতম এক ভাগের দৈর্ঘ্য,a
+What is the required velocity for an object to be thrown straight upwards so that it falls to the ground after 10?,একটি বস্তুকে খাড়া উপরের দিকে কত বেগে নিক্ষেপ করলে তা 10 s পর ভূপৃষ্ঠে পতিত হবে?,4.9ms^{-1},9.8ms^{-1},49ms^{-1},98ms^{-1},4.9ms^{-1},9.8ms^{-1},49ms^{-1},98ms^{-1},c
+A vehicle moves 6m straight northwards from its position and from there moves 8m further eastwards straight. What is the difference between the vehicle's travelled distance and displacement?,একটি গাড়ি একস্থান থেকে 6 m সোজা উত্তর দিকে গিয়ে সেখান থেকে সোজা পূর্বদিকে 8 m অতিক্রম করলো। গাড়িটির অতিক্রান্ত দূরত্ব ও সরণের পার্থক্য কত?,24m,8.71m,4m,2m,24m,8.71m,4m,2m,c
+"If an object is placed 5m away from a mirror it produces a virtual image.
+ 
+ What is the focal length of the mirror?","কোনো দর্পণ হতে 5 m দূরে বস্তু রাখলে 3 m দূরে অবাসতব বিম্ব পাওয়া যায়।
+ 
+ দর্পণটির ফোকাস দূরত্ব কত?",7.5m,1.875m,0.533m,0.133m,7.5m,1.875m,0.533m,0.133m,a
+"If an object is placed 5m away from a mirror it produces a virtual image.
+ 
+ In the stem
+  i. The mirror is concave 
+ ii. If the object is placed in infinite distance, the distance of the image will be 7.5m
+  iii. If the mirror is opposite type, the image will be real and magnified
+  Which of the following is correct?","কোনো দর্পণ হতে 5 m দূরে বস্তু রাখলে 3 m দূরে অবাসতব বিম্ব পাওয়া যায়।
+ 
+ উদ্দীপকের-
+ i. দর্পণটি অবতল
+ ii. বস্তুটি অসীমে থাকলে প্রতিবিম্বের দূরত্ব হবে 7.5 m
+ iii. দর্পণটি বিপরীত প্রকৃতির হলে উক্ত ক্ষেত্রে বাস্তব ও বিবর্ধিত বিম্ব পাওয়া যায়
+ নিচের কোনটি সঠিক?",ii,iii,I and ii,I and iii,ii,iii,I and ii,I and iii,a
+What is the dimention of velocity?,বেগের মাত্রা কোনটি?,LT^{-2},L^{-1}T,L^{-1}T^{2},LT^{-1},LT^{-2},L^{-1}T,L^{-1}T^{2},LT^{-1},d
+"A passenger of a running bus is- 
+ i. in rest relative to the bus 
+ ii. in rest relative to a lamp pod 
+ iii. in rest relative to the other passengers 
+ Which of the following is right?","চলন্ত একটি বাসের ভিতরের যাত্রী-
+ i. বাসের সাপেক্ষে স্থির
+ ii. ল্যাম্প পোস্টের সাপেক্ষে স্থির
+ iii. বাসের অন্য যাত্রীর সাপেক্ষে স্থির
+ নিচের কোনটি সঠিক?",i,I and iii,ii and iii,"I,ii and iii",i,i ও iii,ii ও iii,"i, ii ও iii",b
+How a green flower is viewed in red light?,লাল বর্ণের আলোতে সবুজ ফুল কেমন দেখায়?,Black,Yellow,Red,Colorless,কালো,হলুদ,লাল,বর্ণহীন,a
+"In case of a falling object-
+  i. Kinetic energy keeps increasing continuously 
+ ii. Acceleration keeps increasingcontinuously
+  iii. Potential energy keeps decreasing continuously 
+ Which one is correct?","পতনশীল বস্তুর ক্ষেত্রে-
+ i. গতিশক্তি ক্রমাগত বৃদ্ধি পায়
+ ii. ত্বরণ ক্রমাগত বৃদ্ধি পায়
+ iii. স্থিতিশক্তি ক্রমাগত হ্রাস পায়
+ নিচের কোনটি সঠিক?",i,iii,i and iii,"I , ii and iii",i,iii,i ও iii,"i, ii ও iii",c
+"The velocity of a vehicle is increasing at the rate of 0.4ms^{-1}, 0.8ms^{-1}, 1.2ms^{-1} and 1.6ms^{-1}. The vehicle is moving in","একটি গাড়ির বেগ যথাক্রমে 0.4ms^{-1}, 0.8ms^{-1}, 1.2ms^{-1} ও 1.6ms^{-1} হারে বাড়ছে। এই ক্ষেত্রে গাড়িটি চলছে-",uniform acceleration,uniform momentum,uniform velocity,non-uniform acceleration,সুষম ত্বরণে,সুষম ভরবেগে,সুষম বেগে,অসম ত্বরণে,a
+What is the motion of an object oscillating by a spring?,স্প্রিং এ ঝুলানো দুলতে থাকা বস্তুর গতি কীরূপ?,Periodic motion,Circular motion,Translational motion,Sinuous motion,পর্যায় গতি,ঘূর্ণন গতি,চলন গতি,বক্র গতি,a
+A moving object's kinetic energy will be 27 times if the object's-,কোনো গতিশীল বস্তুর গতি শক্তি 27 গুণ হবে যদি বস্তুর-,mass is 9 times and velocity 3 times,momentum is 3 times,both mass and velocity will be 3 times,mass in 3 times and velocity 9 times,ভর নয়গুণ ও বেগ তিনগুণ হয়,ভরবেগ তিনগুণ হয়,ভর ও বেগ প্রত্যেকটি তিনগুণ হয়,ভর তিনগুণ ও বেগ নয় গুণ হয়,c
+What is the source of renewable energy?,নবায়নযোগ্য শক্তির উৎস কোনটি?,Oil,Nuclear,Geothermal,coal,তেল,নিউক্লিয়ার,ভূতাপীয়,কয়লা,c
+Which of the following is semi- conductor?,নিচের কোনটি অর্ধ-পরিবাহী?,Glass,Gold,Rubber,Germanium,কাচ,সোনা,রাবার,জার্মেনিয়াম,b
+What is used in a nuclear reactor to absorbe neutron?,নিউক্লিয়ার রিঅ্যাক্টরে নিউট্রন শোষণ করার জন্য কোনটি ব্যবহৃত হয়?,Control rod,proton,uranium,Uranium,কন্ট্রোল রড,প্রোটিন,ইউরেনিয়াম,নিউট্রিনো,a
+Which one is the unit of intensity of sound ?,শব্দের তীব্রতার একক কোনটি?,Wm^{-1},Wm^{-2},Jm^{-2},Nm^{-2},Wm^{-1},Wm^{-2},Jm^{-2},Nm^{-2},b
+The length of one smallest division of main scale of a slide calipers is 1 mm. Number of division of vernier scale is 10. What is the vernier constant ?,একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্রতম 1 ঘরের দৈর্ঘ্য 1 mm । ভার্নিয়ার স্কেলের ভাগ সংখ্যা 10 । ভার্নিয়ার ধ্রুবকের মান কত?,0.01 cm,0.001mm,0.001 m,0.1 m,0.01 cm,0.001mm,0.001 m,0.1 m,a
+If an object is thrown certically upwaed with a velocity 100 ms^{-1} at what maximum height will it reach?,100 ms^{-1} বেগে খাড়া উপরের দিকে নিক্ষিপ্ত বস্তু সর্বোচ্চ কত উচ্চতায় উঠবে?,510 m,410 m,210 m,110 m,510 m,410 m,210 m,110 m,a
+Which one is fundamental unit?,কোনটি মৌলিক একক?,Joule,Newton,Candela,Pascal,জুল,নিউটন,ক্যান্ডেলা,প্যাসকেল,c
+Who predicted the existence of an anti light particle by the combination of quantum theory and the theory of relativity?,কোয়ান্টাম তত্ত্বের সাথে থিওরি অব রিলেটিভিটি ব্যবহার করে কোন বিজ্ঞানী প্রতি পদার্থের অস্তিত্ব ঘোষণা করেন?,Maxwell,Dirac,Einstein,Einstein,ম্যাক্সওয়েল,ডিরাক,আইনস্টাইন,প্ল্যাঙ্ক,b
+"In case of efficiency
+ i. efficiency = \frac{Energy wasted}{Total energy given}
+ ii. efficiency = \frac{Output effective energy}{Total energy given}
+ iii. efficiency = \frac{Energy given - Energy wasted}{Total energy given}
+ Which one is correct?","কর্মদক্ষতার ক্ষেত্রে-
+ i. কর্মদক্ষতা = \frac{অপচয়কৃত শক্তি}{মোট প্রদত্ত শক্তি}
+ ii. কর্মদক্ষতা = \frac{লভ্য কার্যকর শক্তি}{মোট প্রদত্ত শক্তি}
+ iii. কর্মদক্ষতা = \frac{প্রদত্ত শক্তি - অপচয়কৃত শক্তি}{প্রদত্ত শক্তি}
+ নিচের কোনটি সঠিক?",i,i and iii,ii and iii,"i, ii and iii",i,i ও iii,ii ও iii,"i, ii ও iii",c
+Which one is non renewable energy?,কোনটি অনবায়নযোগ্য শক্তি?,Geothermal,Hydroelectricity,Solar energy,Nuclear energy,জিওথার্মাল,জলবিদ্যুৎ,সৌরশক্তি,নিউক্লিয়ার শক্তি,d
+Which one is the dimension of stress?,পীড়নের মাত্রা কোনটি?,ML^{-1}T^{-2},ML^{2}T^{-2},ML^{2}T^{-3},ML^{-2}T^{-3},ML^{-1}T^{-2},ML^{2}T^{-2},ML^{2}T^{-3},ML^{-2}T^{-3},a
+"The volume of an onject an object of mass 100 kg is 0.2 m^{3}. If the object is released in water, then it will-",100 kg ভরের কোনো একটি বস্তুর আয়তন 0.2 m^{3} । বস্তুটি পানিতে ছেড়ে দিলে-,float with half immersed,float with partly immersed,float with completely immersed,cmpletely sink placing at the bottom,অর্ধেক নিমজ্জিত অবস্থায় ভাসবে,আংশিক নিমজ্জিত অবস্থায় ভাসবে,সম্পূর্ণ নিমজ্জিত অবস্থায় ভাসবে,সম্পূর্ণ ডুবে তলদেশে স্থিত হবে,a
+Which one is the unit of Young's modulus?,ইয়াংস মডুলাসের একক কোনটি?,Nm^{-2},Nm^{-1},Nm^{-3},Nm^{-3},Nm^{-2},Nm^{-1},Nm^{-3},Nm^{-3},a
+The height of a man is 168 cm. What is the required minimum length of a mirror to see a full-length image?,একজন ব্যাক্তির উচ্চতা 168 cm । পূর্ণবিম্ব দেখার জন্য তার কমপক্ষে কত দৈর্ঘ্যের সমতল দর্পণের প্রয়োজন?,84 cm,168 cm,112 cm,336 cm,84 cm,168 cm,112 cm,336 cm,a
+What will be the image if an object is placed between the principal focus and pole of a concave mirror?,অবতল দর্পণে প্রধান ফোকাস ও মেরুর মধ্যে লক্ষ্যবস্তু রাখলে বিম্বটি কেমন হবে?,Real and inverted,Virtual and erect,Virtual and diminished,Real and magnified,বাস্তব ও উল্টো,অবাস্তব ও সোজা,অবাস্তব ও খর্বিত,বাস্তব ও বিবর্ধিত,b
+Which relation is correct?,কোন সম্পর্কটি সঠিক?,F_{s} = - K_{x},\frac{1}{u} + \frac{1}{f} = \frac{1}{v},T = 2\pi \sqrt{\frac{g}{1}},f = v\lambda,F_{s} = - K_{x},\frac{1}{u} + \frac{1}{f} = \frac{1}{v},T = 2\pi \sqrt{\frac{g}{1}},f = v\lambda,a
+1 picometer = How much cenbtimeter?,1 পিকোটার = কত সেন্টিমিটার?,10^{-8},10^{-16},10^{-12},10^{-10},10^{-8},10^{-16},10^{-12},10^{-10},d
+"Determine the length of the rod. For masuring the rod use a Slide calipers scale amd found the reading of main scame was 5 cm, Vernier constant is 0.1mm.","একটি দন্তকে স্নিইড ক্যালিপার্সের সাহায্যে পরিমাণ করতে গিয়ে তার প্রধান স্কেল পাঠ 5 cm, ভার্নিয়ার সমপাতন 7 cm এবং ভার্নিয়ার ধ্রুবক 0.1 mm । দন্ডটির দৈর্ঘ্য নির্ণয় কর।",5.7cm,5.7 mm,5.07 mm,5.07 cm,5.7 cm,5.7 mm,5.07 mm,5.07 cm,d
+"Velocity is a-
+ i. fundamental quantity 
+ ii. Vectory quantity 
+ iii.dimension = LT^{-1}
+ Which one is correct?","বেগ একটি- 
+ i. মৌলিক রাশি 
+ ii. ভেক্টর রাশি
+ iii. মাত্রা = LT^{-1}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"Renewable energy source-
+ i. tide 
+ ii. Solar energy 
+ iii.biogas
+ Which one is correct?","নবায়নযোগ্য শক্তির উৎস- 
+ i. জোয়ারভাটা
+ ii. সৌরশক্তি
+ iii. বায়োগ্যাস
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one is the unit of elastic modulus?,স্থিতিস্থাপক গুণাঙ্কের একক কোনটি?,kgns^{-2}kgns^{-3},kgms^{-1},Nm^{-2},Js^{-1],kgns^{-2}kgns^{-3},kgms^{-1},Nm^{-2},Js^{-1],c
+How much power in Watt when a man of mass 70 kg clinb in the hill of height 100 m for using 5 minutes? [g = 9.8 ms^{-2}],"70 কেজি ওজনের একজন ব্যক্তি 5 মিনিটে 100 m উচু পাহাড়ে উঠে, তার ক্ষমতা কত ওয়াট?
+ [g = 9.8 ms^{-2}]",3500,1400,228.67,0.14,3500,1400,228.67,0.14,c
+"Two bodies of equal volune but-
+ i. higher density has heavier
+ ii. Lower dinsity has heavier 
+ iii.lower density has lighter
+ Which one is correct?","দুই বস্তুর আয়তন সমান হলেও যার- 
+ i. ঘনত্ব বেশি সেটি ভারী
+ ii. ঘনত্ব কম সেটি ভারী
+ iii. ঘন্তব কম সেটি হালকা
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+The area of a small amd bigger piston of hydraulis press is 10 cm^{2} and 350cm^{2}. How much force poroduce in bigger piston when 100 N force applied on the smaller piston?,একটি হাইড্রোলিক প্রেসের ছোট ও বড় পিস্টনের ক্ষেত্রফল যথাক্রমে 10cm^{2} ও 350 cm^{2} । ছোট পিস্টনে 100 বল প্রয়োগ করলে বড় পিস্টনে কত বল পাওয়া যাবে?,20 N,3500 N,5000 N,10000 N,20 N,3500 N,5000 N,10000 N,B
+Which one happen when time period os greater of a particle in a wave?,তরঙ্গের কোনো কণার পর্যায়কাল বেশি হলে কী ঘটবে?,Decreasing frequency,Increasing frequency,Stop frequency,Frequency unchanged,কম্পাঙ্ক কমে যাবে,কম্পাঙ্ক বেড়ে যাবে,কম্পাঙ্ক থেমে যাবে,কম্পাঙ্ক সমান থাকবে,a
+What is the ratio of wave length of the waves that produce in two tuning fork of frequency 200 Hz and 800 Hz?,দুইটি সুর শলাকার কম্পাঙ্ক 200Hz ও 800 Hz শলাকা দুটি হতে প্রাপ্ত তরঙ্গ দৈর্ঘ্যর অনাপাত কত?,01:04,04:01,01:02,02:01,01:04,04:01,01:02,02:01,b
+Which instrument used to catch the reflecting wave fot determine the depth of thr ocean?,সমুদ্রের গভীরাত নির্ণয়ে প্রতিফলিত কোন যন্ত্রটি দ্বারা ধারণ করা হয়?,Geophone,Radar,Telescope,Periscope,জিওফোন,রাডার,টেলিস্কোপ,পেরিস্কোপ,a
+Which type of image not form in convex mirror?,উত্তল দর্পণে কোন প্রতিবিম্ব উৎপন্ন হয় না?,Virtual,Straight,Real,Small in size,অসদ,সোজা,বাস্তব,আকার ছোট,c
+Why concave mirror use in telescope?,টেলিস্কোপে অবতল দর্পণ ব্যবহার করা হয় কেন?,For create clear image,Magnification of the image,Smaller image,Image is upright,স্পস্ট প্রতিবিম্ব তৈরি করা,প্রতিবিম্ব বিবর্ধিত করা,প্রতিবিম্ব খর্বিত করা,প্রতিবিম্ব সোজা করা,a
+Which one is the unit of specific resistance?,আপেক্ষিক রোধের একক কোনটি?,\Omega m,\Omega / m,(\Omegam)^{-1},\Omega / m^{2},\Omega m,\Omega / m,(\Omegam)^{-1},\Omega / m^{2},a
+How many times the kinetic energy of a definite mass when it's velocity replaced by twice time?,কোন নির্দিষ্ট ভরের কোনো বস্তুর বেগ দ্বিগুন করলে গতিশক্তি কত গুন হবে?,Four time,Twice time,Half,Equal,চারগুন,দ্বিগুন,অর্ধেক,সমান,a
+"If a sound with 2 KHz passes through an iron pipe in 5130 Ms^{-1} Belocity, what will be the wavelwnght of thet sound?",2 kHz কম্পাঙ্কবিশিষ্ট শব্দ লোহার পাইপে 5130 ms^{-1} বেগে সঞ্চালিত হলে উক্ত শব্দের তরঙ্গদৈর্ঘ্য কত?,0.38 m,1.18m,2.57 m,5.13 m,0.38 m,1.18m,2.57 m,5.13 m,c
+"the specific resistance of a conductor will change if-
+ i. The conductor's length changes 
+ ii. Temperature changes 
+ iii.material changes
+ Which one is correct?","পরিবাহী পদার্থের আপেক্ষিক রোধ পরিবর্তন হবে যদি
+ i. পরিবাহীর দৈর্ঘ্য পরিবর্তন হয়
+ ii. তাপমাত্রা পরিবর্তন হয়
+ iii. উপাদান পরিবর্তন হয়
+ নিচের কোনটি সঠিক?",i,iii,i and ii,ii and iii,i,iii,i ও ii,ii ও iii,d
+What is the velocity of sound in Mercury?,পারদে শব্দের বেগ কত?,1284 ms^{-1},1450 ms^{-1},1493 ms^{-1},12000ms^{-1},1284 ms^{-1},1450 ms^{-1},1493 ms^{-1},12000ms^{-1},b
+"If a moving fan is switched off, what will be the type of motion of the blades of the fan?",চলন্ত ফ্যানের লুইচ বন্ধ করে দিলে ফ্যানের পাখার গতি কোন ধরনের?,Circular,Periodic,Translational,Harmonic,ঘূর্ণন,পর্যাবৃত্ত,চলন,স্পন্দন,a
+Pascal is the unit of which quantity?,প্যাসকেল নিচের কোন রাশির একক?,stress,Strain,Linetic energy,Buoyancy,পীড়ন,বিকৃতি,গতিশক্তি,প্লবতা,a
+the atmospheric pressure of a certain place is 93296 Pa. density of lerocene is 800 kgm^{-3} and density of benzene is 980 kgm^{-3} in that place. Which one is correcet?,"কোনো স্থানের বায়ুমণ্ডলীয় চাপ 93296 Pa. কেরোসিনের ঘনত্ব 800 kgm^{-3} এবং বেনজিনের ঘনত্ব 980 kgm^{-3}.
+ নিচের কোনটি সঠিক?",Height of Mercury column is 76 cm,Height of water column is 9.52 m,Height of kerosene column is 9.71 m,Height of benzene column is 11.9 m,পারদ স্তম্ভের উচ্চতা 76 cm,পানি স্তম্ভের উচ্চতা 9.52 m,কেরোসিন স্তম্ভের উচ্চতা 9.71 m,বেনজিন স্তম্ভের উচ্চতা 11.9 m,b
+who gave correct mathematical explanation of quantum theory of rediation?,বিকিরণ সংক্রান্ত কোয়ান্টাম সংখ্যায়ন তত্ত্বের সঠিক গাণিতিক ব্যাখ্যা প্রদান করেন-,Einstein,Satyendra Nath Bose,Max planck,Maxwell,আইনস্টাইন,সত্যেন্দ্রনাথ বসু,ম্যাক্স প্ল্যাঙ্ক,ম্যাক্সওয়েল,c
+What is the equivalent resistanrae of the circuit?,বর্তনীর তুল্যরোধ কত?,3.94\Omega,5.5\Omega,8.1\Omega,8.55\Omega,3.94\Omega,5.5\Omega,8.1\Omega,8.55\Omega,b
+What is the fuel of fusion?,ফিউশনের জ্বালানী কোনটি?,Helium,Hydrogen,"uraniu,",Water,হিলিয়াম,হাইড্রোজেন,ইউরেনিয়াম,পানি,b
+Which friction one faces while swimming ?,পানিতে সাঁতার কাটার সময় কোন বাধা অতিক্রম করতে হয়?,Static friction,sliding griction,Rolling friction,Fluid friction,স্থিতি ঘর্ষণ,গতি ঘর্ষণ,আবর্ত ঘর্ষণ,প্রবাহী ঘর্ষণ,d
+A player throws a ball up with the velocity 72 Kmh^{-1} certicallyt. What will be the maximum height the ball eill teavel?,একজন খেলোয়াড় একটি বলকে 72 Kmh^{-1} বেগে খাড়া উপরের দিকে ছুড়লে বলটা সর্বোচ্চ কত উপরে উঠবে?,40.81 m,20.41 m,14.69 m,7.34 m,40.81 m,20.41 m,14.69 m,7.34 m,b
+Which has least elasticity?,নিচের কোনটির স্থিতিস্থাপকতা কম?,Wood,Glass,Bone,Aluminium,কাঠ,কাচ,হাড়,অ্যালুমিনিয়াম,c
+Which two fundamental forces form electroweak force?,নিচের দুটি মৌলিক বলের সমন্বয়ে ইলেক্ট্রোউইক ফোর্স গঠিত?,Gravitational force and electrival force,Strong nuclear force and weak nuclear forcce,Electromagnrtic force and weak nuclear force,Gravitational force and strong nuclrar force,মহাকর্ষ বল ও তড়িৎ বল,সবল নিউক্লিয় বল ও দুর্বল নিউক্লিয় বল,তাড়িত চৌম্বক বল ও দুর্বল নিউক্লিয় বল,মহাকর্ষ বল ও সবল নিউক্লিয় বল,c
+What colour a redn rpse turn into in red colour?,লাল আলোতে লাল গোলাপ ফুল কোন বর্ণের দেখায়?,red,pink,Green,Blue,লাল,গোলাপী,সবুজ,নীল,a
+Which scientist first gave the idea of the solar centric solar system?,কোন বিজ্ঞানী সূর্যকেন্দ্রিক সৌরজগতের ধারণা দিয়েছিলেন?,Galileo,Copernicus,Aristarchus,Seleucus,গ্যালিলিও,কোপার্নিকাস,আরিস্তারাকস,সেলেউকাস,b
+"Motion of the vibration of an atom-
+ i. Linear motion
+ ii. Periodic motion 
+ iii.harmonic motion
+ Which one is correct?","পরমাণুর কম্পনের গতি
+ i. সরল রৈখিক গতি
+ ii. পর্যাবৃত্ত গতি
+ iii. স্পন্দন গতি
+ নিচের কোনটি সঠিক?",i,iii,ii and iii,"i, ii and iii",i,iii,ii ও iii,"i, ii ও iii",c
+If absolute errors are equal. Which books length's relative error will be more? The length-,চূড়ান্ত ত্রুটি সমান হলে কোন বইটির দৈর্ঘ্যের আপেক্ষিক ত্রুটি বেশি হবে? যার দৈর্ঘ্য-,10 cn,15 cn,20 cn,25 cm,10 cm,15 cm,20 cm,25 cm,a
+"What is percentage of visible planets, stars amd galaxies of the unicerse can the physicist explain?","পদার্থবিজ্ঞানীরা বিশ্ব ব্রক্ষ্মন্ডের দৃশ্যমান গ্রহ, নক্ষত্র ও গ্যালাক্সির কত শতাংশ ব্যাখ্যা করতে পারেন?",4%,5%,6%,7%,4%,5%,6%,7%,a
+Which two of the forces combine electro-weak force?,‘ইলেকট্রো উইক ফোর্স কোন দুইটি বলের সমন্বিত রুপ?,Electromagnetic force amd geavitatiomal force,Electromagnetic force amd weak nuclear force,Electromagnetic force amd strong nuclear,strong nuclear force amd weak nuclear force,বিদ্যুৎ চৌম্বকীয় বল এবং মহাকর্ষ বল,বিদ্যুৎ চৌম্বকীয় বল এবং দূর্বল নিউক্লিউ বল,বিদ্যুৎ চৌম্বকীয় বল এবং সবল নিউক্লিউ বল,সকল নিউক্লিয় বল এবং দূর্বল নিউক্লিয় বল,b
+By which equation will the mass of the object be possible to convert into energy?,কোন সূত্রের সাহায্য বস্তুর ভরকে শক্তিতে রুপান্তর করা সম্ভব?,E = \frac{1}{2} mv^{2},E = mgh,E = mc^{2},F = ma,E = \frac{1}{2} mv^{2},E = mgh,E = mc^{2},F = ma,c
+What is the amount of Uranium in nature?,প্রকৃতিতে ইউরেনিয়াম এর পরিমান কত?,0.90%,0.70%,0.60%,0.40%,0.90%,0.70%,0.60%,0.40%,b
+"Which one of follewowing conditions do the laws of falling bodies of Galileo follow?
+ i. All bodies fall from rest 
+ ii. All bodies fall from same height 
+ iii. All bodies fall freely 
+ Which one is correct?","বিজ্ঞানী গ্যালিলিও এর পড়ন্ত বস্তুর সূত্রগুলো নিচের কোন শর্তগুলো মেনে চলে? 
+ i. স্থির অবস্থা থেকে বস্তুগুলো পড়তে হবে 
+ ii. একই উচ্চতা থেকে বস্তুগুলো পড়তে হবে 
+ iii. বস্তুগুলো মুক্তভাবে পড়তে হবে",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+How much stronger is electromagnetic force than gravitational force?,বিদ্যুৎ চৌম্বকীয় বল মাধ্যকর্ষণ শক্তি তুলনায় কতগুণ শক্তিশালী?,10^{36},10^{39},10^{63},10{93},10^{36},10^{39},10^{63},10{93},a
+What is the value of gravitational constant G?,মহাকাষীয় ধ্রুবক G এর মান কত?,6.67 \times 10^{11}Nm^{2}kg^{-2},6.67 \times 10^{-11}Nm^{-2}kg^{-2},6.67 \times 10^{-11}Nm^{2}kg^{-2},6.67 \times 10^{11}Nm^{2}kg^{-1},6.67 \times 10^{11}Nm^{2}kg^{-2},6.67 \times 10^{-11}Nm^{-2}kg^{-2},6.67 \times 10^{-11}Nm^{2}kg^{-2},6.67 \times 10^{11}Nm^{2}kg^{-1},c
+"Density of cork is 0.25 \times 10^{3}kg/m^{3}, What percentage of the cork will remain under water if it is released in water to float?","কর্কের ঘনত্ব 0.25 \times 10^{3} kgm^{=-3} হলে, পানিতে ভাসিয়ে দিলে তার কত শতাংশ পানির নিচে থাকবে?",25%,15%,10%,5%,25%,15%,10%,5%,a
+Which one is the unit of pressure?,চাপের একক নিচের কোনটি?,kgm^{-1}s^{-2},kgm^{2}s^{-2},kgms^{-2},kgm^{2}s^{-3},kgm^{-1}s^{-2},kgm^{2}s^{-2},kgms^{-2},kgm^{2}s^{-3},a
+A stick of a match box is rubbed with box by-a-force-of-3N. What amount of energy is consumed in rubbibg the stick if ir is stretched 4 cm?,একটি ম্যাচ বাক্সের কাঠি দিয়ে বাক্সে 3 N বলে ঘষা হলো। কাঠিটিকে 4 cm টানা হলে কাঠি ঘষতে কত শক্তি ব্যয় হলো?,0.12 J,1.2 J,1.176 J,12 J,0.12 J,1.2 J,1.176 J,1.2 J,a
+"Whose unit is Nm^{-2}?
+ i. pressure
+ ii. Stress
+ iii.Modulus of elasticity
+ Which one is correct?","Nm^{-2} কোনটির একক? 
+ i. চাপ 
+ ii. পীড়ন
+ ii. স্থিতিস্থাপক গুণাঙ্ক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+The depth of a pond is 3m. What will be the pressure at the bottom of the pond?,একটি পুকুরের গভীরতা 3 m হলে উহার তলদেশে চাপ কত হবে?,2.94 \times 10^{4}Pa,2.09 \times 10^{4}Pa,0.29 \times 10^{4}Pa,2.94 \times 10^{-4}Pa,2.94 \times 10^{4}Pa,2.09 \times 10^{4}Pa,0.29 \times 10^{4}Pa,2.94 \times 10^{-4}Pa,a
+"Buoyancy is-
+ i. the weight of liquid displaced by the object 
+ ii. The resultant upwars force
+ iii. Vpg
+ Which one is correct?","প্লবতা হলো- 
+ i. বস্তু কর্তৃক অপসারিত প্রবাহীর ওজন
+ ii. লব্ধি উদ্ধমূখী বল
+ iii. Vpg
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+At what position of a concave mirror is the bulb used in torch light kept?,টর্চলাইটে ব্যবহৃত বালবটি অবতল আয়নার কোথায় বসানো থাকে?,Between focal point and pole,Outside the focal point,At the centre of curvature,At focal point,ফোকাস মেরুর মধ্যে,ফোকাস ও বিন্দুর বাহির,বক্রতার কেন্দ্র,ফোকাস বিন্দুতে,d
+An object is placed at a distaner 30 cm from a concave mirror and image is formed at a didtance 30 cm away. What will be the focal lengtht of the mirror?,অবতল দর্পণ হতে 30 cm দূল বস্ত রাখলে 30 cm দূরে প্রতিবিম্ব গঠিত হয়। দর্পণটির ফোকাস দূরত্ব কত?,0.30 m,0.15 m,1.00 m,1.5 m,0.30 m,0.15 m,1.00 m,1.5 m,b
+Which relation is correct?,নিচের কোন সম্পর্কটি সঠিক ?,I_{1} = I_{2},I_{2} > I_{3},I_{1} + I_{2} = I_{3},I_{1} > I_{3},I_{1} = I_{2},I_{2} > I_{3},I_{1} + I_{2} = I_{3},I_{1} > I_{3},c
+Which one is the of conductivity (0)?,পরিবাহকত্ব \sigma এর একক কোনটি?,\Omega m^{-1},\Omega m,\Omega^{-1}m,\Omega^{-1}m^{-1},\Omega m^{-1},\Omega m,\Omega^{-1}m,\Omega^{-1}m^{-1},d
+What is rheostat?,রিওস্টেট কী?,Circuit breaker,Variable resistance,Fuse,capacitor,সার্কিট ব্রেকার,পরিবর্তী রোধ,ফিউজ,ধারক,b
+Which one is the unit of ibrwbaurt of sound?,শব্দের তীব্রতার একক কোনটি?,Nm^{-2},Hz,Wm^{-2},Nm,Nm^{-2},Hz,Wm^{-2},Nm,c
+What type of motion is the motion of an electric fan?,বৈদ্যুতিক পাখার গতি কী রকম গতি?,Linear motion,Circular motion,Elliptical motion,Vibratory motion,রৈখিক গতি,ঘূর্ণন গতি,উপবৃত্তাকার গতি,স্পন্দন গতি,b
+Which of the following is a vector quantity?,নিচের কোনগুলো ভেক্টর রাশি?,Work and velocity,Displacement and density,Distance and acceleration,Momentum and force,কাজ ও বেগ,সরণ ও ঘনত্ব,দূরত্ব ও ত্বরণ,ভরবেগ ও বল,d
+The velocity of a body starting from rest with uniform acceleration is ____ the distance.,স্থির অবস্থান থেকে সমত্বরণে বস্তুর যেকোনো সময়ের বেগ বস্তুর অতিক্রান্ত দূরত্বের-,proportional to,proportional to the square of,inversely proportional to the square of,proportional to the square root of,সমানুপাতিক,বর্গের সমানুপাতিক,বর্গের ব্যস্তানুপাতিক,বর্গমূলের সমানুপাতিক,d
+Flow of charge with respected to time is called-,সময়ের সাথে চার্জ প্রবাহের হারকে কী বলে?,potential,electric current,resistance,conductivity,বিভব,তড়িৎ প্রবাহ,রোধ,পরিবাহিতা,b
+What is the unit of retardation?,মন্দনের একক কোনটি?,ms^{-2},ms^{-1},kgs^{-1},Kgs^{-2},ms^{-2},ms^{-1},kgs^{-1},Kgs^{-2},a
+What is the dimention of power?,ক্ষমতার মাত্রা কোনটি?,MLT^{-2},ML^{-2}T^{2},ML^{2}T^{-2},ML^{2}T^{-3},MLT^{-2},ML^{-2}T^{2},ML^{2}T^{-2},ML^{2}T^{-3},d
+What kind of energy is stored if a body is lifted from the earth surface?,একটি বস্তুকে ভূ-পৃষ্ঠ থেকে উপরে উঠালে এর মধ্যে কোন শক্তি জমা থাকে?,Kinetic energy,Potential energy,Heat energy,Chemical energy,গতি শক্তি,বিভব শক্তি,তাপ শক্তি,রাসায়নিক শক্তি,b
+If we consider from the viewpoint of quantity most of the energy in the world is converted from which of the following?,পরিমাণের দিক থেকে বিবেচনা করলে পৃথিবীতে সবচেয়ে বেশি শক্তি রূপান্তর হয় নিচের কোনটি থেকে?,Electric energy,Chemical energy,Light energy,Heat energy,তড়িৎ শক্তি,রাসায়নিক শক্তি,আলোক শক্তি,তাপ শক্তি,d
+"Length of the object AB = 50 cm, Magnification = 3.
+ 
+ According to the above figure, what is the length of the image?","বস্তুর দৈর্ঘ্য AB = 50 cm, বিবর্ধন = 3.
+ 
+ উপরোক্ত চিত্রে বিম্বের দৈর্ঘ্য কত?",0.1667 cm,1.5 m,15 cm,16.67 m,0.1667 cm,1.5 m,15 cm,16.67 m,b
+"Length of the object AB = 50 cm, Magnification = 3.
+ 
+ Which of the following is correct in case of image of the object AB?","বস্তুর দৈর্ঘ্য AB = 50 cm, বিবর্ধন = 3.
+ 
+ AB বস্তুটির প্রতিবিম্বের ক্ষেত্রে নিচের কোনটি সঠিক?",Real and inverted,Real and diminished,Virtual and magnified,Real and upright,বাস্তব ও উল্টো,বাস্তব ও খর্বিত,অবাস্তব ও বিবর্ধিত,বাস্তব ও সোজা,c
+"A body of mass m is kept at a height of 20m, 30m, 40m and 50m respectively. From which height, if the body is released then the kinetic energy will be maximum?","m ভরের একটি বস্তু 20 m, 30 m, 40 m, ও 50 m উপরের রাখা হলো। কোনো অবস্থান থেকে বস্তুটি ছেড়ে দিলে গতিশক্তি সবচেয়ে বেশি হবে?",20m,30m,40m,50m,20m,30m,40m,50m,d
+"In case of measurement-
+ i. relative error = \frac{Absolute error}{Measured value}
+ ii. Vernier constant = \frac{Smallest division of main scale}{Total divisions of Vemier scale}
+ iii. least count = \frac{Total divisions of circular scale}{Pitch}
+ Which one is correct?","পরিমাপের ক্ষেত্রে-
+ i. আপেক্ষিক ত্রুটি = \frac{চূড়ান্ত ত্রুটি}{পরিমাপ করা মান}
+ ii. ভার্নিয়ার ধ্রুবক = \frac{প্রধান স্কেলের ক্ষুদ্রতম 1 ঘরের মান}{ভার্নিয়ার স্কেলে মোট ভাগ সংখ্যা}
+ iii. লঘিষ্ঠ গণন = \frac{বৃতাকার স্কেলের ভাগ সংখ্যা}{পিচ}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",a
+"Two persons of masses 40kg and 80kg are running with a velocity 8ms"" and 4ms respectively. Which of the following is correct in case of the two persons?",40kg ও 80kg ভরের দু'জন ব্যক্তি যথাক্রমে 8ms^{-1} ও 4ms^{-1} বেগে দৌড়াচ্ছে। দুজনের ক্ষেত্রে নিচের কোনটি সঠিক?,The kinetic energy of the 1st person is half of the 2nd person,The kinetic energy of the 1st person is four times of the 2nd person,The kinetic energy of the 1st person is,The kinetic energy of the 2nd person is twice of the 1st person,১ম ব্যক্তির গতিশক্তি দ্বিতীয় ব্যক্তির অর্ধেক,১ম ব্যক্তির গতিশক্তি দ্বিতীয় ব্যক্তির চারগুণ,১ম ব্যক্তির গতিশক্তি দ্বিতীয় ব্যক্তির দ্বিগুণ,দ্বিতীয় ব্যক্তির গতিশক্তি ১ম ব্যক্তির দ্বিগুণ,c
+What is the wavelength of visible light of human eye?,মানুষের দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্য কত?,Less than 400 nm,More than 700 nm,400 nm to 600 nm,400 nm to 700 nm,400 nm এর নিচে,700 nm এর বেশি,400 nm থেকে 600 nm,400 nm থেকে 700 nm,d
+Which colour of light has the lowest wavelength?,কোন আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে কম?,Red,Blue,Violet,Yellow,লাল,নীল,বেগুনি,হলুদ,c
+"The characteristics of the image formed in a plane mirror-
+ i. image is virtual and erect
+ ii. image is virtual and equal to the object
+ iii. the distance between the mirror and image is half of the distance between the mirror and the object
+ Which one is correct?","সমতল দর্পনে সৃষ্ট প্রতিবিম্বের বৈশিষ্ট্য-
+ i. বিশ্ব অবাস্তব ও সোজা
+ ii. বিম্ব অবাস্তব ও সমান দৈর্ঘ্যের
+ iii. দর্পণ থেকে বস্তুর দূরত্ব যত, দর্পণ থেকে বিম্বের দূরত্ব তার অর্ধেক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",a
+Where convex mirrors are used?,উত্তল দর্পণ কোথায় ব্যবহৃত হয়?,Cars,Radar,Solar oven,Torch light,গাড়িতে,রাডারে,সৌর চুল্লিতে,টর্চ লাইটে,a
+Which of the following is the most of conductivity?,নিচের কোনটির পরিবাহিতা সবচেয়ে বেশি?,Copper,Silver,Gold,Graphite,তামা,রূপা,সোনা,গ্রাফাইট,d
+Which of the following relation is correct?,নিচের কোন সম্পর্কটি সঠিক?,V = \frac{R}{I},R = \rho \frac{A}{L},\rho = R.\frac{A}{L},A = \frac{R\rho}{L},V = \frac{R}{I},R = \rho \frac{A}{L},\rho = R.\frac{A}{L},A = \frac{R\rho}{L},c
+"60W is written on a bulb of 220V.
+ 
+ What amount of electric current is following through the bulb?","220V এর বাল্বের 60W লেখা আছে ।
+ 
+ বাল্বটিতে কী পরিমাণ তড়িৎ প্রবাহিত হচ্ছে?",0.27 a,3.67a,27 a,36.7a,0.27 a,3.67a,27 a,36.7a,a
+"60W is written on a bulb of 220V.
+ 
+ The price of each unit is Tk. 10. How much will be the electric bill for the month of January if the bulb is used for 5 hours everyday?","220V এর বাল্বের 60W লেখা আছে ।
+ 
+ প্রতি ইউনিটের মূল্য 10 টাকা। প্রতিদিন 5 ঘন্টা করে বাল্বটি জ্বালালে জানুয়ারি মাসের বিদ্যুৎ বিল কত টাকা হবে?",Tk. 93,Tk. 92,Tk. 91,Tk. 90,93 টাকা,92 টাকা,91 টাকা,90 টাকা,a
+"In case of potential difference, resistance and electric currect -
+ i. the less the value of potential difference, the less will be the value of electric current
+ ii. if the value of potential difference is negative then the direction of electric current will change
+ iii. if the resistance is high, the flow of electricity will be low
+ Which one is correct?","বিভব পার্থক্য, রোধ, তড়িৎ প্রবাহের ক্ষেত্রে-
+ i. যত কম বিভব পার্থক্য তত কম বিদ্যুৎ প্রবাহ
+ ii. বিভব পার্থক্য নেগেটিভ হলে বিদ্যুৎ প্রবাহ দিক পরিবর্তন করবে
+ iii. রোধ বেশি হলে বিদ্যুৎ প্রবাহ কম হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",d
+What is called the displacement of screw gauge?,স্ক্রু-গজের স্ক্রুয়ের সরণকে কী বলে?,Error,Least count,Vemicr constant,Pitch,যান্ত্রিক ত্রুটি,লঘিষ্ঠ গণন,ভার্নিয়ার ধ্রুবক,পিচ,d
+Which one of the following is the multiple of force and velocity?,নিচের কোনটি বল ও বেগের গুনফল?,Work,Energy,Power,Momentum,কাজ,শক্তি,ক্ষমতা,ভরবেগ,c
+If a freely falling body travels 50 m in 5 sec then how much time in second will need to travel thr distance of 72 meter?,বিনা বাধায় পড়ন্ত বস্তু 5 সেকেন্ডে 50 মিটার পথ অতিক্রম করলে 72 মিটার পথ অতিক্রম করতে কত সেকেন্ড সময় লাগবে?,6,7.2,9.5,12,6,7.2,9.5,12,a
+Which one is the minimum sub-multiple used in S.I unit?,S.I এককে ব্যবহৃত সবচেয়ে ছোট উপসর্গ কোনটি?,Peta,Femto,Nano,Micro,পেটা,ফেমটো,ন্যানো,মাইক্রো,b
+"As high as someone goes up from the sea level of the surface-
+ i. the weight of atmosphere increases 
+ ii. The density of air decreases
+ iii.the pressure of air decreases
+ Which one is correct?","ভূ-পৃষ্ঠের সমুদ্রে সমতল থেকে যত উপরে উঠা যায়- 
+ i. বায়ুমন্ডলের ওজন তত বৃদ্ধি পায় 
+ ii. বায়ুর ঘনত্ব তত হ্রাস পায় 
+ iii. বায়ুর চাপ তত হ্রাস পায়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Which of the following has more conductivity?,নিচের কোনটির পরিবাহকত্ব বেশি?,Copper,Silver,Tungsten,Nichrom,তামা,রুপা,টাংস্টেন,নাইক্রোম,b
+If the Vernier constant of any slide calipers is 0.0065 cm then how many divicions are there in ccale? [he smallest divisiom of main scale is 1 mm],কোনা স্লাইড ক্যালিপার্সে ভার্নিয়ার ধ্রুবকের মান 0.005 সেমি হলে ভার্নিয়ার স্কেলের ভাগ সংখ্যা কত? [প্রধান স্কেলের ক্ষুদ্রতম 1 ঘর = 1mm],5,10,20,200,5,10,20,200,c
+Which of the following is inconsistent with a concave mirrer?,নিচের কোনটির সাথে অবতল দর্পণের অসম্পৃক্ততা আছে?,View mirror,Dental treatment,Torch light,telescopw,ভিউ মিরর,দাঁত পরীক্ষায়,টর্চ লাইটে,টেলিস্কোপে,a
+How much mA of current will cause death to human if it floes through the human heart ?,মানুষের হৃৎপিন্ডের ভিতর দিয়ে কত mA বিদ্যুৎ প্রবাহিত হলে মানুষ মারা যায় ?,240,220,10,1.5,240,220,10,1.5,c
+An electric motor of 500w lifted an object of mass 15 kg at height of 20 m in 10 sec. How much energy is wasted?,500W ক্ষমতার একটি তড়িৎ মোটর দ্বারা 10 sec এ একটি 15 kg ভরের বস্তুকে 20 m উচ্চতায় তোলা হলো। শক্তির অপচয় কত ?,2060 J,2940 J500 J,500 J,7500 J,2060 J,2940J,5000 J,75000 J,a
+Whic of the following will be unchanged if the time is increased during the propagation of wave in different medium?,তরঙ্গে ভিন্ন ভিন্ন মাধ্যমের ভিতর দিয়ে যাওয়ার সময় নিচের কোনটি অপরিবর্তিত থাকে?,Wave length,Wave velocity,wave speed,Frequency,তরঙ্গদৈর্ঘ্য,তরঙ্গ বেগ,তরঙ্গ দ্রতি,কম্পাঙ্ক,d
+The resultant of which force is zero?,কোন বলের লব্ধি শূন্য হয় ?,Balanced force,Unbalanced force,Tactile force,Non tactile force,সাম্যবল,অসাম্যবল,স্পর্শবল,অস্পর্শ বল,a
+What is called the rate of change of distance?,অতিক্রান্ত দুরত্ব পরিবর্তনের হারকে কী বলে?,Displacement,Velocity,Speed,Acceleration,সরণ,বেগ,দ্রুতি,ত্বরণ,c
+"Keeping the flow of courrent unchanged if the time is increased then the flow of current will be-
+ i. increased 
+ ii. decreased
+ iii.unchanged
+ Which one is correct?","পরিবাহীর আধান প্রবাহ অপরিবর্তিত রেখে সময় বৃদ্ধি করলে তড়িৎ প্রবাহ- 
+ I. বৃদ্ধি পাবে 
+ II. হ্রাস পাবে 
+ III. অপরিবর্তিত থাকবে
+ নিচের কোনটি সঠিক?",i,ii,i and ii,ii and iii,i,ii,i ও ii,"i, ii ও iii",b
+"The reason of illumunated of the whole house is - 
+ i.regular reflection 
+ ii. Total internal reflection
+ iii.irregular reflaction
+ Which one is correct?","সম্পূর্ণ ঘর আলোকিত হওয়ার কারণ- 
+ I. নিয়মিত প্রতিফলণ 
+ II. পূর্ণ অভ্যন্তরীন প্রতিফলণ 
+ III. ব্যপ্ত প্রতিফলণ
+ নিচের কোনটি সঠিক?",i,ii,iii,"i, ii and iii",i,ii,iii,"i, ii ও iii",c
+Which has the minimum elasticity?,কোনটির স্থিতিস্থাপকতা সবচেয়ে কম ?,Bone,wood,Glass,Aluminium,হাড়,কাঠ,কাচ,অ্যালুমিনিয়াম,a
+Which musical instrument is made with the flow of air?,বাতাসের প্রবাহ দিয়ে তৈরি বাদ্যযন্ত্র কোনটি ?,Violin,Harmonium,Setar,Drums,বেহালা,হারমোনিয়াম,সেতার,ঢোল,b
+Light eenergy is converted into ehich energy tor photoelectric effect on photograpfic plate?,ফটোগ্রাফিক প্লেটের উপর আলোক ক্রিয়ার ফলে আলোক শক্তি কোন শক্তিতে রূপান্তরিত হয়?,Elecrical energy,Sound energy,Mechanical energy,Cdhemecal energy,তড়িৎ শক্তি,শব্দ শক্তি,যান্ত্রিক শক্তি,রাসায়নিক শক্তি,d
+Which one is the weakest force among the fundamental forces ?,মৌলিক বলগুলোর মধ্যে সবথেকে দুর্বল বল কোনটি?,Gravitational force,Electromagnetic force amd weak nuclear force,Weak nuclear force,strong nuclear force amd weak nuclear force,মহাকর্ষ বল,তড়িৎ চৌম্বক বল,দুর্বল নিউক্লীয় বল,সবল নিউক্লীয় বল,a
+Which one is the source of the renewable energy?,নবায়নযোগ্য শক্তির উৎস কোনটি?,Gas,Coal,Nuclear,Geothermal,গ্যাস,কয়লা,নিউক্লিয়ার,জিওথার্মাল,d
+"The repulsive force is - 
+ i. gravitational force 
+ ii. Magnetic force
+ iii. Electrical force 
+ Which one is correct?","বিকর্ষণধর্মী বল হচ্ছে-
+ i. মহাকর্ষীয় বল
+ ii. চৌম্বক বল
+ iii. তড়িৎ বল
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+What is the dimenesion of acceleration?,ত্বরণের মাত্রা কোনটি?,LT^{-1},LT^{-2},L^{2}T^{-1},L^{2}T^{-2},LT^{-1},LT^{-2},L^{2}T^{-1},L^{2}T^{-2},b
+"Which force will feel a marble, if it goes through glycerin?",একটি মার্বেল গ্লিসারিনের মধ্য দিয়ে গেলে কোন বল অনুভব করে?,Static friction,sliding griction,Rolling friction,Fluid friction,স্থিতি ঘর্ষণ,গতি ঘর্ষণ,আবর্ত ঘর্ষণ,প্রবাহী ঘর্ষণ,d
+for safe and perfect driving which is the most necessary ?,নিখুঁত ও নিরাপদ গাড়ি চালানোর জন্য কোনটি সর্বাপেক্ষা প্রয়োজনীয়?,Cleanung the glasses of car,using pertol as fuel,Properly adjust the mirror,Keep the light on all the time,গাড়ির কাচ পরিষ্কার করা,জ্বালানী হিসেবে পেট্রোল ব্যবহার করা,দর্পণগুলো ঠিকমত উপযোজন করা,সবসময় বাতি জ্বালিয়ে রাখা,c
+Which one is used as the fuel in nuclear reactor ?,নিউক্লিয়ার রি-অ্যাকটরে জ্বালানি হিসেবে নিচের কোনটি ব্যবহার করা হয়?,Neutron,Lrypton,Barium,Uranium,নিউট্রন,ক্রিপটন,বেরিয়াম,ইউরেনিয়াম,d
+What is the density of human body?,মানবদেহের ঘনত্ব কত?,0.25 gm/cc,0.45 gm/cc,0.99 gm/cc,2.60 gm/cc,0.25 gm/cc,0.45 gm/cc,0.99 gm/cc,2.60 gm/cc,c
+"In nuclear rector - 
+ i. there is control rod
+ ii. huge amunt of heat energy is radiated 
+ iii.uranium is used as fuel
+ Which one is correct?","মানবদেহের ঘনত্ব কত?
+ i. কন্ট্রোল রড থাকে
+ ii. বিপুল পরিমাণ তাপ শক্তি নির্গত হয়
+ iii. জ্বালানি হিসেবে ইউরেনিয়াম ব্যবহৃত হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the unit of intensity of sound ?,শব্দের তীব্রতার একক কোনটি?,s^{-1},Hz,ms^{-1},Wm^{-2},s^{-1},Hz,ms^{-1},Wm^{-2},d
+What is the Young's modulus of copper ?,তামার ইয়াং মডুলাস কত?,50 G-Pa,69 G-Pa,1176 G-Pa,200 G-Pa,50 G-Pa,69 G-Pa,1176 G-Pa,200 G-Pa,c
+what is the second law of falling body?,পড়ন্ত বস্তুর দ্বিতীয় সূত্র কোনটি?,v \propto t,v \propto g,h \propto t,h \propto t^{2},v \propto t,v \propto g,h \propto t,h \propto t^{2},a
+"the front part of pin is sharp- 
+ i. to increase the pressure 
+ ii. To increase the force 
+ iii. To get more mechanical advantage 
+ Which one is correct?","পেরেকের অগ্রভাগে সূঁচালো হয়-
+ i. চাপ বাড়ানোর জন্য
+ ii. বল বাড়ানোর জন্য
+ iii. যান্ত্রিক সুবিধা বেশি পাওয়ার জন্য
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"The length of a conducting wire is 2 m, cross sectional area 6 \times 10^{8}m^{2} and resisitivity 1.68 \times 10^{8} \Omega-m. What is the resistance?","একটি পরিবাহী তারের দৈর্ঘ্য 2 m, প্রস্থচ্ছেদের ক্ষেত্রফল 6 \times 10^{8}m^{2} এবং রোধকত্ব 1.68 \times 10^{8} \Omega-m হলে তারের রোধ কত ওহম?",0.056\Omega,0.56\Omega,1.78\Omega,3.57\Omega,0.056\Omega,0.56\Omega,1.78\Omega,3.57\Omega,b
+the specific resistance of which one is less?,কোনটির আপেক্ষিক রোধ কম?,Copper,Graphite,Silver,Gold,তাঁমা,গ্রাফাইট,রুপা,সোনা,c
+Which one of the following is vector quantity?,নিচের কোনটি ভেক্টর রাশি?,Displacement,distance,Time,Speed,সরণ,দূরত্ব,সময়,দ্রুতি,a
+In which way \frac{1}{2} mv^{2} can be written?,\frac{1}{2} mv^{2} কে নিচের কোন রূপে লেখা যায়?,mu^{2} + W,\frac{1}{2} mu^{2} + 2W,\frac{1}{2} mu^{2} + W,\frac{1}{2}mu^{2} + \frac{1}{2}W,mu^{2} + W,\frac{1}{2} mu^{2} + 2W,\frac{1}{2} mu^{2} + W,\frac{1}{2}mu^{2} + \frac{1}{2}W,c
+"Main scale reading is 12mm, Vernier concides 7 and Vernier constant is 0.10min. What will be result?","প্রধান স্কেলের পাঠ 12 mm, ভার্নিয়ার সমপাতন 7 এবং ভার্নিয়ার ধ্রুবক 0.10 mm হলে পাঠ কত?",1.27mni,12.7cm,1.27cm,1.29 mm,1.27mm,12.7cm,1.27cm,1.29 mm,c
+"In screw gauge, the number of circular divisions is 'a', the least constant is 'b' and the pitch is 'c'. Which one is correct?","একটি স্ক্রুগজের বৃত্তাকার স্কেলের ভাগসংখ্যা a, ন্যূনাঙ্ক b এবং স্ক্রুর পিচ c হলে নিচের কোনটি সঠিক?",abc = 1,c = ab,a = bc,b = ac,abc = 1,c = ab,a = bc,b = ac,b
+An object moves 10m in straight path and come back 4m along the same path. What is the difference between distance and displacement?,একটি বস্তু সরল পথে 10 m অগ্রসর হয়ে সেখান থেকে একই পথে 4 m ফিরে এলো। দূরত্ব ও সরণের পার্থক্য কত?,4m,6m,8m,14m,4m,6m,8m,14m,c
+The velocity of a body moving with uniform acceleration increases from 4ms^{-1} to 8ms^{-1} in 2 sec. What will be the velocity of the body after 4 sec?,সুষম ত্বরণে চলমান কোনো বস্তুর বেগ 2 s এ 4ms^{-1} হতে বৃদ্ধি পেয়ে 8ms^{-1} হলে 4 s পর বস্তুটির বেগ কত হবে?,12ms^{-1},16ms^{-1},20ms^{-1},24ms^{-1},12ms^{-1},16ms^{-1},20ms^{-1},24ms^{-1},a
+"If velocity doesn't change (u = v), then the equation of displacement-
+ i.s = ut + \frac{1}{2} at^{2}
+ ii. S = \left ( \frac{u + v}{2} \right ) t
+ iii. s = vt
+ Which one is correct?","যদি বেগের পরিবর্তন না হয় (u = v), তাহলে অতিক্রান্ত দূরত্বের সমীকরণ-
+ i.s = ut + \frac{1}{2} at^{2}
+ ii. S = \left ( \frac{u + v}{2} \right ) t
+ iii. s = vt
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",b
+If one ampere electric current flows for one second then what is called the amount of charge?,এক সেকেন্ডে এক অ্যাম্পিয়ার বিদ্যুৎ প্রবাহ করতে যে পরিমাণ চার্জ প্রবাহিত হয় তাকে কী বলে?,One ampere,One volt,One ohm,One coulomb,এক অ্যাম্পিয়ার,এক ভোল্ট,এক ও'ম,এক কুলম্ব,d
+"If 10C charge flows in 5 sec, what will be electric current?",5 সেকেন্ড সময়ে 10 C চার্জ প্রবাহিত হলে বিদ্যুৎ প্রবাহ কত?,0.5 A,2A,SA,10A,0.5 A,2A,SA,10A,b
+"After cutting a hollow glass sphere of diameter of 40cm a spherical mirror is made by coating on outside with silver. A body is placed at a distance of 15cm from the centre of reflecting surface.
+ 
+ What is the focal length of that spherical mirror?","40 সে.মি. ব্যাসের একটি ফাঁপা কাচের গোলককে কেটে বাইরের পৃষ্ঠে রূপার প্রলেপ লাগিয়ে গোলীয় আয়না তৈরি করে এর প্রতিফলক পৃষ্ঠের কেন্দ্রবিন্দু থেকে 15 সে.মি. দূরে বস্তু রাখা হলো।
+ 
+ গোলীয় আয়নার ফোকাস দূরত্ব কত?",40cm,20cm,15cm,10cm,40 সে.মি.,20 সে.মি.,15 সে.মি.,10 সে.মি.,d
+"After cutting a hollow glass sphere of diameter of 40cm a spherical mirror is made by coating on outside with silver. A body is placed at a distance of 15cm from the centre of reflecting surface.
+ 
+ The image formed mirror- 
+ i. real
+ ii. inverted
+ iii. at 30cm distance
+ Which one is correct?","40 সে.মি. ব্যাসের একটি ফাঁপা কাচের গোলককে কেটে বাইরের পৃষ্ঠে রূপার প্রলেপ লাগিয়ে গোলীয় আয়না তৈরি করে এর প্রতিফলক পৃষ্ঠের কেন্দ্রবিন্দু থেকে 15 সে.মি. দূরে বস্তু রাখা হলো।
+ 
+ আয়নায় গঠিত প্রতিবিম্বটি হবে-
+ i. বাস্তব
+ ii. উলটো
+ iii. 30 সে.মি. দূরে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",d
+"If 10% energy is wasted in every step, what is the efficiency in 2 steps?",প্রত্যেকটি ধাপে 10% শক্তি অপচয় হলে দুই ধাপে কর্মদক্ষতা কত?,90%,81%,80%,20%,90%,81%,80%,20%,b
+What is resistance of dry skin of human beings?,শুকনো অবস্থায় মানুষের চামড়ার রোধ কত?,3Κ\Omega - 20Κ\Omega,3Κ\Omega – 30Κ\Omega,3Κ\Omega - 40Κ\Omega,3Κ\Omega - 50Κ\Omega,3Κ\Omega - 20Κ\Omega,3Κ\Omega – 30Κ\Omega,3Κ\Omega - 40Κ\Omega,3Κ\Omega - 50Κ\Omega,d
+Which one is the scalar quantity?,কোনটি স্কেলার রাশি?,Velocity,Speed,Displacement,Acceleration,বেগ,দ্রুতি,সরণ,ত্বরণ,b
+Which of the following substance has more conductivity?,নিচের কোনটির পরিবাহকত্ব বেশি?,Air,Diamond,Graphite,Gold,বাতাস,হীরা,গ্রাফাইট,সোনা,d
+From how many square kilometer area about 5000 MW heat energy can be found from the sun as light?,কত বর্গ কি.মি. এলাকায় সূর্যের আলো থেকে তাপ হিসেবে প্রায় 5000 MW শক্তি পাওয়া যাবে?,5,500,1000,5000,5,500,1000,5000,a
+Which one of the folloiwng is the unit of energy?,নিচে্র কোনটি শক্তির একক?,kgms^{-1},Kgm^{2}s,Kgm^{2}s^{-2},Jkg^{-1}K^{-1},kgms^{-1},Kgm^{2}s,Kgm^{2}s^{-2},Jkg^{-1}K^{-1},c
+In thermocouple applying heat at the junction of two different metals which energy can be produced directly?,থার্মোকাপলে দুটি ভিন্ন ধাতব পদার্থের সংযোগস্থলে তাপ প্রদান করে সরাসরি কোন শক্তি উৎপাদন করা যায়?,Mechanical energy,Light energy,Electrical energy,Geothermal energy,যান্ত্রিক শক্তি,আলোক শক্তি,বিদ্যুৎ শক্তি,ভূতাপীয় শক্তি,c
+At what angle two normal mirrors should be kept due to left and right unchanged image?,সাধারণ আয়নায় প্রতিবিম্ব ডান-বাম অবিকৃত রাখতে হলে দুটি আয়নাকে কত কোণে রাখতে হবে?,30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,d
+In which color the sensitivity of eyes is maximum?,কোন আলোতে চোখের সংবেদনশীলতা সবচেয়ে বেশি?,Blue,Violet,Green,Red,নীল,বেগুনি,সবুজ,লাল,c
+"If the third line of Vernier scale concides with the thirteenth line of the main scale, what will be the Vernier reading?","ভার্নিয়ার স্কেলের 3 নং দাগটি মূল স্কেলের 13 নং দাগের সাথে মিলে যায়, ভার্নিয়ার সমপাতন কত হবে?",3,10,13,16,3,10,13,16,a
+What is indicated by the symbol (\dashv \vdash),\dashv \vdash চিহ্নটি নিচের কোনটি নির্দেশ করে?,Battery,Cell,Capacitor,Disconnected wire,ব্যাটারী,কোষ,ধারক,সংযোগহীন তার,c
+In case of a spherical mirror the linear magnification is 0.5 and the length of the object is 2m. What will be the length of the image?,কোনো গোলীয় দর্পণে রৈখিক বিবর্ধন 0.5 এবং বস্তুর দৈর্ঘ্য 2 m হলে বিম্বের দৈর্ঘ্য কত হবে?,0.5m,1m,2m,4m,0.5m,1m,2m,4m,b
+If 100kg mass is lifted at height 10m in 15 sec using a motor of 1kW then how much energy will be lost?,1 kW মোটর ব্যবহার করে 15 s এ 100 kg ভরের বস্তুকে 10 m উপরে তোলা হলে শক্তির অপচয় কত?,9800J,5200J,1500J,1000J,9800J,5200J,1500J,1000J,b
+"Without considering the circular motion of the wheel of a car, straight advancement of the car is called-",ঘূর্ণায়মান চাকা বিবেচনায় না আনলে সোজা পথে এগিয়ে যাওয়া একটি গাড়ির গতি-,translational motion,circular motion,periodic motion,simple oscillatory motion,চলন গতি,ঘূর্ণন গতি,পর্যায়বৃত্ত গতি,সরল স্পন্দন গতি,a
+"When an object is raised from the ground and kept on the table, then-",একটি বস্তুকে ভূমি থেকে উঠিয়ে টেবিলে রাখলে-,Work done > potential energy,Work done = potential energy,Work done < potential energy,Work done mechanical energy,কৃতকাজ > বিভব শক্তি,কৃতকাজ = বিভব শক্তি,কৃতকাজ < বিভব শক্তি,কৃতকাজ \neq যান্ত্রিক শক্তি,b
+Which one do sun or stars use to produce their energy?,কোনটি ব্যবহার করে সূর্য কিংবা নক্ষত্রেরা তাদের শক্তি তৈরি করে?,Nuclear fusion,Nuclear fission,Geotherma,Light,নিউক্লিয়ার ফিউসান,নিউক্লিয়ার ফিসন,জিওথার্মাল,আলো,a
+"If temperature and material of a conductor are kept constant, then the relation between electric current and potential difference will be","তাপমাত্রা ও পরিবাহীর উপাদান ধ্রুব থাকলে তড়িৎ প্রবাহমাত্রা, বিভব পার্থক্যের-",proportional,inversely proportional,proportional to the square,inversely proportional to the square,সমানুপাতিক,ব্যাস্তানুপাতিক,বর্গের সমানুপাতিক,বর্গের ব্যাস্তানুপাতিক,a
+"In the determination of the area of cross section of a wire, linear scale reading of the screwgauge is found 2 mm, circular scale reading is 0.4 mm and total number of divisions of the circular scale is 100. [Here the pitch of the instrument is 1 mm]
+ 
+ Which mark of the circular scale coincides with the mark of the linear scale?","একটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল নির্ণয়ে স্ক্রু গজের রৈখিক স্কেলের পাঠ পাওয়া যায় 2 mm, বৃত্তাকার স্কেলের পাঠ 0.4 mm, বৃত্তাকার স্কেলটির মোট ভাগসংখ্যা 100 এবং যন্ত্রটির পিচ 1mm ।
+ 
+ বৃত্তাকার স্কেলের কত নম্বর দাগ রৈখিক স্কেলের সাথে হুবহু মিলে যাবে?",2,4,40,100,2,4,40,100,c
+"In the determination of the area of cross section of a wire, linear scale reading of the screwgauge is found 2 mm, circular scale reading is 0.4 mm and total number of divisions of the circular scale is 100. [Here the pitch of the instrument is 1 mm]
+ 
+ Area of the cross section of the wire is-","একটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল নির্ণয়ে স্ক্রু গজের রৈখিক স্কেলের পাঠ পাওয়া যায় 2 mm, বৃত্তাকার স্কেলের পাঠ 0.4 mm, বৃত্তাকার স্কেলটির মোট ভাগসংখ্যা 100 এবং যন্ত্রটির পিচ 1mm ।
+ 
+ তারটির প্রস্থচ্ছেদের ক্ষেত্রফল-",3.77 mm^{2},9.048 mm^{2},64.524 mm^{2},18.096 mm^{2},3.77 mm^{2},9.048 mm^{2},64.524 mm^{2},18.096 mm^{2},b
+At what percentage is light refelcted from a piece of glass?,এক টুকরা কাচে শতকরা কত ভাগ আলোর প্রতিফলন হয়?,4% to 5%,40% to 50%,80% to 90%,95% to 96%,4 ভাগ 5 ভাগ,40 থেকে 50 ভাগ,80 থেকে 90 ভাগ,95 থেকে 96 ভাগ,a
+At what angle is a red rose placed in front of a mirror to look brightest?,একটি লাল গোলাপকে কোন দর্পণের সামনে কত ডিগ্রী কোণে স্থাপন করলে সবচেয়ে বেশি উজ্জ্বল দেখাবে?,30\degree,45\degree,60\degree,75\degree,30\degree,45\degree,60\degree,75\degree,d
+At what angle are two mirros kept to make a mirror so that lateral inversion of the images is not appeared?,দুইটি আয়নাকে কত ডিগ্রী কোণে যুক্ত করে একটি আয়না হিসেবে গঠন করলে তাতে প্রতিবিম্বের পার্শ্ব পরিবর্তন বুঝা যাবে না?,30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,d
+"In case of the determination of the length of a rod with the help of slide callipers if main scale reading is M. Vernier constant is VC and Vernier super imposition is V, then which one is the formula to determine the length of the rod (L)?","স্লাইড ক্যালিপার্সের সাহায্যে একটি দণ্ডের দৈর্ঘ্য নির্ণোয়ের ক্ষেত্রে, প্রধান স্কেল পাঠ M, ভার্নিয়ার ধ্রুবক VC এবং ভার্নিয়ার সমপাতন V হলে, দণ্ডের দৈর্ঘ্য (L) নির্ণয়ের সূত্র নিচের কোনটি?",L = M - V \times CV,L = M + V \times VC,L = M - V + VC,L = M + V + VC,L = M - V \times CV,L = M + V \times VC,L = M - V + VC,L = M + V + VC,b
+Laws of falling bodies are given by-,পড়ন্ত বস্তুর সূত্রগুলো প্রদান করেন-,Galileo,Newton,Einstein,Copernicus,গ্যালিলিও,নিউটন,আইনস্টাইন,কোপার্নিকাস,a
+Which one of the following is responsible for the rise of height of sea level?,সমুদ্র পৃষ্ঠের উচ্চতা বৃদ্ধির জন্য নিচের কোনটি দায়ী?,alcohol,Biomass,Carbon dioxide,Methane,অ্যালকোহল,বায়োমাস,কার্বন ডাই-অক্সাইড,মিথেন,c
+What is the unit of conductivity?,পরিবাহকত্বের একক কোনটি?,\Omega m^{-1},\Omega^{-1},\Omega m,(\Omega m)^{-1},\Omega m^{-1},\Omega^{-1},\Omega m,(\Omega m)^{-1},d
+Which one of the following is the wave length of visible light?,নিচের কোনটি দৃশ্যমান আলোর তরঙ্গ দৈর্ঘ্য?,300\eta m-700\eta m,400\mu m-700\eta m,300\mu m-700\mu m,700\mu m-400\mu m,300\eta m-700\eta m,400\mu m-700\eta m,300\mu m-700\mu m,700\mu m-400\mu m,b
+Which one of the following is the source of renewable energy?,নিচের কোনটি নবায়নযোগ্য শক্তির উৎস?,Diesel,Methane,Biogas,Coal,ডিজেল,মিথেন,বায়োগ্যাস,কয়লা,c
+Which one of the following is the unit of work?,নিচের কোনটি কাজের একক?,kgms^{-1},kgms^{-2},kgm^{2}s^{-2},kgms^{-3},kgms^{-1},kgms^{-2},kgm^{2}s^{-2},kgms^{-3},c
+"If the velocity of a motor cycle decreases uniformly from 30 ms and
+  after 8 seconds becomes 14 ms"", then what will be the retardation of the vehicle?",একটি মোটর সাইকেলের বেগ 30 ms^{-1} থেকে সুষমভাবে হ্রাস পেয়ে 8 sec এ 14 ms^{-1} হলে গাড়িটির মন্দন কত হবে?,- 4 ms^{-2},-2 ms^{-2},2 ms^{-2},4ms^{-2},- 4 ms^{-2},-2 ms^{-2},2 ms^{-2},4ms^{-2},c
+A scale can be used to measure minimum 1 mm only. What will be the absolute error of measurement by the scale?,একটি স্কেলে সর্বনিম্ন 1 mm মাপা যায়। এর পরিমাপের চূড়ান্ত ত্রুটি কত হবে?,0.1 mm,1 mm,0.05 cm,0.5 cm,0.1 mm,1 mm,0.05 cm,0.5 cm,d
+Vernier constant in a slide calipers is 5 x 10 cm. What is the number of divisions in the Vernier scale of the slide calipers?,একটি স্লাইড ক্যালিপার্সের ভার্নিয়ার ধ্রুবক 5 \times 10^{-3} cm এর ভার্নিয়ার স্কেলের ঘরের সংখ্যা কত?,10,20,30,40,10 টি,20 টি,30 টি,50 টি,b
+"Relative error is-
+  i. a kind of ratio
+  ii. actual measurement of error
+  iii. smaller in Vernier scale compared to normal scale 
+ Which one is correct?","আপেক্ষিক ত্রুটি-
+  i. এক ধরনের অনুপাত
+  ii. সত্যিকারের ত্রুটির পরিমাপ
+  iii. সাধারণ স্কেলের তুলনায় ভার্নিয়ার স্কেলে কম হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",b
+"An object strat to move in a circular path of radius 4 cm. It starts to move from point A and come back the same point A. In this time 100N force acts on it.
+ 
+ What is the distance in mitre travelled by the object?","একটি 4 m ব্যাসার্ধের বৃত্তাকার পথে A বিন্দু থেকে একটি বস্তু যাত্রা শুরু করে আবার A বিন্দুতে পৌঁছাল। এ সময় বস্তুটির উপর 100 N বল প্রয়োগ করা হয়।
+ 
+ বস্তুটির অতিক্রান্ত দূরত্ব কত মিটার?",25.13,8,4,0,25.13,8,4,0,a
+"An object strat to move in a circular path of radius 4 cm. It starts to move from point A and come back the same point A. In this time 100N force acts on it.
+ 
+ The work done by the object is -","একটি 4 m ব্যাসার্ধের বৃত্তাকার পথে A বিন্দু থেকে একটি বস্তু যাত্রা শুরু করে আবার A বিন্দুতে পৌঁছাল। এ সময় বস্তুটির উপর 100 N বল প্রয়োগ করা হয়।
+ 
+ বস্তুটির উপর কৃতকাজ কত?",2513J,800J,400J,OJ,2513J,800J,400J,OJ,d
+Which one is the dimension of potential energy?,নিচের কোনটি বিভব শক্তির মাত্রা?,ML^{2}T^{-2},MLT^{-2},MLT^{-1},ML^{2}T^{-1},ML^{2}T^{-2},MLT^{-2},MLT^{-1},ML^{2}T^{-1},a
+Rate of change of velocity of freely falling body is called-,মুক্তভাবে পড়ন্ত বস্তুর বেগ বৃদ্ধির হারকে বলে-,Work,Speed,Acceleration,Acceleration due to gravity,কাজ,দ্রুতি,ত্বরণ,অভিকর্ষজ ত্বরণ,d
+"Unit of energy- 
+ i. Joule 
+ ii. Newton-metre
+ iii. Watt 
+ Which one is correct?","শক্তির একক-
+ i. জুল
+ ii. নিউটন-মিটার
+ iii. ওয়াট
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i and ii,ii and iii,i and iii,"i, ii and iii",a
+How much energy is produced per hour by a 50 MW power plant?,50 MW নিউক্লিয় বিদ্যুৎ কেন্দ্রে প্রতি ঘণ্টায় কত শক্তি উৎপন্ন হয়?,1.38 \times 10^{4} J,8.3 \times 10^{10} J,3 \times 10^{9} J,1.8 \times 10^{11} J,1.38 \times 10^{4} J,8.3 \times 10^{10} J,3 \times 10^{9} J,1.8 \times 10^{11} J,d
+"If we want to increase kinetic energy 9 times of an object then we should 
+ i. work 9 times 
+ ii. increase velocity 3 times
+ iii. increase distance 9 times 
+ Which one is correct?","কোনো বস্তুর গতিশক্তি 9 গুণ করতে-
+ i. 9 গুণ কাজ করতে হবে
+ ii. বেগ 3 গুণ করতে হবে
+ iii. দূরত্ব 9 গুণ করতে হবে
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i and ii,ii and iii,i and iii,"i, ii and iii",a
+"Nuclear power plant is hazardous for the environment, because- 
+ i. Nuclear wastages are very radioactive
+ ii. It emits Carbon dioxide gas
+ iii. We must reserve the wastages for millions of years to reach the safe level
+ Which one is correct?","নিউক্লিয়ার বিদ্যুৎ কেন্দ্র পরিবেশের জন্য ঝুঁকিপূর্ণ, কারণ-
+ i. নিউক্লিয়ার বর্জ্য অভ্যস্ত তেজস্ক্রিয়
+ ii. ইহা থেকে কার্বন ডাই অক্সাইড নিঃসরণ হয়
+ iii. নিরাপদ মাত্রায় পৌঁছানোর জন্য লক্ষ লক্ষ বছর বর্জ্য সংরক্ষণ করতে হয়
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,"i, ii and iii",i and ii,ii and iii,i and iii,"i, ii and iii",b
+"The value of magnification may be 1 in a 
+ i. plane mirror
+ ii. concave mirror 
+ iii. convex mirror
+ Which one is correct?","বিবর্ধনের মান 1 পাওয়া যায়-
+ i. সমতল দর্পণে
+ ii. অবতল দর্পনে
+ iii. উত্তল দর্পনে
+ নিচের কোনটি সঠিক?",i and ii,ii and iii,i and iii,v,i and ii,ii and iii,i and iii,"i, ii and iii",a
+Which one is the light of shortest wave length?,সবচেয়ে ছোট তরঙ্গ দৈর্ঘ্যের আলো কোনটি?,Gamma ray,X-ray,Infrared,Radio wave,গামা রে,এক্স-রে,ইনফ্রারেড,রেডিও ওয়েভ,a
+Specific resistance of a specific wire depends on which quantity from below?,কোনো একটি নির্দিষ্ট তারের আপেক্ষিক রোধ নিচের কোনটির উপর নির্ভরশীল?,Temperature,Length,Area,Volume,তাপমাত্রা,দৈর্ঘ্য,ক্ষেত্রফল,আয়তন,a
+How many 100\Omega resistor should be connected in parallel to get equal equivalent resistance of two 5\Omega resistors connected in series?,5\Omega এর দুটি রোধ শ্রেণিতে যুক্ত করলে তুল্য রোধ যত হয় তত রোধ পেতে 100\Omega এর কতটি রোধ সমান্তরালে যুক্ত করতে হবে?,5,10,20,40,5,10,20,40,b
+What is the voltage of a neutral wire in electric supple line?,বিদ্যুৎ সরবরাহের নিউট্রাল তারের ভোল্টেজ কত হয়?,220 v,180 v,5 v,0v,220 v,180 v,5 v,0v,d
+Which one of below is a semi- conductor?,নিচের কোনটি অর্ধ-পরিবাহী?,Glass,Silicon,Nichrome,Diamond,কাচ,সিলিকন,নাইক্রোম,হীরা,b
+"In the above stem if the object is placed in front of 10 cm from the mirror, where the image will be formed?",উদ্দীপকের দর্পণের সামনে 10 cm দূরে একটি বস্তু রাখলে প্রতিবিম্ব কোথায় দেখা যাবে?,At the centre of curvature,At the focus,Between the pole and the focus,Between the centre of curvature and focus,বক্রতার কেন্দ্রে,ফোকাসে,মেরু ও ফোকাসের মাঝে,বক্রতার কেন্দ্র ও ফোকাসের মাঝে,a
+Who predicted the eclipse of the sun?,কে সূর্যগ্রহণের ভবিষ্যদ্বাণী করেছিলেন?,Thalcs,Democtitus,Aristotle,Aristarchus,থেলিস,ডেমোক্রিটাস,এরিস্টটল,আরিস্তারাকস,a
+Who invented calculus which is a new branch in Mathwmatics ?,গণিতের নতুন একটি শাখা ক্যালকুলাস আবিষ্কার করেছিলেন কারা?,Scientist newton and copwricus,scientist newion and galileo,scientist newton and leibnitz,scientist newton and Rutherford,বিজ্ঞানী নিউটন ও কোপার্নিকাস,বিজ্ঞানী নিউটন ও গ্যালিলিও,বিজ্ঞানী নিউটন ও লিবনিজ,বিজ্ঞানী নিউটন ও রাদারফোর্ড,c
+Which of the following are vector quantities?,নিচের কোন রাশিগুলো ভেক্টর রাশি?,"Speed, work and velocity","Elecr = trtc potential, displacement and acceleration","Speed, displacement and velocity","Momentumn, displacement and Weight","দ্রুতি, কাজ ও বেগ","তড়িৎ বিভব, সরণ ও ত্বরণ","দ্রুতি, সরণ ও বেগ","ভরবেগ, সরণ ও ওজন",d
+The distance travelled is a fiven time by a freely falling body from rest will be -,স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তু নির্দিষ্ট সময়ে যে দূরত্ব অতিক্রম করে তা ঐ সময়ের-,proportional to the time,inverselyj proportional to that time,inversely proportional to the square of that time,proportional to the square of that time,সমানুপাতিক,ব্যস্তানুপাতিক,বর্গের ব্যাস্তানুপাতিক,বর্গের সমানুপাতিক,d
+"A train started to move with a uniform acceleration of 20ms^{-2} from rest position, What will be the velocity whill crossing a post at a distance of 250m?",স্থির অবস্থান থেকে একটি ট্রেন 20ms^{-2} সুষম ত্বরণে চলার সময় 250m দূরত্বে অবস্থিত একটি পোস্টকে কত বেগে অতিক্রম করবে?,25 ms^{-1},100 ms^{-2},100 ms^{-1},10000 m^{2}s^{-2},25 ms^{-1},100 ms^{-2},100 ms^{-1},10000 m^{2}s^{-2},c
+Which is the unit of momentum?,ভরবেগের একক কোনটি?,kgm,kgms^{-1],kgm^{2}s^{-1},kgms^{-2},kgm,kgms^{-1],kgm^{2}s^{-1},kgms^{-2},b
+"For which frictional force, fish can swim in water?",কোন ঘর্ষণের জন্য মাছ পানিতে চলাচল করতে পারে?,Static friction,Sliding Friction,Rolling friction,Fluid friction,স্থিতি ঘর্ষণ,গতি ঘর্ষণ,আবর্ত ঘর্ষণ,প্রবাহী ঘর্ষণ,d
+A force of 200 N is applide on a stationary body of mass 10 kg for 20s. What is the velocity aftor 20s?,10 kg ভরের একটি স্থির বস্তুর উপর 200 N বল 20 s যাবৎ প্রয়োগ করা হলো। 20 s পর বেগ কত?,20 m/s,200 m/s,400 m/s,400 m/s^{2},20 m/s,200 m/s,400 m/s,400 m/s^{2},c
+"When a mango falls from the tree-
+ i. increase the kinetic energy
+ ii. Decreace the potential energy 
+ iii. Total energy remains unchaged 
+ Which one is correct?","গাছ থেকে আম নিচের দিকে পড়তে থাকলে-
+ i. গতিশক্তি বৃদ্ধি পায়
+ ii. বিভব শক্তি হ্রাস পায়
+ iii. মোট শক্তি অপরিবর্তিত থাকে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What type of energy is stored when a body is stretched?,একটি বস্তুকে টান টান করলে এর মধ্যে কোন শক্তি জমা থাকে?,Potential energy,Kinetic energy,Heat energy,chemical energy is converted to heat energy,বিভব শক্তি,গতি শক্তি,তাপ শক্তি,রাসায়নিক শক্তি,a
+Which of the following are renewable energy?,কোন শক্তিগুলো নবায়নযোগ্য শক্তি?,"coal, Geothermal energy and sea wave","Nature gas, tides and air flow","watew floow, heat trom sea and sunlighy","Sunlighy, Hydrogen fuel and Uranium","কয়লা, ভূ-তাপ ও সমুদ্র তরঙ্গ","প্রাকৃতিক গ্যাস, জোয়ার ভাটা ও বায়ু প্রবাহ","জলপ্রবাহ, সমুদ্র তাপ ও সূর্যের আলো","সূর্যের তাপ, হাইড্রোজেন ফুয়েল ও ইউরেনিয়াম",c
+what is the name of the apparatus used to mesure the atmospheric pressure ?,বায়ুচাপ পরিমাপের যন্ত্রের নাম কী?,Thermometer,Barometer,Manomere,Seismometer,থার্মোমিটার,ব্যারোমিটার,ম্যানোমিটার,সিসমোমিটার,b
+"To increase area of a body-
+ i. pressure decreases 
+ ii. Force increases
+ iii. Density increases
+ which one is correct?","একটি বস্তুর ক্ষেত্রফল বাড়ালে-
+ i. চাপ কমে
+ ii. বল বাড়ে
+ iii. ঘনত্ব বাড়ে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What type of wave is sound?,শব্দ কোন ধরনের তরঙ্গ?,Transverse wave,Electromagnetic wave,Longitudinal wave,radio wave,অনুপ্রস্থ তরঙ্গ,তড়িৎ চৌম্বক তরঙ্গ,অনুদৈর্ঘ্য তরঙ্গ,বেতার তরঙ্গ,c
+The velocity of sound in air is highest in which season?,কোন ঋতুতে শব্দ বায়ু মাধ্যমে দ্রুততম চলে?,Winter,Summer,Rainy seacon,Spring,শীতকালে,গ্রীষ্মকালে,বর্ষাকালে,বসন্তকালে,b
+Where convex mirros are used?,উত্তল দর্পণ কোথায় ব্যবহার হয়?,Cars,Torch light,Solar oven,Radar,গাড়িতে,টর্চলাইটে,সৌ্রচুল্লিতে,রাডারে,a
+"Image in a plane murror is 
+ i. real 
+ ii. Straight 
+ iii. Equal to the size of the object 
+ Which one is correct?","উত্তল দর্পণ কোথায় ব্যবহার হয়?
+ i. বাস্তব
+ ii. সোজা
+ iii. সমান দৈর্ঘ্যের
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If the resistance having 8 is removed from the circuit 
+ i. current flow through the circuit inreeases 
+ ii. Equivalent resistance of the circuit increasees
+ iii. The potential differenre will be same across each resistor 
+ Which one is correct?","উক্ত বর্তনীতে 8\Omega মানের রোধটি না থাকলে-
+ i. বর্তনীর তড়িৎ প্রবাহ বৃদ্ধি পাবে
+ ii. বর্তনীর তুল্যরোধ বেড়ে যাবে
+ iii. প্রতিটি রোধের দুই প্রান্তের বিভব সমান হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+You feel your weight due to which force of the following ?,নিচের কোন বলের প্রভাবে তুমি তোমার ওজন অনুভব করো?,Gravitational force,Electromagnetic force,Weak force,Strong nuclear force,মহাকর্ষ বল,তড়িৎ চৌম্বক বল,দুর্বল নিউক্লীয় বল,সবল নিউক্লীয় বল,a
+Where convex are used?,কোনটিতে উত্তল দর্পণ ব্যবহৃত হয়?,Solar Oven,torch Light,View Mirror of a car,radar,সৌরচুল্লি,টর্চলাইট,গাড়ির ভিউমিরর,রাডার,c
+Which one is the unit of Lumiinoue Intensity?,দীপন তীব্রতার একক কোনটি?,A,K,J,cd,A,K,J,cd,d
+What is the conductivity of Gold?,সোনার তড়িৎ পরিবাহকত্ব কত?,40.98 \time 10^{6} \Omega^{-1}m,59.52 \time 10^{6} \Omega^{-1}m,1.59 \time 10^{-8} \Omega m,2.44 \time 10^{-8} \Omega m,40.98 \time 10^{6} \Omega^{-1}m,59.52 \time 10^{6} \Omega^{-1}m,1.59 \time 10^{-8} \Omega m,2.44 \time 10^{-8} \Omega m,a
+Which type of image is formed in plane mirror?,সমতল দর্পণে কোন ধরণের প্রতিবিম্ব গঠিত হয়?,Real & inverted,Real & erect,Virtual & erect,Virtual & inverted,বাস্তব ও উল্টো,বাস্তব ও সোজা,অবাস্তব ও সোজা,অবাস্তব ও উল্টো,c
+Which one is the unit of solid angle?,ঘনকোণের একক কোনটি?,Steredian,Candela,Degree,Mole,স্টেরেডিয়ান,ক্যান্ডেলা,ডিগ্রী,মোল,a
+What kind of change of spring constant will be done when a spring divided equaly into two parts?,একটি স্প্রিং কেটে সমান দুটো টুকরা করলে উহার স্প্রিং ধ্রুবকের কীরূপ পরিবর্তন হবে?,Half,Decrease,Increase,Unchange,অর্ধেক হবে,কমবে,বাড়বে,অপরিবর্তিত থাকবে,c
+"How much height an object travel when it was thrown at a velocity of g, vertically upword?","একটি বস্তুকে g বেগে খাড়া উপরের দিকে নিক্ষেপ করা হলে, উহা কত উপরে উঠবে?",1m,4.9,9.8 m,96.04 m,1m,4.9,9.8 m,96.04 m,b
+One unit electricity = ?,এক ইউনিট বিদ্যুৎ = কত জুল?,100 J,1000 J,3.6 \times 10^{6} J,6.3 \times 10^{6} J,100 J,1000 J,3.6 /times 10^{6} J,6.3 /times 10^{6} J,c
+Who is the inventor of Radium?,রেডিয়ামের আবিষ্কারক কে?,Roentgen,Max Planck,Pierre Curie,Al-Haium,রন্টজেন,ম্যাক্স প্ল্যাঙ্ক,পিয়ারে কুরি,আল হাইয়াম,c
+1 Picometer = How much centimeter?,1 পিকোমিটার = কত সেন্টিমিটার?,10^{-18},10^{-16},10^{-12},10^{-10},10^{-18},10^{-16},10^{-12},10^{-10},d
+"At what velocity of a particle, momentum & Kinetic energy will be same?","একটি বস্তুর বেগ কত হলে, তাদের ভরবেগ ও গতিশক্তির মান সমান হবে?",4 m/s,2 m/s,\frac{1}{2}m/s,\frac{1}{4}m/s,4 m/s,2 m/s,\frac{1}{2}m/s,\frac{1}{4}m/s,b
+Which one is the dimension of volume?,আয়তনের মাত্রা কোনটি?,L^{3},V,L,m^{3},L^{3},V,L,m^{3},a
+What is the angle between focal plane and principal axis of a concave mirror?,অবতল দর্পণে ফোকাস তল ও প্রধান অক্ষের মধ্যবর্তী কোণের মান কত?,90\degree,180\degree,270\degree,360\degree,90\degree,180\degree,270\degree,360\degree,a
+"Who discovered ""Quantum theory""?""",কে কোয়ান্টাম তত্ত্ব প্রদান করেন?,Newton,Einstein,Satyendra Nath Basu,Max Planck,নিউটন,আইনস্টাইন,সত্যেন্দ্রনাথ বসু,ম্যাক্স প্ল্যাঙ্ক,d
+"In Uranium-235-
+ i. has 92 protons
+ ii. has 143 Neutrons
+ iii. has atomic no-92
+ Which one is correct?","ইউরেনিয়াম-235 এ-
+ i. 92 টি প্রোটন থাকে
+ ii. 143 টি নিউট্রন থাকে
+ iii. পারমাণবিক সংখ্যা 92
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",d
+What will be the nature of the image when an object placed at a distance more than twice focal length of concave mirror ?,অবতল দর্পণে দ্বিগুণ ফোকাস দূরত্বের বাইরে লক্ষ্যবস্তু স্থাপন করা হলে বিম্বের প্রকৃতি কেমন হবে?,Real and inverted,Real and erect,virtual and inverted,Virtual and erect,বাস্তব ও উল্টো,বাস্তব ও সোজা,অবাস্তব ও উল্টা,অবাস্তব ও সোজা,a
+"At which angle a plane mirror will be
+  needed to place to view the turning of road?",রাস্তার বাঁক দেখার জন্য সমতল দর্পণ কত ডিগ্রি কোণে স্থাপন করতে হয়?,30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,b
+What is the wavelength of microwavel light?,মাইক্রোওয়েভ আলোর তরঙ্গদৈর্ঘ্য কত?,10^{-6}m,10^{-2}m,10^{2}m,10^{6}m,10^{-6}m,10^{-2}m,10^{2}m,10^{6}m,d
+How much light will reflect when light falls on normal glass?,সাধারণ এক টুকরা কাচে আলো পড়লে কতটুকু প্রতিফলিত হয়?,0.4%-0.5%,4%-5%,14%-15%,24%-25%,0.4%-0.5%,4%-5%,14%-15%,24%-25%,b
+Which one is radius of solar system?,সৌ্রজগতের ব্যাসার্ধ কত?,6 \times 10^{6} m,6 \times 10^{12} m,6 \times 10^{6} km,6 \times 10^{12} km,6 /times 10^{6} m,6 /times 10^{12} m,6 /times 10^{6} km,6 /times 10^{12} km,b
+"The scientists understood that actually the atoms are-
+ i. not impersihable
+ ii. may emit radioactive radiation on disintegration disintegration 
+ iii. radiate its energy and fall into the nucleus 
+ Which one is correct?","বিজ্ঞানীরা বুঝতে পারেন পরমাণুগুলো-
+ i. আসলে অবিনশ্বর নয়
+ ii. ভেঙ্গে তেজস্ক্রিয় বিকিরণ হতে পারে
+ iii. তাদের শক্তি বিকিরণ করে নিউক্লিয়াসের ভিতর পড়ে যাবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",a
+What will be the focal length in cm if radius of curvature of convex mirror is 10cm?,একটি উত্তল দর্পণের বক্রতার ব্যাসার্ধ 10 cm হলে ফোকাস দূরত্ব কত সে.মি. হবে?,\text{+ 20},\text{+ 5},\text{- 5},\text{- 20},\text{+ 20},\text{+ 5},\text{- 5},\text{- 20},c
+Which relation is correct?,কোন সম্পর্কটি সত্য?,V = QW,W = \frac{V}{Q},Q = WV,W = VQ,V = QW,W = \frac{V}{Q},Q = WV,W = VQ,d
+What is the another name of BOT?,BOT এর অপর নাম কী?,jule,watt,kilowatt,unit,জুল,ওয়াট,কিলোওয়াট,ইউনিট,d
+What is the kinetic energy is Joule (J) if a motor cycle run with a velocity of 50 kmh^{-1}?,90 kg ভরের একটি মোটরসাইকেল 50 kmh^{-1} বেগে চললে এর গতিশক্তি কত জুল (J) হবে?,8680.56,17361.11,112500,225000,8680.56,17361.11,112500,225000,a
+What is the name of the instrument that measuring potential difference?,বিভব পার্থক্য মাপার যন্ত্রটির নাম কী?,Galvanometer,Generator,Ammeter,Voltmeter,গ্যালভানোমিটার,জেনারেটর,অ্যামিটার,ভোল্টমিটার,d
+Where convex mirrors are used?,কোনটিতে উত্তল দর্পণ ব্যবহৃত হয়?,Solar Oven,Torch light,Radar,View Mirror of a car,সৌরচুল্লি,টর্চলাইট,রাডার,গাড়ির ভিউ মিরর,d
+"Renewable energy is -
+ i. wind energy
+ ii. bio fuel
+ iii. coal
+ Which one is correct?","নবায়নযোগ্য শক্তি হচ্ছে-
+ i. বায়ু শক্তি
+ ii. বায়ো ফুয়েল
+ iii. কয়লা
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",a
+Which is unit of work?,কাজের একক কোনটি?,Nm,Nm^{-1},NS,Kgms^{-1},Nm,Nm^{-1},NS,Kgms^{-1},a
+Which is the dimension of acceleration?,কোনটি ত্বরণের মাত্রা?,LT^{-1},LT^{-2},ML^{-1}T^{-2},MLT^{-2},LT^{-1},LT^{-2},ML^{-1}T^{-2},MLT^{-2},b
+"Velocity is changed-
+ i. by the change of magnitude
+ ii. by the change of direction 
+ iii. by the change of both magnitude and direction
+ Which one is correct?","বেগের পরিবর্তন হয়-
+ i. মানের পরিবর্তন হলে
+ ii. দিকের পরিবর্তন হলে
+ iii. মান ও দিক উভয়ের পরিবর্তন হলে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",d
+What times the resistance if the conductor is pulled and doubled?,পরিবাহীকে টেনে দ্বিগুণ করা হলে রোধ কত গুণ হবে ?,0.5,2,4,6,0.5,2,4,6,b
+"Concave mirror is used-
+ i. for medical equipment 
+ ii. For telesope
+ iii. Daily use
+ Which one is correct?","অবতল আয়না ব্যবহৃত হয়- 
+ i. ডাক্তারী কাজে 
+ ii. টেলিস্কোপে 
+ iii. দৈনন্দিন জীবনে 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Example of periodic motion-
+ i. water wave 
+ ii. Vibrational motion of heart 
+ iii. hands clock
+ Which one is correct?","পর্যায়বৃত্ত গতির উদাহারণ- 
+ i. পানির তরঙ্গ
+ ii. হৃৎপিন্ডের স্পন্দন 
+ iii. ঘড়ির কাঁটার গতি
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one of the following is neno second?,নিচের কোনটি ন্যানো সেকেন্ড?,10^{-6} sec,10^{-9} sec,10^{6} sec,10^{9} sec,10^{-6} sec,10^{-9} sec,10^{6} sec,10^{9} sec,b
+"the example of derived quantuty is -
+ i. Power 
+ ii. Electric intensity
+ iii.luminous intesity
+ Which one is correct?","লব্ধ রাশির উদাহরণ হচ্ছে- 
+ i. ক্ষমতা
+ ii. তড়িৎ তিব্রতা
+ iii. দীপন তিব্রতা
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+How many fundamental forces exist in nature?,প্রকৃতিতে বিদ্যমান মৌলিক বল কয়টি?,2,3,4,5,2 টি,3 টি,4 টি,5 টি,c
+"A boy passed \frac{3}{4} of circumference of a circular path of radius 20 m.
+ 
+ What is the displacement of the boy?","একজন ছেলে একটি 20 m ব্যাসার্ধের একটি মাঠে পরিধি বরাবর পরিধির \frac{3}{4} অংশ গমন করে।
+ 
+ ছেলেটির সরণ কত?",28.28 m,60 m,94.248 m,942.48 m,28.28 m,60 m,94.248 m,942.49 m,a
+"A boy passed \frac{3}{4} of circumference of a circular path of radius 20 m.
+ 
+ The above stem indicates the boy's-
+ i. velocity 
+ ii. speed
+ iii.periodic motion
+ Which one is correct?","একজন ছেলে একটি 20 m ব্যাসার্ধের একটি মাঠে পরিধি বরাবর পরিধির \frac{3}{4} অংশ গমন করে।
+ 
+ উদ্দীপকের ঘটনাটিতে ছেলেটির- 
+ i. বেগ নির্দেশ করে 
+ ii. দ্রুতি নির্দেশ করে 
+ iii. পর্যায়বৃত্ত গতি নির্দেশ করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+If in a chain reaction in fission process 1 kg mass is decreased the emitted power will be -,"যদি কোন শৃঙ্খলিত বিক্রিয়ার ফিশন প্রক্রিয়ার ভর লোপ পায়, তবে নির্গত শক্তি হয়-",9 \times 10^{19} J,9 \times 10^{16} J,4.5 \times 10^{6} J,3 \times 10^{8} J,9 \times 10^{19} J,9 \times 10^{16} J,4.5 \times 10^{6} J,3 \times 10^{8} J,b
+Which one from below is the most common form of energy,শক্তি সবচেয়ে সাধারণ রুপ কোনটি?,Heat energy,Mechanucal energy,Lightr energy,Electric energy,তাপ শক্তি,যান্ত্রিক শক্তি,আলোক শক্তি,বিদ্যুৎ শক্তি,b
+In which of the following two objects gravitatiomaf force acts between -,নিচের কোন দুইটি বস্তুর মধ্যে অভিকর্ষ বল ক্রিয়া করে?,moon and sun,earth and book,mercury and venus,chair and table,চন্দ্র ও সূর্য,পৃথিবী ও বই,বুধ ও শুক্রু,চেয়ার ও টেবিল,b
+When a person used a hand fan for blowing wind what happened for thet perdon?,হাত পাখা দিয়ে বাতাস করলে ব্যক্তির ক্ষেত্রে-,Mechanical energy is converted to sound energy,Nuclear energy is converted ti mechanical energy,Chemical energy is converted to mea = chanical energy,chemical energy is converted to heat energy,যান্ত্রিক শক্তি শব্দ শক্তিতে রুপান্তরিত হয়,নিউক্লিয় শক্তি যান্ত্রিক শক্তিতে রুপান্তরিত হয়,রাসায়নিক শক্তি যান্ত্রিক শক্তিতে রুপান্তরিত হয়,রাসায়নিক শক্তি তাপ শক্তিতে রুপান্তরিত হয়,c
+Which has no free electrons ?,কোনটির মধ্যে মুক্ত ইলেকট্রন থাকে না ?,conductor,Insulator,Semi confuctor,supre conductor,পরিবাহী,অপরিবাহী,অর্ধ- পরিবাহী,সুপরিবাহী,b
+"Equilibrium force is effected-
+ i. when a ship floats on water 
+ ii. When an onject falls from fop fo bottom 
+ iii.when a person is sitting in a chair
+ Which one is correct?","সাম্য বল ক্রিয়াশীল- 
+ i. জাহাজ পানিতে ভাষার সময়
+ ii. একটি বস্তুর উপর থেকে নিচে পড়ার সময়
+ iii. কোনো ব্যক্তি চেয়ারে বসে থাকার সময়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+How many farad is equal to one pico farad?,একা পিকো ফ্যারাড সমান কত ফ্যারাড ?,10^{-15},10^{-12},10^{12},10^{15},10^{-15},10^{-12},10^{12},10^{15},b
+"T = 2\pi\sqrt\frac{1}{g}}, T = time period, i = menght of string, g = accemeration due to gravity 
+  in the above stem, when the time period will be maximum?
+ i. If increases the mass of pendulum 
+ ii. If increases the mass length of string 
+ iii. If decreases the value of 'g'
+ Which one is correct?","T = 2\pi \sqrt{\frac{l}{g}} এখানে T \rightarrow দোলনকাল, সুতার দৈর্ঘ্য, g = মাধ্যাকর্ষণজনিত ত্বরণ। উদ্দীপকের দোলনকাল T কখন বেশি হবে?
+ i. পেন্ডুলামের ভর বৃদ্ধি পেলে
+ ii. সুতার দৈর্ঘ্য বৃদ্ধি পেলে
+ iii. g এর মান কমলে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"If the mass of the object is 10 kg, how many joules of potential energy at point A?",বস্তুটির ভর 10kg হলে A বিন্দুতে বিভব শক্তি কত জুল?,2940 J,2900 J,2840 J,2800 J,2940 J,2900 J,2840 J,2800 J,a
+What is the rate of change of distance travelled?,অতিক্রান্ত দূরত্ব পরিবর্তনের হারকে কি বলে?,Displacement,Speed,Velocity,Acceleration,সরণ,দ্রুতি,বেগ,ত্বরণ,b
+Which instrument is used to measure the diameter of a solid thin wire?,নিরেট সরু তারের ব্যাস মাপা হয় কোন যন্ত্রের সাহায্যে?,Meter scale,Screwgauge,Slide Calipers,Vernier scale,মিটার স্কেল,স্ক্রু গজ,স্লাইড ক্যালিপার্স,ভার্নিয়ার স্কেল,b
+"The reason for red roses look red is-
+ i. only red colour is reflected
+ ii. absorb all colors except red
+ iii. the wavelength of red light is more
+ Which one is correct?","লাল গোলাপ ফুল লাল দেখার কারণ-
+ i. কেবল লাল রঙ প্রতিফলন করে
+ ii. লাল রঙ ছাড়া সব রং শোষণ করে
+ iii. লাল আলোর তরঙ্গদৈর্ঘ্য বেশি
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",a
+Which one is the most common form of energy?,কোনটি শক্তির সবচেয়ে সাধারণ রূপ?,Mechanical energy,Chemical energy,Light energy,Kinetic energy,যান্ত্রিক শক্তি,রাসায়নিক শক্তি,আলোক শক্তি,গতি শক্তি,a
+What is the speed of pushing a box without turning is upside down?,একটি বাক্সকে ধাক্কা দিলে এটি না উল্টিয়ে যে গতি লাভ করে তা-,Vibrational moties,Translational motion,Periodic motion,Circular motion,স্পন্দন গতি,চলন গতি,পর্যায়বৃত্ত গতি,ঘূর্ণন গতি,b
+"If the 10 divisions of vernier scale is equal to 9 divisions of main scale, what is the value of vernier constant?",যদি ভার্নিয়ার স্কেলের 10 ঘর প্রধান স্কেলের 9 ঘরের সমান হয় তবে ভার্নিয়ার ধ্রুবক কত হবে?,0.01 mm,0.1 mm,0.11 mm,0.12 mm,0.01 mm,0.1 mm,0.11 mm,0.12 mm,b
+Where is the radius of curvature of plane mirror situated?,সমতল দর্পণের বক্রতার কেন্দ্র কোথায় অবস্থিত?,In principal focus,In fous plane,In secondary focus,At infinity,প্রধান ফোকাসে,ফোকাস তলে,গৌণ ফোকাসে,অসীমে,d
+Which one is the dimension of power?,ক্ষমতার মাত্রা কোনটি?,MLT^{-2},ML^{2}T^{-2},ML^{-1}T^{-3},ML^{2}T^{-3},MLT^{-2},ML^{2}T^{-2},ML^{-1}T^{-3},ML^{2}T^{-3},d
+How is resistence related with the area of cross-section?,রোধ প্রস্থচ্ছেদের ক্ষেত্রফলের সাথে কীভাবে সম্পর্কযুক্ত?,Inversely proportionate,Proportionate,Square of inversely proportionate,Square root of inversely proportionate,ব্যাস্তানুপাতে,সমানুপাতে,বর্গের ব্যস্তানুপাতে,বর্গমূলের ব্যস্তানুপাতে,a
+What is the value of the wavelength of visible light?,দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য কত?,400 nm-500 nm,400 nm-600 nm,400 nm-700 nm,500 nm-700 nm,400 nm-500 nm,400 nm-600 nm,400 nm-700 nm,500 nm-700 nm,c
+"If an object of length 5 cm is placed at the centre of curvaure of concave mirror then-
+ i. the linear magnification is 
+ ii. the size of image is diminished
+ iii. the nature of image is real and inverse 
+ Which one is correct?","একটি অবতল দর্পণের বক্রতার কেন্দ্রের 5 cm দৈর্ঘ্যের একটি লক্ষ্যবস্তু রাখা হলে-
+ i. এর রৈখিক বিবর্ধন 1
+ ii. বিম্বের আকৃতি খর্বিত
+ iii. প্রতিবিম্বের প্রকৃতি সব ও উল্টা
+ নিচের কোনটি সঠিক?",i,ii,i and iii,"i, ii and iii",i,ii,i and iii,"i, ii and iii",c
+how much electricity can flow directly through the heart to kill a person?,সরাসরি হৃৎপিণ্ডের ভিতর দিয়ে কত মাত্রার বিদ্যুৎ প্রবাহিত হলে মানুষ মারা যেতে পারে?,5 mA,10 mA,68 mA,20 mA,5 mA,10 mA,68 mA,20 mA,c
+Which formula is used for throwing a object?,নিক্ষিপ্ত বস্তুর ক্ষেত্রে নিচের কোণ সূত্র ব্যবহার করা হয়?,v^{2}-v^{2}-2gh,v = u + gt,v^{2} = v^{2}-2gh,h-vt+\frac{1}{2}gt^{2},v^{2}-v^{2}-2gh,v = u + gt,v^{2} = v^{2}-2gh,h-vt+\frac{1}{2}gt^{2},c
+How fast will an object his the ground if it is released from the root of 40 m high building?,40 m উঁচু দালানের ছাদ থেকে কোনো বস্তু ছেড়ে দিলে এটি কত বেগে ভূ-পৃষ্ঠকে আঘাত করবে?,784ms^{-1},28ms^{-1},19.79ms^{-1},14 ms^{-1},784ms^{-1},28ms^{-1},19.79ms^{-1},14 ms^{-1},b
+Which of the followig indistress the linear distance between the beginning and the and of an object moving in a circular path?,বাঁকা পথে গতিশীল একটি বস্তুর আদি ও শেষ অবস্থানের সরলরৈখিক দূরত্ব নিচের কোনটি নির্দেশ করে?,Displacement,Travelling distance,Velocity,Speed,সরণ,অতিক্রান্ত দূরত্ব,বেগ,দ্রুতি,a
+What is the value of potential difference of commonly used cell?,সাধারণ যে ব্যাটারী সেলগুলো ব্যবহার করা হয় তার বিভব পার্থক্য কত?,4.5 V,3.6 V,1.5 V,1.25 V,4.5 V,3.6 V,1.5 V,1.25 V,c
+What is the degree to which the two mirrors do not change right-left when used as mirros with each other?,দুইটি আয়নাকে পরস্পরের সাথে কত ডিগ্রীতে রেখে আয়না হিসাবে ব্যবহার করলে ডান-বামের পরিবর্তন হয় না?,45\degree,60\degree,90\degree,120\degree,45\degree,60\degree,90\degree,120\degree,c
+Which one is the resistivity of copper?,তামার রোধকত্ব কোনটি?,1.6 \times 10^{-8}\Omega m,1.68 \times 10^{-8}\Omega m,2.44 \times 10^{-8}\Omega m,5.5 \times 10^{-8}\Omega m,1.6 \times 10^{-8}\Omega m,1.68 \times 10^{-8}\Omega m,2.44 \times 10^{-8}\Omega m,5.5 \times 10^{-8}\Omega m,b
+If the kinetic energy becomes 4 times of the body of fixed mass how many times of velocity of that body?,নির্দিষ্ট ভরের বস্তুর গতিশক্তি 4 গুণ করলে বেগ কতগুণ হবে?,\frac{1}{4},\frac{1}{2},2,16,\frac{1}{4},\frac{1}{2},2,16,c
+"If three resistances of 2\Omega are connected in parallel, what is the value of equivalent resistance?",2\Omega রোধের তিনটি রোধ পরস্পর সমান্তরালে সংযুক্ত করলে তুল্য রোধের মান কত ওহম হবে?,6,4,0.55,0.67,6,4,0.55,0.67,d
+"100W-220V is marked on a bulb, this means
+ i. the resistance of bulb is 484\Omega
+ ii. the bulb transferred 100J electrical energy into hight energy per second
+ iii. the flow of current through the bulb is 0.455 A
+ Which one is correct?","একটি বাল্বের গায়ে 100W-220V লেখা আছে, এর অর্থ-
+ i. বাল্বটির রোধ 484\Omega
+ ii. বাল্বটির প্রতি সেকেন্ডে 100 J বিদ্যুৎ শক্তি তাপ ও আলোক শক্তিতে রূপান্তরিত করে
+ iii. বাল্বটি 0.455 A বিদ্যুৎ প্রবাহিত হয়
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",d
+Using vernier scale minimum how much length can be measured? When number of vernier divisions is 10.,ভার্নিয়ার স্কেলের সাহায্যে সর্বনিম্ন কত দৈর্ঘ্য পর্যন্ত মাপা যায় তখন যখন ভার্নিয়ার ভাগ সংখ্যা 10 ।,0.01m,10. 0.1 m,0.001m,0.001m,0.1m,0.01 m,0.001 m,0.0001 m,d
+Which one of the following is not unit of spring constant?,নিচের কোনটি স্প্রিং ধ্রুবকের একক নয়?,kgs^{-1},Nm^{-1},Jm^{-2},Kgs^{-2},kgs^{-1},Nm^{-1},Jm^{-2},Kgs^{-2},a
+By which instrument length can be measured accurately?,কোন যন্ত্রের সাহায্যে সরাসরি নিখুঁতভাবে দৈর্ঘ্য মাপা যায়?,Meter scale,Vernier scale,Slide calipers,Digital slide calipers,মিটার স্কেল,ভার্নিয়ার স্কেল,স্লাইড ক্যালিপার্স,ডিজিটাল স্লাইড ক্যালিপার্স,d
+To complete on cycle of a circular path of radius 100 m a man takes 2 min. What will be the displacement after 1 min?,100 মিটার ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার পথ একবার ঘুরে আসতে এক ব্যক্তির সময় লাগে 2 মিনিট। এক মিনিট ঘুরার পর তার সরণ কত হবে?,0,100 m,200 m,314.16 m,0,100 মিটার,200 মিটার,314.16 মিটার,c
+"If main scale reading M, vernier concides V and vernier constant VC then to measure wide which is correct","প্রধান স্কেলের পাঠ M, ভার্নিয়ার সমপাতন V এবং ভার্নিয়ার ধ্রুবক VC হলে প্রস্থ পরিমাপের ক্ষেত্রে কোনটি সঠিক?",M \times V \times VC,M \times V + VC,M + V + VC,M + V \times VC,M /times V /times VC,M /times V + VC,M + V + VC,M + V \times VC,d
+Which one of the following is vector quantity?,নিচের কোনটি ভেক্টর রাশি?,Speed,Force,Heat,Work,দ্রুতি,বল,তাপ,কাজ,b
+Which energy will be found when astone fallen from a height?,উপর থেকে পড়া একটি পাথর মাটিতে স্পর্শ করলে কোন শক্তিতে রূপান্তর হয়?,Heat energy,Potential energy,Kinetic energy,Geothermal energy,তাপশক্তি,বিভব শক্তি,গতিশক্তি,ভূতাপীয় শক্তি,c
+Which one is correct?,নিচের কোনটি সঠিক?,v = st,s = ut + \frac{1}{2} at,v^{2} = 2as,t = \left ( \frac{u + v}{2} \right ) s,v = st,s = ut + \frac{1}{2} at,v^{2} = 2as,t = \left ( \frac{u + v}{2} \right ) s,c
+Dimension of energy-,শক্তির মাত্রা কোনটি?,MLT^{-1},MLT^{-2},ML^{2}T^{-3},ML^{2}T^{-2},MLT^{-1},MLT^{-2},ML^{2}T^{-3},ML^{2}T^{-2},d
+A free falling body travels 25 m in 5s. I What distance will cover in 6th second?,মুক্তভাবে পড়ন্ত একটি বস্তু 5 s এ 25 m দূরত্ব অতিক্রম করে। ৬ষষ্ঠ সেকেন্ডে বস্তুটি আর কত দূরত্বে যাবে?,36 m,30 m,11 m,5 m,36 m,30 m,11 m,5 m,c
+If length reduces to half what will be changed in resistance?,পরবাহীর দৈর্ঘ্য অর্ধেক করা হলে রোধের কী পরিবর্তন হবে?,\frac{1}{4} times,\frac{1}{2} times,2 times,4 times,\frac{1}{4} গুণ,\frac{1}{2} গুণ,2 গুণ,4 গুণ,b
+"If the body falls freely from C-
+ i. total energy at A is 9800J
+ ii. velocity of the body at B is 34.29 ms""
+ iii. at point B, Kinetic energy and potential energy are equal 
+ Which one is correct?","বস্তুটি C থেকে মুক্তভাবে পড়লে-
+ i. A বিন্দুতে 9800J
+ ii. B বিন্দুতে বস্তুটির বেগ 34.29 ms^{-1}
+ iii. B বিন্দুতে গতিশক্তি ও বিভব শক্তি সমান 
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",a
+In chain reaction of Uranium how many neutrons will be emitted?,ইউরেনিয়ামের চেইন বিক্রিয়ার দ্বিতীয় ধাপে কতটি নিউট্রন নির্গত হয়?,2,3,6,9,2 টি,3 টি,6 টি,9 টি,d
+If a body is thrown vertically upward with a velocity of 19.6 ms^{-1} then what will be its maximum height?,একটি বস্তুকে 19.6 ms^{-1} বেগে খাড়া উপরের দিকে নিক্ষেপ করলে বস্তুটি সর্বোচ্চ কত উচ্চতায় উঠবে?,2 m,4.9 m,"9,8 m",19.6 m,2 m,4.9 m,"9,8 m",19.6 m,d
+Which ray emits from remote controller?,রিমোট কন্ট্রোলার থেকে কোন ধরনের আলো বের হয়?,Ultra violet,Microwave,X-ray,Infrared,আল্ট্রা ভায়োলেট,মাইক্রোওয়েভ,এক্স-রে,ইনফ্রারেড,d
+"The image-
+ i. virtual and erect
+ ii. larger than object
+ iii. formed at focus
+ Which one is correct?","বিম্বটি-
+ i. অবাস্তব ও সোজা
+ ii. লক্ষ্যবস্তু থেকে বড়
+ iii. প্রধান ফোকাসে গঠিত হবে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i and ii,i and iii,ii and iii,"i, ii and iii",a
+How is looked the yellow flower thorugh a blue glass?,নীল কাচের মধ্য দিয়ে হলুদ ফুল কেমন দেখাবে?,White,Blue,Yellow,Black,সাদা,নীল,হলুদ,কালো,d
+At what angle two normal mirrors should be keeped due to left-right side unchanged of an image?,সাধারণ আয়নায় প্রতিবিম্ব ডান-বাম অবিকৃত রাখতে হলে দুটি আয়নাকে কত কোণে রাখতে হয়?,30\degree,45\degree,60\degree,90\degree,30\degree,45\degree,60\degree,90\degree,d
+1 Tera = ?,1 টেরা = কত?,10^{15},10^{12},10^{-12},10^{-15},10^{15},10^{12},10^{-12},10^{-15},b
+"If an object does not have acceleratoion-
+ i.Work w = 0
+ ii.Force F = 0
+ iii. Initial velocity u = Final velocity v 
+ Which one is correct?","কোনো বস্তুর ত্বরণ না থাকলে-
+ i. কাজ w = 0
+ ii. বল F = 0
+ iii. আদিবেগ u = শেষবেগ v 
+ নিচের কোনটি সঠিক?",i,ii,i and ii,"I, ii and iii",i,ii,i ও ii,"I, ii ও iii",d
+If the length of a rod is (12 \pm 0.05) cm what will be the relative error of the length measurement?,একটি দণ্ডের দৈর্ঘ্য (12 \pm 0.05) cm. দৈর্ঘ্য পরিমাপের আপেক্ষিক ত্রুটি কত?,12.05,11.95,0.42,0.0042,12.05,11.95,0.42,0.0042,c
+What is the unit of power?,ক্ষমতার একক কোনটি?,kgm^{2}s^{-3},kgm^{2}s^{-2},kgms^{-2},kgm^{-1}s^{-2},kgm^{2}s^{-3},kgm^{2}s^{-2},kgms^{-2},kgm^{-1}s^{-2},a
+"If 2 ms^{-2} acceleration is applied to an object in rest, what time will it take to get 20^{-1} ms^{-1} velocity?",কোনো স্থির বস্তুতে 2 ms^{-2} ত্বরণ সৃষ্টি করলে কত সময় পর 20^{-1} ms^{-1} বেগ প্রাপ্ত হবে?,0.1 s,10 s,18 s,40 s,0.1 s,10 s,18 s,40 s,b
+"If an object of 2 kg mass in rest is dropped from above, it falls 36 m in 3 is.
+ 
+ what is the acceleration of the object?","2kg ভরের একটি স্থির বস্তুকে উপর থেকে ছেড়ে দিলে 2 s-এ 36 m পথ অতিক্রম করে।
+ 
+ বস্তুটির ত্বরণ কত?",4ms^{-2},4.9 ms^{-2},8 ms^{-2},9.8 ms^{-2},4ms^{-2},4.9 ms^{-2},8 ms^{-2},9.8 ms^{-2},c
+"If an object of 2 kg mass in rest is dropped from above, it falls 36 m in 3 is.
+ 
+ In that event -
+ i.fluid friction is 3.6 N
+ ii.travelled distance is 6s is 72 m 
+ iii.velocity after 3 is 29.4 ms^{-1}
+ Which one is correct?","2kg ভরের একটি স্থির বস্তুকে উপর থেকে ছেড়ে দিলে 2 s-এ 36 m পথ অতিক্রম করে।
+ 
+ উক্ত ঘটনায়
+ i. প্রবাহী ঘর্ষণ 3.6 N
+ ii. 6 s-এ অতিক্রান্ত দূরত্ব 72 m 
+ iii. 3 s-পর বেগ 29.4 ms^{-1}
+ নিচের কোনটি সঠিক?",i,iii,I and ii,"I, ii and iii",i,iii,i ও ii,"I, ii ও iii",a
+Which of the following is right based on stronger force?,সফলতার উপর ভিত্তি করে নিচের কোনটি সঠিক?,Electromagnetic > strong Nuclear > weak nuclear > c,strong nuclear > Electromagnetic > weak nuclear > gravitational,gravitational > weak nuclear > strong Nuclear > Electromagnetic,weak nuclear > gravitational > Electromagnetic > strong Nuclear,বিদ্যুৎ চৌম্বকীয় > সবল নিউক্লিয় > দুর্বল নিউক্লিয় > মহাকর্ষ,সবল নিউক্লিয় > বিদ্যুৎ চৌম্বকীয় > দুর্বল নিউক্লিয় > মহাকর্ষ,মহাকর্ষ > দুর্বল নিউক্লিয় > সবল নিউক্লিয় > বিদ্যুৎ চৌম্বকীয়,দুর্বল নিউক্লয় > মহাকর্ষ > বিদ্যুৎ চৌম্বকীয় > সবল নিউক্লিয়,b
+Which one is the dimension of stress?,পীড়নের মাত্রা কোনটি?,ML2T^{-3},ML^{2}T^{-2},ML^{-1}T^{-2},MLT^{-2},ML2T^{-3},ML^{2}T^{-2},ML^{-1}T^{-2},MLT^{-2},c
+Bats while flying use the property of sound-,বাদুড় পথ চলার সময় ব্যবহার করে শব্দের-,reflection,refraction,interence,super position,প্রতিফলন,প্রতিসরণ,ব্যতিচার,উপরিপাতন,a
+20j more energy is applied to a movinf object of 10 kg mass and 5 ms^{-1} velocity fowaeds the direction of the motion. What will be the velocity of the object?,5 ms^{-1} বেগে গতিশীল 10 kg ভরের একটি বস্তুর উপর গতির দিকে আরো 20 J শক্তি প্রদান করা হলো। বস্তুটির বেগ কত হবে?,3.8 ms^{-1},5.39 ms^{1},14.5 ms^{-1},29 ms^{-1},3.8 ms^{-1},5.39 ms^{1},14.5 ms^{-1},29 ms^{-1},b
+"If an object is placed on F point, what will be the magnification of the image?",একটি বস্তু F বিন্দুতে রাখা হলে বস্তুটির বিম্বের বিবর্ধন হবে-,Less then 1,Greater than 1,Equal to 1,Inficity (oc),1 এর চেয়ে কম,1 এর চেয়ে বেশি,1 এর সমান,অসীম (\inft),d
+Which colour has the least wave length?,কোন রঙ এর তরঙ্গদৈর্ঘ্য সবচেয়ে কম?,violet,Blue,Green,Red,বেগুনী,নীল,সবুজ,লাল,a
+"If 4 bulbs of 12 v - 3 W are connected in a ceries, what will be the equivalent resistance?",12 v - 3 W এর চারটি বাল্ব সিরিজে যুক্ত হলে তুল্যরোধ কত হবে?,0.021\Omega,0.25\Omega,48\Omega,192\Omega,0.021\Omega,0.25\Omega,48\Omega,192\Omega,d
+"When you bring down a set of books kept on a high self by your hands, then- 
+ i.the work done by you is positive
+ ii.the work done by gravitational force is positive
+ iii. The books absorb energy from you
+ Which one is correct?","উঁচু তাকে রাখা এক সেট বই তুমি যখন হাত দিয়ে নিচে নামাবে, তখন-
+ i. তোমার দ্বারা কৃতকাজ ধনাত্মক
+ ii. অভিকর্ষ বল দ্বারা কৃতকাজ ধনাত্মক
+ iii. বইটি তোমার হতে শক্তি নিয়ে নেয়
+ নিচের কোনটি সঠিক?",i,ii,i and iii,"I, ii and iii",i,ii,i ও iii,"I, ii ও iii",b
+Which of the following is the weakest frictional force?,সবচেয়ে দুর্বল ঘর্ষণ বল নিচের কোনটি?,Static friction,Sliding Friction,Rolling friction,Fluid friction,স্থিতি ঘর্ষণ,গতি ঘর্ষণ,আবর্ত ঘর্ষণ,প্রবাহী ঘর্ষণ,c
+The wave length of ehich of the followinf is laeger than that of the visiblw light?,নিচের কোনটি তরঙ্গদৈর্ঘ্য দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের চেয়ে বড়?,Gamman Ray,X-ray,Radio wave,Ulteaviolet,গামা রে,এক্স-রে,রেডিও ওয়েভ,আল্ট্রাভায়োলেট,c
+"The kinetic energy of a moving onject eill be 4 timer if -
+ i.velocity is double 
+ ii. both celocity and mass are double 
+ iii. Velocity is double and mass is half
+ Which one is correct?","কোনো গতিশীল বস্তুর গতিশক্তি চারগুণ হবে, যদি-
+ i. বেগ দ্বিগুণ হয়
+ ii. বেগ ও ভর উভয়ই দ্বিগুণ হয়
+ iii. বেগ দ্বিগুণ ও ভর অর্ধেক হয়
+ নিচের কোনটি সঠিক?",i,ii,i and ii,ii and iii,i,ii,i ও ii,ii ও iii,a

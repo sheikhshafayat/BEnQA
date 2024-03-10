@@ -1,0 +1,1042 @@
+English Question,Bengali Question,A,B,C,D,A Bn,B Bn,C Bn,D Bn,Correct Answer
+"sinA and cosA are opposite in sign where cosA = - \frac{1}{\sqrt{3}}
+ In which quardrant the angle A lie?","sinA এবং cosA বিপরীত চিহ্নবিশিষ্ট যেখানে cosA = - \frac{1}{\sqrt{3}}
+ 
+ A কোণটি কোন চতুর্ভাগে অবস্থিত?",First,Secoand,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,b
+What is the value of cosecA?,cosecA এর মান কত?,\frac{\sqrt{2}}{\sqrt{3}},- \frac{\sqrt{3}}{\sqrt{2}},\frac{\sqrt{3}}{\sqrt{2}},#ERROR!,\frac{\sqrt{2}}{\sqrt{3}},- \frac{\sqrt{3}}{\sqrt{2}},\frac{\sqrt{3}}{\sqrt{2}},#ERROR!,c
+"Which is the sum of the given infinite geometric series?
+ \sqrt{3} + 1 + \frac{1}{\sqrt{3}} + \frac{1}{3} + \frac{1}{3\sqrt{3}} + \cdots","\sqrt{3} + 1 + \frac{1}{\sqrt{3}} + \frac{1}{3} + \frac{1}{3\sqrt{3}} + ...
+ গুণোত্তর ধারার অসীমতক সমষ্টি কত?",\frac{3}{\sqrt{3} - 1},\sqrt{3} - 1,\frac{2\sqrt{3}}{\sqrt{3} - 1},\frac{3}{1 - \sqrt{3}},\frac{3}{\sqrt{3} - 1},\sqrt{3} - 1,\frac{2\sqrt{3}}{\sqrt{3} - 1},\frac{3}{1 - \sqrt{3}},a
+\frac{1}{2x + 1} + \frac{1}{(2x + 1)^{2}} + \frac{1}{(2x + 1)^{3}} + \cdots is an infinite geometric series. For which value of x that we can determine sum of the infinite series?,\frac{1}{2x + 1} + \frac{1}{(2x + 1)^{2}} + \frac{1}{(2x + 1)^{3}} + ... একটি অসীম গুণোত্তর ধারা। x এর উপর কী শর্ত আরোপ করলে ধারাটির অসীমতক সমষ্টি থাকবে?,x<0 or x< - 1,x>0 or x< - 1,x<0 or x> - 1,x>0 or x> - 1,x<0 অথবা x< - 1,x>0 অথবা x< - 1,x<0 অথবা x> - 1,x>0 অথবা x> - 1,b
+"An infinite geometric series whose first term \frac{1}{3} and sum of infinity \frac{4}{9}, then the common ratio is -",একটি গুণোত্তর ধারার ১ম পদ \frac{1}{3} এবং অসীমতক সমষ্টি \frac{4}{9} হলে সাধারণ অনুপাত কত?,- \frac{1}{7},- \frac{1}{4},\frac{1}{4},\frac{7}{4},- \frac{1}{7},- \frac{1}{4},\frac{1}{4},\frac{7}{4},c
+"For infinite series in geometric progression where first term a and common ratio is r - 
+ i. if \left | r \right |<1, then the sum up to infinity S_{\infty } = \frac{a}{1 - r}
+ ii. if \left | r \right |>1, then the sum of the infinite series does not exist
+ iii. if r = - 1, then the limiting value of S_{n} cannot be found
+ Which one of the following is correct?","অনন্ত গুণোত্তর ধারার ক্ষেত্রে যেখানে, প্রথম পদ a এবং সাধারণ অনুপাত r.
+ i. \left | r \right |<1 হলে ধারাটির অসীমতক সমষ্টি S_{\infty } = \frac{a}{1 - r}
+ ii. \left | r \right |>1 হলে অসীম ধারার কোনো সমষ্টি নাই
+ iii. r = - 1 হলে, ধারাটির n তম আংশিক সমষ্টি S_{n} এর প্রান্তীয় মান পয়ায়া যায় না
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"The n^{th} term of a sequence is U_{n} = \frac{1}{n^{2}} and U_{n}>10^{ - 6} the value of n is - 
+ i. n>10^{3}
+ ii. n<10^{3}
+ iii. \frac{1}{n}>\frac{1}{10^{3}}
+ Which one of the following is correct?","কোনো একটি অনুক্রমের n তম পদ U_{n} = \frac{1}{n^{2}} এবং U_{n}>10^{ - 6} হলে n এর মান হবে- 
+ i. n>10^{3}
+ ii. n<10^{3}
+ iii. \frac{1}{n}>\frac{1}{10^{3}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"Find the general term of the following sequences - \frac{1}{3}, \frac{1}{4}, \frac{3}{13}, \frac{2}{9}\cdots","নিচের অনুক্রমটির সাধারণ পদ নির্ণয় কর-
+ \frac{1}{3}, \frac{1}{4}, \frac{3}{13}, \frac{2}{9}, ....",\frac{1}{5n - 2},\frac{n}{5n - 2},\frac{1}{2n - 5},\frac{n^{2}}{5n - 2},\frac{1}{5n - 2},\frac{n}{5n - 2},\frac{1}{2n - 5},\frac{n^{2}}{5n - 2},b
+"What is the value of t if the three points A(4, - 1), B(3, 2) and C(2, t) are collinear?","A(4, - 1), B(3, 2) এবং C(2, t) বিন্দু তিনটি সমরেখ হলে t এর মান কত?",-1,1,3,5,-1,1,3,5,d
+If the slope is negative then the angle produced by the line with the positive side of x - axis is -,ঢাল ঋণাত্মক হলে রেখা দ্বারা x অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ একটি-,Acute angle,Obtuse angle,Rigth angle,Complementary angle,সূক্ষ্মকোণ,স্থূলকোণ,সমকোণ,পূরক কোণ,b
+"What is the distance of the point p(1, 3) from x - axis?","p(1, 3) বিন্দু হলে x অক্ষের দূরত্ব কত?",1,2,3,4,1,2,3,4,c
+"In XY plane, what is the graph of the equation 7x - 9 = 0 is?",XY সমতলে 7x - 9 = 0 রেখার লেখচিত্র কেমন হবে?,Parallel to the x - axis,Parallel to the y - axis,Passes through the origin,Parabola,x-অক্ষের সমান্তরাল,y-অক্ষের সমান্তরাল,মূলবিন্দুগামী,পরাবৃত্ত,b
+The line y = Px + r and y = Qx + r will be parallel if -,y = Px + r এবং y = Qx + r রেখা দুইটি সমান্তরাল হবে যদি-,P>Q,P<Q,P = Q,PQ = - 1,P>Q,P<Q,P = Q,PQ = - 1,c
+"If p^{\sqrt[p]{p}} = (p\sqrt{p})^{p}, find the value of \sqrt{p}",যদি p^{\sqrt[p]{p}} = (p\sqrt{p})^{p} হয় তবে \sqrt{p} এর মান কত?,\frac{9}{4},\frac{4}{9},\frac{3}{2},\frac{2}{3},\frac{9}{4},\frac{4}{9},\frac{3}{2},\frac{2}{3},c
+"In the equation 3^{2x - 4} = p - 
+ i. if p = 1 then x = 2
+ ii. if p = 81 then x = 4
+ iii. if x = 2 then p = 2
+ Which one of the following is correct?","3^{2x - 4} = p সমীকরণে-
+ i. p = 1 হলে x = 2
+ ii. p = 81 হলে x = 4
+ iii. x = 2 হলে p = 2
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one of the following is the domain of f(x) = ln\frac{8 + x}{8 - x}?,f(x) = ln\frac{8 + x}{8 - x} এর ডোমেন নিচের কোনটি?,"(0, 8)","( - 8, 8)","[ - 8, 8]","[0, 8]","(0, 8)","( - 8, 8)","[ - 8, 8]","[0, 8]",b
+"If f(x) = x + \left | x \right |, then - 
+ i. f( - 200) = 0
+ ii. the domain of f(x) is ( - \infty , \infty )
+ iii. the domain of f(x) is [0, \infty )
+ Which one of the following is correct?","f(x) = x + \left | x \right | হলে-
+ i. f( - 200) = 0
+ ii. f(x) এর ডোমেন ( - \infty , \infty )
+ iii. f(x) এর রেঞ্জ [0, \infty )
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Which one is proper fraction?,নিচের কোনটি প্রকৃত ভগ্নাংশ?,\frac{x(x^{2} + 1)}{(x + 1)(x^{2} + 3)(x - 2)},\frac{x^{4} - 4}{(x^{2} + 1)(x + 3)},\frac{x^{3} - 3x + 4}{x(x - 1)(x - 2)},\frac{x^{4}}{(x^{2} + 1)(x^{2} - 3)},\frac{x(x^{2} + 1)}{(x + 1)(x^{2} + 3)(x - 2)},\frac{x^{4} - 4}{(x^{2} + 1)(x + 3)},\frac{x^{3} - 3x + 4}{x(x - 1)(x - 2)},\frac{x^{4}}{(x^{2} + 1)(x^{2} - 3)},a
+"3 cm, 4 cm and 5 cm are three sides of a triangle, what is the sum of squares of three medians?","কোনো ত্রিভুজের বাহুত্রয় যথাক্রমে 3 সে.মি., 4 সে.মি. ও 5 সে.মি. হলে, মধ্যমাত্রয়ের বর্গের সমষ্টি কত?",75 sq. cm,66.67 sq. cm (approx),37.5 sq. cm,33.33 sq. cm (approx),75 বর্গ সে.মি.,66.67 বর্গ সে.মি. (প্রায়),37.5 বর্গ সে.মি.,33.33 বর্গ সে.মি. (প্রায়),c
+"In \bigtriangleup PQR,\angle PQR< 90^{\circ} and PM\perp QR, which one of the following is correct?","\bigtriangleup PQR-এ \angle PQR < 90^{\circ} এবং PM \perp QR হলে, নিচের কোনটি সঠিক?",PR^{2} = PQ^{2} + QR^{2} - 2QR.RM,PR^{2} = PQ^{2} + QR^{2} - 2QR.QM,PR^{2} = PQ^{2} + QR^{2} + 2QR.RM,PR^{2} = PQ^{2} + QR^{2} + 2QR.QM,PR^{2} = PQ^{2} + QR^{2} - 2QR.RM,PR^{2} = PQ^{2} + QR^{2} - 2QR.QM,PR^{2} = PQ^{2} + QR^{2} + 2QR.RM,PR^{2} = PQ^{2} + QR^{2} + 2QR.QM,b
+What is the area of triangle formed by the line 3x + 4y = 12 with two axex?,3x + 4y = 12 রেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল কত হবে?,10 sq. unit,8 sq. unit,6 sq. unit,4 sq. unit,10 বর্গ একক,8 বর্গ একক,6 বর্গ একক,4 বর্গ একক,c
+"In case of \bigtriangleup ABC, if AB^{2}> BC^{2} + AC^{2} then - 
+ i. \angle C = obtuse angle
+ ii. \angle A = right angle
+ iii. \angle B = acute angle
+ Which of the following is correct?","\bigtriangleup ABC এর ক্ষেত্রে if AB^{2} > BC^{2} + AC^{2} হলে- 
+ i. \angle C = স্থূলকোণ
+ ii. \angle A = সমকোণ
+ iii. \angle B = সূক্ষ্মকোণ
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+How many times the length of radius of the nine point circle of the circumradius of a triangle?,নববিন্দু বৃত্তের ব্যাসার্ধ ত্রিভুজের পরিব্যাসার্ধের কতগুণ?,Half time,Two times,Three times,Four times,অর্ধেক,দ্বিগুণ,তিনগুণ,চারগুণ,a
+What is the sum up to infinity of the series 3 + 0.3 + 0.03 + \cdots ?,3 + 0.3 + 0.03 + ........ ধারাটির অসীমতক সমষ্টি কত?,\frac{9}{10},\frac{3}{10},\frac{10}{9},\frac{10}{3},\frac{9}{10},\frac{3}{10},\frac{10}{9},\frac{10}{3},d
+"What is the 6th term of the sequence \frac{1}{2}, \frac{1}{5}, \frac{1}{10}, \frac{1}{17}\cdots ?","\frac{1}{2}, \frac{1}{5}, \frac{1}{10}, \frac{1}{17}, ..... অনুক্রমটির ষষ্ঠ পদ কত?",\frac{1}{36},\frac{1}{37},\frac{1}{50},\frac{1}{65},\frac{1}{36},\frac{1}{37},\frac{1}{50},\frac{1}{65},b
+Which one is correct if we express 30^{\circ}{12}'{36}'' in radians?,30^{\circ}{12}'{36}'' কে রেডিয়ানে প্রকাশ করলে নিচের কোনটি সঠিক?,0.6173^{c},0.6273^{c},0.5173^{c},0.5273^{c},0.6173^{c},0.6273^{c},0.5173^{c},0.5273^{c},d
+"For all values of \theta - 
+ i. - 1\leq sin\theta \leq 1
+ ii. - 1\leq cos\theta \leq 1
+ iii. - 1\leq sec\theta \leq 1
+ Which of the following is correct?","\theta এর সকল মানের জন্য-
+ i. - 1\leq sin\theta \leq 1
+ ii. - 1\leq cos\theta \leq 1
+ iii. - 1\leq sec\theta \leq 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If cot\theta = 2 and \pi<\theta <\frac{3\pi}{2}, what is the value of cos\theta ?","cot\theta = 2 এবং \pi<\theta <\frac{3\pi}{2} হলে, cos\theta এর মান কত?",\frac{4}{\sqrt{3}},- \frac{1}{\sqrt{3}},- \frac{2}{\sqrt{5}},\frac{2}{\sqrt{5}},\frac{4}{\sqrt{3}},- \frac{1}{\sqrt{3}},- \frac{2}{\sqrt{5}},\frac{2}{\sqrt{5}},c
+Which one is the value of tan\left ( \theta - \frac{11\pi}{2} \right ) ?,tan\left ( \theta - \frac{11\pi}{2} \right ) এর মান কোনটি?,tan\theta,-tan\theta,cot\theta,-cot\theta,tan\theta,-tan\theta,cot\theta,-cot\theta,d
+What is the cubic root of - 13\sqrt{13}?,- 13\sqrt{13} এর ঘনমূল কত?,-13,\sqrt[3]{13},\sqrt{13},- \sqrt{13},-13,\sqrt[3]{13},\sqrt{13},- \sqrt{13},d
+log_{81}3 + log_{27}3 = what?,log_{81}3 + log_{27}3 = কত?,\frac{7}{12},\frac{12}{7},1,7,\frac{7}{12},\frac{12}{7},1,7,a
+What is the range of y = 3^{x}?,y = 3^{x} এর রেঞ্জ কত?,"( - \infty, \infty )","( - \infty, 0)","(0, \infty )","\left ( \frac{2}{3}, \infty \right )","( - \infty, \infty )","( - \infty, 0)","(0, \infty )","\left ( \frac{2}{3}, \infty \right )",c
+"If log_{10}(91 + x^{2} = 2, the value of x - 
+ i. 0
+ ii. - 3
+ iii. 3
+ Which of the following is correct?","log_{10}(91 + x^{2} = 2 হলে x এর মান-
+ i. 0
+ ii. - 3
+ iii. 3
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the 9th term in the expansion of (1 + x)^{10}?,(1 + x)^{10} এর বিস্তৃতিতে নবম পদ কত?,10x^{8},45x^{8},10x^{9},45x^{9},10x^{8},45x^{8},10x^{9},45x^{9},b
+What is the number of term in the expansion of (1 + x)^{10}?,(1 + x)^{10} এর বিস্তৃতিতে পদ সংখ্যা কত?,n - 1,n,n + 1,2n,n - 1,n,n + 1,2n,c
+"2x - 5y - 10 = 0 is an equation of straight line.
+ What is the slope of the line?","2x - 5y - 10 = 0 একটি সরলরেখার সমীকরণ।
+ 
+ রেখাটির ঢাল কত?",\frac{5}{2},\frac{2}{5},- \frac{2}{5},- \frac{5}{2},\frac{5}{2},\frac{2}{5},- \frac{2}{5},- \frac{5}{2},b
+"2x - 5y - 10 = 0 is an equation of straight line.
+ Which is the following is intersecting line?","2x - 5y - 10 = 0 একটি সরলরেখার সমীকরণ।
+ 
+ রেখাটি দ্বারা x অক্ষের ছেদবিন্দুর স্থানাঙ্ক নিচের কোনটি?","(2, 0)","( - 2, 0)","( - 5, 0)","(5, 0)","(2, 0)","( - 2, 0)","( - 5, 0)","(5, 0)",d
+"In case of throwing a dice - 
+ i. probability of getting odd number is \frac{1}{2}
+ ii. probability of getting prime number is \frac{1}{2}
+ iii. probability of getting even number is \frac{1}{2}
+ Which of the following is correct?","একটি ছক্কা নিক্ষেপের ক্ষেত্রে-
+ i. বিজোড় সংখ্যা পাওয়ার সম্ভাবনা \frac{1}{2}
+ ii. মৌলিক সংখ্যা পাওয়ার সম্ভাবনা \frac{1}{2}
+ iii. জোড় সংখ্যা পাওয়ার সম্ভাবনা \frac{1}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What will be the number of sample point if a dice and a coin are thrown once together?,একটি ছক্কা ও একটি মুদ্রা একত্রে একবার নিক্ষেপে মোট নমুনা বিন্দুর সংখ্যা কত?,8,12,16,20,8টি,12 টি,16 টি,20 টি,b
+"if x^{2} + y^{2} = 7xy, then - 
+ i. log(x^{2} + y^{2} = logx + logy + log7
+ ii. log\left ( \frac{x + y}{3} \right ) = log \sqrt{xy}
+ iii. 2 log (x - y) = log (5xy)
+ Which one of the following is correct?","x^{2} + y^{2} = 7xy হলে-
+ i. log(x^{2} + y^{2} = logx + logy + log7
+ ii. log\left ( \frac{x + y}{3} \right ) = log \sqrt{xy}
+ iii. 2 log (x - y) = log (5xy)
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the slope of straight line y - \sqrt{3}x + 3 = 0?,y - \sqrt{3}x + 3 = 0 রেখার ঢাল নিচের কোনটি?,- \sqrt{3},- \frac{1}{\sqrt{3}},\frac{1}{\sqrt{3}},\sqrt{3},- \sqrt{3},- \frac{1}{\sqrt{3}},\frac{1}{\sqrt{3}},\sqrt{3},d
+"3 + \frac{3}{\sqrt{2}} + \frac{3}{2} + \frac{3}{2\sqrt{2}} + \cdots is an infinite series.
+ What is the 8th term of the series?","3 + \frac{3}{\sqrt{2}} + \frac{3}{2} + \frac{3}{2\sqrt{2}} + ..... একটি অসীম ধারা।
+ 
+ ধারাটির ৮ম পদ কত?",24\sqrt{2},\frac{21}{8\sqrt{2}},\frac{3}{8\sqrt{2}},\frac{3}{16},24\sqrt{2},\frac{21}{8\sqrt{2}},\frac{3}{8\sqrt{2}},\frac{3}{16},c
+"3 + \frac{3}{\sqrt{2}} + \frac{3}{2} + \frac{3}{2\sqrt{2}} + \cdots is an infinite series.
+ What is the sum of the series up to infinity?","4 + \frac{3}{\sqrt{2}} + \frac{3}{2} + \frac{3}{2\sqrt{2}} + ..... একটি অসীম ধারা।
+ 
+ ধারাটির অসীমতক সমষ্টি কত?",6 + 3\sqrt{2},7,5,6 - 3\sqrt{2},6 + 3\sqrt{2},7,5,6 - 3\sqrt{2},d
+"If A = 1 - log p(pq), then what is the value of \frac{1}{A}?","A = 1 - log p(pq) হলে, \frac{1}{A} এর মান কত?",- log_{q}p,log_{q}p,log_{p}q,- log_{p}q,- log_{q}p,log_{q}p,log_{p}q,- log_{p}q,a
+At which point does the straight line 5x + 3y - 15 = 0 intersect x - axis?,5x + 3y - 15 = 0 সরলরেখাটি x অক্ষকে কোন বিন্দুতে ছেদ করে?,"(5, 0)","(3, 0)","(0, 3)","(0, 5)","(5, 0)","(3, 0)","(0, 3)","(0, 5)",b
+"f(x) = 3\left | x \right | - 5x, where, where - 2\leq x\leq 11.
+ What is the domain of f?","f(x) = 3\left | x \right | - 5x যখন - 2\leq x\leq 11
+ 
+ f এর ডোমেন কত?","( - 2, 11)","[ - 2, 11]","[ - 22, 16]","( - 22, 16)","( - 2, 11)","[ - 2, 11]","[ - 22, 16]","( - 22, 16)",c
+"f(x) = 3\left | x \right | - 5x, where, where - 2\leq x\leq 11.
+ What is the range of f?","f(x) = 3\left | x \right | - 5x যখন - 2\leq x\leq 11
+ 
+ f এর রেঞ্জ কত?","[ - 2, 11]","[ - 22, 4]","[ - 22, 16]","( - 22, 16)","[ - 2, 11]","[ - 22, 4]","[ - 22, 16]","( - 22, 16)",c
+If the n^{th} term of a sequence is U_{n} = 1 - \left ( - \frac{1}{3} \right )^{n} then which one is the 9^{th} term?,কোনো একটি অনুক্রমের n-তম পদ U_{n} = 1 - \left ( - \frac{1}{3} \right )^{n} হলে এর নবম পদ কোনটি?,\frac{19692}{19683},\frac{19684}{19683},\frac{19682}{19683},\frac{19674}{19683},\frac{19692}{19683},\frac{19684}{19683},\frac{19682}{19683},\frac{19674}{19683},b
+"If log log_{\sqrt{27}}x = 2\frac{2}{3}, then what is the value of x?",log_{\sqrt{27}}x = 2\frac{2}{3} হলে x এর মান কত?,3^{\frac{9}{16}},3^{\frac{16}{9}},3^{4},3^{16},3^{\frac{9}{16}},3^{\frac{16}{9}},3^{4},3^{16},c
+"y - 5x - 7 = 0 is a straight line. Its - 
+ i. slope = 5
+ ii. intersector of y - axis is 7
+ iii. intersecting point of y - axis is (7, 0)
+ Which one of the following is correct?","y - 5x - 7 = 0 সরলরেখাটির-
+ i. ঢাল = 5
+ ii. y অক্ষের ছেদক 7
+ iii. y অক্ষের ছেদবিন্দু (7, 0)
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the common ratio of a Geometric series which 1^{st} term is 1 and the sum of the series up to infinity is \frac{2\sqrt{3}}{2\sqrt{3} - 1} ?,একটি গুণোত্তর ধারার ১ম 1 এবং অসীম সমষ্টি \frac{2\sqrt{3}}{2\sqrt{3} - 1} হলে ধারাটির সাধারণ অনুপাত কত?,\frac{1}{2\sqrt{3}},1,- \frac{1}{2\sqrt{3}},- \frac{1}{2\sqrt{3} - 1},\frac{1}{2\sqrt{3}},1,- \frac{1}{2\sqrt{3}},- \frac{1}{2\sqrt{3} - 1},a
+"If \theta = \frac{3\pi}{2} then,
+ i. sec\left ( \theta + \frac{\pi}{6} \right ) = 2
+ ii. sin\left ( \theta - \frac{\pi}{4} \right ) = - \frac{1}{\sqrt{2}}
+ iii. cot\left ( \theta - \frac{\pi}{3} \right ) = \sqrt{3}
+ Which one of the following is correct?","\theta = \frac{3\pi}{2} হলে-
+ i. sec\left ( \theta + \frac{\pi}{6} \right ) = 2
+ ii. sin\left ( \theta - \frac{\pi}{4} \right ) = - \frac{1}{\sqrt{2}}
+ iii. cot\left ( \theta - \frac{\pi}{3} \right ) = \sqrt{3}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"Which one is the 20^{th} term of sequence 1,\frac{3}{4},\frac{9}{5}\cdots ?","1,\frac{3}{4},\frac{9}{5}, ..... অনুক্রমটির ২০তম পদ কোনটি?",\frac{20}{41},\frac{20}{39},\frac{40}{41},\frac{400}{39},\frac{20}{41},\frac{20}{39},\frac{40}{41},\frac{400}{39},d
+In which quardrant the angle - 1290^{\circ} lies?,- 1290^{\circ} কোণটি কোন চতুর্থভাগে অবস্থিত?,1^{st},2^{nd},3^{rd},4^{th},১ম,২য়,৩য়,৪র্থ,b
+"tan\theta = \frac{4}{3}, M = sinA + cosA, where \theta and A are actue angles.
+ What is the value of sec\theta + cot\theta ?","tan\theta = \frac{4}{3}, M = sinA + cosA, যেখানে \theta এবং A সূক্ষ্মকোণ।
+ 
+ sec\theta + cot\theta এর মান কত?",\frac{29}{12},\frac{29}{15},\frac{37}{20},\frac{27}{20},\frac{29}{12},\frac{29}{15},\frac{37}{20},\frac{27}{20},a
+"tan\theta = \frac{4}{3}, M = sinA + cosA, where \theta and A are actue angles.
+ If M = \sqrt{2}, then what is the value of A?","tan\theta = \frac{4}{3}, M = sinA + cosA, যেখানে \theta এবং A সূক্ষ্মকোণ।
+ 
+ M = \sqrt{2} হলে A এর মান কত?",\frac{\pi}{4},\frac{\pi}{3},\frac{3\pi}{4},\frac{5\pi}{4},\frac{\pi}{4},\frac{\pi}{3},\frac{3\pi}{4},\frac{5\pi}{4},a
+"If the points ( - 7, 7) and (R, 7) are equidistant from the origin, then what is the value of R?","( - 7, 7) এবং (R, 7) বিন্দুদ্বয় সমদূরবর্তী হলে R এর মান কত?",0,\pm 7,\pm \frac{1}{7},\frac{1}{7},0,\pm 7,\pm \frac{1}{7},\frac{1}{7},b
+"If the n^{th} term of a sequence is U_{n} = \frac{3 - ( - 1)^{n}}{4}, then its - 
+ i. 5^{th} term is 2
+ ii 16^{th} term is \frac{1}{2}
+ iii. sum of 1^{st} 20 term is 15
+ Which one of the following is correct?","কোনো একটি অনুক্রমের n তম পদ U_{n} = \frac{3 - ( - 1)^{n}}{4}, হলে এর-
+ i. ৫ম পদ 2
+ ii. ১৬তম পদ \frac{1}{2}
+ iii. ১ম 20 পদের সমষ্টি 15
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the angle between the hour hand and minute hand at time 10:15 am?,সকাল 10:15 মিনিটের সময় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?,23.75^{\circ},142.5^{\circ},150^{\circ},285^{\circ},23.75^{\circ},142.5^{\circ},150^{\circ},285^{\circ},b
+What is the value of \sqrt{x^{5}\sqrt[3]{(x^{12})\sqrt[5]{x^{13}}}}?,\sqrt{x^{5}\sqrt[3]{(x^{12})\sqrt[5]{x^{13}}}} এর মান কত?,x,x^{\frac{5}{2}},x^{5},x^{6},x,x^{\frac{5}{2}},x^{5},x^{6},c
+"M(3, 3), N(6, 6) and R(12, 3t) are three points.
+ If the three points are collinear, then what is the value of t?","M(3, 3), N(6, 6) এবং R(12, 3t) তিনটি বিন্দু।
+ 
+ যদি বিন্দু তিনটি সমরেখ হয় তবে t-এর মান কত?",2,4,6,8,2,4,6,8,d
+"M(3, 3), N(6, 6) and R(12, 3t) are three points.
+ Which is the equation of the straight line connecting the points M and N?","M(3, 3), N(6, 6) এবং R(12, 3t) তিনটি বিন্দু।
+ 
+ M ও N বিন্দু দ্বারা সংযোগকারী রেখার সমীকরণ নিচের কোনটি?",x - 3y - 12 = 0,3x - y - 6 = 0,3x - y - 12 = 0,x - 3y + 12 = 0,x - 3y - 12 = 0,3x - y - 6 = 0,3x - y - 12 = 0,x - 3y + 12 = 0,c
+Which one is the rational fraction of 2.0\dot{5}0\dot{4}?,নিচের কোনটি 2.0\dot{5}0\dot{4} এর মূলদীয় ভগ্নাংশ?,\frac{1138}{555},\frac{2276}{111},\frac{1139}{555},\frac{1138}{55},\frac{1138}{555},\frac{2276}{111},\frac{1139}{555},\frac{1138}{55},a
+Radius of the earth is 6440 km. If the arc on the surface of the earth joining Dhaka with Chattogram subtends an angle of 3^{\circ} at the distance between Dhaka and Chattogram?,পৃথিবীর ব্যাসার্ধ 6440 কি.মি.। ঢাকা ও চট্টগ্রাম পৃথিবীর কেন্দ্রে 3\degree কোণ উৎপন্ন করে। ঢাকা ও চট্টগ্রামের দূরত্ব কত?,368.98 km. (nearly),337.20 km. (nearly),107.33 km. (nearly),35.78 km. (nearly),368.98 কি.মি. (প্রায়),337.20 কি.মি. (প্রায়),107.33 কি.মি. (প্রায়),35.78 কি.মি. (প্রায়),b
+What is the angle between the minute hand and hour hand of a clock when it is 6:30?,6:30 টায় ঘড়ির ঘন্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ কত?,180^{\circ},30^{\circ},15^{\circ},0^{\circ},180^{\circ},30^{\circ},15^{\circ},0^{\circ},c
+"sin\theta = P
+ If P = - \frac{\sqrt{3}}{2} and \frac{\pi}{2}<\theta <\frac{3\pi}{2} then, what is the value of \theta ?","sin\theta = P
+ 
+ P = - \frac{\sqrt{3}}{2} এবং \frac{\pi}{2}<\theta <\frac{3\pi}{2} হলে \theta এর মান কত?",\frac{2\pi}{3},\frac{5\pi}{6},\frac{7\pi}{6},\frac{4\pi}{3},\frac{2\pi}{3},\frac{5\pi}{6},\frac{7\pi}{6},\frac{4\pi}{3},d
+If \sqrt[3]{x} = \sqrt[6]{y} = \sqrt[9]{z} then xy = ?,\sqrt[3]{x} = \sqrt[6]{y} = \sqrt[9]{z} হলে xy কত?,z,\sqrt{z},\sqrt[3]{z},\sqrt[9]{z},z,\sqrt{z},\sqrt[3]{z},\sqrt[9]{z},a
+"if x^{y} = y^{x} then - 
+ i. x = \sqrt[y]{y^{x}}}
+ ii. ylogx = xlogy
+ iii. \left ( \frac{x}{y} \right )^{\frac{x}{y}} = x^{\frac{x}{y} - 1}
+ Which one of the following is correct?","x^{y} = y^{x} হয় তবে-
+ i. x = \sqrt[y]{y^{x}}}
+ ii. ylogx = xlogy
+ iii. \left ( \frac{x}{y} \right )^{\frac{x}{y}} = x^{\frac{x}{y} - 1}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"log_{2}(p + q) = 3 and log_{2}(p - q) = 4, what is the value of p?","log_{2}(p + q) = 3 এবং log_{2}(p - q) = 4 হলে, p এর মান কত?",\frac{7}{2},7,12,\frac{25}{2},\frac{7}{2},7,12,\frac{25}{2},c
+What is the number of term in the expansion of (1 - 4x^{2} + 4x^{4})^{3}?,(1 - 4x^{2} + 4x^{4})^{3} এর বিস্তৃতিতে পদসংখ্যা কত?,3,4,6,7,3,4,6,7,d
+What is the coefficient of x^{3} in the expansion of \left ( x^{3} - \frac{1}{x^{3}} \right )^{5} = ?,\left ( x^{3} - \frac{1}{x^{3}} \right )^{5} এর বিস্তৃতিতে x^{3} সহগ কত?,-10,-5,5,10,-10,-5,5,10,d
+Which is the middle term of expansion of \left ( 1 - \frac{x}{2} \right )^{4}?,\left ( 1 - \frac{x}{2} \right )^{4} এর বিস্তৃতিতে মধ্যপদ কোনটি?,- 2x,- \frac{3x^{2}}{2},\frac{3x^{2}}{2},2x,- 2x,- \frac{3x^{2}}{2},\frac{3x^{2}}{2},2x,c
+"If A(5, 3) and B(3, 2) then AB's
+ i. length is \sqrt{5} unit
+ ii. slope is \frac{1}{2}
+ iii. equation is 2y = x - 8
+ Which one of the following is correct?","A(5, 3) এবং B(3, 2) হলে, AB এর-
+ i. দৈর্ঘ্য \sqrt{5} একক
+ ii. ঢাল \frac{1}{2}
+ iii. সমীকরণ 2y = x - 8
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"What is the distance of P(3, 4) from x - axis?","P(3, 4) বিন্দু থেকে x - অক্ষের দূরত্ব কত একক?",3 unit,4 unit,5 unit,7 unit,3 একক,4 একক,5 একক,7 একক,b
+"What is the area of the triangle ABC with the vertices A(5, 4), B( - 3, 2) and C(3, - 3)?","A(5, 4), B( - 3, 2) এবং C(3, - 3) শীর্ষবিশিষ্ট \triangle ABC এর ক্ষেত্রফল কত বর্গএকক?",26 square unit,28 square unit,52 square unit,56 square unit,26 বর্গএকক,28 বর্গএকক,52 বর্গএকক,56 বর্গএকক,a
+"Two unbiased coins are tossed together.
+ What is the number of sample points?","দুইটি নিরপেক্ষ মুদ্রা একসাথে একবার নিক্ষেপ করা হলো।
+ 
+ নমুনা বিন্দুর সংখ্যা কত?",2,4,8,16,2,4,8,16,b
+"Two unbiased coins are tossed together.
+ What is the probability of getting the same outcome?","দুইটি নিরপেক্ষ মুদ্রা একসাথে একবার নিক্ষেপ করা হলো। 
+ একই ফলাফল পাওয়ার সম্ভাবনা কত?",0,\frac{1}{4},\frac{1}{2},1,0,\frac{1}{4},\frac{1}{2},1,c
+What is the probability of getting 2 on throwing an unbiased dice?,একটি নিরপেক্ষ ছক্কা নিক্ষেপ করলে 2 উঠার সম্ভাবনা কোনটি?,\frac{1}{6},\frac{1}{3},\frac{1}{2},\frac{2}{3},\frac{1}{6},\frac{1}{3},\frac{1}{2},\frac{2}{3},a
+If one of the factor of 5x^{3} + 3x + 2K polynominal is (x + 1) then what is the value of k?,"5x^{3} + 3x + 2K বহুপদীর একটি উৎপাদক (x + 1) হলে, K এর মান কত?",-4,-2,1,4,-4,-2,1,4,d
+Which one is the leading co - efficient of 7x^{2} - 5x - 2x^{3} - 6?,7x^{2} - 5x - 2x^{3} - 6 এর মুখ্য সহগ নিচের কোনটি?,-6,-2,3,7,-6,-2,3,7,b
+"If P(z, b, c) = a^{2}(b - c) + b^{2}(c - a)c^{2}(a - b) then
+ i. P(a, b, c) symmetric
+ ii. P(a, b, c) cyclic
+ iii. P(1, 1, 1) = 0
+ Which one of the following is correct?","P(z, b, c) = a^{2}(b - c) + b^{2}(c - a)c^{2}(a - b) হলে-
+ i. P(a, b, c) প্রতিসম রাশি
+ ii. P(a, b, c) চক্র-ক্রমিক রাশি
+ iii. P(1, 1, 1) = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the 5th term of a sequence whose n - th term U_{n} = \frac{1 + ( - 1)^{5n}}{2}?,"কোনো একটি অনুক্রমের n-তম পদ U_{n} = \frac{1 + ( - 1)^{5n}}{2} হলে, 5 তম পদ কোনটি?",3,2,1,0,3,2,1,0,d
+"3 - \frac{3}{5} + \frac{3}{5^{2}} - \frac{3}{5^{3}} + \cdots 
+ What is the 10th term of the series?","3 - \frac{3}{5} + \frac{3}{5^{2}} - \frac{3}{5^{3}} + ....
+ 
+ ধারার 10তম পদ কত?",\frac{3}{5^{9}},\frac{3}{5^{10}},- \frac{3}{5^{11}},- \frac{3}{5^{9}},\frac{3}{5^{9}},\frac{3}{5^{10}},- \frac{3}{5^{11}},- \frac{3}{5^{9}},d
+"3 - \frac{3}{5} + \frac{3}{5^{2}} - \frac{3}{5^{3}} + \cdots
+ What is the sum of the series up to infinity?","4 - \frac{3}{5} + \frac{3}{5^{2}} - \frac{3}{5^{3}} + ....
+ 
+ ধারার অসীমতক সমষ্টি কত?",\frac{2}{5},\frac{5}{6},\frac{5}{2},\frac{15}{4},\frac{2}{5},\frac{5}{6},\frac{5}{2},\frac{15}{4},c
+In which quardant the angle - 1270^{\circ} lies?,- 1270^{\circ} কোণটি কোন চতুর্ভাগে থাকবে?,First,Second,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,c
+"For any infinite geometric series, the common ratio and sum up to infinity are \frac{1}{2} and 4 respectively, which one is the 1st term?","কোনো গুণোত্তর ধারার সাধারণ অনুপাত এবং অসীমতক সমষ্টি 4 হলে, প্রথম পদ নিচের কোনটি?",\frac{1}{8},\frac{1}{2},2,8,\frac{1}{8},\frac{1}{2},2,8,c
+"P(x) = 2x^{3} - 3x^{2} - 11x + 6
+ What is the remainder of P(x) divided by (x - 2) ?","P(x) = 2x^{3} - 3x^{2} - 11x + 6
+ 
+ P(x) কে (x - 2) দ্বারা ভাগ করলে ভাগশেষ কত?",-12,-6,6,12,-12,-6,6,12,a
+"P(x) = 2x^{3} - 3x^{2} - 11x + 6
+ Which is the factor of P(x)?","P(x) = 2x^{3} - 3x^{2} - 11x + 6
+ 
+ P(x) এর একটি উৎপাদক নিচের কোনটি?",2x + 1,2x - 1,x + 1,x - 1,2x + 1,2x - 1,x + 1,x - 1,b
+"If _{}^{n}\textrm{C}_{2} = _{}^{n}\textrm{C}_{3} then, which is the value of n?","^{n}\textrm{C}_{2} = \,^{n}\textrm{C}_{3} হলে n এর মান নিচের কোনটি?",2,3,5,6,2,3,5,6,c
+"In expansion of \left ( y^{2} - 2 + \frac{1}{y^{2}} \right )^{4} - 
+ i. middle term = 70
+ ii. number of term = 8
+ iii. free term of y = 70
+ Which one of the following is correct?","\left ( y^{2} - 2 + \frac{1}{y^{2}} \right )^{4} বিস্তৃতিতে-
+ i. মধ্যপদ = 70
+ ii. পদসংখ্যা = 8
+ iii. y বর্জিত পদ = 70
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"The vertices of the triangle ABC, A( - 2, 1), B(3, t) and C( - 1, 5) in anticlockwise order. If the area of \bigtriangleup ABC is 10 square unit, what is the value of t?","\triangle ABC এর শীর্ষত্রয় A( - 2, 1), B(3, t) এবং C( - 1, 5) ঘড়ির কাঁটার বিপরীতে আবর্তিত। ত্রিভুজটির ক্ষেত্রফল 10 একক হলে t এর মান কত?",10,5,3,1,10,5,3,1,d
+Two dice are thrown independently. What is the probability of not getting the same number on the upper side?,দুটি ছক্কা নিরপেক্ষভাবে নিক্ষেপ করা হলে ছক্কার উপরের পিঠে একই সংখ্যা না আসার সম্ভাবনা কত?,\frac{1}{6},\frac{35}{36},\frac{5}{6},\frac{1}{36},\frac{1}{6},\frac{35}{36},\frac{5}{6},\frac{1}{36},c
+What is the sum up to first 20 terms of U_{n} = \frac{1 - ( - 1)^{n}}{2}?,U_{n} = \frac{1 - ( - 1)^{n}}{2} অনুক্রমটির ১ম 20টি পদের সমষ্টি কত?,0,1,10,20,0,1,10,20,c
+"2x + y - 1 = 0 and - 2x + y - 1 = 0 are teo straight lines - 
+ i. the co - ordinate of the point of the intersection by two lines is \left ( \frac{1}{2} ,\frac{1}{2}\right )
+ ii. product of the two slopes is - 4
+ iii. the intercept of Y - axis is 1 of two lines
+ Which one of the following is correct?","2x + y - 1 = 0 এবং - 2x + y - 1 = 0 দুটি সরলরেখার সমীকরণ হলে-
+ i. রেখাদ্বয়ের ছেদবিন্দু \left ( \frac{1}{2} ,\frac{1}{2}\right )
+ ii. ঢালদ্বয়ের গুণফল - 4
+ iii. রেখাদ্বয়ের Y অক্ষের খণ্ডিতাংশ।
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If the area 64\pi cm^{2} of the circum circle of a triangle, what is the radius of nine point circle?","কোনো ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল 64\pi cm^{2} বর্গ সে.মি. হলে, এর নববিন্দু বৃত্তের ব্যাসার্ধ কত সে.মি.?",4 cm,8 cm,16 cm,64 cm,4 সে.মি.,8 সে.মি.,16 সে.মি.,64 সে.মি.,a
+"If (y^{y})^{\sqrt{y}} = (y\sqrt{y})^{y}, what is the value of \sqrt{y}",(y^{y})^{\sqrt{y}} = (y\sqrt{y})^{y} হলে \sqrt{y} = কত?,0,1,\frac{1}{2},\frac{3}{2},0,1,\frac{1}{2},\frac{3}{2},d
+"There are three points L(1, a), M(3, 4) and N(2, 5).
+ The slope of straight line LM is \frac{1}{2}. What is the value of a ?","L(1, a), M(3, 4) এবং N(2, 5) তিনটি বিন্দু।
+ 
+ LM রেখার ঢাল \frac{1}{2} হলে, a এর মান কত?",1,2,3,4,1,2,3,4,c
+"There are three points L(1, a), M(3, 4) and N(2, 5).
+ Which is the equation of line MN?","L(1, a), M(3, 4) এবং N(2, 5) তিনটি বিন্দু।
+ 
+ MN রেখার সমীকরণ কোনটি?",x + y - 7 = 0,7x - y - 23 = 0,7x - y - 19 = 0,x + 5y - 23 = 0,x + y - 7 = 0,7x - y - 23 = 0,7x - y - 19 = 0,x + 5y - 23 = 0,d
+The difference of circumference the two wheels is 40 cm. What is the difference of diameter of them?,"দুটি চাকার পরিধির পার্থক্য 40 সে.মি. হলে, তাদের ব্যাসের পার্থক্য কত সে.মি.?",6.37 cm (approx),12.73 cm (approx),12 cm,20 cm,6.37 (প্রায়),12.73 (প্রায়),12,20,b
+Which is the cyclic expression?,নিচের কোনটি চক্রক্রমিক রাশি?,x^{3} + y^{3} + z^{3} + 3xyz,x^{2} + y^{2} + z^{2} - 2xyz,3x^{2}y + 2y^{2}z + z^{2}x,x^{2} - y^{2} + z^{2},x^{3} + y^{3} + z^{3} + 3xyz,x^{2} + y^{2} + z^{2} - 2xyz,3x^{2}y + 2y^{2}z + z^{2}x,x^{2} - y^{2} + z^{2},b
+In the expansion of (2 + x) (1 - x) which is the coefficient of x?,(2 + x) (1 - x) এর বিস্তৃতিতে x এর সহগ কত?,2,1,-13,-14,2,1,-13,-14,c
+"If the three points M(1, - 1), N(2, 2) and R(4, a) are collinear, what is the value of a ?","M(1, - 1), N(2, 2) এবং R(4, a) বিন্দু তিনটি সমরেখ হলে, a এর মান কত?",2,4,6,8,2,4,6,8,d
+"If sec\theta = - \frac{2}{\sqrt{3}} and \frac{\pi}{2}<\theta <\pi , what is the value of \theta?","sec\theta = - \frac{2}{\sqrt{3}} এবং \frac{\pi}{2}<\theta <\pi হলে, \theta এর মান কত?",\frac{\pi}{6},\frac{2\pi}{3},\frac{5\pi}{6},\frac{7\pi}{6},\frac{\pi}{6},\frac{2\pi}{3},\frac{5\pi}{6},\frac{7\pi}{6},c
+What is the probability of getting square number in the first 25 natural numbers by randomly?,প্রথম পঁচিশটি স্বাভাবিক সংখ্যার দৈব চয়নে পূর্ণবর্গ সংখ্যা আসার সম্ভাবনা কত?,\frac{3}{25},\frac{2}{5},\frac{1}{5},\frac{4}{25},\frac{3}{25},\frac{2}{5},\frac{1}{5},\frac{4}{25},c
+"f(x) = 4^{x} is an exponential function.
+ Which is the inverse function of f(x)?","f(x) = 4^{x} একটি সূচকীয় ফাংশন।
+ 
+ f(x) এর বিপরীত ফাংশন কোনটি?",log_{x}4,log_{4}x,log_{y}4,log_{4}y,log_{x}4,log_{4}x,log_{y}4,log_{4}y,b
+"f(x) = 4^{x} is an exponential function.
+ What is the domain of f(x)?","f(x) = 4^{x} একটি সূচকীয় ফাংশন।
+ 
+ f(x) এর ডোমেন কত?","(\infty, 4)","( - \infty, 0)","(0, \infty )","( - \infty , \infty )","(\infty, 4)","( - \infty, 0)","(0, \infty )","( - \infty , \infty )",d
+"What is the general term of the sequence?
+ \frac{1}{3},\frac{2}{3^{2}},\frac{1}{3^{2}},\frac{4}{3^{4}},\cdots","\frac{1}{3},\frac{2}{3^{2}},\frac{1}{3^{2}},\frac{4}{3^{4}}, ..... অনুক্রমটির সাধারণ পদ কোনটি?",\frac{n + 1}{3^{n}},\frac{n}{3^{n}},\frac{n + 1}{3^{n - 1}},\frac{n}{3^{n - 1}},\frac{n + 1}{3^{n}},\frac{n}{3^{n}},\frac{n + 1}{3^{n - 1}},\frac{n}{3^{n - 1}},b
+What is the value of the produtct of the slope of straight lines 3x + y - 5 = 0 and 3y - x - 3 = 0?,3x + y - 5 = 0 এবং 3y - x - 3 = 0ন রেখাদ্বয়ের ঢালের গুণফল কত?,-3,-1,1,3,-3,-1,1,3,b
+"2x - y = 4 is equation of a straight line.
+ If P(t, - 4) is a point on the straight line then, which of the following is the value of t?","2x - y = 4 একটি সরলরেখার সমীকরণ।
+ 
+ P(t, - 4) বিন্দুটি রেখাটির উপর অবস্থিত হলে, t এর মান নিচের কোনটি?",12,6,4,0,12,6,4,0,d
+"2x - y = 4 is equation of a straight line.
+ The straight line intersect x - axis at which point?","2x - y = 4 একটি সরলরেখার সমীকরণ।
+ 
+ রেখাটি x-অক্ষকে কোন বিন্দুতে ছেদ করে?","( - 4, 0)","( - 2, 0)","(2, 0)","(4, 0)","( - 4, 0)","( - 2, 0)","(2, 0)","(4, 0)",c
+"2x - y = 4 is equation of a straight line.
+ What is the value of intersector of y of the straight line?","2x - y = 4 একটি সরলরেখার সমীকরণ।
+ 
+ রেখাটির y-অক্ষের ছেদক কত?",-4,-2,2,4,-4,-2,2,4,a
+The first term of a geometric series is \frac{1}{5} and infinite sum is \frac{1}{7}. What is the value of common ratio of the series?,একটি গুণোত্তর ধারার ১ম পদ \frac{1}{5} এবং অসীমতক সমষ্টি \frac{1}{7} হলে ধারাটির সাধারণ অনুপাত কত?,\frac{2}{5},\frac{1}{5},- \frac{1}{5},- \frac{2}{5},\frac{2}{5},\frac{1}{5},- \frac{1}{5},- \frac{2}{5},d
+"If cotA = 1 - 
+ i. sinA + \frac{1}{secA} = \sqrt{2}
+ ii. sin^{2}A + cot^{A} = \frac{3}{2}
+ iii. sec( - A) + cosec( - A) = 2\sqrt{2}
+ Which one of the following is correct?","cotA = 1 হলে-
+ i. sinA + \frac{1}{secA} = \sqrt{2}
+ ii. sin^{2}A + cot^{A} = \frac{3}{2}
+ iii. sec( - A) + cosec( - A) = 2\sqrt{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"What is the slope of straight line joining M(5, - 2) and N(2, 1)?","M(5, - 2) এবং N(2, 1)ন বিন্দুগামী সরলরেখার ঢাল কত?",1,\frac{1}{7},- \frac{1}{7},-1,1,\frac{1}{7},- \frac{1}{7},-1,d
+Which of the following is the value of \sqrt[6]{(x^{8})\sqrt{(x^{6})\sqrt{x^{4}}}},\sqrt[6]{(x^{8})\sqrt{(x^{6})\sqrt{x^{4}}}} এর মান নিচের কোনটি?,x,x^{2},x^{3},x^{4},x,x^{2},x^{3},x^{4},b
+"x^{\frac{1}{p}} = y^{\frac{1}{q}} = z^{\frac{1}{r}} and xyz = 1
+ Which one is correct?","x^{\frac{1}{p}} = y^{\frac{1}{q}} = z^{\frac{1}{r}} এবং xyz = 1
+ 
+ কোনটি সঠিক?",x = y^{\frac{p}{q}},x = y^{\frac{q}{p}},y = x^{\frac{r}{q}},z = y^{\frac{q}{r}},x = y^{\frac{p}{q}},x = y^{\frac{q}{p}},y = x^{\frac{r}{q}},z = y^{\frac{q}{r}},a
+Which one of the following is the value of p + q + r?,"x^{\frac{1}{p}} = y^{\frac{1}{q}} = z^{\frac{1}{r}} এবং xyz = 1
+ 
+ p + q + r এর মান নিচের কোনটি?",0,1,xyz,\frac{1}{x} + \frac{1}{y} + \frac{1}{z},0,1,xyz,\frac{1}{x} + \frac{1}{y} + \frac{1}{z},a
+Which of the following is the value of \sqrt[log]{3}^{81}?,\sqrt[log]{3}^{81} এর মান নিচের কোনটি?,4,8,27\sqrt{3},81\sqrt{3},4,8,27\sqrt{3},81\sqrt{3},b
+"If 8^{a} = 64^{b), which of the folowing is the value of a:b?",8^{a} = 64^{b) হলে a:b এর মান নিচের কোনটি?,1:02,2:01,2:03,3:02,1:02,2:01,2:03,3:02,b
+"What is the area of triangle XYZ in square unit with vertics X(2, 3), Y(5, 6) and Z( - 1, 4)?","X(2, 3), Y(5, 6) এবং Z( - 1, 4)ন শীর্ষবিন্দু XYZ ত্রিভুজের ক্ষেত্রফল কত বর্গ একক?",16,12,8,6,16,12,8,6,d
+cosecA - sinA = What?,cosecA - sinA = কত?,cos^{2}A. cosecA,cos^{2}A. sinA,cosec^{2}A. cosA,cosec^{2}A. secA,cos^{2}A. cosecA,cos^{2}A. sinA,cosec^{2}A. cosA,cosec^{2}A. secA,a
+"What is the value of a if the points P( - 1, 3), Q(4, 1) and R(a, 10) are collinear?","P( - 1, 3), Q(4, 1) এবং R(a, 10) বিন্দুত্রয় সমরেখ হলে a এর মান কত?",\frac{37}{2},\frac{2}{37},- \frac{2}{7},- \frac{37}{2},\frac{37}{2},\frac{2}{37},- \frac{2}{7},- \frac{37}{2},d
+"5, \frac{5}{3}, \frac{5}{9},\frac{5}{27}\cdots which one is the 10^{th} term of the sequence?","5, \frac{5}{3}, \frac{5}{9},\frac{5}{27} ... অনুক্রমটির 10তম পদ কোনটি?",\frac{5}{3^{12}},\frac{5}{3^{11}},\frac{5}{3^{10}},\frac{5}{3^{9}},\frac{5}{3^{12}},\frac{5}{3^{11}},\frac{5}{3^{10}},\frac{5}{3^{9}},d
+"If tanx = - \sqrt{3} and \frac{\pi}{2}<x<\pi, which of the following is the value of x?",tanx = - \sqrt{3} এবং \frac{\pi}{2}<x<\pi হলে x এর মান নিচের কোনটি?,\frac{\pi}{3},\frac{2\pi}{3},\frac{4\pi}{3},\frac{5\pi}{3},\frac{\pi}{3},\frac{2\pi}{3},\frac{4\pi}{3},\frac{5\pi}{3},b
+"If sec\theta = \frac{x}{y} and x>y>0, then which the following is the value of cot\theta ?",sec\theta = \frac{x}{y} এবং x>y>0 হলে cot\theta এর মান নিচের কোনটি?,\frac{y}{\sqrt{x^{2} - y^{2}}},\frac{x}{\sqrt{x^{2} - y^{2}}},\frac{x}{\sqrt{x^{2} + y^{2}}},\frac{y}{\sqrt{x^{2} + y^{2}}},\frac{y}{\sqrt{x^{2} - y^{2}}},\frac{x}{\sqrt{x^{2} - y^{2}}},\frac{x}{\sqrt{x^{2} + y^{2}}},\frac{y}{\sqrt{x^{2} + y^{2}}},a
+In which quadrant the angle - 875^{\circ} lies?,- 875^{\circ} কোণের অবস্থান কোন চতুর্ভাগে?,1^{st},2^{nd},3^{rd},4^{th},১ম,২য়,৩য়,৪র্থ,c
+"If the n^{th} term of any sequence is 4n - 5 and n\epsilon \mathbb{N}, which of the following is the 15^{th} term of the sequence?",কোনো অনুক্রমের n-তম পদ 4n - 5 এবং n\epsilon \mathbb{N} হলে অনুক্রমটির 15 তম পদ নিচের কোনটি?,55,60,65,75,55,60,65,75,a
+"If the difference of circumference of two wheels 90 cm, what is the difference in cm of their radius?","দুটি চাকার পরিধির পার্থক্য 90 সে.মি. হলে, তাদের ব্যাসের পার্থক্য কত সে.মি.?",5.35 (approximate),10.70 (approximate),14.32 (approximate),28.64 (approximate),5.35 (প্রায়),10.70 (প্রায়),14.32 (প্রায়),28.64 (প্রায়),c
+"If cot\theta = \sqrt{3} , what is the value of sin2\theta ?","cot\theta = \sqrt{3} হলে, sin2\theta এর মান কত?",1,\frac{\sqrt{3}}{2},\frac{1}{\sqrt{2}},\frac{1}{2},1,\frac{\sqrt{3}}{2},\frac{1}{\sqrt{2}},\frac{1}{2},b
+"For the sequence 2 - 2 + 2 - 2 + 2 - ..........
+ i. 19^{th} term = 2
+ ii. 24^{th} term = - 2
+ iii. sum of first 42 terms = 0
+ Which one of the following is correct?","2 - 2 + 2 - 2 + 2 - .......... ধারাটির-
+ i. 19তম পদ = 2
+ ii. 24তম পদ = - 2
+ iii. প্রথম 42 টি পদের সমষ্টি = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the value of sec( - 225^{\circ})?,sec( - 225^{\circ}) এর মান কত?,- \sqrt{2},- \frac{1}{\sqrt{2}},\frac{1}{\sqrt{2}},\sqrt{2},- \sqrt{2},- \frac{1}{\sqrt{2}},\frac{1}{\sqrt{2}},\sqrt{2},a
+What is the common ratio of the obtained geometric series from 0.\dot{5}2\dot{3}?,0.\dot{5}2\dot{3} হতে প্রাপ্ত গুণোত্তর ধারার সাধারণ অনুপাত কত?,0.1,0.01,0.001,0.0001,0.1,0.01,0.001,0.0001,c
+What is the angle between the minute hand and hour hand of a clock when it is 2:16?,2:16 টার সময় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণের পরিমাণ কত?,18^{\circ},26^{\circ},28^{\circ},30^{\circ},18^{\circ},26^{\circ},28^{\circ},30^{\circ},c
+"If tan\theta = 1, then - 
+ i. sin^{2}\theta + sec^{2}\theta = \frac{5}{2}
+ ii. sin\theta + \frac{1}{sec\theta } = \sqrt{2}
+ iii. sec( - \theta ) + cosec( - \theta ) = 2\sqrt{2}
+ Which one of the following is correct?","tan\theta = 1 হলে-
+ i. sin^{2}\theta + sec^{2}\theta = \frac{5}{2}
+ ii. sin\theta + \frac{1}{sec\theta } = \sqrt{2}
+ iii. sec( - \theta ) + cosec( - \theta ) = 2\sqrt{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"What is the length of the line intersected between the axes of coordinates which is passing through the point ( - 2, 0) and (0, 2)?","( - 2, 0) ও (0, 2) বিন্দুগামী রেখার খণ্ডিত অংশের দৈর্ঘ্য কত?",0,2\sqrt{2},4\sqrt{2},4,0,2\sqrt{2},4\sqrt{2},4,b
+Which is the domain of F(x) = \left | x \right |?,F(x) = \left | x \right |? এর ডোমেন কোনটি?,"(0, - \infty )","( - \infty , 0)","(0, \infty )",\mathbb{R},"(0, - \infty )","( - \infty , 0)","(0, \infty )",\mathbb{R},d
+"If tan\theta = 4\sqrt{3}, then what is the value of cosec\theta ?","tan\theta = 4\sqrt{3} হলে, cosec\theta এর মান কত?",\frac{4\sqrt{3}}{7},\frac{7}{4\sqrt{3}},\frac{7\sqrt{3}}{4},\frac{4}{7\sqrt{3}},\frac{4\sqrt{3}}{7},\frac{7}{4\sqrt{3}},\frac{7\sqrt{3}}{4},\frac{4}{7\sqrt{3}},b
+"\frac{1}{2},\frac{1}{10},\frac{1}{30}\cdots 
+ What is the general term of the sequence?","\frac{1}{2},\frac{1}{10},\frac{1}{30}, .....
+ 
+ অনুক্রমটির সাধারণ পদ নিচের কোনটি?",\frac{1}{n^{2}(n + 1)},\frac{1}{n(n^{2} + 1)},\frac{1}{n^{3}(n + 1)},\frac{1}{n(n^{3} + 1)},\frac{1}{n^{2}(n + 1)},\frac{1}{n(n^{2} + 1)},\frac{1}{n^{3}(n + 1)},\frac{1}{n(n^{3} + 1)},b
+"\frac{1}{2},\frac{1}{10},\frac{1}{30}\cdots 
+ What is the 10^{th} term of the sequence?","\frac{1}{2},\frac{1}{10},\frac{1}{30}, .....
+ 
+ অনুক্রমটির 10 তম পদ কত?",\frac{1}{1010},\frac{1}{1100},\frac{1}{11000},\frac{1}{10010},\frac{1}{1010},\frac{1}{1100},\frac{1}{11000},\frac{1}{10010},a
+"What is the area of the triangle whose vertices are P (6, 8), Q(4, 0) and R(0, 0)?","P(6, 8), Q(4, 0) ও R(0, 0) শীর্ষবিন্দুবিশিষ্ট ত্রিভুজের ক্ষেত্রফল কোনটি?",32 square unit,16 square unit,12 square unit,24 square unit,32 বর্গ একক,16 বর্গ একক,12 বর্গ একক,24 বর্গ একক,b
+"The straight line 6x + 3y = 9 - 
+ i. doesn't pass through the point (0, 0)
+ ii. having slope - 2
+ iii. intersect the x - axis at the point \left ( \frac{3}{2}, 0 \right )
+ Which one of the following is correct?","6x + 3y = 9 রেখাটি-
+ i. (0, 0) বিন্দুগামী নয়
+ ii. - 2 ঢালবিশিষ্ট
+ iii. x-অক্ষকে \left ( \frac{3}{2}, 0 \right ) বিন্দুতে ছেদ করে
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+cot\left ( \theta - \frac{11\pi}{2} \right ) = what?,cot\left ( \theta - \frac{11\pi}{2} \right ) = কত?,cot\theta,tan\theta,\pm tan\theta,#NAME?,cot\theta,tan\theta,\pm tan\theta,#NAME?,d
+"6cos^{2}\theta - 7cos\theta + 2 = 0, [Where 0<\theta <\frac{\pi}{2}] what is the value of \theta ?","6cos^{2}\theta - 7cos\theta + 2 = 0, 
+ [যেখানে 0<\theta <\frac{\pi}{2}] \theta এর মান কত?",0^{\circ},30^{\circ},60^{\circ},90^{\circ},0^{\circ},30^{\circ},60^{\circ},90^{\circ},c
+What is the cubic root of - 7\sqrt{7} ?,- 7\sqrt{7} এর ঘনমূল কত?,-7,\sqrt{7},7,- \sqrt{7},-7,\sqrt{7},7,- \sqrt{7},d
+\sqrt[13]{x^{6}\sqrt[2]{x^{16}}\sqrt[3]{x^{18}}} = what?,\sqrt[13]{x^{6}\sqrt[2]{x^{16}}\sqrt[3]{x^{18}}} = কত?,x^{\frac{17}{13}},x^{\frac{13}{17}},x^{\frac{19}{13}},x^{\frac{13}{19}},x^{\frac{17}{13}},x^{\frac{13}{17}},x^{\frac{19}{13}},x^{\frac{13}{19}},a
+"The sum of the infinite geometric series a + ar + ar^{2} + ar^{3} + \cdots exists whene - 
+ i. \left | r \right |<1
+ ii. \left | r \right |>1
+ iii. - 1 < r < 1
+ Which one of the following is correct?","a + ar + ar^{2} + ar^{3} + .... অনন্ত গুণোত্তর ধারাটির অসীমতক সমষ্টি থাকবে যখন- 
+ i. \left | r \right |<1
+ ii. \left | r \right |>1
+ iii. - 1 < r < 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"If (1, 1), (4, 4), (4, 8) and (1, 5) are the four vertices of a parallelogram, then what is the diagonal of the parallelogram?","একটি সামান্তরিকের কৌণিক বিন্দুগুলো যথাক্রমে (1, 1), (4, 4), (4, 8) এবং (1, 5) হলে, এর যেকোনো এক কর্ণের দৈর্ঘ্য কত?",4,\sqrt{10},3\sqrt{2},8,4,\sqrt{10},3\sqrt{2},8,b
+Find the angle of a straight line with x - axis where \frac{1}{\sqrt{3}} is the slope of straight line.,"একটি সরলরেখার ঢাল \frac{1}{\sqrt{3}} হলে, রেখাটি x-অক্ষের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",30^{\circ},45^{\circ},60^{\circ},90^{\circ},30^{\circ},45^{\circ},60^{\circ},90^{\circ},a
+"If three lines 3x + 5y = 2, 2x + 3y = 0, ax + by + 1 = 0 are concurrent, then what is the relation between a and b?","3x + 5y = 2, 2x + 3y = 0, ax + by + 1 = 0 রেখাত্রয় সমবিন্দু হলে a ও b এর সম্পর্ক কোনটি?",4a - 6b = 1,4a - 6b = 2,6a - 4b = 1,6a - 4b = 2,4a - 6b = 1,4a - 6b = 2,6a - 4b = 1,6a - 4b = 2,c
+What is the equation of x - axis?,x-অক্ষের সমীকরণ কোনটি?,x = 0,y = 0,x + y = 0,x = y,x = 0,y = 0,x + y = 0,x = y,b
+"Which is the equation of the straight line passing through the points ( - 2, 3) and (5, - 2)?","( - 2, 3) এবং (5, - 2) বিন্দুগামী সরলরেখার সমীকরণ নিচের কোনটি?",3x + 2y = 9,7x - 4y = 13,4x + 6y = 8,5x + 7y = 11,3x + 2y = 9,7x - 4y = 13,4x + 6y = 8,5x + 7y = 11,d
+"If sin5A = cos5A, what is the value of A?",sin5A = cos5A হলে A এর মান কত?,6^{\circ},9^{\circ},12^{\circ},18^{\circ},6^{\circ},9^{\circ},12^{\circ},18^{\circ},b
+"Which one is the equation of straight line passes through point (1, - 2) and having slope equal \frac{2}{3}?","(1, - 2) বিন্দুগামী এবং \frac{2}{3} ঢালবিশিষ্ট সরলরেখার সমীকরণ কোনটি?",2y - 3x + 7 = 0,3y - 2x - 8 = 0,3y - 2x + 8 = 0,3x - 2y + 7 = 0,2y - 3x + 7 = 0,3y - 2x - 8 = 0,3y - 2x + 8 = 0,3x - 2y + 7 = 0,c
+"For the sequence 1, 0, 1, 0, .......
+ i. general term = \frac{1 - ( - 1)^{3n}}{2}, where n\epsilon N
+ ii. 10^{th} term = 0
+ iii. sum of first 15 terms = 8
+ Which one of the following is correct?","1, 0, 1, 0, ....... অনুক্রমটির
+ i. সাধারণ পদ = \frac{1 - ( - 1)^{3n}}{2}, যেখানে n\epsilon N
+ ii. 10তম পদ = 0
+ iii. প্রথম 15 টি পদের সমষ্টি = 8
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If tan\theta + cot\theta = 2, which one is the value of \theta ?","tan\theta + cot\theta = 2 হলে, \theta এর মান কোনটি?",30^{\circ},45^{\circ},60^{\circ},90^{\circ},30^{\circ},45^{\circ},60^{\circ},90^{\circ},b
+"p = log_{a}bc and q = log_{c}ab
+ 1 + p = what?","p = log_{a}bc এবং q = log_{c}ab
+ 
+ 1 + p = কত?",log_{b}abc,log_{a}abc,log_{a}b^{2}c,log_{abc}a,log_{b}abc,log_{a}abc,log_{a}b^{2}c,log_{abc}a,b
+What is the value of 5^{th} term of any sequence whose n^{th} term is U_{n} = 1 + ( - 1)^{n}?,"কোনো অনুক্রমের n তম পদ U_{n} = 1 + ( - 1)^{n} হলে, এর 5 তম পদ কত?",6,4,2,0,6,4,2,0,d
+"In which quadrant, the angle - 365^{\circ} lies?",- 365^{\circ} কোণটি কোন চতুর্ভাগে অবস্থান করবে?,1^{st},2^{nd},3^{rd},4^{th},১ম,২য়,৩য়,৪র্থ,d
+"If \theta = 45^{\circ} then - 
+ i. sin\theta + cos\theta = \sqrt{2}
+ ii. sec^{2}\theta + cos^{2}\theta = \frac{5}{2}
+ iii. cot2\theta + sin2\theta = 0
+ Which one of the following is correct?","\theta = 45^{\circ} হলে-
+ i. sin\theta + cos\theta = \sqrt{2}
+ ii. sec^{2}\theta + cos^{2}\theta = \frac{5}{2}
+ iii. cot2\theta + sin2\theta = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+Which one is the simplified value of \sqrt[24]{a^{8}\sqrt{a^{6}\sqrt{a^{4}}}} ?,\sqrt[24]{a^{8}\sqrt{a^{6}\sqrt{a^{4}}}} এর সরল মান কোনটি?,a^{12},a^{\frac{1}{12}},a^{\frac{1}{2}},a^{0},a^{12},a^{\frac{1}{12}},a^{\frac{1}{2}},a^{0},c
+"In case of f(x) = 4^{x}
+ i. x = 0 for f(x) = 1
+ ii. Range is ( - \infty , 0)
+ iii. Domain is ( - \infty , \infty )
+ Which one of the following is correct?","f(x) = 4^{x} এর ক্ষেত্রে-
+ i. x = 0 এর জন্য f(x) = 1
+ ii. রেঞ্জ ( - \infty , 0)
+ iii. ডোমেন ( - \infty , \infty )
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+Which one is the intersecting point of x axis and straight line 3x + 2y + 6 = 0?,x অক্ষ এবং 3x + 2y + 6 = 0 রেখার ছেদবিন্দু কোনটি?,"( - 2, 0)","(0, - 2)","( - 3, 0)","(0, - 3)","( - 2, 0)","(0, - 2)","( - 3, 0)","(0, - 3)",a
+Which one is the n^{th} term of the series 7 + 5 + 3 + ...........?,7 + 5 + 3 + ........... ধারাটির n তম পদ কোনটি?,9 - 2n,2n - 9,5 + 2n,5 - 2n,9 - 2n,2n - 9,5 + 2n,5 - 2n,a
+"If 4^{x} = 64^{y}, x:y = which one?",4^{x} = 64^{y} হলে x:y = কোনটি?,1:03,1:02,2:01,3:01,1:03,1:02,2:01,3:01,a
+4 - 4 + 4 - 4 + 4 - 4 + \cdots what is the value of first 101 terms of the series?,4 - 4 + 4 - 4 + 4 - 4 + .... ধারাটির প্রথম 101 পদের সমষ্টি কত?,4,0,-1,-4,4,0,-1,-4,a
+The intersecting point of straight lines 2x + y - 7 = 0 and x = 2 lies in which quadrant?,2x + y - 7 = 0 এবং x = 2 রেখাদ্বয়ের ছেদবিন্দু কোন চতুর্ভাগে অবস্থিত?,First,Second,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,a
+"The straight line 2y = 2x + 1 has - 
+ i. slope = 1
+ ii. intersector of y - axis is \frac{1}{2}
+ iii. angle produced with positive direction of x axis is an acute angle
+ Which one of the following is correct?","2y = 2x + 1 সরলরেখার-
+ i. ঢাল = 1
+ ii. y অক্ষের ছেদক \frac{1}{2}
+ iii. সাথে x অক্ষের ধনাত্মক দিকে উৎপন্ন কোণ সূক্ষ্মকোণ
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+1 radian = how much right angle?,1 রেডিয়ান = কত সমকোণ?,\frac{\pi}{4},\frac{\pi}{2},\frac{2}{\pi},\frac{3\pi}{4},\frac{\pi}{4},\frac{\pi}{2},\frac{2}{\pi},\frac{3\pi}{4},c
+"If n\epsilon \mathbb{N}, first three value of cos\left ( \frac{n\pi}{2} \right ) are respectively",n\epsilon \mathbb{N} হলে cos\left ( \frac{n\pi}{2} \right ) ীর প্রথম তিনটি মান যথাক্রমে-,"1, 0, - 1","0, - 1, 0","- 1, 0, 1","0, - 1, 1","1, 0, - 1","0, - 1, 0","- 1, 0, 1","0, - 1, 1",b
+"A(2, 3), B(0, 2) and C(0, - 4) are three vertices of a triangle.
+ What is the slope of straight line AC?","A(2, 3), B(0, 2) এবং C(0, - 4) একটি ত্রিভুজের শীর্ষবিন্দু।
+ 
+ AC রেখার ঢাল কত?",\frac{ - 7}{2},- \frac{1}{2},\frac{2}{7},\frac{7}{2},\frac{ - 7}{2},- \frac{1}{2},\frac{2}{7},\frac{7}{2},d
+"A(2, 3), B(0, 2) and C(0, - 4) are three vertices of a triangle.
+ Which one is the equation of straight line AB?","A(2, 3), B(0, 2) এবং C(0, - 4) একটি ত্রিভুজের শীর্ষবিন্দু।
+ 
+ AB রেখার সমীকরণ কোনটি?",x + 2y - 4 = 0,x + 2y + 4 = 0,x - 2y + 4 = 0,5x - 2y + 4 = 0,x + 2y - 4 = 0,x + 2y + 4 = 0,x - 2y + 4 = 0,5x - 2y + 4 = 0,c
+"A(2, 3), B(0, 2) and C(0, - 4) are three vertices of a triangle.
+ The area of \bigtriangleup ABC is how much square unit?","A(2, 3), B(0, 2) এবং C(0, - 4) একটি ত্রিভুজের শীর্ষবিন্দু।
+ 
+ \triangle ABC এর ক্ষেত্রফল কত বর্গ একক?",24,12,6,3,24,12,6,3,c
+"Which straight line passes through point ( - 1, \sqrt{3}) makes an angle 60^{\circ} with the positive direction of x - axis?","( - 1, \sqrt{3}) বিন্দুগামী কোন রেখা x অক্ষের সাথে ধনাত্মক দিকের সাথে 60^{\circ} কোণ তৈরি করে?",\sqrt{3}y - x = 3 + \sqrt{3},\sqrt{3}y - x = 3 - \sqrt{3},y + \sqrt{3}x = 0,y - \sqrt{3}x = 2\sqrt{3},\sqrt{3}y - x = 3 + \sqrt{3},\sqrt{3}y - x = 3 - \sqrt{3},y + \sqrt{3}x = 0,y - \sqrt{3}x = 2\sqrt{3},d
+"What is the distance between the points ( - 3, 2) and (3, 2)","(- 3, 2) ও (3, 2) বিন্দুর মধ্যে দূরত্ব কত?",4,5,6,10,4,5,6,10,c
+"What is the value of y, if the three points P(1, - 1), Q(2, 2) and R(4, y) are collinear?","P(1, - 1), Q(2, 2) এবং R(4, y) বিন্দু তিনটি সমরেখ হলে y এর মান কত?",3,5,7,8,3,5,7,8,d
+"Find the equation of the straight line, where line, where slope is 3 and intersector of y is 5.","একটি সরলরেখার সমীকরণ নির্ণয় কর, যার ঢাল 3 এবং y ছেদক 5 ।",y = 3x + 5,y = 5x - 3,y = 3x - 5,y = 5x + 3,y = 3x + 5,y = 5x - 3,y = 3x - 5,y = 5x + 3,a
+"Which one is the equation of the straight line joining the points (3, 0) and (0, - 3)?","(3, 0) এবং (0, - 3) বিন্দুর সংযোগকারী সরলরেখার সমীকরণ কোনটি?",x + y = 3,x + y + 3 = 0,x - y = 3,x - y + 3 = 0,x + y = 3,x + y + 3 = 0,x - y = 3,x - y + 3 = 0,b
+What is the remainder when 9x^{2} + 2 is divided by (3x + 2)?,9x^{2} + 2 is কে (3x + 2) দ্বারা ভাগ করলে ভাগশেষ কত থাকবে?,-2,2,-6,6,-2,2,-6,6,d
+Which one is the factorization of (x - y)^{3} + (y - z)^{3} + (z - x)^{3}?,(x - y)^{3} + (y - z)^{3} + (z - x)^{3} এর উৎপাদকে বিশ্লেষণ কোনটি?,(x - y) (y - z) (z - x),(x + y) (y + z) (z + x),3(x - y) (y - z) (z - x),3(x + y) (y + z) (z + x),(x - y) (y - z) (z - x),(x + y) (y + z) (z + x),3(x - y) (y - z) (z - x),3(x + y) (y + z) (z + x),c
+"The expression x(3y + z) + y(3z + x) + z(3x + y) is - 
+ i. homogencous expression
+ ii. cyclic expression
+ iii. symmetric expression
+ Which one of the following is correct?","x(3y + z) + y(3z + x) + z(3x + y) রাশিটি হল-
+ i. সমমাত্রিক রাশি
+ ii. চক্রক্রমিক রাশি
+ iii. প্রতিসম রাশি
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"If \frac{x^{2}}{(x - 1)(x - 2)} = A + \frac{B}{x - 1} + \frac{C}{x - 2}, then what is the value of C?","যদি \frac{x^{2}}{(x - 1)(x - 2)} = A + \frac{B}{x - 1} + \frac{C}{x - 2} হয়, তবে C এর মান কোনটি?",-4,-1,1,4,-4,-1,1,4,d
+"(x - \frac{1}{2x})^{12} is expanded. 
+ Which term has no x?","(x - \frac{1}{2x})^{12} কে বিস্তৃতি করা হলো।
+ 
+ কোন পদটি x বর্জিত?",1st term,6th term,7th term,Last term,১ম পদ,৬ষষ্ঠ পদ,৭ম পদ,শেষ পদ,c
+"(x - \frac{1}{2x})^{12} is expanded.
+ Which one is the co - efficient of x^{8}?","(x - \frac{1}{2x})^{12} কে বিস্তৃতি করা হলো।
+ 
+ x^{8} এর সহগ কোনটি?",8\frac{1}{4},16\frac{1}{2},33,66,8\frac{1}{4},16\frac{1}{2},33,66,b
+What is the (2n - 1)gh term of the infinite series 3 - 3 + 3 - \cdots ?,3 - 3 + 3 - ..... অসীম ধারার (2n - 1) তম পদ কত?,3,-3,3n,0,3,-3,3n,0,a
+"What is the slope of the straight line joining the points (1, 3) and ( - 1, - 4)?","(1, 3) ও ( - 1, - 4) বিন্দুর সংযোগকারী সরলরেখার ঢাল কত?",- \frac{1}{2},-1,\frac{1}{2},1,- \frac{1}{2},-1,\frac{1}{2},1,a
+"If sin\theta = \frac{3}{5}, then - 
+ i. sin\theta + cos\theta = \frac{7}{5}
+ ii. sec\theta + cosec\theta = \frac{30}{12}
+ iii. tan\theta + cot\theta = \frac{25}{12}
+ Which one of the following is correct?","sin\theta = \frac{3}{5} হলে-
+ i. sin\theta + cos\theta = \frac{7}{5}
+ ii. sec\theta + cosec\theta = \frac{30}{12}
+ iii. tan\theta + cot\theta = \frac{25}{12}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+sin^{2}\frac{2\pi}{3} + cos^{2}\frac{\pi}{3} = what?,sin^{2}\frac{2\pi}{3} + cos^{2}\frac{\pi}{3} = কত?,\frac{5}{2},\frac{1}{2},1,\frac{3}{2},\frac{5}{2},\frac{1}{2},1,\frac{3}{2},c
+"A box contains 16 red pens, 24 blue pens and 8 black pens. A pen is chosen randomloy.
+ What is the probability that the pen is black?","একটি বাক্সে 16টি লাল কলম, 24 টি নীল কলম এবং 8 টি কালো কলম আছে। একটি কলম দৈবভাবে নির্বাচন করা হলো।
+ 
+ কলমটি কালো হওয়ার সম্ভাবনা কত?",\frac{1}{2},\frac{1}{3},\frac{1}{6},\frac{1}{8},\frac{1}{2},\frac{1}{3},\frac{1}{6},\frac{1}{8},c
+"A box contains 16 red pens, 24 blue pens and 8 black pens. A pen is chosen randomloy
+ What is the probability that the pen is not blue?","একটি বাক্সে 16টি লাল কলম, 24 টি নীল কলম এবং 8 টি কালো কলম আছে। একটি কলম দৈবভাবে নির্বাচন করা হলো।
+ 
+ কলমটি নীল না হওয়ার সম্ভাবনা কত?",1,\frac{1}{2},\frac{1}{3},\frac{1}{24},1,\frac{1}{2},\frac{1}{3},\frac{1}{24},b
+"If 2sin^{2}A + 3sinA - 2 = 0, what is the value of A? when 0<A<\frac{\pi}{2}.",2sin^{2}A + 3sinA - 2 = 0 হলে A = কত? যেখানে 0<A<\frac{\pi}{2}.,30^{\circ},45^{\circ},60^{\circ},90^{\circ},30^{\circ},45^{\circ},60^{\circ},90^{\circ},a
+Which one is the sum of the infinite series 1 + \frac{1}{2} + \frac{1}{2^{2}} + \cdots ?,1 + \frac{1}{2} + \frac{1}{2^{2}} + ........... অসীম ধারার যোগফল কোনটি?,2^{n + 1},\frac{1}{2^{n + 1}},2^{n},2,2^{n + 1},\frac{1}{2^{n + 1}},2^{n},2,d
+"For logarithm - 
+ i. log_{2}7 = \frac{log_{10}7}{log_{10}2}
+ ii. log_{4}64 = 4
+ iii. log_{2}(\frac{128}{32}) = 2
+ Which one of the following is correct?","logarithm এর জন্য-
+ i. log_{2}7 = \frac{log_{10}7}{log_{10}2}
+ ii. log_{4}64 = 4
+ iii. log_{2}(\frac{128}{32}) = 2
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+log_{2}25 + log_{25}5 = what?,log_{2}25 + log_{25}5 = কত?,1,2,5,\frac{5}{2},1,2,5,\frac{5}{2},d
+"\frac{log_{2}x}{y - z} = \frac{log_{2}y}{z - x} = \frac{log_{2}z}{x - y}
+ yz = what?","\frac{log_{2}x}{y - z} = \frac{log_{2}y}{z - x} = \frac{log_{2}z}{x - y}
+ 
+ yz = কত?",\frac{1}{x},1,2,\frac{1}{2},\frac{1}{x},1,2,\frac{1}{2},a
+"\frac{log_{2}x}{y - z} = \frac{log_{2}y}{z - x} = \frac{log_{2}z}{x - y}
+ x^{x}y^{y}z^{z} = what?","\frac{log_{2}x}{y - z} = \frac{log_{2}y}{z - x} = \frac{log_{2}z}{x - y}
+ 
+ x^{x}y^{y}z^{z} = কত?",0,1,xyz,\frac{1}{xyz},0,1,xyz,\frac{1}{xyz},b
+"What is the distance between the origin and the point (2, 2)?","মূলবিন্দু এবং (2, 2) বিন্দুর মধ্যবর্তী দূরত্ব কত?",2 unit,2\sqrt{2} unit,4\sqrt{2} unit,8 unit,2 একক,2\sqrt{2} একক,4\sqrt{2} একক,8 একক,b
+"If 2y = 3x - 7, then - 
+ i. slope of the line = \frac{3}{2}
+ ii. the line passing through the point (3, 1)
+ iii. by the line intersector of y is 7 unit
+ Which one of the following is correct?","2y = 3x - 7 হলে- 
+ i. রেখাটির ঢাল = \frac{3}{2}
+ ii. রেখাটির (3, 1) বিন্দু দিয়ে যায়
+ iii. রেখাটি দ্বারা y অক্ষের ছেদক 7 একক
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+The diameter of a wheel of a car is 0.8 metre and the wheel makes 6 revolutions per second. What is the speed of the car?,একটি গাড়ির চাকার ব্যাস 0.8 মিটার এবং চাকাটি প্রতি সেকেন্ডে 6 বার ঘুরে। গাড়িটির গতিবেগ কত?,9 km/h (approx),27 km/h (approx),54 km/h (approx),108 km/h (approx),9 কি.মি./ঘণ্টা (প্রায়),27 কি.মি./ঘণ্টা (প্রায়),54 কি.মি./ঘণ্টা (প্রায়),108 কি.মি./ঘণ্টা (প্রায়),c
+"If f(x) = \left | x - 1 \right |, then range f = ?",f(x) = \left | x - 1 \right | হলে রেঞ্জ f = ?,"(0, \infty )","\left [ 0, \infty \right ]","(0, \infty]","[0, \infty)","(0, \infty )","\left [ 0, \infty \right ]","(0, \infty]","[0, \infty)",d
+"For any value of \theta - 
+ i. - 1\leq cos\theta \leq 1
+ ii. \left | tan\theta \right |\geq 1
+ iii. \left | sin\theta \right |\leq 1
+ Which one of the following is correct?","\theta এর যেকোনো মানের জন্য-
+ i. - 1\leq cos\theta \leq 1
+ ii. \left | tan\theta \right |\geq 1
+ iii. \left | sin\theta \right |\leq 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"What is the 7^{th} term of the series, \frac{1}{2} - \frac{1}{8} + \frac{1}{32}\cdots ?",\frac{1}{2} - \frac{1}{8} + \frac{1}{32} - .... ধারাটির ৭ম পদ কত?,- \frac{1}{2^{15}},- \frac{1}{2^{13}},\frac{1}{2^{15}},\frac{1}{2^{13}},- \frac{1}{2^{15}},- \frac{1}{2^{13}},\frac{1}{2^{15}},\frac{1}{2^{13}},d
+"If 25^{3x} = 5^{x + 1} then, what is the value of x?","25^{3x} = 5^{x + 1} হলে, x এর মান কত?",\frac{1}{8},\frac{1}{4},\frac{1}{4},\frac{1}{2},\frac{1}{8},\frac{1}{4},\frac{1}{4},\frac{1}{2},b
+"In which quadrant, the value of tan\theta is positive?",tan\theta এর মান কোন চতুর্ভাগে ধনাত্মক হয়?,1^{st} and 2^{nd} quadrant,2^{nd} and 3^{rd} quadrant,3^{rd} and 4^{th} quadrant,1^{st} and 3^{rd} quadrant,১ম ও ২য় চতুর্ভাগে,২য় ও ৩য় চতুর্ভাগে,৩য় ও ৪র্থ চতুর্ভাগে,১ম ও ৩য় চতুর্ভাগে,d
+log_{3}15 - log_{3}5 = ?,log_{3}15 - log_{3}5 = ?,log_{3}10,log_{3}75,1,27,log_{3}10,log_{3}75,1,27,c
+What is the value of 5log_{5}30?,5log_{5}30 এর মান কত?,5,25,30,900,5,25,30,900,c
+"If cosA = \frac{4}{5} and \frac{3\pi}{2}<A<2\pi, then what is the value of tanA?",cosA = \frac{4}{5} এবং \frac{3\pi}{2}<A<2\pi হলে tanA এর মান কত?,- \frac{3}{4},- \frac{\sqrt{41}}{4},\frac{3}{4},\frac{\sqrt{41}}{4},- \frac{3}{4},- \frac{\sqrt{41}}{4},\frac{3}{4},\frac{\sqrt{41}}{4},a
+"5 - 1 + \frac{1}{5} - \frac{1}{25} + \cdots is a series?
+ What is the 15^{th} term of the series?","5 - 1 + \frac{1}{5} - \frac{1}{25} + ..... একটি ধারা।
+ 
+ ধারাটির 15তম পদ কত?",\frac{1}{5^{13}},\frac{1}{5^{14}},\frac{1}{5^{15}},\frac{1}{5^{16}},\frac{1}{5^{13}},\frac{1}{5^{14}},\frac{1}{5^{15}},\frac{1}{5^{16}},a
+"5 - 1 + \frac{1}{5} - \frac{1}{25} + \cdots is a series?
+ What is the sum of the series up to infinity?","6 - 1 + \frac{1}{5} - \frac{1}{25} + ..... একটি ধারা।
+ 
+ ধারাটির অসীমতক সমষ্টি কত?",\frac{1}{6},\frac{1}{4},\frac{25}{6},\frac{25}{4},\frac{1}{6},\frac{1}{4},\frac{25}{6},\frac{25}{4},c
+"What is the area of the triangle which vertices are (0, 0), (7, 0) and (0, 1)?","(0, 0), (7, 0) এবং (0, 1)ন শীর্ষবিশিষ্ট ত্রিভুজের ক্ষেত্রফল কত?",\frac{1}{2} square unit,\frac{7}{2} square unit,7 square unit,14 square unit,\frac{1}{2} বর্গ একক,\frac{7}{2} বর্গ একক,7 বর্গ একক,14 বর্গ একক,b
+"What is the area of the triangle forned by the line passing through the points ( - 4, 0) and (0, 5) with the x - axis and the y - axis?","( - 4, 0) এবং (0, 5) বিন্দুগামী রেখাটি x ও y অক্ষের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল কত?",4 square unit,5 square unit,10 square unit,20 square unit,4 বর্গ একক,5 বর্গ একক,10 বর্গ একক,20 বর্গ একক,c
+What is the co - ordinate of the intersecting point of two straight lines x - 2y = 1 and 2x + y = 7?,x - 2y = 1 এবং 2x + y = 7 রেখাদ্বয়ের ছেদ বিন্দুর স্থানাংক কত?,"(3, 1)","(7, 3)","( - 5, - 3)","\left ( \frac{13}{2},\frac{11}{4} \right )","(3, 1)","(7, 3)","( - 5, - 3)","\left ( \frac{13}{2},\frac{11}{4} \right )",a
+"If tan\theta = \frac{1}{\sqrt{3}}, what is the value of cosec\theta ?","tan\theta = \frac{1}{\sqrt{3}} হলে, cosec\theta এর মান কোনটি?",\frac{1}{2},\frac{\sqrt{3}}{2},\frac{2}{\sqrt{3}},2,\frac{1}{2},\frac{\sqrt{3}}{2},\frac{2}{\sqrt{3}},2,d
+0.1\dot{5} = ?,0.1\dot{5} = ?,\frac{14}{99},\frac{5}{33},\frac{7}{45},\frac{1}{6},\frac{14}{99},\frac{5}{33},\frac{7}{45},\frac{1}{6},c
+"If 4^{x} = 8^{y}, then what is the value of \frac{x}{y}?","4^{x} = 8^{y} হলে, \frac{x}{y} এর মান কত?",2,\frac{3}{2},\frac{2}{3},\frac{1}{2},2,\frac{3}{2},\frac{2}{3},\frac{1}{2},b
+"For a, b, c are three consecutive positive integers - 
+ i. a + 1 = b = c - 1
+ ii. b - a = c - b
+ iii. b^{2} = ac + 1
+ Which one of the following is correct?","a, b, c পরপর তিনটি ধনাত্মক অখণ্ড সংখ্যার জন্য-
+ i. a + 1 = b = c - 1
+ ii. b - a = c - b
+ iii. b^{2} = ac + 1
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"A( - 2, 3), B( - 2, - 3), C(7, - 3) and D(7, 3) are four vertices of a quadrilateral ABCD?
+ What is the slope of the line BD?","A( - 2, 3), B( - 2, - 3), C(7, - 3) ও D(7, 3) কোনো চতুর্ভুজের চারটি শীর্ষবিন্দু।
+ 
+ BD রেখার ঢাল কত?",- \frac{3}{2},0,\frac{2}{3},\frac{6}{5},- \frac{3}{2},0,\frac{2}{3},\frac{6}{5},c
+"A( - 2, 3), B( - 2, - 3), C(7, - 3) and D(7, 3) are four vertices of a quadrilateral ABCD?
+ What is the characteristic of the quadrilateral ABCD?","A( - 2, 3), B( - 2, - 3), C(7, - 3) ও D(7, 3) কোনো চতুর্ভুজের চারটি শীর্ষবিন্দু।
+ 
+ ABCD চতুর্ভুজটি কোন প্রকৃতির?",Trapezium,Rectangle,Square,Rhombus,ট্রাপিজিয়াম,আয়ত,বর্গ,রম্বস,b
+What is the leading co - efficient of the polynomial x^{5} - 7x^{4} + 3x^{2} - 6x + 1?,x^{5} - 7x^{4} + 3x^{2} - 6x + 1 বহুপদীর মুখ্য সহগ কত?,7,5,4,1,7,5,4,1,d
+"1 - \frac{2}{3} + \frac{4}{9} - \cdots is an infinite geometrics series.
+ Which one is the 8th term of the series?","1 - \frac{2}{3} + \frac{4}{9} - .... একটি অনন্ত গুণোত্তর ধারা।
+ 
+ ধারাটির 8তম পদ কোনটি?",- \frac{2^{7}}{3^{7}},- \frac{2^{8}}{3^{8}},\frac{2^{7}}{3^{7}},\frac{2^{8}}{3^{8}},- \frac{2^{7}}{3^{7}},- \frac{2^{8}}{3^{8}},\frac{2^{7}}{3^{7}},\frac{2^{8}}{3^{8}},a
+"1 - \frac{2}{3} + \frac{4}{9} - \cdots is an infinite geometrics series.
+ What is the sum of the series up to infinity?","2 - \frac{2}{3} + \frac{4}{9} - .... একটি অনন্ত গুণোত্তর ধারা।
+ 
+ ধারাটির অসীমতক সমষ্টি কত?",\frac{1}{3},\frac{3}{5},\frac{5}{3},3,\frac{1}{3},\frac{3}{5},\frac{5}{3},3,b
+In which quardant the angle - 700^{\circ} lies?,- 700^{\circ} কোণটি কোন চতুর্ভাগে অবস্থিত?,First,Second,Third,Fourth,১ম,২য়,৩য়,৪র্থ,a
+"If P(0, 5) and Q(5, 0), then - 
+ i. PQ = \sqrt[5]{2} units
+ ii. slope of PQ = - 1
+ iii. equation of PQ is x + y = 5
+ Which one of the following is correct?","P(0, 5) এবং Q(5, 0) হলে-
+ i. PQ = \sqrt[5]{2} একক
+ ii. এর ঢাল PQ = - 1
+ iii. PQ এর সমীকরণ x + y = 5
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+What is the probability of getting a prime number or a number divisible by 3 in a single throw of a dice?,একটি ছক্কা একবার নিক্কেপ করা হলে মৌলিক সংখ্যা অথবা তিন দ্বারা বিভাজ্য সংখ্যা উঠার সম্ভাবনা কত?,\frac{1}{3},\frac{1}{2},\frac{2}{3},\frac{5}{6},\frac{1}{3},\frac{1}{2},\frac{2}{3},\frac{5}{6},c
+"If the n - th term of a series is = \frac{2 - ( - 1)^{n}}{2}, then its - 
+ i. 11th term is \frac{3}{2}
+ ii. 20th term is \frac{1}{2}
+ iii. sum of 1st 10 terms is 20
+ Which one of the following is correct?","কোনো ধারার n তম পদ = \frac{2 - ( - 1)^{n}}{2} হলে এর-
+ i. 11তম পদ \frac{3}{2}
+ ii. 20তম পদ \frac{1}{2}
+ iii. প্রথম 10 পদের সমষ্টি = 20
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"A = (1 - 2x)^{6}
+ In the expansion of A, the co - efficient of x^{2} is -","A = (1 - 2x)^{6}
+ 
+ A এর বিস্তৃতিতে x^{2} এর সহগ-",-60,-15,15,60,-60,-15,15,60,d
+"A = (1 - 2x)^{6}
+ What is the middle term in the expansion of A?","A = (1 - 2x)^{6}
+ 
+ A এর বিস্তৃতিতে x^{2} মধ্যপদ কত?",- 160x^{3},- 20x^{3},20x^{3},160x^{3},- 160x^{3},- 20x^{3},20x^{3},160x^{3},d
+"If an arc of a circle which subtends an angle of 60^{\circ} at the center of the circle with diameter 5 cm, what is the length of the arc?","5 সে.মি. ব্যাসার্ধবিশিষ্ট বৃত্তে কোনো চাপ কেন্দ্রে 60\degree কোণ উৎপন্ন করলে, চাপের দৈর্ঘ্য কত?",2.6 cm (approx),3.2 cm (approx),150 cm,300 cm,2.6 সেমি (প্রায়),3.2 সেমি (প্রায়),150 সেমি,300 সেমি,a
+"If log_{x}9 = 2, then x = what?",log_{x}9 = 2 হলে x = কত?,-3,\sqrt{2},3,81,-3,\sqrt{2},3,81,c
+"A(1, 1), B(2, 2) and C(0, 5) are the three vertices of a triangle.
+ What is the slope of the line AB?","A(1, 1), B(2, 2) এবং C(0, 5) একটি ত্রিভুজের তিনটি শীর্ষবিন্দু।
+ 
+ AB রেখার ঢাল কত?",-1,0,1,3,-1,0,1,3,c
+"A(1, 1), B(2, 2) and C(0, 5) are the three vertices of a triangle.
+ What is the area of the ABC triangle?","A(1, 1), B(2, 2) এবং C(0, 5) একটি ত্রিভুজের তিনটি শীর্ষবিন্দু।
+ 
+ ABC ত্রিভুজের ক্ষেত্রফল কত?",17 square units,8.5 units,17 square units,2.5 square units,17 square units,8.5 units,17 square units,2.5 square units,d
+"If sin\theta + cos\theta = \sqrt{2}, then, what is the value of \theta?",sin\theta + cos\theta = \sqrt{2} হলে \theta এর মান কত?,30^{\circ},45^{\circ},60^{\circ},90^{\circ},30^{\circ},45^{\circ},60^{\circ},90^{\circ},b
+"If tan\theta = - 1 and 0<\theta <\pi, what is the value of \theta?",tan\theta = - 1 এবং 0<\theta <\pi হলে \theta এর মান কত?,\frac{\pi}{4},\frac{3\pi}{4},\frac{5\pi}{4},\frac{7\pi}{4},\frac{\pi}{4},\frac{3\pi}{4},\frac{5\pi}{4},\frac{7\pi}{4},b
+"The expression x^{2} + xy + y^{2} is - 
+ i. cyclic
+ ii. homogeneous
+ iii. symmetric
+ Which one of the following is correct?","x^{2} + xy + y^{2} রাশিটি-
+ i. চক্রক্রমিক
+ ii. সমমাত্রিক
+ iii. প্রতিসম
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+"x - 2 is a factor of p(x) = x^{4} - ax^{3} + 7x^{2} - 4
+ What is the value of a?","p(x) = x^{4} - ax^{3} + 7x^{2} - 4 এর একটি উৎপাদক x - 2 ।
+ 
+ a এর মান কত?",6,4,-5,-6,6,4,-5,-6,b
+"x - 2 is a factor of p(x) = x^{4} - ax^{3} + 7x^{2} - 4
+ What is the degree of p(x)?","p(x) = x^{4} - ax^{3} + 7x^{2} - 4 এর একটি উৎপাদক x - 2 ।
+ 
+ p(x) এর মাত্রা কত?",-4,4,-5,7,-4,4,-5,7,b
+"If a ball is drawn at random from a bag containing 10 blue, 14 white and 18 black balls, then what is the probability that the ball is not blue?","একটি থলিতে নীল বল 10 টি, সাদা বল 14 টি এবং কালো বল 18 টি আছে। দৈবভাবে একটি বল নেওয়া হলে বলটি নীল না হওয়ার সম্ভাবনা কত?",\frac{5}{21},\frac{7}{21},\frac{9}{21},\frac{16}{21},\frac{5}{21},\frac{7}{21},\frac{9}{21},\frac{16}{21},d
+What is the remainder when p(x) = x^{3} - x + 3 is divided by x + 2?,p(x) = x^{3} - x + 3 কে x + 2 দ্বারা ভাগ করলে ভাগশেষ কত হবে?,-8,-7,-3,9,-8,-7,-3,9,c
+"If length of the sides are 6 cm, 8 cm and 10 cm of a triangle then what is the sum of the squares of three medians in the triangle?","কোনো ত্রিভুজের বাহুগুলোর দৈর্ঘ্য 6 সে.মি., 8 সে.মি. এবং 10 সে.মি. হলে, এর মধ্যমাত্রাত্রয়ের বর্গের সমষ্টি কত?",66.67 square cm (nearly),150 square cm,200 square cm,266.67 square cm (nearly),66.67 বর্গ সে.মি. (প্রায়),150 বর্গ সে.মি.,200 বর্গ সে.মি.,266.67 বর্গ সে.মি. (প্রায়),b
+"In the expension of (x - \frac{1}{x})^{6} - 
+ i. number of the term is 7
+ ii. third term is 15x^{2}
+ iii. x - free term is 200
+ Which one of the following is correct?","(x - \frac{1}{x})^{6} এর বিস্তৃতিতে-
+ i. পদসংখ্যা 7
+ ii. ৩য় পদ 15x^{2}
+ iii. x মুক্ত পদ 200
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"In the expansion of (x - \frac{k}{3})^{4} coefficient of x^{3} is - 12, what is the value of k?",(x - \frac{k}{3})^{4} এর বিস্তৃতিতে x^{3} এর সহগ - 12 হলে k এর মান কত?,-36,-9,9,36,-36,-9,9,36,c
+What is the middle term in the expansion of (2x - \frac{1}{4x})^{6}?,(2x - \frac{1}{4x})^{6} এর বিস্তৃতিতে মধ্যপদ কত?,- \frac{5}{2},\frac{5}{2},\frac{15}{64x^{4}},15x^{2},- \frac{5}{2},\frac{5}{2},\frac{15}{64x^{4}},15x^{2},a
+"If C(4, 7) and D( - 2, 3) than CD's - 
+ i. slope is \frac{2}{3}
+ ii. length is \sqrt{52} unit
+ iii. equation is 2x - 3y = 13
+ Which one of the following is correct?","C(4, 7) এবং D( - 2, 3) হলে, CD এর-
+ i. ঢাল \frac{2}{3}
+ ii. দূরত্ব \sqrt{52} একক
+ iii. সমীকরণ 2x - 3y = 13
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"Which is the 4th term of a sequence, whose n th term U_{n} = \frac{ - 1 - ( - 1)^{4n}}{2}?","কোনো একটি অনুক্রমের n তম পদ U_{n} = \frac{ - 1 - ( - 1)^{4n}}{2} হলে, 4 তম পদ কোনটি?",1,0,-1,-2,1,0,-1,-2,c
+What is the product of the slopes of x - 3y = 15 and 3x + y = 3?,x - 3y = 15 এবং 3x + y = 3ন রেখাদ্বয়ের ঢালের গুণফল কত?,-3,-1,1,3,-3,-1,1,3,b
+"What is the equation of the straight line passing through the point p ( - 3, 4) and having slop \frac{1}{3}?","p ( - 3, 4) বিন্দুগামী এবং \frac{1}{3}ন ঢালবিশিষ্ট রেখার সমীকরণ কোনটি?",x - 3y = - 9,x - 3y = 9,x - 3y = 15,x - 3y = - 15,x - 3y = - 9,x - 3y = 9,x - 3y = 15,x - 3y = - 15,d
+What is the probability of getting prime number on throwing an unbaised dice?,একটী নিরপেক্ষ ছক্কা নিক্ষেপে মৌলিক সংখ্যা আসার সম্ভাবনা?,1,\frac{2}{3},\frac{1}{2},\frac{1}{3},1,\frac{2}{3},\frac{1}{2},\frac{1}{3},c
+"A fruit drawn at random from a bag containing 16 mangoes, 20 bananas and 28 oranges.
+ What is the probability of the fruit is banana?","একটি থলেতে 16টি আম, 20টি কলা এবং 28টি কমলা আছে। দৈবভাবে একটি ফল নেওয়া হলো।
+ 
+ ফলটি কলা হওয়ার সম্ভাবনা কত?",\frac{1}{4},\frac{5}{6},\frac{7}{16},1,\frac{1}{4},\frac{5}{6},\frac{7}{16},1,b
+"A fruit drawn at random from a bag containing 16 mangoes, 20 bananas and 28 oranges.
+ What is the probability that the fruit is not mango?","একটি থলেতে 16টি আম, 20টি কলা এবং 28টি কমলা আছে। দৈবভাবে একটি ফল নেওয়া হলো।
+ 
+ ফলটি আম না হওয়ার সম্ভাবনা কত?",\frac{1}{4},\frac{9}{6},\frac{11}{16},\frac{3}{4},\frac{1}{4},\frac{9}{6},\frac{11}{16},\frac{3}{4},d
+"6 + 3 + \frac{3}{2} + \cdot \cdot \cdot 
+ What is the 12th term of the series?","6 + 3 + \frac{3}{2} + ..............
+ 
+ ধারাটির 12তম পদ কত?",\frac{3}{2^{10}},\frac{3}{2^{11}},\frac{3}{2^{12}},2^{\frac{1}{2}},\frac{3}{2^{10}},\frac{3}{2^{11}},\frac{3}{2^{12}},2^{\frac{1}{2}},a
+A wheel makes 12 revolutions to cover a distance of 120\pi cm. What is the diameter of the wheel?,একটি চাকা 120\pi সে.মি. পথ যেতে 12 বার ঘুরে। চাকাটির ব্যাস কত?,3.16 cm (nearly),5 cm,6.32 cm (nearly),10 cm,3.16 সে.মি. (প্রায়),5 সে.মি.,6.32 সে.মি. (প্রায়),10 সে.মি.,d
+In which quadrant the angle - 576^{\circ} lies?,- 576^{\circ} কোণের অবস্থান কোন চতুর্ভাগে অবস্থিত?,First,Second,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,b
+"If sec\Theta = - \frac{2}{\sqrt{3}} and \frac{\pi}{2} < \Theta < \frac{3\pi}{2} then 
+ i. \theta = \frac{2\pi}{3}
+ ii. \theta = \frac{5\pi}{6}
+ iii. \theta = \frac{7\pi}{6}
+ Which one of the following is correct?","sec\Theta = - \frac{2}{\sqrt{3}} এবং \frac{\pi}{2} < \Theta < \frac{3\pi}{2} হলে-
+ i. \theta = \frac{2\pi}{3}
+ ii. \theta = \frac{5\pi}{6}
+ iii. \theta = \frac{7\pi}{6}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",c
+Which one of the following expression is symmetric?,নিচের কোনটি প্রতিসম রাশি?,x^{2} + y + z,2x^{2} + y^{2} - z^{2},5x^{2} - 4xy + 3y^{2},xy + yz + zx,x^{2} + y + z,2x^{2} + y^{2} - z^{2},5x^{2} - 4xy + 3y^{2},xy + yz + zx,d
+What is the summation of leading coefficient and constant term of the expression 4x^{3} - 5x^{4} + 7x^{6} - 3?,4x^{3} - 5x^{4} + 7x^{6} - 3 রাশিটির ধ্রুবপদ ও মুখ্য সহগের সমষ্টি কত?,10,4,3,1,10,4,3,1,b
+If one of the factor of 4x^{3} + 3x^{2} + 5x + k polynominal is (x + 1) then what is the value of k?,4x^{3} + 3x^{2} + 5x + k বহুপদীর একটি উৎপাদক (x + 1) হলে k এর মান কত?,-12,-6,6,12,-12,-6,6,12,c
+If log_{x}\sqrt{\frac{1}{64}} = - \frac{3}{2} then what is the value of x?,"log_{x}\sqrt{\frac{1}{64}} = - \frac{3}{2} হলে, x এর মান কত?",\frac{1}{16},\frac{1}{4},4,16,\frac{1}{16},\frac{1}{4},4,16,c
+"If \sqrt[6]{p} = \sqrt[12]{q} = \sqrt[18]{r}, then pr = ?","\sqrt[6]{p} = \sqrt[12]{q} = \sqrt[18]{r} হলে, pr = কত?",q^{2},\sqrt{q},\sqrt[9]{q^{2}},\sqrt[3]{q^{8}},q^{2},\sqrt{q},\sqrt[9]{q^{2}},\sqrt[3]{q^{8}},a
+"If log_{x}(x + y) = 2 = log_{2}(x - y} then, what is the value of (x, y)?","log_{x}(x + y) = 2 = log_{2}(x - y} হলে, (x, y) এর মান নিচের কোনটি?","(6, 2)","(10, 6)","(6, 10)","(20, 12)","(6, 2)","(10, 6)","(6, 10)","(20, 12)",b
+"Which one is the generl term of the sequence 1, \sqrt{2}, \sqrt{3},2\cdots ?","1, \sqrt{2}, \sqrt{3},2 .... অনুক্রমটির সাধারণ পদ কোনটি?",\sqrt[3]{n},\sqrt{n},n,n^{2},\sqrt[3]{n},\sqrt{n},n,n^{2},b
+If n^{th} term of a sequence is \frac{1 - ( - 1)^{n}}{2} then the value of odd term eill be -,"কোনো অনুক্রমের n তম পদ \frac{1 - ( - 1)^{n}}{2} হলে, এর বিজোড় পদ হবে-",0,\frac{1}{2},1,2,0,\frac{1}{2},1,2,c
+What is the 8^{th} term of the series \frac{1}{2} + 1 + \frac{3}{2} + \cdots ?,\frac{1}{2} + 1 + \frac{3}{2} + .... ধারাটির ৮ম পদ কোনটি?,4,5,6,7,4,5,6,7,a
+"If a<0 and m\epsilon z, n\epsilon \mathbb{N}, n>1 then (\sqrt[n]{a})^{m} = ?","a<0 এবং m\epsilon z, n\epsilon \mathbb{N}, n>1 হলে (\sqrt[n]{a})^{m} = কত?",\sqrt[mn]{a},\sqrt[m]{n},\sqrt[n]{a^{m}},\frac{1}{a^{mn}},\sqrt[mn]{a},\sqrt[m]{n},\sqrt[n]{a^{m}},\frac{1}{a^{mn}},c
+What is the domain of F(x) = \left | x \right | = ?,F(x) = \left | x \right | এর ডোমেন কোনটি?,R,"(0, \infty )","( - \infty , 0)","(0, 0)",R,"(0, \infty )","( - \infty , 0)","(0, 0)",a
+If log_{5}{17 + \sqrt{x}} = 2 then x = ?,log_{5}{17 + \sqrt{x}} = 2 হলে x এর মান কত?,2\sqrt{2},49,64,225,2\sqrt{2},49,64,225,c
+"If F(x) = ln(x) then - 
+ i. D_{F} = (0, \infty )
+ ii. R_{F} = ( - \infty , \infty )
+ iii. It is a function of Logarithm
+ Which one of the following is correct?","F(x) = ln(x) হলে-
+ i. D_{F} = (0, \infty )
+ ii. R_{F} = ( - \infty , \infty )
+ iii. ফাংশনটি একটি লগারিদমীয় ফাংশন
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the value of \left \{ (4a)^{ - 1}.\sqrt[3]{a^{2}}\right \}^{3} ?,\left \{ (4a)^{ - 1}.\sqrt[3]{a^{2}}\right \}^{3} এর মান নিচের কোনটি?,\frac{1}{64a^{2}},\frac{1}{64a},64a^{2},64a^{3},\frac{1}{64a^{2}},\frac{1}{64a},64a^{2},64a^{3},b
+"If the distance of the point A (p, 4) from the origin is 5 unit then what is the value of p ?","A (p, 4) থেকে মূলবিন্দুর দূরত্ব 5 একক হলে, p এর মান কত হবে?",3,4,5,6,3,4,5,6,a
+If the slope of the straight line is \frac{1}{\sqrt{3}} then which angle is created by the straight line with the x - axis?,"একটি সরলরেখার ঢাল \frac{1}{\sqrt{3}} হলে, x অক্ষের সাথে রেখাটি কত কোণ উৎপন্ন করে?",90^{\circ},60^{\circ},45^{\circ},30^{\circ},90^{\circ},60^{\circ},45^{\circ},30^{\circ},d
+If the straight lines 2x - y = - 7 and 3x + ky = 5 are perpendicular to each other then what is the value of k?,"2x - y = - 7 এবং 3x + ky = 5 রেখাদ্বয় পরস্পর লম্ব হলে, k এর মান কত হবে?",\frac{1}{4},\frac{1}{6},6,12,\frac{1}{4},\frac{1}{6},6,12,c
+"For which value of n three points (n^{2}, 2), (n, 1) and (0, 0) will be collinear?","n এর মান কত হলে, (n^{2}, 2), (n, 1) ও (0, 0) বিন্দুত্রয় সমরেখ হবে?","2, 2","0, - 1","0, 2","0, - 2","2, 2","0, - 1","0, 2","0, - 2",c
+At which point the straight line 9x - 2y = - 15 will intersect the x - axis?,9x - 2y = - 15 রেখাটি x অক্ষকে কোন বিন্দুতে ছেদ করবে?,"\left ( - \frac{5}{3},0 \right )","\left ( - \frac{3}{5},0 \right )","\left ( 0, \frac{15}{2} \right )","\left ( 0, \frac{2}{15} \right )","\left ( - \frac{5}{3},0 \right )","\left ( - \frac{3}{5},0 \right )","\left ( 0, \frac{15}{2} \right )","\left ( 0, \frac{2}{15} \right )",a
+"If the co - ordinate of the point are P( - 1, 3) and Q(2, 5) then for the line PQ - 
+ i. length is \sqrt{13} unit
+ ii. slope is \frac{3}{2}
+ iii. equation is 2x - 3y + 11 = 0
+ Which one of the following is correct?","P( - 1, 3) এবং Q(2, 5) হলে, PQ এর-
+ i. দৈর্ঘ্য \sqrt{13} একক
+ ii. ঢাল \frac{3}{2}
+ iii. সমীকরণ 2x - 3y + 11 = 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+"The straight line 3x + 4y - 12 = 0 intersect the x - axis and y - axis at point P and Q respectively.
+ What is the slope of the straight line?","3x + 4y - 12 = 0 সরলরেখাটি x ও y অক্ষকে যথাক্রমে P ও Q বিন্দুতে ছেদ করে।
+ 
+ সরলরেখাটির ঢাল নিচের কোনটি?",- \frac{4}{3},- \frac{3}{4},\frac{3}{4},\frac{4}{3},- \frac{4}{3},- \frac{3}{4},\frac{3}{4},\frac{4}{3},b
+"The straight line 3x + 4y - 12 = 0 intersect the x - axis and y - axis at point P and Q respectively.
+ What is the area of the triangle \bigtriangleup POQ ?","3x + 4y - 12 = 0 সরলরেখাটি x ও y অক্ষকে যথাক্রমে P ও Q বিন্দুতে ছেদ করে।
+ 
+ \triangle POQ এর ক্ষেত্রফল কত?",12 square unit,9 square unit,8 square unit,6 square unit,12 বর্গ একক,9 বর্গ একক,8 বর্গ একক,6 বর্গ একক,d
+"If the slope of the straight line passes through the point (2, 2) and (a, 0) is 2, then what will be the value of a?","(2, 2) এবং (a, 0) বিন্দুগামী সরলরেখার ঢাল 2 হলে, a এর মান কত হবে?",-2,-1,1,6,-2,-1,1,6,c
+If a wheel makes 40 revolutions to cover a distance Sof 1.75 km. then what is the radious of the wheel?,"একটি চাকা 1.75 কি.মি. পথ যেতে 40 বার ঘুরে, চাকাটির ব্যাসার্ধ কত?",21.88 m (nearly),9.67 m (nearly),7.67 m (nearly),6.96 m (nearly),21.88 মিটার (প্রায়),9.67 মিটার (প্রায়),7.67 মিটার (প্রায়),6.96 মিটার (প্রায়),d
+What is the angle between the minute hand and hour hand of a clock when it is 4 O'clock?,4 টার সময় ঘড়ির ঘণ্টা ও মিনিটের কাঁটার অন্তর্ভুক্ত কোণ কত ডিগ্রি হবে?,90^{\circ},105^{\circ},120^{\circ},130^{\circ},90^{\circ},105^{\circ},120^{\circ},130^{\circ},c
+What is the radian value of 45^{\circ}{25}'{36}''?,45^{\circ}{25}'{36}'' এর রেডিয়ানে প্রকাশ নিচের কোনটি?,0.7829,0.7928,0.8729,0.9728,0.7829,0.7928,0.8729,0.9728,b
+"If sin^{2}\theta = 0 then, \frac{2tan\theta }{1 + tan^{2}\theta } = ?","sin^{2}\theta = 0 হলে, \frac{2tan\theta }{1 + tan^{2}\theta } এর মান কত?",2,1,\frac{1}{3},0,2,1,\frac{1}{3},0,b
+"If cosA = \frac{1}{\sqrt{2}}, cosA and sinA are of the same sign then - 
+ i. sinA = \frac{1}{\sqrt{2}}
+ ii. cotA = 1
+ iii. secA + tanA = \frac{1}{\sqrt{3}}
+ Which one of the following is correct?","cosA = \frac{1}{\sqrt{2}} এবং cosA ও sinA একই চিহ্নবিশিষ্ট হলে-
+ i. sinA = \frac{1}{\sqrt{2}}
+ ii. cotA = 1
+ iii. secA + tanA = \frac{1}{\sqrt{3}}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+"tan\theta + sec\theta = p, then what is the value of sin\theta ?","tan\theta + sec\theta = p হলে, sin\theta এর মান নিচের কোনটি?",\frac{2p}{p^{2} + 1},\frac{p^{2} - 1}{p^{2} + 1},\frac{p^{2} + 1}{2p},\frac{p^{2} + 1}{p^{2} - 1},\frac{2p}{p^{2} + 1},\frac{p^{2} - 1}{p^{2} + 1},\frac{p^{2} + 1}{2p},\frac{p^{2} + 1}{p^{2} - 1},b
+"What is the 13^{th} term of the sequence 2, 4, 6, 8, ........?","2, 4, 6, 8, ........ অনুক্রমটির 13 তম পদ কোনটি?",14,26,28,30,14,26,28,30,b
+"If cos\theta = \frac{1}{\sqrt{2}}, then find the value of cos2\theta ?",cos\theta = \frac{1}{\sqrt{2}} হলে cos2\theta এর মান কত?,0,\frac{1}{\sqrt{2}},1,\sqrt{2},0,\frac{1}{\sqrt{2}},1,\sqrt{2},a
+"If log_2\sqrt{3}x = 2, then find the value of x?","যদি log_2\sqrt{3}x = 2 হয়, তবে x এর মান কত?",2\sqrt{3},4\sqrt{3},6,12,2\sqrt{3},4\sqrt{3},6,12,d
+What is the product of the slopes of y + 4x - 5 = 0 and y - 2x + 3 = 0?,y + 4x - 5 = 0 এবং y - 2x + 3 = 0 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?,-8,-6,6,8,-8,-6,6,8,a
+"3 - 3 + 3 - 3 + … Infinite Geometric Series:
+i. Common Ratio - 1
+ii. 11th term 3
+iii. Infinite Sum \frac{3}{2}
+Which of the following is correct?","3 - 3 + 3 - 3 + ... অনন্ত গুণোত্তর ধারাটির-
+ i. সাধারণ অনুপাত - 1
+ ii. 11তম পদ 3
+ iii. অসীমতক সমষ্টি \frac{3}{2}
+ নিচের কোনটি সঠিক?",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+In which quardrant the angle - 320^{\circ} lies?,- 320^{\circ} কোনটি কোন চতুর্ভাগে থাকবে?,First,Second,Third,Fourth,প্রথম,দ্বিতীয়,তৃতীয়,চতুর্থ,a
+"If \theta = \frac{\pi}{4}, then what is the value of (sin\theta + cos\theta )?","যদি \theta = \frac{\pi}{4} হয়, তবে sin\theta + cos\theta = কত?",2,\sqrt{2},1,\frac{1}{\sqrt{2}},2,\sqrt{2},1,\frac{1}{\sqrt{2}},b
+"If P(1, - 1) and Q(3, 4), then what is the value of the unit of PQ?","যদি P(1, - 1) এবং Q(3, 4) হয়, তবে PQ = কত একক?",\sqrt{41},\sqrt{32},\sqrt{29},\sqrt{25},\sqrt{41},\sqrt{32},\sqrt{29},\sqrt{25},c
+What is the 3^{rd} term of a sequence whose n^{th} term = \frac{n(n + 1)}{2}; where n\epsilon \mathbb{N}?,"কোনো একটি অনুক্রমের nতম পদ = \frac{n(n + 1)}{2}; n\epsilon \mathbb{N} হলে, তৃতীয় পদ কোনটি?",\frac{3}{2},3,\frac{9}{2},6,\frac{3}{2},3,\frac{9}{2},6,d
+"If f(x) = 2^{x}, then - 
+ i. (0, 1) is a point on the line
+ ii. it's domain is ( - \infty , \infty )
+ iii. it's range is (0, \infty )
+ Which one of the following is correct?","f(x) = 2^{x} হলে-
+ i. এটি (0, 1) বিন্দুগামী
+ ii. এর ডোমেন ( - \infty , \infty )
+ iii. এর রেঞ্জ (0, \infty )
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"If log_{x}4 + log_{x}8 = 5, then what is the value of x?","log_{x}4 + log_{x}8 = 5 হলে, x এর মান কত?",2,4,8,32,2,4,8,32,a
+"If f(x) = \left | x \right |, when - 3\leq x\leq 3 then what is the range of f(x)?","f(x) = \left | x \right |, যখন - 3\leq x\leq 3 হলে f(x) এর রেঞ্জ কত?","(0, 3)","[0, 3]","( - 3, 3)","[ - 3, 3]","(0, 3)","[0, 3]","( - 3, 3)","[ - 3, 3]",b
+"Which is the equation of the straight line passing through the points (3, 5) and having slope 2?","(3, 5) বিন্দুগামী ও 2 ঢালবিশিষ্ট সরলরেখার সমীকরণ কোনটি?",y = 2x + 2,y = 2x - 1,y = 2x + 1,2y = x + 7,y = 2x + 2,y = 2x - 1,y = 2x + 1,2y = x + 7,b
+"How much square unit in the area of the triangle MNP with the vertics M(1, 2), N(3, 4) and P( - 2, 5)?","M(1, 2), N(3, 4) এবং P( - 2, 5)ন শীর্ষ বিন্দু বিশিষ্ট MNP ত্রিভুজের ক্ষেত্রফল কত বর্গ একক?",20,12,9,6,20,12,9,6,d
+"y = 3^{x}
+ What is the value of x, when y = 3\sqrt{3}?","y = 3^{x}
+ 
+ y = 3\sqrt{3} হলে x এর মান কত?",\frac{1}{2},\frac{2}{3},\frac{3}{2},\frac{5}{2},\frac{1}{2},\frac{2}{3},\frac{3}{2},\frac{5}{2},c
+"y = 3^{x}
+ If log log_{\sqrt{3}} y = z, then what is the value of \frac{z}{x}?","y = 3^{x}
+ 
+ যদি log_{\sqrt{3}} y = z হয় তবে \frac{z}{x} এর মান কত?",\frac{1}{3},\frac{1}{2},2,3,\frac{1}{3},\frac{1}{2},2,3,c
+"If the straight line y = 5x + 5 intersects the x axis, what is the coordinate of the intersecting point?",y = 5x + 5 সরলরেখাটি x অক্ষকে যে বিন্দুতে ছেদ করে তার স্থানাঙ্ক কত?,"( - 1, 0)","(0, - 5)","(1, 0)","(0, 5)","( - 1, 0)","(0, - 5)","(1, 0)","(0, 5)",a
+"The infinite geometric series 3 - 3 + 3 - 3 + \cdots then - 
+ i. The common ratio is - 1
+ ii. 11^{th} term of series is 3
+ iii. The sum of the series up to infinity is \frac{3}{2}
+ Which one of the following is correct?","3 - 3 + 3 - 3 + ... অনন্ত গুণোত্তর ধারাটির-
+ i. সাধারণ অনুপাত - 1
+ ii. 11তম পদ 3
+ iii. অসীমতক সমষ্টি \frac{3}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the coordinate of the intersecting point of the two lines y = 2 and x = 2y - 1?,y = 2 এবং x = 2y - 1 সরলরেখা দুটির ছেদ বিন্দুর স্থানাঙ্ক কোনটি?,"(1, 2)","(4, 2)","(5, 2)","(3, 2)","(1, 2)","(4, 2)","(5, 2)","(3, 2)",d
+"The infinite series 1 + \frac{1}{3} + \frac{1}{3^{2}} + \frac{1}{3^{3}} + \cdots 
+ What is the 6^{th} term of the series?","1 + \frac{1}{3} + \frac{1}{3^{2}} + \frac{1}{3^{3}} + ....
+ 
+ ধারাটির ষষ্ঠ পদ কত?",\frac{1}{81},\frac{1}{243},\frac{1}{729},\frac{1}{2187},\frac{1}{81},\frac{1}{243},\frac{1}{729},\frac{1}{2187},b
+"The infinite series 1 + \frac{1}{3} + \frac{1}{3^{2}} + \frac{1}{3^{3}} + \cdots
+ What is the sum of the series up to infinity?","2 + \frac{1}{3} + \frac{1}{3^{2}} + \frac{1}{3^{3}} + ....
+ 
+ ধারাটির অসীমতক সমষ্টি কত?",\frac{3}{2},\frac{4}{3},\frac{3}{4},\frac{2}{3},\frac{3}{2},\frac{4}{3},\frac{3}{4},\frac{2}{3},a
+"If a coin is thrown three times successively, then how many sample will be there?",একটি মুদ্রাকে পরপর তিনবার নিক্ষেপ করলে নমুনা বিন্দুর সংখ্যা কত হবে?,9,8,6,4,9,8,6,4,b
+What is the y - intersects of the straight line 10x + 15y = 30?,10x + 15y = 30 সরলরেখাটির y ছেদকের পরিমাণ কত?,30,15,10,2,30,15,10,2,d
+"A( - 1, 2) and B(3, - 2) are two points on the same plane.
+ What is the distance between origin and A","একই সমতলে অবস্থিত A( - 1, 2) ও B(3, - 2) দুইটি বিন্দু।
+ 
+ A বিন্দু হতে মূলবিন্দুর দূরত্ব কত?",\sqrt{5} unit,2 unit,\sqrt{3} unit,1 unit,\sqrt{5} একক,2 একক,\sqrt{3} একক,1 একক,a
+"A( - 1, 2) and B(3, - 2) are two points on the same plane.
+ What is the slope of AB?","একই সমতলে অবস্থিত A( - 1, 2) ও B(3, - 2) দুইটি বিন্দু।
+ 
+ AB রেখার ঢাল কত?",1,0,-1,-2,1,0,-1,-2,c
+What is principal co - effcient of P(y) = x^{3}y^{3} - x^{2}y^{4} + xy^{5} + y^{6}?,P(y) = x^{3}y^{3} - x^{2}y^{4} + xy^{5} + y^{6} বহুপদীটির মুখ্য সহগ কত?,6,y^{3},x^{3},1,6,y^{3},x^{3},1,d
+The angle \frac{ - 85\pi}{18} is situated in which quadrant?,\frac{ - 85\pi}{18} রেডিয়ান কোণটি কোন চতুর্ভাগে অবস্থিত?,4th,3rd,2nd,1st,৪র্থ,৩য়,২য়,১ম,b
+What is the internal angle between the hour hand and minute hand of a clock at 9:00 A.M?,সকাল 9:00 টায় ঘড়ির ঘন্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ কত?,\frac{\pi^{c}}{2},\frac{\pi^{c}}{3},\frac{\pi^{c}}{4},\frac{\pi^{c}}{6},\frac{\pi}{2} রেডিয়ান,\frac{\pi}{3} রেডিয়ান,\frac{\pi}{4} রেডিয়ান,\frac{\pi}{6} রেডিয়ান,a
+What is the rational fraction of 2.\dot{3}\dot{5}?,2.\dot{3}\dot{5} কে মূলদীয় ভগ্নাংশে প্রকাশ করলে নিচের কোনটি হবে?,\frac{233}{990},\frac{235}{100},\frac{233}{99},\frac{235}{99},\frac{233}{990},\frac{235}{100},\frac{233}{99},\frac{235}{99},c
+"If cosA = - \frac{1}{\sqrt{2}} and \pi<A<\frac{3\pi}{2}, then - 
+ i. sinA = - \frac{1}{\sqrt{2}}
+ ii. tanA = cotA
+ iii. A = A = \frac{5\pi}{4}
+ Which one of the following is correct?","cosA = - \frac{1}{\sqrt{2}} এবং \pi<A<\frac{3\pi}{2} হলে-
+ i. sinA = - \frac{1}{\sqrt{2}}
+ ii. tanA = cotA
+ iii. A = A = \frac{5\pi}{4}
+ নিচের কোনটি সঠিক?","i, ii and iii",ii and iii,i and iii,i and ii,"i, ii ও iii",ii ও iii,i ও iii,i ও ii,a
+If nth term of a series is \frac{2 - 2( - 1)^{n}}{2} then what is the 7th term of this series?,- 7 + 7 - 7 + 7 - ..... ধারাটির প্রথম (2n + 1) সংখ্যক পদের যোগফল কত?,-2,0,2,4,7,1,0,-7,c
+What is the constant term in the expansion of \left ( y - \frac{1}{y} \right )^{6}?,\left ( y - \frac{1}{y} \right )^{6} এর বিস্তৃতিতে y বর্জিত পদ কোনটি?,20,15,-15,-20,20,15,-15,-20,d
+How many terms are there in the expansion of (1 - 3x + 3x^{2} - x^{3})^{4}?,(1 - 3x + 3x^{2} - x^{3})^{4} এর বিস্তৃতিতে পদসংখ্যা কত?,4,6,12,13,4,6,12,13,d
+"If M(x) = 2x^{2} - 5x + x^{3} + 7 and N(x) = x^{2} - 2x + 3, then what is the dimension of \frac{M(x)}{N(x)}?","M(x) = 2x^{2} - 5x + x^{3} + 7 এবং N(x) = x^{2} - 2x + 3 হলে, \frac{M(x)}{N(x)} এর মাত্রা কত?",0,1,2,3,0,1,2,3,b
+"The straight line 2x - 3y = 6 - 
+ i. intersects x - axis at ( - 3, 0)
+ ii. intersects x - axis at (0, - 2)
+ iii. Passing through origan","2x - 3y = 6 সরলরেখাটি-
+ i. x-অক্ষকে ( - 3, 0) বিন্দুতে ছেদ করে
+ ii. y অক্ষকে (0, - 2) বিন্দুতে ছেদ করে
+ iii. মূলবিন্দুগামী
+ নিচের কোনটি সঠিক?",ii,iii,i and iii,ii and iii,ii,iii,i ও iii,ii ও iii,a
+"The probability of Rafiq to go from Khulna to Rajshahi is \frac{4}{5} and to go from Rajshahi to Rangpur is \frac{6}{7}.
+ What is the probability of not going by bus from Khulna to Rajshahi?","রফিকের খুলনা হতে রাজশাহী বাসে যাওয়ার সম্ভাবনা \frac{4}{5} এবং রাজশাহী হতে রংপুর ট্রেনে যাওয়ার সম্ভাবনা \frac{6}{7}.
+ 
+ রফিকের খুলনা হতে রাজশাহী বাসে না যাওয়ার সম্ভাবনা কত?",\frac{1}{7},\frac{1}{5},\frac{4}{5},\frac{6}{7},\frac{1}{7},\frac{1}{5},\frac{4}{5},\frac{6}{7},b
+"The probability of Rafiq to go from Khulna to Rajshahi is \frac{4}{5} and to go from Rajshahi to Rangpur is \frac{6}{7}.
+ What is the probability of Rafiq to go Khulna to Rajshahi by bus but not to go Rajshahi to Rangpur by train?","রফিকের খুলনা হতে রাজশাহী বাসে যাওয়ার সম্ভাবনা \frac{4}{5} এবং রাজশাহী হতে রংপুর ট্রেনে যাওয়ার সম্ভাবনা \frac{6}{7}.
+ 
+ রফিকের খুলনা হতে রাজশাহী বাসে কিন্তু রাজশাহী থেকে রংপুর বাসে না যাওয়ার সম্ভাবনা কত?",\frac{24}{35},\frac{6}{35},\frac{4}{35},\frac{1}{35},\frac{24}{35},\frac{6}{35},\frac{4}{35},\frac{1}{35},c
+"If log_{\sqrt[4]{2}} = 8, then x = ?","log_{\sqrt[4]{2}} = 8 হলে, x = কত?",1,2,4,8,1,2,4,8,c
+Which straight line of the below is passing through origin?,নিচের কোনটি মূলবিন্দুগামী সরলরেখার সমীকরণ?,5x - 7y = 0,7x + 5y - 3 = 0,x + 3 = 0,y - 5 = 0,5x - 7y = 0,7x + 5y - 3 = 0,x + 3 = 0,y - 5 = 0,a
+\sqrt[3]{x^{2}\sqrt{x^{6}\sqrt[4]{x^{8}}}} = ?,\sqrt[3]{x^{2}\sqrt{x^{6}\sqrt[4]{x^{8}}}} = কত?,0,1,x,x^{2},0,1,x,x^{2},d
+In the expansion of (1 + 2x)^{6} what is the co - efficient of x^{3}?,(1 + 2x)^{6} এর বিস্তৃতিতে x^{3} এর সহগ কত?,240,160,60,20,240,160,60,20,b
+"If \frac{2x - 3}{(x - 2)(x - 3)} = \frac{A}{x - 2} + \frac{3}{x - 3}, what is the value of A?","\frac{2x - 3}{(x - 2)(x - 3)} = \frac{A}{x - 2} + \frac{3}{x - 3} হলে, A এর মান কত?",2,1,-1,-2,2,1,-1,-2,c
+What is the probability to get at lest one T if a coin is thrown 3 times?,একটি মুদ্রা তিনবার নিক্ষেপ করা হলে কমপক্ষে একটি T আসার সম্ভাবনা কত?,\frac{7}{8},\frac{1}{2},\frac{3}{8},\frac{1}{8},\frac{7}{8},\frac{1}{2},\frac{3}{8},\frac{1}{8},a
+Find the sum of 1^{st} (2n + 1) terms of the series - 7 + 7 - 7 + 7 - \cdots,- 7 + 7 - 7 + 7 - ..... ধারাটির প্রথম (2n + 1) সংখ্যক পদের যোগফল কত?,7,1,0,-7,7,1,0,-7,c
+"If sin B = \sqrt{2} - cosB, then B = ?","sin B = \sqrt{2} - cosB হলে, B = কত?",\frac{\pi}{2},\frac{\pi}{3},\frac{\pi}{4},\frac{\pi}{6},\frac{\pi}{2},\frac{\pi}{3},\frac{\pi}{4},\frac{\pi}{6},c
+"After expressing 0.\dot{2}\dot{3} as a geometric series, what will be the common ratio of it?",0.\dot{2}\dot{3} কে গুণোত্তর ধারায় প্রকাশ করলে সাধারণ অনুপাত কত হবে?,0.1,0.01,0.001,0.23,0.1,0.01,0.001,0.23,b
+What is the summation of the infinite series \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \cdots ?,\frac{1}{2} + \frac{1}{4} + \frac{1}{8} + .... ধারাটির অসীমতক সমষ্টি কত?,\frac{1}{3},\frac{1}{2},1,2,\frac{1}{3},\frac{1}{2},1,2,c
+"For the series 2, 4, 8, 16,\cdots 
+ i. n^{th} term 2^{n}
+ ii. common ratio 2
+ iii. summation of 1^{st) 10^{th} terms is 2046
+ Which one of the following is correct?","2, 4, 8, 16, ... অনুক্রমটির-
+ i. n তম পদ 2^{n}
+ ii. সাধারণ অনুপাত 2
+ iii. প্রথম 10টি পদের সমষ্টি 2046
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+\frac{4}{5^{7}} - \frac{2}{5^{6}} + \frac{1}{5^{5}} - \cdots is a geometric series. What is the common ratio of it?,\frac{4}{5^{7}} - \frac{2}{5^{6}} + \frac{1}{5^{5}} - ... অসীম গুণোত্তর ধারাটির সাধারণ অনুপাত নিচের কোনটি?,- \frac{5}{2},- \frac{2}{5},\frac{2}{3},\frac{5}{2},- \frac{5}{2},- \frac{2}{5},\frac{2}{3},\frac{5}{2},a
+y - \sqrt{3x} - 5 = 0 is a straight line. What is the angle between the straight line and the positive side of x - axis?,y - \sqrt{3x} - 5 = 0 সরলরেখাটি x-অক্ষের ধনাত্ম দিকের সাথে কত কোণ উৎপন্ন করে?,30^{\circ},60^{\circ},120^{\circ},150^{\circ},30^{\circ},60^{\circ},120^{\circ},150^{\circ},b
+"P(b + 1, 0) and Q(2b, - 1) are two co - ordinates.
+ If the slope of PQ is 2 then b = ?","P(b + 1, 0) এবং Q(2b, - 1) দুইটি বিন্দু।
+ 
+ PQ সরলরেখার ঢাল 2 হলে b এর মান কত?",- \frac{3}{2},-1,\frac{1}{2},1,- \frac{3}{2},-1,\frac{1}{2},1,c
+"P(b + 1, 0) and Q(2b, - 1) are two co - ordinates.
+ If b = 0, then what is the equation of straight line PQ?","P(b + 1, 0) এবং Q(2b, - 1) দুইটি বিন্দু।
+ 
+ b = 0 হলে, PQ সরলরেখার সমীকরণ নিচের কোনটি?",y = x + 1,y = - x - 1,y = x - 1,y = - x - 1,y = x + 1,y = - x - 1,y = x - 1,y = - x - 1,c
+What is the angle between hours hand and minutes hand at 9:00 AM?,সকাল 9:00 টায় ঘড়ির ঘন্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?,\frac{\pi}{4} radian,\frac{\pi}{2} radian,\pi radian,2\pi radian,\frac{\pi}{4} রেডিয়ান,\frac{\pi}{2} রেডিয়ান,\pi রেডিয়ান,2\pi রেডিয়ান,b
+"Evalute cot\theta , when cos\theta = - \frac{\sqrt{3}}{2} and \pi<\theta <\frac{3\pi}{2}.","cos\theta = - \frac{\sqrt{3}}{2} এবং \pi<\theta <\frac{3\pi}{2} হলে, cot\theta এর মান কত?",\sqrt{3},\frac{1}{\sqrt{3}},- \frac{1}{\sqrt{3}},- \sqrt{3},\sqrt{3},\frac{1}{\sqrt{3}},- \frac{1}{\sqrt{3}},- \sqrt{3},b
+cos^{2}\frac{4\pi}{3} + cosec^{2}\frac{3\pi}{4} = ?,cos^{2}\frac{4\pi}{3} + cosec^{2}\frac{3\pi}{4} = কত?,\frac{17}{4},\frac{11}{4},\frac{9}{4},\frac{7}{4},\frac{17}{4},\frac{11}{4},\frac{9}{4},\frac{7}{4},c
+"If tanA = - \frac{1}{\sqrt{3}} and \frac{\pi}{2}<A<\frac{3\pi}{2}, then 
+ i. A = \frac{5\pi}{6}
+ ii. sin^{2}A = \frac{1}{4}
+ iii. cosA = - \frac{\sqrt{3}}{2}
+ Which one of the following is correct?","tanA = - \frac{1}{\sqrt{3}} এবং \frac{\pi}{2}<A<\frac{3\pi}{2} হলে- 
+ i. A = \frac{5\pi}{6}
+ ii. sin^{2}A = \frac{1}{4}
+ iii. cosA = - \frac{\sqrt{3}}{2}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+What is the slope of straight line 2x - 3y - 4 = 0,2x - 3y - 4 = 0 সরলরেখার ঢাল নিচের কোনটি?,- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},- \frac{3}{2},- \frac{2}{3},\frac{2}{3},\frac{3}{2},c
+"3 vertices of a triangle are L( - 2, 1), M(2, 1) and N(2, 4).
+ What is the length of LN?","L( - 2, 1), M(2, 1) ও N(2, 4)
+ 
+ LN এর দৈর্ঘ্য কত?",5 unit,4 unit,3 unit,2 unit,5 একক,4 একক,3 একক,2 একক,a
+"3 vertices of a triangle are L( - 2, 1), M(2, 1) and N(2, 4).
+ What is the equation of straight line MN?","L( - 2, 1), M(2, 1) ও N(2, 4)
+ 
+ MN সরলরেখার সমীকরণ নিচের কোনটি?",x + 2 = 0,y + 1 = 0,y - 1 = 0,x - 2 = 0,x + 2 = 0,y + 1 = 0,y - 1 = 0,x - 2 = 0,d
+log_{a}b\times log_{b}c\times log_{c}d = ?,log_{a}b\times log_{b}c\times log_{c}d = কত?,0,1,log_{a}d,log_{d}a,0,1,log_{a}d,log_{d}a,c
+"For the function g(x) = 3^{x}, if x\rightarrow \infty , then which one is correct?","g(x) = 3^{x} ফাংশনের জন্য x\rightarrow \infty হলে, নিচের কোনটি সঠিক?",g(x)\rightarrow \infty,g(x)\rightarrow - \infty,g(x)\rightarrow 0,g(x)\rightarrow 2,g(x)\rightarrow \infty,g(x)\rightarrow - \infty,g(x)\rightarrow 0,g(x)\rightarrow 2,a
+log_{2}log_{2}log_{2}16 = ?,log_{2}log_{2}log_{2}16 = কত?,16,4,2,1,16,4,2,1,d
+\sqrt[24]{x^{9}\sqrt{x^{6}}} = ?,\sqrt[24]{x^{9}\sqrt{x^{6}}} এর মান নিচের কোনটি?,\sqrt{x},x,x\sqrt{x},x^{2},\sqrt{x},x,x\sqrt{x},x^{2},a
+"g(x) = 4^{x} is a function
+ What is the inverse function of g(x)?","g(x) = 4^{x} একটি ফাংশন।
+ 
+ g(x) এর বিপরীত ফাংশন কোনটি?",log_{x}4,log_{4}x,4^{ - x},x^{4},log_{x}4,log_{4}x,4^{ - x},x^{4},b
+"g(x) = 4^{x} is a function
+ Function g(x) - 
+ i. An exponential function
+ ii. Its domain ( - \infty , 0)
+ iii. Its range (0, \infty )
+ Which one of the following is correct?","g(x) = 4^{x} একটি ফাংশন।
+ 
+ g(x) ফাংশন- 
+ i. একটি সূচকীয় ফাংশন
+ ii. এর ডোমেন ( - \infty , 0)
+ iii. এর রেঞ্জ (0, \infty )
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",b
+What is the value of cos\left ( - \frac{35\pi}{6} \right )?,cos\left ( - \frac{35\pi}{6} \right ) এর মান কত?,- \frac{\sqrt{3}}{2},- \frac{1}{2},\frac{1}{2},\frac{\sqrt{3}}{2},- \frac{\sqrt{3}}{2},- \frac{1}{2},\frac{1}{2},\frac{\sqrt{3}}{2},d
+"What is the complementary angle of 50^{\circ}, in circular system?",50^{\circ} কোণের পূরক কোণকে বৃত্তীয় পদ্ধতিতে প্রকাশ করলে নিচের কোনটি হবে?,\frac{2\pi}{9} radian,\frac{5\pi}{18} radian,\frac{13\pi}{18} radian,\frac{7\pi}{9} radian,\frac{2\pi}{9} রেডিয়ান,\frac{5\pi}{18} রেডিয়ান,\frac{13\pi}{18} রেডিয়ান,\frac{7\pi}{9} রেডিয়ান,a
+"If \theta < - 90^{\circ} and \theta > - 180^{\circ}, then in which quadrant, \theta present?","\theta < - 90^{\circ} এবং \theta > - 180^{\circ} হলে, \theta কোণটির অবস্থান কোন চতুর্ভাগে?",4^{th} quadrant,3^{rd} quadrant,2^{nd} quadrant,1^{st} quadrant,চতুর্থ চতুর্ভাগে,তৃতীয় চতুর্ভাগে,দ্বিতীয় চতুর্ভাগে,প্রথম চতুর্ভাগে,b
+"- 5 + 5 - 5 + 5 - \cdots is a series.
+ What is the summation of 1^{st} (2n - 1) terms?",- 5 + 5 - 5 + 5 - ... ধারাটির প্রথম (2n - 1) সংখ্যক পদের যোগফল কত?,\frac{5}{2},0,- \frac{5}{2},-5,\frac{5}{2},0,- \frac{5}{2},-5,d
+"Which of the following is a straight line passing through the points (0, 1) and (4, 0)?","(0, 1) ও (4, 0) বিন্দুগামী সরলরেখার সমীকরণ নিচের কোনটি?",x + 4y + 4 = 0,x + 4y - 4 = 0,x - 4y + 4 = 0,x - 4y - 4 = 0,x + 4y + 4 = 0,x + 4y - 4 = 0,x - 4y + 4 = 0,x - 4y - 4 = 0,b
+"If 1 + log_{a}(bc) = 0, which one of the following is correct?",1 + log_{a}(bc) = 0 হলে নিচের কোনটি সঠিক?,abc - 1 = 0,abc + 1 = 0,a + bc = 0,abc = 0,abc - 1 = 0,abc + 1 = 0,a + bc = 0,abc = 0,a
+"A(0, 2), B( - 2, 0) and C(1, - 1) are three points.
+ What is the slope of the straight line BC?","A(0, 2), B( - 2, 0) এবং C(1, - 1) বিন্দু তিনটি ঘড়ির কাঁটার বিপরীত দিকে আবর্তিত ।
+ 
+ BC রেখার ঢাল কত?",-3,- \frac{1}{3},\frac{1}{3},1,-3,- \frac{1}{3},\frac{1}{3},1,b
+"A(0, 2), B( - 2, 0) and C(1, - 1) are three points.
+ What is the area of \bigtriangleup ABC in square units?","A(0, 2), B( - 2, 0) এবং C(1, - 1) বিন্দু তিনটি ঘড়ির কাঁটার বিপরীত দিকে আবর্তিত ।
+ 
+ \triangle ABC এর ক্ষেত্রফল কত বর্গ একক?",16,8,4,3,16,8,4,3,c
+log_{\sqrt{3}}81 = what?,log_{\sqrt{3}}81 = কত?,81\sqrt{3},27\sqrt{3},8,4,81\sqrt{3},27\sqrt{3},8,4,c
+What is the length of the side of an equilateral triangle having each median of length 5 cm?,"একটি সমবাহু ত্রিভুজের প্রতিটি মধ্যমার দৈর্ঘ্য 5 সে.মি. হলে, প্রতিটি বাহুর দৈর্ঘ্য কত সে.মি.?",4.33 (approx),5.77 (approx),6.66 (approx),33.33 (approx),4.33 (প্রায়),5.77 (প্রায়),6.66 (প্রায়),33.33 (প্রায়),b
+What is the value of x for determining (1.8875)^{6} from the expansion of \left ( 2 - \frac{x}{2} \right ){6}?,\left ( 2 - \frac{x}{2} \right ){6} এর বিস্তৃতিতে (1.8875)^{6} নির্ণয়ের জন্য x এর মান নিচের কোনটি?,-0.225,-0.1125,0.01125,0.225,-0.225,-0.1125,0.01125,0.225,d
+"Which one is the equation of the straight line with slope 4 passing through the point (2, - 3)?","(2, - 3) বিন্দুগামী এবং 4 ঢালবিশিষ্ট সরলরেখার সমীকরণ নিচের কোনটি?",y - 4x + 11 = 0,y + 4x - 11 = 0,x - 4y - 14 = 0,y - 4x - 11 = 0,y - 4x + 11 = 0,y + 4x - 11 = 0,x - 4y - 14 = 0,y - 4x - 11 = 0,a
+"A basket contains 15 white, 10 black and 20 red balls. A ball is drawn at random.
+ What is the probability that the ball is black?","একটি ঝুড়িতে 15টি সাদা, 10টি কালো এবং 20টি লাল বল আছে। দৈবভাবে একটি বল নেয়া হলো।
+ 
+ বলটি কালো হওয়ার সম্ভাবনা কত?",\frac{2}{9},\frac{1}{3},\frac{4}{9},\frac{7}{9},\frac{2}{9},\frac{1}{3},\frac{4}{9},\frac{7}{9},a
+"A basket contains 15 white, 10 black and 20 red balls. A ball is drawn at random.
+ What is the probability of the ball being white and red?","একটি ঝুড়িতে 15টি সাদা, 10টি কালো এবং 20টি লাল বল আছে। দৈবভাবে একটি বল নেয়া হলো।
+ 
+ বলটি সাদা অথবা লাল হওয়ার সম্ভাবনা কত?",\frac{4}{27},\frac{5}{9},\frac{2}{3},\frac{7}{9},\frac{4}{27},\frac{5}{9},\frac{2}{3},\frac{7}{9},d
+"On which straight line does the point (2, - 2) lie?","(2, - 2) বিন্দুটি নিচের কোন রেখাটির উপর অবস্থিত?",x - 2y - 6 = 0,x + 2y - 6 = 0,x - 2y + 6 = 0,x + 2y + 6 = 0,x - 2y - 6 = 0,x + 2y - 6 = 0,x - 2y + 6 = 0,x + 2y + 6 = 0,a
+Which of the following does \frac{3x - 8}{(x - 2)(x - 3)} express as partial fraction?,\frac{3x - 8}{(x - 2)(x - 3)} এর আংশিক ভগ্নাংশ নিচের কোনটি?,\frac{2}{x - 2} + \frac{1}{x - 3},\frac{2}{x - 2} - \frac{1}{x - 3},\frac{1}{x - 3} - \frac{2}{x - 2},\frac{1}{x - 2} + \frac{2}{x - 3},\frac{2}{x - 2} + \frac{1}{x - 3},\frac{2}{x - 2} - \frac{1}{x - 3},\frac{1}{x - 3} - \frac{2}{x - 2},\frac{1}{x - 2} + \frac{2}{x - 3},a
+In which quadrant the angle - 638^{\circ} lie?,- 638^{\circ} কোণটি কোন চতুর্থভাগে অবস্থিত?,4^{th},3^{rd},2^{nd},1^{st},চতুর্থ,তৃতীয়,দ্বিতীয়,প্রথম,d
+"If the diameter of a wheel is 14 cm, what is it's circumference approximately in cm?","একটি চাকার ব্যাস 14 সে.মি. হলে, এর পরিধির আসন্ন মান কত সে.মি.?",307.88,175.93,153.94,43.98,307.88,175.93,153.94,43.98,d
+Which of the following is the domain of the function f(x) = ln (9 - x)?,f(x) = ln (9 - x) ফাংশনটির ডোমেন নিচের কোনটি?,{{x\epsilon \mathbb{R}:x\leq 9}},{{x\epsilon \mathbb{R}:x < 9}},{{x\epsilon \mathbb{R}:x > 9}},{{x\epsilon \mathbb{R}:x \geq 9}},{{x\epsilon \mathbb{R}:x\leq 9}},{{x\epsilon \mathbb{R}:x < 9}},{{x\epsilon \mathbb{R}:x > 9}},{{x\epsilon \mathbb{R}:x \geq 9}},b
+"In case of the straight line x + y + 2 = 0
+ i. the slope is - 1
+ ii. the y - interceptor is - 2 units
+ iii. the point on it is (1, - 1)
+ Which of the following is correct?","x + y + 2 = 0 সরলরেখাটির-
+ i. ঢাল - 1
+ ii. y অক্ষের ছেদক - 2
+ iii. উপরস্থ একটি বিন্দু (1, - 1)
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",a
+What is the probability of appearing a prime number in the throw of an unbiased dice once?,একটি নিরপেক্ষ ছক্কা একবার নিক্ষেপ করা হলে মৌলিক সংখ্যা আসার সম্ভাবনা কত?,\frac{1}{6},\frac{1}{3},\frac{1}{2},\frac{2}{3},\frac{1}{6},\frac{1}{3},\frac{1}{2},\frac{2}{3},c
+"Which one of the following is the sum of the series (up to infinity)?
+ 1 - \frac{2}{7} + \frac{4}{49} - \frac{8}{343} + .....?",1 - \frac{2}{7} + \frac{4}{49} - \frac{8}{343} + ..... ধারাটির (অসীমতক) সমষ্টি নিচের কোনটি?,\frac{2}{9},\frac{7}{9},\frac{9}{7},\frac{7}{5},\frac{2}{9},\frac{7}{9},\frac{9}{7},\frac{7}{5},b
+Which of the following is the coefficient of x^{2} in the expansion of (2 - 4x)^{4}?,(2 - 4x)^{4} এর বিস্তৃতিতে x^{2} এর সহগ নিচের কোনটি?,-384,96,192,384,-384,96,192,384,d
+What is the probability of getting at least one head in the throw of a coin thrice?,একটি মুদ্রা তিন বার নিক্ষেপ করা হলে কমপক্ষে একটি হেড পাওয়ার সম্ভাবনা কত?,\frac{1}{8},\frac{3}{8},\frac{3}{4},\frac{7}{8},\frac{1}{8},\frac{3}{8},\frac{3}{4},\frac{7}{8},d
+"If 8^{2x} = 2^{x + 5}, which of the following is the value of x?",8^{2x} = 2^{x + 5} হলে x এর মান নিচের কোনটি?,\frac{5}{8},\frac{5}{7},1,5,\frac{5}{8},\frac{5}{7},1,5,c
+"If 8^{x} = (16)^{y}, then y:x = what?","8^{x} = (16)^{y} হলে, y : x = কত?",1:02,3:04,4:03,2:01,1:02,3:04,4:03,2:01,b
+Which is the common term of the series \frac{1}{5} + \frac{3}{5^{2}} + \frac{9}{5^{3}} + \cdots,\frac{1}{5} + \frac{3}{5^{2}} + \frac{9}{5^{3}} + ...... ধারাটির সাধারণ পদ কোনটি?,\frac{1}{n^{2} + 5},\frac{3^{n}}{5^{n} - 1},\frac{3^{n - 1}}{5^{n}},\left ( \frac{3}{5} \right )^{3 - 1},\frac{1}{n^{2} + 5},\frac{3^{n}}{5^{n} - 1},\frac{3^{n - 1}}{5^{n}},\left ( \frac{3}{5} \right )^{3 - 1},c
+What is the sum of infinite series 1 + \frac{1}{2} + \frac{1}{4} + \cdots ?,1 + \frac{1}{2} + \frac{1}{4} + ....... ধারাটির অসীমতক সমষ্টি কোনটি?,2,1,\frac{1}{2},0,2,1,\frac{1}{2},0,a
+1.1\dot{4}\dot{5} = what?,1.1\dot{4}\dot{5} = কত?,\frac{63}{55},\frac{1145}{990},\frac{1134}{9900},\frac{1134}{9999},\frac{63}{55},\frac{1145}{990},\frac{1134}{9900},\frac{1134}{9999},a
+Which is the polynomial?,নিচের কোনটি বহুপদী?,\frac{6}{x} + 2y,\sqrt{x} + y,\frac{x^{2} + 1}{x^{3} + 1},\frac{x}{5},\frac{6}{x} + 2y,\sqrt{x} + y,\frac{x^{2} + 1}{x^{3} + 1},\frac{x}{5},d
+"If \frac{2x - 3}{x(x - 1)}\equiv \frac{A}{x} + \frac{B}{x - 1}, what is the value of A?","\frac{2x - 3}{x(x - 1)}\equiv \frac{A}{x} + \frac{B}{x - 1} হলে, A এর মান কত?",-3,1,2,3,-3,1,2,3,d
+Which one of the following is a homogeneous polynomial?,নিচের কোনটি বহুপদী?,x^{2} + 5x + 2,x^{2} + 3x^{2} + 3x + 3,x^{2} - 2a^{2}x + y^{2},x^{3} + 3x^{2}y + 3xy^{2} + y^{3},\frac{6}{x} + 2y,\sqrt{x} + y,\frac{x^{2} + 1}{x^{3} + 1},\frac{x}{5},d
+"An unbiased dice is thrown - 
+ i. the probability of getting 3 is \frac{1}{6}
+ ii. the probability of getting even number is \frac{1}{2}
+ iii. the probability of getting a number less than 5 is \frac{2}{3}
+ Which one of the following is correct?","একটি নিরপেক্ষ ছক্কা নিক্ষেপ করা হলো-
+ i. 3 আসার সম্ভাবনা \frac{1}{6}
+ ii. জোড় সংখ্যা আসার সম্ভাবনা \frac{1}{2}
+ iii. 5 এর কম সংখ্যা আসার সম্ভাবনা \frac{2}{3}
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+"A natural number is selected from the numbers 10 to 21 randomly.
+ What is the probability of the selected prime number?","10 হতে 21 পর্যন্ত স্বাভাবিক সংখ্যাগুলোর একটি সংখ্যা দৈবভাবে নির্বাচন করা হলো।
+ 
+ নির্বাচিত সংখ্যাটি মৌলিক হওয়ার সম্ভাবনা কত?",\frac{1}{20},\frac{4}{31},\frac{3}{10},\frac{1}{3},\frac{1}{20},\frac{4}{31},\frac{3}{10},\frac{1}{3},d
+"A natural number is selected from the numbers 10 to 21 randomly.
+ What is the probability of the selected number being divisible by 2 or 3?","11 হতে 21 পর্যন্ত স্বাভাবিক সংখ্যাগুলোর একটি সংখ্যা দৈবভাবে নির্বাচন করা হলো।
+ 
+ নির্বাচিত সংখ্যাটি 2 অথবা 3 দ্বারা বিভাজ্য হওয়ার সম্ভাবনা কত?",\frac{1}{3},\frac{2}{3},\frac{3}{5},\frac{4}{5},\frac{1}{3},\frac{2}{3},\frac{3}{5},\frac{4}{5},b
+x - 3y - 12 = 0 is an equation of a straight line. What is the intercept of y - axis?,x - 3y - 12 = 0 একটি সরলরেখার সমীকরণ। রেখাটির y অক্ষের ছেদাংশ কত?,4,\frac{1}{3},-3,-4,4,\frac{1}{3},-3,-4,d
+"If \theta = \frac{3\pi}{2} then, what is the value of sin\theta + cos\theta?",\theta = \frac{3\pi}{2} হলে sin\theta + cos\theta এর মান কত?,-1,0,1,2,-1,0,1,2,a
+"Which of the following is the equation of a straight line passing through A( - 2, 2) and parallel to the x - axis?","A( - 2, 2) বিন্দুগামী x-অক্ষের সমান্তরাল সরলরেখার সমীকরণ নিচের কোনটি?",y - 2 = 0,y + 2 = 0,x - 2 = 0,x + 2 = 0,y - 2 = 0,y + 2 = 0,x - 2 = 0,x + 2 = 0,a
+"If P( - 5, 6) and Q(7, 3) then what is the length of PQ?","P( - 5, 6) এবং Q(7, 3) হলে, PQ এর দৈর্ঘ্য নিচের কোনটি?",\sqrt{17} unit,\sqrt{58} unit,\sqrt{135} unit,\sqrt{153} unit,\sqrt{17} একক,\sqrt{58} একক,\sqrt{135} একক,\sqrt{153} একক,d
+"If three points P(1, - 1), Q(2, 2) and R(4, a) are collinear, what is the value of a?","P(1, - 1), Q(2, 2) এবং R(4, a) বিন্দু তিনটি সমরেখ হলে, a এর মান কত?",2,4,6,8,2,4,6,8,d
+"The straight line 4y - 14x = 0 - 
+ i. passes through the origin
+ ii. whose slope is 7/2
+ iii. has intercept 0 from y - axis
+ Which one of the following is correct?","4y - 14x = 0 সরলরেখা-
+ i. যা মূল বিন্দুগামী
+ ii. ঢাল \frac{7}{2}
+ iii. y-অক্ষের ছেদাংশ 0
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii and iii",i ও ii,i ও iii,ii ও iii,"i, ii ও iii",d
+Find the value of cot(\theta - \frac{9\pi}{2})?,cot(\theta - \frac{9\pi}{2}) এর মান কত?,tan\theta,#NAME?,cot\theta,#NAME?,tan\theta,#NAME?,cot\theta,#NAME?,b
+What is the coefficient of y^{3} in the expansion of (1 - 3y)^{5}?,(1 - 3y)^{5} এর বিস্তৃতিতে y^{3} এর সহগ কত?,-405,-270,270,405,-405,-270,270,405,b
+"If _{}^{n}\textrm{C}_{2} = _{}^{n}\textrm{C}_{3} then, which is the value of n?","^{n}\textrm{C}_{2} = \,^{n}\textrm{C}_{3} হলে n এর মান নিচের কোনটি?",2,3,5,6,2,3,5,6,c
+What is the x - free term in the expansion of \left ( x^{2} + \frac{1}{x^{2}} \right )^{4}?,\left ( x^{2} + \frac{1}{x^{2}} \right )^{4} এর বিস্তৃতিতে x-মুক্ত পদের মান কোনটি?,4,6,8,10,4,6,8,10,b
+What is the domain of F(x) = \left | x \right |?,F(x) = \left | x \right | এর ডোমেন কোনটি?,\mathbb{R},"(0, \infty)","( - \infty , 0)","(0, 0)",\mathbb{R},"(0, \infty)","( - \infty , 0)","(0, 0)",a
+"What is the angle between the minute hand and hour hand of a clock in degree, when it is 4 P.M?",বিকাল 4 টার সময় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি হবে?,90^{\circ},105^{\circ},120^{\circ},130^{\circ},90^{\circ},105^{\circ},120^{\circ},130^{\circ},c

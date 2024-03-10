@@ -1,0 +1,117 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,Which one is aldehyde group?,কোনটি অ্যালিডিহাইড মূলক?,--OH,--CO--,--CHO,--COOH,c,N,2022Mymensingh,1,- OH,- CO -,- CHO,- COOH,গ,c,N,2022Mymensingh,0.8017214779,0,0,,"Which one corresponds to the aldehyde group?
+
+(a) --OH
+(b) --CO--
+(c) --CHO
+(d) --COOH",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The aldehyde group is represented by --CHO. So, the only correct option is {{""Answer"": ""c""}}","আলডিহাইড গ্রুপটি নির্দেশিত হয় --CHO দিয়ে। তাই, একমাত্র সঠিক বিকল্প হল {{""Answer"": ""c""}}।"
+1,"H_{2}+S\rightarrow D
+Compound 'D' is-
+i. covalent
+ii. ionic
+iii. inorganic
+Which one is correct?","H_{2} + S \rightarrow D
+ 
+ D যৌগটি-
+ i. সমযোজী
+ ii. আয়নিক
+ iii. অজৈব
+ নিচের কোনটি সঠিক?",i and ii,i and iii,ii and iii,"i, ii, and iii",b,N,2022Mymensingh,1,i ও ii,i ও iii,ii ও iii,"i, ii ও iii",খ,b,N,2022Mymensingh,0.9214672369,0,0,,"H_{2}+S\rightarrow D
+Compound 'D' is-
+i. covalent
+ii. ionic
+iii. inorganic
+Which one is correct?",Reasoning,"{""Answer"": ""Reasoning""}","Certainly, let's analyze this step by step:
+
+1. Reaction: H2 + S → D
+   When hydrogen gas (H2) reacts with sulfur (S), they combine to form a compound represented as 'D'.
+
+2. Compound 'D': H2S (Hydrogen Sulfide)
+   The compound formed in this reaction is hydrogen sulfide (H2S), which consists of two hydrogen atoms (H) and one sulfur atom (S). Hydrogen sulfide is a covalent compound.
+
+Now, let's consider the statements:
+
+i. Covalent: This statement is correct because hydrogen sulfide (H2S) is a covalent compound. It forms as a result of the sharing of electrons between hydrogen and sulfur atoms.
+
+ii. Ionic: This statement is incorrect because hydrogen sulfide (H2S) is not an ionic compound. Ionic compounds typically consist of ions, with one element losing electrons (cation) and the other gaining electrons (anion) to form a compound. In the case of H2S, it involves electron sharing and not the transfer of electrons.
+
+iii. Inorganic: This statement is correct. Hydrogen sulfide (H2S) is an inorganic compound because it does not contain carbon-hydrogen (C-H) bonds, which are characteristic of organic compounds.
+
+Based on this analysis:
+
+- Statement i is correct.
+- Statement ii is incorrect.
+- Statement iii is correct.
+
+Therefore, the correct option is {{""Answer"": ""b""}} which means that compound 'D' is covalent and inorganic.","চলো এটি ধাপে ধাপে বিশ্লেষণ করা যাক:
+
+প্রতিক্রিয়া: H2 + S → D
+যখন হাইড্রোজেন গ্যাস (H2) সালফার (S) সাথে প্রতিক্রিয়া করে, তারা 'D' দ্বারা প্রতিনিধিত একটি যৌগ গঠন করে।
+
+যৌগ 'D': H2S (হাইড্রোজেন সালফাইড)
+এই প্রতিক্রিয়ায় গঠন হওয়া যৌগ হল হাইড্রোজেন সালফাইড (H2S), যা দুটি হাইড্রোজেন পরমাণু (H) এবং একটি সালফার পরমাণু (S) থেকে গঠিত। হাইড্রোজেন সালফাইড একটি কোভালেন্ট যৌগ।
+
+এখন, আসুন বিবেচনা করি কথাগুলি:
+
+i. কোভালেন্ট: এই কথনটি সঠিক কারণ হাইড্রোজেন সালফাইড (H2S) একটি কোভালেন্ট যৌগ। এটি ইলেকট্রনের সহযোগিতা দ্বারা হাইড্রোজেন এবং সালফার পরমাণুগুলির মধ্যে সুদীর্ঘ হয়।
+
+ii. আয়নিক: এই কথনটি সঠিক নয় কারণ হাইড্রোজেন সালফাইড (H2S) একটি আয়নিক যৌগ নয়। আয়নিক যৌগের সাধারণভাবে আয়নগুলি থাকে, যেখানে একটি উপাদান ইলেকট্রন হারায় (ক্যাটায়ন) এবং অন্যটি ইলেকট্রন গায়ে (অ্যানিয়ন) একটি যৌগ গঠনের জন্য। H2S এর ক্ষেত্রে, ইলেকট্রনের ভরণ নয় এবং ইলেকট্রন স্থানান্তর নয়।
+
+iii. আয়নিক: এই কথনটি সঠিক। হাইড্রোজেন সালফাইড (H2S) একটি আয়নিক যৌগ কারণ এটি জৈব যৌগের সূচনা বস্তুর কার্বন-হাইড্রোজেন (C-H) সংকেতগুলি কোনও কার্যকারিতা রেখে না, যা জৈব যৌগের চরিত্রিক।
+
+এই বিশ্লেষণের আলোকে:
+
+কথন i সঠিক।
+কথন ii সঠিক নয়।
+কথন iii সঠিক।
+অতএব, সঠিক বিকল্প হল {{""Answer"": ""b""}}, "
+2,"H_{2}+S\rightarrow
+What are the highest number of electrons can be accommodated in the outermost shell of central atom of 'D'?","H_{2} + S \rightarrow D
+ 
+ D এর কেন্দ্রীয় পরমাণুর সর্বশেষ শক্তিস্তরে সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা কত?",2,8,18,32,c,N,2022Mymensingh,1,2,8,18,32,গ,c,N,2022Mymensingh,0.9150122565,0,0,,What is the maximum number of electrons that can be accommodated in the outermost shell of the central atom of 'D'?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","To determine the highest number of electrons that can be accommodated in the outermost shell of the central atom of compound 'D,' which is hydrogen sulfide (H2S), we need to look at the electron configuration of sulfur (S).
+
+Sulfur (S) is in Group 16 of the periodic table, which means it has 6 valence electrons. The maximum number of electrons that can be accommodated in the outermost shell (valence shell) is 16. This is because of the configuration equation 2*n^2. For the third shell, n = 3, so 2*3^2 = 18.
+
+Therefore, the correct answer is {{""Answer"": ""c""}}","যৌগ 'D' এর কেন্দ্রীয় পরমাণুর বাইরের শেলে অধিকতম ইলেকট্রনের সংখ্যা নির্ধারণ করতে, যা হল হাইড্রোজেন সালফাইড (H2S), সেটি সালফার (S) এর ইলেকট্রন কনফিগারেশন দেখতে হবে।
+
+সালফার (S) পর্যায়ক সারণির 16 শ্রেণীতে আছে, যা মানে যে সে ছয়টি ভেলেন্স ইলেকট্রন রয়েছে। বাইরের শেলে (ভেলেন্স শেলে) যে সমস্ত ইলেকট্রন অধিকতম হতে পারে সেটি হল 16। এটি সেই কারণে যেহেতু কনফিগারেশন সমীকরণ 2*n^2 সমীকরণ এর জন্য । তৃতীয় শেলের জন্য, n = 3, সুতরাং 2*3^2 = 18।
+
+অতএব, সঠিক উত্তর হল {{""Answer"": ""c""}}।"
+3,How many hydrogen atoms are present in 1 gm sulphuric acid?,1 g সালফিউরিক এসিডে কতটি হাইড্রোজেন পরমাণু রয়েছে?,1.20\times 10^{24},2.46\times 10^{22},1.23\times 10^{22},6.15\times 10^{21},d,N,2022Mymensingh,1,1.20 \times 10^{24},2.46 \times 10^{22},1.23 \times 10^{22},6.15 \times 10^{21},ঘ,d,N,2022Mymensingh,0.9468160402,0,0,,How many hydrogen atoms are present in 1 gram of sulfuric acid?,Procedural and Application,"{""Answer"": ""Procedural and Application""}","To determine the number of hydrogen atoms present in 1 gram of sulfuric acid (H2SO4), we need to use the molar mass and the chemical formula of sulfuric acid.
+
+The molar mass of sulfuric acid (H2SO4) is calculated as follows:
+- 2 hydrogen atoms (H) with a molar mass of approximately 1 gram/mol each.
+- 1 sulfur atom (S) with a molar mass of approximately 32 grams/mol.
+- 4 oxygen atoms (O) with a molar mass of approximately 16 grams/mol each.
+
+So, the molar mass of H2SO4 = (2 * 1 g/mol) + (1 * 32 g/mol) + (4 * 16 g/mol) = 2 g/mol + 32 g/mol + 64 g/mol = 98 g/mol
+
+Now, we can calculate the number of moles of sulfuric acid (H2SO4) in 1 gram:
+Number of moles = Mass (in grams) / Molar mass
+Number of moles = 1 g / 98 g/mol ≈ 0.0102 moles
+
+Since there are 2 hydrogen atoms in each molecule of sulfuric acid (H2SO4), we need to multiply the number of moles by Avogadro's number (6.022 x 10^23) to find the number of hydrogen atoms:
+Number of hydrogen atoms = Number of moles * Avogadro's number
+Number of hydrogen atoms = 0.0102 moles * 6.022 x 10^23 atoms/mole ≈ 6.13 x 10^21 hydrogen atoms
+
+So, there are approximately 6.13 x 10^21 hydrogen atoms present in 1 gram of sulfuric acid, which is close to the option ""d"". So the correct answer is {{""Answer"": ""d""}}","সালফিউরিক অ্যাসিড (H2SO4) এর 1 গ্রামে উপস্থিত হাইড্রোজেন পরমাণুর সংখ্যা নির্ধারণ করতে, আমরা সালফিউরিক অ্যাসিডের মোলার ভর এবং রাসায়নিক সূত্রের সাথে ব্যবহার করতে হবে।
+
+সালফিউরিক অ্যাসিড (H2SO4) এর মোলার ভর নিম্নলিখিত ভাবে গণনা করা হয়:
+- প্রাতিটি হাইড্রোজেন পরমাণু (H) এর প্রায় 1 গ্রাম/মোল মোলার ভর।
+- 1 টি সালফার পরমাণু (S) এর প্রায় 32 গ্রাম/মোল মোলার ভর।
+- 4 টি অক্সিজেন পরমাণু (O) এর প্রায় 16 গ্রাম/মোল মোলার ভর প্রতি টি।
+
+তাহলে, H2SO4 এর মোলার ভর = (2 * 1 গ্রাম/মোল) + (1 * 32 গ্রাম/মোল) + (4 * 16 গ্রাম/মোল) = 2 গ্রাম/মোল + 32 গ্রাম/মোল + 64 গ্রাম/মোল = 98 গ্রাম/মোল
+
+এখন, 1 গ্রাম সালফিউরিক অ্যাসিড (H2SO4) এর মোলের সংখ্যা গণনা করতে:
+মোলের সংখ্যা = ভর (গ্রামে) / মোলার ভর
+মোলের সংখ্যা = 1 গ্রাম / 98 গ্রাম/মোল ≈ 0.0102 মোল
+
+যেহেতু H2SO4 এর প্রতি মোলে 2 টি হাইড্রোজেন পরমাণু রয়েছে, তাই হাইড্রোজেন পরমাণুর সংখ্যা বের করতে আমরা মোলের সংখ্যা কে এভোগ্রাডোর সংখ্যা (6.022 x 10^23) দিয়ে গুণত্তর করতে হবে:
+হাইড্রোজেন পরমাণুর সংখ্যা = মোলের সংখ্যা * এভোগ্রাডোর সংখ্যা
+
+হাইড্রোজেন পরমাণুর সংখ্যা = 0.0102 মোল * 6.022 x 10^23 পরমাণু/মোল ≈ 6.13 x 10^21 হাইড্রোজেন পরমাণু
+
+তাহলে, 1 গ্রাম সালফুরিক অ্যাসিডে প্রায় 6.13 x 10^21 হাইড্রোজেন পরমাণু উপস্থিত আছে, যা সিদ্ধান্ত ""d"" এর প্রায়। সুতরাং, সঠিক উত্তর হল {{""Answer"": ""d""}}"
+4,Which catalyst is used to prepare ethane from ethen?,ইথিন হতে ইথেন উৎপন্নকালে কোনটি প্রভাবক হিসেবে ব্যবহৃত হয়?,Ni,Fe,Mn,Pt,a,N,2022Mymensingh,1,Ni,Fe,Mn,Pt,ক,a,N,2022Mymensingh,0.8823965302,0,0,,Which catalyst is used to prepare ethane from ethene?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","
+The catalyst used to prepare ethane from ethene (ethylene) is usually nickel (Ni). So, the correct answer {{""Answer"": ""a""}}","ইথিন থেকে ইথেন তৈরি করার জন্য সাধারণভাবে নিকেল (Ni) ব্যবহৃত হয়। অতএব, সঠিক উত্তর হল {{""Answer"": ""a""}}।"

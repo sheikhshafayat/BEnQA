@@ -1,0 +1,138 @@
+,Question,Question Bn,a,b,c,d,Correct Answer,Diagram,Year and Board,GT Sanity,a Bn,b Bn,C Bn,d Bn,Correct Answer Bn,Map,Diagram Bn,Year and Board Bn,Similarity Score,Red Flag,Yellow Flag,Recheck,Question_fixed,Question_Type,LLM_unparsed,English_Response,Bengali_Response
+0,Which enzyme is used to join DNA fragments?,DNA খণ্ডকে জোড়া লাগানোর জন্য ব্যবহৃত হয় কোন এনজাইম?,Restriction,Helicase,Polymerase,Lygase,d,N,2022Cumilla,1,রেস্ট্রিকশন,হেলিকেজ,পলিমারেজ,লাইগেজ,ঘ,d,N,2022Cumilla,0.9129101228,0,0,,Which enzyme is used to join DNA fragments?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The enzyme used to join DNA fragments is DNA Ligase.
+
+Here's the chain of thought:
+
+1. DNA fragments are often produced through various processes, including DNA replication, PCR (Polymerase Chain Reaction), or the action of restriction enzymes.
+
+2. To create a complete and continuous DNA strand from these fragments, DNA Ligase is required.
+
+3. DNA Ligase is an enzyme that catalyzes the formation of phosphodiester bonds between the sugar-phosphate backbones of DNA fragments. It essentially ""glues"" the DNA fragments together.
+
+4. This joining of DNA fragments is essential in various molecular biology techniques, such as cloning, where DNA from different sources or fragments needs to be combined to create a recombinant DNA molecule.
+
+So, the correct enzyme used to join DNA fragments is DNA Ligase, thus {{""Answer"": ""d""}}","ডিএনএ ফ্র্যাগমেন্টগুলি যোগ করার জন্য ব্যবহৃত এনজাইমটি ডিএনএ লিগেজ।
+
+1. ডিএনএ ফ্র্যাগমেন্টগুলি সাধারণভাবে ডিএনএ রিপ্লিকেশন, পিসিআর (পলিমারেস চেইন রিয়েকশন), বা সীমাংকন এনজাইমের ক্রিয়ার মাধ্যমে তৈরি হয়।
+
+2. এই ফ্র্যাগমেন্টগুলি থেকে একটি সম্পূর্ণ এবং একটি সংযুক্ত ডিএনএ স্ট্র্যান্ড তৈরি করতে ডিএনএ লিগেজের প্রয়োজন।
+
+3. ডিএনএ লিগেজ হলো এমন একটি এনজাইম যা ডিএনএ ফ্র্যাগমেন্টগুলির চিনি-ফসফেট পিছনমুখের মধ্যে ফসফোডাইস্টার বন্ধনের গঠন করতে সাহায্য করে। এটি মূলত ডিএনএ ফ্র্যাগমেন্টগুলিকে একসাথে ""আচ্ছাদিত"" করে।
+
+4. ডিএনএ ফ্র্যাগমেন্টগুলির যোগদানটি বিভিন্ন আণবিক বায়োলজি প্রযুক্তিতে গুরুত্বপূর্ণ, উদাহরণস্বরূপ, ক্লোনিং যেখানে ডিএনএ বিভিন্ন উৎস বা ফ্র্যাগমেন্ট থেকে একটি পুনর্কম্বিন্যত্রিত ডিএনএ মোলেকুল তৈরি করতে হয়েছে।
+
+অতএব, ডিএনএ ফ্র্যাগমেন্টগুলি যোগ করার জন্য সঠিক এনজাইম হলো ডিএনএ লিগেজ, সুতরাং {{""Answer"": ""d""}} সঠিক।"
+1,"The path way of carbon deduction of paddy, wheat barley is different from the path way of carbond deduction of sugercane and maize plant.
+ Which is the first stable product of carbon deduction among the first plants mentioned in the stem?","ধান, গম, বার্লি উদ্ভিদের কার্বন বিজারণ পথ ইক্ষু, ভুট্টা উদ্ভিদের কার্বন বিজারণ পথ থেকে ভিন্ন।
+ উদ্দীপকের প্রথম উদ্ভিদগুলোর কার্বন বিজারণ পথের ১ম স্থায়ী পদার্থ কোনটি?",Oxalo acetic acid,3-Phosphoglyceric acid,"Ribulose 1, 5 bisphosphate",Phosphoenol pyruvic acid,b,N,2022Cumilla,1,অক্সালো অ্যাসিটিক এসিড,৩-ফসফোগ্লিসারিক এসিড,"রাইবুলোজ ১, ৫ বিসফসফেট",ফসফোইলন পাইরুভিক এসিড,খ,b,N,2022Cumilla,0.9135081457,0,0,,"The pathway of carbon reduction in paddy, wheat, and barley is different from the pathway of carbon reduction in sugarcane and maize plants. What is the first stable product of carbon reduction among the first plants mentioned in the statement?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Let's break down the process of photosynthesis and the pathways involved:
+
+1. Photosynthesis is the process by which plants convert carbon dioxide (CO2) and water (H2O) into glucose (C6H12O6) and oxygen (O2) using sunlight and chlorophyll.
+
+2. The initial step in photosynthesis is the capture of light energy by chlorophyll molecules in the chloroplasts of plant cells. This captured energy is used to split water molecules into oxygen and hydrogen ions (protons).
+
+3. The hydrogen ions are then used to reduce molecules of nicotinamide adenine dinucleotide phosphate (NADP+) to form NADPH.
+
+4. Simultaneously, carbon dioxide (CO2) from the atmosphere is captured and incorporated into a 5-carbon sugar molecule called ribulose-1,5-bisphosphate (RuBP) in a process called carbon fixation. This reaction is catalyzed by the enzyme ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO).
+
+5. The resulting unstable 3-carbon compound immediately breaks down into two molecules of 3-Phosphoglyceric acid (3-PGA) as an intermediate product. This step is often referred to as the Calvin cycle.
+
+6. 3-PGA is the first stable product of carbon reduction in the Calvin cycle. It is a 3-carbon compound.
+
+7. In subsequent steps of the Calvin cycle, 3-PGA is further modified and converted into other compounds, eventually leading to the production of glucose.
+
+Now, let's relate this to the question:
+
+- The question asks about the first stable product of carbon reduction among the plants mentioned in the stem (paddy, wheat, and barley). In these plants, as well as in most other plants, the first stable product is indeed 3-Phosphoglyceric acid (3-PGA).
+
+So, based on this chain of thought, the correct answer is {""Answer"": ""b""}","এই প্রক্রিয়াটির সংঘটন এবং সংঘটনগুলির পথ নিয়ে আলোচনা করা যাক:
+
+1. ফটোসিন্থেসিস হলো প্লান্টগুলির প্রক্রিয়া যাতে সূর্যের আলো এবং ক্লোরোফিলের সাথে কার্বন ডাইঅক্সাইড (CO2) এবং পানি (H2O) কে গ্লুকোজ (C6H12O6) এবং অক্সিজেন (O2) তৈরি করে।
+
+2. ফটোসিন্থেসিসের আদিক্রিয়া হলো ক্লোরোফিল মোলেকুলগুলির দ্বারা প্রথমে আলো শক্তি জোড়া হয় প্লান্ট সেলের ক্লোরোপ্লাস্টে। এই জোড়া শক্তি ব্যবহার করে পানি মোলেকুলগুলি অক্সিজেন এবং হাইড্রোজেন আয়ন (প্রোটন) এ ভাঙ্গানো হয়।
+
+3. তারপর, হাইড্রোজেন আয়নগুলি ব্যবহৃত হয় নিকোটিনামাইড অ্যাডেনিন ডাইনিউক্লিয়ট ফসফেট (NADP +) মোলেকুলগুলি স্থাপন করতে NADPH তৈরি করতে।
+
+4. একইসাথে, জীবণের সাথে বাতাস থেকে কার্বন ডাইঅক্সাইড (CO2) ধরা হয় এবং এটি কার্বন ফিক্সেশন নামে প্রক্রিয়ায় সম্মিলিত হয় একটি 5-কার্বন শর্করা মোলেকুলে যা রিবুলোস-1,5-বিসফেসফেট (RuBP) নামে। এই প্রতিক্রিয়াটি এনজাইম রিবুলোস-1,5-বিসফেসফেট কার্বক্সিলেস / অক্সিজেনেজ (RuBisCO) দ্বারা সংজ্ঞায়িত হয়।
+
+5. এই প্রতিক্রিয়ার সাথে আসা অস্থিতিগত 3-কার্বন যৌগ তাৎক্ষণিকভাবে দুটি সংখ্যাক 3-ফসফোগ্লিসেরিক এসিড (3-PGA) হিসেবে বিভক্ত হয়। এই পদক্ষেপটি সাধারণভাবে ক্যালভিন চক্র নামে পরিচিত।
+
+6. 3-PGA আগামী পদক্ষেপগুলিতে পরিণত এবং অন্যান্য যৌগে পরিণত হওয়ার পরে শেষমেষ গ্লুকোজ উৎপন্ন করার প্রক্রিয়াগুলি দিয়ে প্রাপ্ত হয়।
+
+এখন, এই প্রশ্নের সাথে সম্পর্কিতভাবে এটি যোগ করা যাক:
+
+- প্রশ্নটি উল্লিখিত সমস্ত উদ্ভিদের মধ্যে কার্বন হ্রাসের প্রথম স্থির পণ্য সম্পর্কে জিজ্ঞাসা করে (ধান, গম, এবং জবা)। এই উদ্ভিদগুলিতে, যেমন সবচেয়ে অনেক অন্যান্য উদ্ভিদ, প্রথম স্থিত পদার্থ হল 3-ফসফোগ্লিসেরিক এসিড (3-PGA)।
+
+এই সান্ধানের সাথে, প্রশ্নের সঠিক উত্তর হলো {""Answer"": ""b""}"
+2,"The path way of carbon deduction of paddy, wheat barley is different from the path way of carbond deduction of sugercane and maize plant.
+ The productivity of the second plant is more than the first plant of the stem. Because-
+ i. photo-synthesis occurs in high temperature
+ ii. Kranz antomy is present in plant leaf
+ iii. the path way remains active in low density of CO_2
+ Which one is correct?","ধান, গম, বার্লি উদ্ভিদের কার্বন বিজারণ পথ ইক্ষু, ভুট্টা উদ্ভিদের কার্বন বিজারণ পথ থেকে ভিন্ন।
+ উদ্দীপকের প্রথম উদ্ভিদ অপেক্ষা দ্বিতীয় উদ্ভিদের উৎপাদন ক্ষমতা বেশি কারণ-
+ i. উচ্চ তাপমাত্রায় সালোকসংশ্লেষণ হয়
+ ii. উদ্ভিদের পাতায় ক্র্যাঞ্জ অ্যানাটমি উপস্থিত
+ iii. CO_2 এর কম ঘনত্বে গতিপথটি চালু থাকে
+ নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",d,N,2022Cumilla,1,i ও ii,ii ও iii,i ও iii,"i, ii, ও iii",ঘ,d,N,2022Cumilla,0.9265678161,0,0,,"The path way of carbon deduction of paddy, wheat barley is different from the path way of carbond deduction of sugercane and maize plant.
+ The productivity of the second plant is more than the first plant of the stem. Because-
+ i. photo-synthesis occurs in high temperature
+ ii. Kranz antomy is present in plant leaf
+ iii. the path way remains active in low density of CO_2
+ Which one is correct?",Reasoning,"{""Answer"": ""Reasoning""}","Let's establish a chain of thought to explain why all three statements (i, ii, and iii) are correct in the context of the question:
+
+1. Different Pathways: The question acknowledges that the pathway of carbon reduction in C4 plants (sugarcane and maize) is different from that in C3 plants (paddy, wheat, and barley).
+
+2. Higher Productivity in C4 Plants: The question asserts that the productivity of C4 plants is higher than that of C3 plants.
+
+Now, let's break down each of the provided statements:
+
+i. Photo-synthesis Occurs in High Temperature: This statement suggests that C4 plants like sugarcane and maize thrive in high-temperature environments. Indeed, many C4 plants are adapted to warmer climates and can photosynthesize efficiently even in high temperatures, which is advantageous for their productivity.
+
+ii. Kranz Anatomy is Present in Plant Leaf: This statement refers to Kranz anatomy, a unique feature found in the leaves of C4 plants. Kranz anatomy involves the arrangement of specialized cells (mesophyll and bundle sheath cells) around vascular tissue. This anatomical adaptation allows for efficient CO2 concentration and minimizes photorespiration, enhancing the overall efficiency of photosynthesis in C4 plants.
+
+iii. The Pathway Remains Active in Low Density of CO2: This statement highlights another key advantage of C4 plants. They have a CO2 concentrating mechanism in their mesophyll cells, which enables them to capture and fix CO2 efficiently, even when CO2 levels are relatively low. This adaptation allows C4 plants to maintain photosynthesis in conditions where C3 plants may struggle due to lower CO2 availability.
+
+So, considering these explanations, all three statements (i, ii, and iii) are correct in explaining why C4 plants like sugarcane and maize have higher productivity compared to C3 plants like paddy, wheat, and barley in certain environmental conditions. Thus, the correct answer is {{""Answer"": ""d""}}","সংশ্লেষণের প্রসঙ্গে সব তিনটি উক্তি (i, ii, এবং iii) কেন সঠিক:
+
+পাথওয়ে বিভিন্ন: প্রশ্নটি প্রকাশ করে যে C4 পাথের (আখ এবং মেজ) কার্বন বিজারণ পদ্ধতি C3 পথের (ধান, গম, এবং জব) থেকে বিভিন্ন।
+
+C4 পথের উচ্চ উৎপাদনশীলতা: প্রশ্নটি বিবাদ করে যে C4 পথের বিজারণ  C3 পথের থেকে বেশি।
+
+এখন, সরলীকরণ করা হয় প্রদানকৃত প্রতিষ্ঠানগুলির প্রত্যেকটি:
+
+i. উচ্চ তাপমাত্রায় ফোটো-সিনথেসিস ঘটে: এই উক্তি প্রস্তাবনা করে যে C4 পথ যেমন সগারকেন এবং মেজ, উচ্চ তাপমাত্রা পরিবেশে উন্নত হয়। বর্মহত্ত্বপূর্ণ অধিগ্রহণের জন্য অনেক C4 পথ শীতল জলবায়ুগুলির সাথে সময়সারণী যোগাযোগ করে এবং উচ্চ তাপমাত্রা পরিস্কার করতে পারে, যা তাদের উৎপাদনশীলতার জন্য সুবিধাজনক।
+
+ii. পথের পাতায় Kranz গঠন রয়েছে: এই উক্তি Kranz গঠনের দিকে সূচনা করে, এটি একটি অনুষ্ঠানের বৈশিষ্ট্য যা C4 পথের পাতার মধ্যে প্রাপ্ত হয়। Kranz গঠন ব্যবস্থাপনা ব্যবস্থাপনা এবং টানের শিরাসের চারপাশে বিশেষজনের বিন্দুকে বিন্যাস করে তোলে। এই আন্টোমিক্যাল গঠন কার্বন ডাই-অক্সাইড সংকুলনের জন্য দক্ষতা অনুমোদন দেয় এবং ফটোরেস্পিরেশনের সর্বোপরি ক্ষমতা ন্যূনতম করে, C4 পথের সার্বিক ফোটোসিন্থেসিসের ক্ষমতাকে সুধারে।
+
+iii. সার্বিক পাথ নিম্ন CO2 ঘনত্বে সক্রিয় থাকে: এই উক্তি অন্যত্র C3 পথের তুলনায় C4 পথের আরও একটি গুরুত্বপূর্ণ সুবিধার সুপারিশ করে। তাদের মেসোফাইল সেলে সিওটু কনসেনট্রেশন মেকানিজ়ম আছে, যা তাদের কার্বন ডাই-অক্সাইড কে উচ্চ ক্রমে দক্ষতা দেয় এবং যেখানে কার্বন ডাই-অক্সাইড সংকুলন কম হতে পারে তা সাহায্য করে। এই অবস্থানানুবাদ করে যা বেশি সময় CO2 উপলব্ধি নিয়ে স্থিতি যা এই কারণে সর্বোপরি একটি সার্বিক উপলব্ধির শর্তে C4 পথ উপলব্ধি বজায় রাখতে সক্ষম হয়।
+
+অতএব, এই স্পষ্টীকরণের আলোকে, সব তিনটি উক্তি (i, ii, এবং iii) সঠিক প্রদান করে যে C4 পথ যেমন সগারকেন এবং মেজ নির্দিষ্ট পরিবেশের শখে উপ্লব্ধি তুলনায় C3 পথের মধ্যে উচ্চ উৎপাদনশীলতা আছে। সুতরাং, সঠিক উত্তর হলো {{""Answer"": ""d""}}
+"
+3,"Because of meiosis cell division-
+ i. diversity is created in living organism
+ ii. recover the wounded spot
+ iii. individuality of the species remain the same
+ Which one is correct?","মিয়োসিস কোষ বিভাজনের ফলে-
+ i. জীবে বৈচিত্র্যের সৃষ্টি হয়
+ ii. ক্ষতস্থান পূরণ করে
+ iii. প্রজাতির স্বকীয়তা ঠিক থাকে
+ নিচের কোনটি সঠিক?",i & ii,i & iii,ii & iii,"i, ii & iii",b,N,2022Cumilla,1,i ও ii,ii ও iii,i ও iii,"i, ii, ও iii",খ,b,N,2022Cumilla,0.9232502934,0,0,,"Because of meiosis cell division-
+ i. diversity is created in living organism
+ ii. recover the wounded spot
+ iii. individuality of the species remain the same
+ Which one is correct?",Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","Here's the analysis:
+
+Meiosis and Diversity: Meiosis is a type of cell division that occurs in sexually reproducing organisms. One of its primary functions is to create genetic diversity among offspring. During meiosis, genetic material is shuffled and recombined, leading to the formation of genetically unique individuals. This genetic diversity is crucial for the adaptability and evolution of species. So, statement i is correct.
+
+Recovery of Wounded Spot: Meiosis is not directly involved in the recovery of wounded spots or tissue repair in organisms. Tissue repair and wound healing processes are typically associated with other mechanisms, such as cell proliferation, tissue regeneration, and the immune response. Meiosis is primarily concerned with the formation of gametes (sperm and egg cells) and the reduction of chromosome number in preparation for sexual reproduction. So, statement ii is incorrect.
+
+Individuality of the Species: Meiosis contributes to maintaining the individuality of species by ensuring that the chromosome number remains constant from generation to generation. It is responsible for producing gametes with half the chromosome number, ensuring that when fertilization occurs, the diploid chromosome number is restored. This helps preserve the species' genetic identity. So, statement iii is correct.
+
+Based on this analysis, the correct choice is {{""Answer"": ""b""}}","মাইওসিস এবং বৈচিত্র্য: মাইওসিস একটি সেক্সুয়ালি প্রজনন কর্তৃক ঘটানো সেল বিভাজনের একটি ধরণ, এর মধ্যে একটি প্রাথমিক কাজ হলো প্রজননের মধ্যে আফসোস সৃজন করা। মাইওসিসে, জেনেটিক উপাদানগুলি মিশ্রণ করা এবং পুনর্করণ হয়, যা জেনেটিকভাবে অনন্য ব্যক্তিদের গঠনে নেয়, এই জেনেটিক বৈচিত্র্য প্রজননের মধ্যে গুরুত্বপূর্ণ, এটি প্রজননের অভিজ্ঞতা এবং প্রজননের বিবর্ণনা এর জন্য জন্য গুরুত্বপূর্ণ। তাই, বিবাদ i সঠিক।
+
+আঘাতের স্থান পুনরুদ্ধার: মাইওসিস স্থানীয়ভাবে আঘাতের স্থান বা ঊর্ধ্বাবস্থানে সাধারণভাবে শারীরিক টিস্যুর পুনরুদ্ধারে সরাসরি শামিল নয়। টিস্যুর পুনরুদ্ধার এবং ঘাবরা স্থানে পুনরুদ্ধার প্রক্রিয়াগুলি সাধারণভাবে অন্য প্রক্রিয়াগুলির সাথে যোগাযোগ করে, যেমন সেল বৃদ্ধি, টিস্যু পুনর্নির্মাণ, এবং প্রতিরোধবাদ। মাইওসিস মূলত গ্রামীণ প্রজননের জন্য ক্রিয়াশীল হয়, যা পুরুষ এবং মহিলা সেল এর গঠনে যোগ্য সংখ্যা কমিয়ে তৈরি করার জন্য প্রস্তুত থাকে। তাই, বিবাদ ii মেনে নেওয়া হয় না।
+
+প্রজাতির ব্যক্তিগততা একই থাকে: মাইওসিস প্রজননের মধ্যে প্রজাতির ব্যক্তিগততা বজায় রাখতে সাহায্য করে, সেল বৃদ্ধি এবং প্রজননের জন্য জেনেটিক উপাদানগুলির সংখ্যা সব থেকে প্রাথমিক অবস্থা হলে প্রজাতির গুরুত্বপূর্ণ জেনেটিক চিহ্ন প্রজননের প্রস্তুতি করার জন্য নিশ্চিত হয়। এটি বয়স্ক প্রজননের গঠনে সাহায্য করে। তাই, বিবাদ iii সঠিক।
+
+এই বিশ্লেষণের আলোকে, সঠিক পছন্দ হলো { ""Answer"": ""b"" }"
+4,Who is called the father of Tissue Culture Technology?,টিস্যু কালচার প্রযুক্তির জনক কাকে বলে হয়?,Morgan,Haberlandt,Gautheret,Ereky,b,N,2022Cumilla,1,Morogan,Haberlandt,Gautheret,Ereky,খ,b,N,2022Cumilla,0.9864028887,0,0,,Who is considered the father of Tissue Culture Technology?,Factual Knowledge,"{""Answer"": ""Factual Knowledge""}","The father of Tissue Culture Technology is Gottlieb Haberlandt. So, the correct answer is {{""Answer"": ""b""}}.","টিস্যু কালচার প্রযুক্তির জনক গোটলিব হ্যাবারল্যান্ড্ট। সুতরাং, সঠিক উত্তর হল {{""Answer"": ""b""}}।"

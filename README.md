@@ -17,3 +17,13 @@ Each JSON file contains a list of dictionaries, where each dictionary represents
 
 If you find this dataset useful in your research, please cite the following paper:
 
+```
+@misc{shafayat2024benqa,
+  title={BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English}, 
+  author={Sheikh Shafayat and H M Quamran Hasan and Minhajur Rahman Chowdhury Mahim and Rifki Afina Putri and James Thorne and Alice Oh},
+  year={2024},
+  eprint={2403.10900},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
+```

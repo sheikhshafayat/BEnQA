@@ -1,6 +1,6 @@
 # BEnQA Dataset
 
-This repository contains the dataset for the paper "BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English"
+This repository contains the dataset for the paper "BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English" (Accepted to ACL 2024 Findings)
 
 ## Abstract
 

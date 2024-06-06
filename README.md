@@ -11,8 +11,6 @@ In this study, we introduce BEnQA, a dataset comprising parallel Bengali and Eng
 
 The dataset is provided in csv format and can be found in data folder. We also provide few shot examples used in the paper.
 
-Each JSON file contains a list of dictionaries, where each dictionary represents a single data instance with the following keys:
-
 ## Citation
 
 If you find this dataset useful in your research, please cite the following paper:
